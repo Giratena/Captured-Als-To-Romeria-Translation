@@ -9,7 +9,7 @@ and some item/skill translations to make the game more enjoyable to play.
 I know there are some MTL translations for this game, so feel free to mix this translation with
 your current one!
 
-<<How to use the translation files:>>
+<< How to use the translation files >>
 -------------------------------------------
 TBA
 These translation files were made in Translator++
