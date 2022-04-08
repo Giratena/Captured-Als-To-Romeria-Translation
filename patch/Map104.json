@@ -1,0 +1,74 @@
+RPG MAKER MV RAW DATA
+> BEGIN STRING
+オープニングイベント
+Opening Event
+> END STRING
+
+> BEGIN STRING
+startTopFix
+startTopFix
+> END STRING
+
+> BEGIN STRING
+主人公を選択してください。
+Please select a protagonist.
+> END STRING
+
+> BEGIN STRING
+男主人公
+Male protagonist
+> END STRING
+
+> BEGIN STRING
+女主人公
+Female protagonist
+> END STRING
+
+> BEGIN STRING
+ロメリア
+Romeria
+> END STRING
+
+> BEGIN STRING
+アルス
+Als
+> END STRING
+
+> BEGIN STRING
+主人公の顔グラを表示しますか？
+（設定はオプションでいつでも変更できます）
+Should the protagonists face be displayed?
+(This setting can be changed later.)
+> END STRING
+
+> BEGIN STRING
+表示する
+Show
+> END STRING
+
+> BEGIN STRING
+表示しない
+Don't show
+> END STRING
+
+> BEGIN STRING
+女主人公のボイスをONにしますか？
+（被ダメージ時、射精時に音声が出ます）
+Turn the female protagonist's voice on?
+(Voices will play when taking damage and ejaculating.)
+> END STRING
+
+> BEGIN STRING
+ボイスON
+Voice ON
+> END STRING
+
+> BEGIN STRING
+ボイスOFF
+Voice OFF
+> END STRING
+
+> BEGIN STRING
+・・・
+...
+> END STRING

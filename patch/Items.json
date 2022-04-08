@@ -1,0 +1,1977 @@
+RPG MAKER MV RAW DATA
+> BEGIN STRING
+テスト回復
+Test recovery
+> END STRING
+
+> BEGIN STRING
+薄いミントの匂い
+精力を30％ + 200回復する
+The smell of light mint
+Restores 30% + 200 energy
+> END STRING
+
+> BEGIN STRING
+テスト体力回復
+Test health recovery
+> END STRING
+
+> BEGIN STRING
+薄いオレンジの味
+体力を30％ + 20回復する
+Light orange taste
+Restores 30% + 20 health
+> END STRING
+
+> BEGIN STRING
+ディスペルハーブ
+Dispel herbs
+> END STRING
+
+> BEGIN STRING
+2000ダメージ薬
+2000 damage medicine
+> END STRING
+
+> BEGIN STRING
+使用すると2000分気持ちよくなるお薬
+2000ダメージ与える
+A medicine that makes you feel good for 2000 minutes when used
+Inflicts 2000 damage
+> END STRING
+
+> BEGIN STRING
+4000ダメージ薬
+4000 damage medicine
+> END STRING
+
+> BEGIN STRING
+使用すると4000分気持ちよくなるお薬
+4000ダメージ与える
+A medicine that makes you feel good for 4000 minutes when used
+Inflicts 4000 damage
+> END STRING
+
+> BEGIN STRING
+8000ダメージ薬
+8000 damage medicine
+> END STRING
+
+> BEGIN STRING
+使用すると8000分気持ちよくなるお薬
+8000ダメージ与える
+A medicine that makes you feel good for 8000 minutes when used
+Causes 8000 damage
+> END STRING
+
+> BEGIN STRING
+敵4000回復薬
+Enemy 4000 recovery medicine
+> END STRING
+
+> BEGIN STRING
+使用すると4000分すっきりするお薬
+相手が4000回復する
+A medicine that is refreshing for 4000 minutes when used
+Your opponent recovers 4000
+> END STRING
+
+> BEGIN STRING
+テスト毒薬
+Test poison
+> END STRING
+
+> BEGIN STRING
+敵用催淫毒をかける
+Apply enemy aphrodisiac poison
+> END STRING
+
+> BEGIN STRING
+900000ダメージ薬
+900000 damage medicine
+> END STRING
+
+> BEGIN STRING
+使用すると900000分気持ちよくなるお薬
+900000ダメージ与える
+A medicine that makes you feel good for 900,000 minutes when used
+Inflicts 900000 damage
+> END STRING
+
+> BEGIN STRING
+～回復アイテム～
+~ Recovery Item ~
+> END STRING
+
+> BEGIN STRING
+精力剤
+Energetic agent
+> END STRING
+
+> BEGIN STRING
+薄いミントの匂い
+精力30％+200回復
+The smell of light mint
+Energy 30% +200 recovery
+> END STRING
+
+> BEGIN STRING
+<mat1:I71*1\>
+<matG:10\>
+<mat1:I71*1\>
+<matG:10\>
+> END STRING
+
+> BEGIN STRING
+精力剤α
+Energetic agent α
+> END STRING
+
+> BEGIN STRING
+ミントの匂い
+精力50％+200回復
+The smell of mint
+Energy 50% +200 recovery
+> END STRING
+
+> BEGIN STRING
+<mat1:I71*2\>
+<matG:10\>
+<mat1:I71*2\>
+<matG:10\>
+> END STRING
+
+> BEGIN STRING
+精力剤β
+Energetic agent β
+> END STRING
+
+> BEGIN STRING
+濃いミントの匂い
+精力70％+200回復
+The smell of strong mint
+Energy 70% +200 recovery
+> END STRING
+
+> BEGIN STRING
+<mat1:I71*3\>
+<matG:10\>
+<mat1:I71*3\>
+<matG:10\>
+> END STRING
+
+> BEGIN STRING
+精力剤γ
+Energetic agent γ
+> END STRING
+
+> BEGIN STRING
+ミントよりミントの匂い
+精力全回復
+The smell of mint rather than mint
+Full recovery of energy
+> END STRING
+
+> BEGIN STRING
+<mat1:I71*3\>
+<mat2:I73*1\>
+<matG:10\>
+<mat1:I71*3\>
+<mat2:I73*1\>
+<matG:10\>
+> END STRING
+
+> BEGIN STRING
+体力回復薬
+Health recovery drug
+> END STRING
+
+> BEGIN STRING
+薄いオレンジの味
+体力30％+5回復
+Light orange taste
+30% health + 5 recovery
+> END STRING
+
+> BEGIN STRING
+<mat1:I72*1\>
+<matG:10\>
+<mat1:I72*1\>
+<matG:10\>
+> END STRING
+
+> BEGIN STRING
+体力回復薬α
+Health recovery drug α
+> END STRING
+
+> BEGIN STRING
+オレンジの味
+体力50％+5回復
+Orange taste
+Health 50% + 5 recovery
+> END STRING
+
+> BEGIN STRING
+<mat1:I72*2\>
+<matG:10\>
+<mat1:I72*2\>
+<matG:10\>
+> END STRING
+
+> BEGIN STRING
+体力回復薬β
+Health recovery drug β
+> END STRING
+
+> BEGIN STRING
+濃いオレンジの味
+体力70％回復
+Dark orange taste
+70% health recovery
+> END STRING
+
+> BEGIN STRING
+<mat1:I72*3\>
+<matG:10\>
+<mat1:I72*3\>
+<matG:10\>
+> END STRING
+
+> BEGIN STRING
+体力回復薬γ
+Health recovery drug γ
+> END STRING
+
+> BEGIN STRING
+わざとらしいオレンジの味
+体力全回復
+A deliberate orange taste
+Full recovery of physical strength
+> END STRING
+
+> BEGIN STRING
+<mat1:I72*3\>
+<mat2:I73*1\>
+<matG:10\>
+<mat1:I72*3\>
+<mat2:I73*1\>
+<matG:10\>
+> END STRING
+
+> BEGIN STRING
+薬草ジュース
+Herbal juice
+> END STRING
+
+> BEGIN STRING
+薬草をすり潰して飲みやすく味付けしたもの
+精力体力30％回復
+Grinded herbs and seasoned for easy drinking
+30% recovery of energy and physical strength
+> END STRING
+
+> BEGIN STRING
+<mat1:I71*1\>
+<mat2:I72*1\>
+<matG:10\>
+<mat1:I71*1\>
+<mat2:I72*1\>
+<matG:10\>
+> END STRING
+
+> BEGIN STRING
+ポーション
+Potion
+> END STRING
+
+> BEGIN STRING
+心身ともに元気になる冒険の友
+精力体力50％回復
+An adventure friend who will rejuvenate both physically and mentally
+50% recovery of energy and physical strength
+> END STRING
+
+> BEGIN STRING
+<mat1:I71*2\>
+<mat2:I72*2\>
+<matG:10\>
+<mat1:I71*2\>
+<mat2:I72*2\>
+<matG:10\>
+> END STRING
+
+> BEGIN STRING
+エーテル
+ether
+> END STRING
+
+> BEGIN STRING
+大気中の魔力を凝縮し液状化したしずく
+精力体力70％回復
+Drops that condense and liquefy magical power in the atmosphere
+70% recovery of energy and physical strength
+> END STRING
+
+> BEGIN STRING
+<mat1:I71*3\>
+<mat2:I72*3\>
+<mat3:I73*1\>
+<matG:10\>
+<mat1:I71*3\>
+<mat2:I72*3\>
+<mat3:I73*1\>
+<matG:10\>
+> END STRING
+
+> BEGIN STRING
+エリクサー
+Elixir
+> END STRING
+
+> BEGIN STRING
+製法が確立していない錬金の産物
+精力体力全回復　TP増加特大
+Alchemy product for which the manufacturing method has not been established
+Full recovery of energy and physical strength TP increase oversized
+> END STRING
+
+> BEGIN STRING
+<mat1:I71*3\>
+<mat2:I72*3\>
+<mat3:I73*3\>
+<matG:10\>
+<mat1:I71*3\>
+<mat2:I72*3\>
+<mat3:I73*3\>
+<matG:10\>
+> END STRING
+
+> BEGIN STRING
+興奮剤
+Stimulant
+> END STRING
+
+> BEGIN STRING
+アドレナリンが大量に出る薬
+TP増加大
+Drugs that produce large amounts of adrenaline
+Large increase in TP
+> END STRING
+
+> BEGIN STRING
+<mat1:I73*1\>
+<matG:10\>
+<mat1:I73*1\>
+<matG:10\>
+> END STRING
+
+> BEGIN STRING
+覚醒薬
+Awakening drug
+> END STRING
+
+> BEGIN STRING
+ギリギリ合法なお薬
+TP増加特大
+Barely legal medicine
+TP increase oversized
+> END STRING
+
+> BEGIN STRING
+<mat1:I73*2\>
+<matG:10\>
+<mat1:I73*2\>
+<matG:10\>
+> END STRING
+
+> BEGIN STRING
+攻撃の薬
+Attack medicine
+> END STRING
+
+> BEGIN STRING
+攻撃力と技巧が一時的にアップする薬
+攻撃力UP　技巧UP　TP増加小
+Drugs that temporarily improve ATK and craftsmanship
+ATKUP Skill UP TP increase small
+> END STRING
+
+> BEGIN STRING
+防御の薬
+Defensive medicine
+> END STRING
+
+> BEGIN STRING
+防御力と精神力が一時的にアップする薬
+防御力UP　精神力UP　TP増加小
+Drugs that temporarily increase DEF and mental strength
+DEFUP Mental strength UP TP increase small
+> END STRING
+
+> BEGIN STRING
+耐久の薬
+Durable medicine
+> END STRING
+
+> BEGIN STRING
+最大精力が一時的にアップする薬
+最大精力UP(重ね掛け可)　TP増加小
+Drugs that temporarily increase maximum energy
+Maximum energy UP (can be layered) TP increase small
+> END STRING
+
+> BEGIN STRING
+<mat1:I71*2\>
+<mat2:I73*1\>
+<matG:10\>
+<mat1:I71*2\>
+<mat2:I73*1\>
+<matG:10\>
+> END STRING
+
+> BEGIN STRING
+最後の切り札
+Last trump
+> END STRING
+
+> BEGIN STRING
+運命を捻じ曲げる力を持ったカード
+精力体力全回復　全能力UP
+A card with the power to twist fate
+Full recovery of energy and physical strength, full ability UP
+> END STRING
+
+> BEGIN STRING
+<mat1:I71*5\>
+<mat2:I72*5\>
+<mat3:I73*5\>
+<mat4:I74*2\>
+<matG:10\>
+<mat1:I71*5\>
+<mat2:I72*5\>
+<mat3:I73*5\>
+<mat4:I74*2\>
+<matG:10\>
+> END STRING
+
+> BEGIN STRING
+鬼神の秘薬
+Demon Elixir
+> END STRING
+
+> BEGIN STRING
+鬼の力を身体に宿す幻の秘薬
+全ステータス1.5倍（戦闘中）
+A phantom elixir that holds the power of demons in your body
+All stats 1.5 times (in battle)
+> END STRING
+
+> BEGIN STRING
+<mat1:I71*5\>
+<mat2:I72*5\>
+<mat3:I73*5\>
+<mat4:I74*5\>
+<matG:10000\>
+<mat1:I71*5\>
+<mat2:I72*5\>
+<mat3:I73*5\>
+<mat4:I74*5\>
+<matG:10000\>
+> END STRING
+
+> BEGIN STRING
+シナピスの水
+Synapis water
+> END STRING
+
+> BEGIN STRING
+万病に効く薬
+精力体力全回復　TP増加特大
+Drugs for all diseases
+Full recovery of energy and physical strength TP increase oversized
+> END STRING
+
+> BEGIN STRING
+アトテック8
+Atotech 8
+> END STRING
+
+> BEGIN STRING
+世界に期待された新薬
+精力体力50％回復　副作用有
+New drug expected in the world
+50% recovery of energy and physical strength with side effects
+> END STRING
+
+> BEGIN STRING
+強靭大人液
+Tough adult liquid
+> END STRING
+
+> BEGIN STRING
+ぶっかけるとわからせることが出来る
+1000ダメージを与える
+You can tell by bukkake
+Inflicts 1000 damage
+> END STRING
+
+> BEGIN STRING
+レッドボトルコーヒー
+Red bottle coffee
+> END STRING
+
+> BEGIN STRING
+いつもの味
+TP増加特大　暗闇解除
+The usual taste
+TP increase oversized darkness release
+> END STRING
+
+> BEGIN STRING
+点眼薬
+Eye drops
+> END STRING
+
+> BEGIN STRING
+目で飲む回復薬
+精力回復15％　状態異常を解除　暗闇になる
+Restorative medicine to take with eyes
+Energy recovery 15% Cancels abnormal conditions It becomes dark
+> END STRING
+
+> BEGIN STRING
+栄養ドリンク
+Nutrition Drink
+> END STRING
+
+> BEGIN STRING
+栄養を補給し体力を回復する
+体力20回復　脱力解除
+Replenish nutrition and restore physical strength
+20 recovery of physical strength, release of weakness
+> END STRING
+
+> BEGIN STRING
+アンプル
+ampoule
+> END STRING
+
+> BEGIN STRING
+痛みを鎮静化させ体力を全回復する
+体力全回復　脱力解除
+Relieves pain and restores full strength
+Full recovery of physical strength, release of weakness
+> END STRING
+
+> BEGIN STRING
+漢方薬
+Chinese herbal medicine
+> END STRING
+
+> BEGIN STRING
+植物の根っこを粉にしたもの
+魔物戦の状態異常解除
+Powdered roots of plants
+Clearing abnormal conditions in monster battles
+> END STRING
+
+> BEGIN STRING
+クマリ
+Kumari
+> END STRING
+
+> BEGIN STRING
+遠慮するな！気付け薬が仕込んである！さぁ、殴れ！
+精力500回復　発情解除　消費無し
+Don't hesitate! Care medicine is prepared! Come on, hit me!
+Energy 500 recovery, estrus release, no consumption
+> END STRING
+
+> BEGIN STRING
+マクルード
+Makroudh
+> END STRING
+
+> BEGIN STRING
+デイツ餡のあまーいお菓子
+体力5回復
+Sweet bean paste sweets
+Health 5 recovery
+> END STRING
+
+> BEGIN STRING
+フェイゾンフレーク
+Phazon flakes
+> END STRING
+
+> BEGIN STRING
+高純度の液状フェイゾンをフリーズドライで凝固した栄養食品
+全能力UP TP増加大
+Freeze-dried high-purity liquid phazon nutritional food
+Full capacity UP TP increase large
+> END STRING
+
+> BEGIN STRING
+キュケオン
+Kykeon
+> END STRING
+
+> BEGIN STRING
+水と大麦とペニーロイヤルミントを使った飲み物
+攻撃力UP　技巧UP　最大精力UP
+Drink with water, barley and pennyroyal mint
+ATKUP Skill UP Maximum energy UP
+> END STRING
+
+> BEGIN STRING
+精力増強剤
+Energy enhancer
+> END STRING
+
+> BEGIN STRING
+一時的に精力の最大値を増やす薬　マカ配合
+精力20％回復 最大精力UP（8ターン 600歩）
+A drug that temporarily increases the maximum value of energy, containing maca
+20% energy recovery Maximum energy UP (600 steps for 8 turns)
+> END STRING
+
+> BEGIN STRING
+ネクター
+Nectar
+> END STRING
+
+> BEGIN STRING
+神が好むとされる桃ジュース
+防御力UP　精神力UP　最大精力UP
+Peach juice that God likes
+DEFUP Mental power UP Maximum energy UP
+> END STRING
+
+> BEGIN STRING
+～ドーピングアイテム～
+~ Doping Item ~
+> END STRING
+
+> BEGIN STRING
+アタクの実
+Attack fruit
+> END STRING
+
+> BEGIN STRING
+食べるとグイグイいきたい気持ちになる木の実
+攻撃力+1(永続)
+Nuts that make you want to go crazy when you eat
+ATK + 1 (permanent)
+> END STRING
+
+> BEGIN STRING
+デフの実
+Diff fruit
+> END STRING
+
+> BEGIN STRING
+食べると皮膚が少し硬くなる木の実
+防御力+1(永続)
+Nuts that make your skin a little harder when you eat it
+DEF + 1 (permanent)
+> END STRING
+
+> BEGIN STRING
+テクニの実
+Techni fruit
+> END STRING
+
+> BEGIN STRING
+食べると手先が器用になる木の実
+技巧+1(永続)
+Nuts that make your hands dexterous when eaten
+Skill +1 (permanent)
+> END STRING
+
+> BEGIN STRING
+マインの実
+Mine fruit
+> END STRING
+
+> BEGIN STRING
+食べると精神的に強くなる木の実
+精神力+1(永続)
+Nuts that become mentally stronger when eaten
+Mental strength +1 (permanent)
+> END STRING
+
+> BEGIN STRING
+アジリの実
+Ajiri fruit
+> END STRING
+
+> BEGIN STRING
+食べると瞬発力が良くなる木の実
+敏捷性+1(永続)
+Nuts that improve instantaneous power when eaten
+AGI + 1 (permanent)
+> END STRING
+
+> BEGIN STRING
+デストの実
+Fruit of Dest
+> END STRING
+
+> BEGIN STRING
+食べると破壊衝動が増す木の実
+戦闘力+1(永続)
+Nuts that increase the urge to destroy when eaten
+Combat power +1 (permanent)
+> END STRING
+
+> BEGIN STRING
+エネルの実
+Enel fruit
+> END STRING
+
+> BEGIN STRING
+食べると精が付く木の実
+最大精力+20(永続)
+Nuts that get savory when eaten
+Maximum energy +20 (permanent)
+> END STRING
+
+> BEGIN STRING
+マスルの実
+Muscle fruit
+> END STRING
+
+> BEGIN STRING
+食べると筋肉が付きやすくなる木の実
+最大体力+5(永続)
+Nuts that make it easier to build muscle when eaten
+Maximum health +5 (permanent)
+> END STRING
+
+> BEGIN STRING
+～素材系アイテム～
+～ Material item ～
+> END STRING
+
+> BEGIN STRING
+精力草
+Energetic grass
+> END STRING
+
+> BEGIN STRING
+食べると精が付く草
+素材
+Grass that gets fine when eaten
+material
+> END STRING
+
+> BEGIN STRING
+体力草
+Physical fitness grass
+> END STRING
+
+> BEGIN STRING
+健康にいい成分が含まれている草
+素材
+Grass that contains healthy ingredients
+material
+> END STRING
+
+> BEGIN STRING
+強化草
+Reinforced grass
+> END STRING
+
+> BEGIN STRING
+混ぜると効果を強める力のある草
+素材
+A grass that has the power to strengthen the effect when mixed
+material
+> END STRING
+
+> BEGIN STRING
+幸福草
+Happiness grass
+> END STRING
+
+> BEGIN STRING
+人の幸せを吸って成長する草
+素材
+Grass that grows by sucking people's happiness
+material
+> END STRING
+
+> BEGIN STRING
+鉄鉱石
+Iron ore
+> END STRING
+
+> BEGIN STRING
+鉄を多く含んだ鉱石
+素材
+Iron-rich ore
+material
+> END STRING
+
+> BEGIN STRING
+金鉱石
+Gold ore
+> END STRING
+
+> BEGIN STRING
+金を多く含んだ鉱石
+素材
+Gold-rich ore
+material
+> END STRING
+
+> BEGIN STRING
+ルビー
+Ruby
+> END STRING
+
+> BEGIN STRING
+燃える炎のような赤みを持つ宝石
+素材
+A jewel with a fiery redness
+material
+> END STRING
+
+> BEGIN STRING
+アクアマリン
+Aquamarine
+> END STRING
+
+> BEGIN STRING
+静かな海のような青さを持つ宝石
+素材
+A jewel with a calm sea-like blueness
+material
+> END STRING
+
+> BEGIN STRING
+エメラルド
+Emerald
+> END STRING
+
+> BEGIN STRING
+葉を揺らす風のような緑色の宝石
+素材
+A green jewel like a wind that shakes the leaves
+material
+> END STRING
+
+> BEGIN STRING
+ダイヤモンド
+diamond
+> END STRING
+
+> BEGIN STRING
+大地を強く踏みしめた時に生まれる宝石
+素材
+A jewel created when you step on the earth strongly
+material
+> END STRING
+
+> BEGIN STRING
+淫石
+Dirty stone
+> END STRING
+
+> BEGIN STRING
+淫魔の魔力に反応して怪しく光る宝石
+素材
+A jewel that glows suspiciously in response to the magical power of an incubus
+material
+> END STRING
+
+> BEGIN STRING
+魔獣の牙
+Demon Beast Fang
+> END STRING
+
+> BEGIN STRING
+人や動物を美味しく頂くための歯
+素材
+Teeth to make people and animals delicious
+material
+> END STRING
+
+> BEGIN STRING
+魔族の角
+Demon Horn
+> END STRING
+
+> BEGIN STRING
+見た者に恐怖を植え付けるための角
+素材
+A horn to instill fear in the viewer
+material
+> END STRING
+
+> BEGIN STRING
+木材
+wood
+> END STRING
+
+> BEGIN STRING
+いい感じに硬く乾燥した木
+素材
+Nicely hard and dry wood
+material
+> END STRING
+
+> BEGIN STRING
+風切りの羽
+Wind-cutting feathers
+> END STRING
+
+> BEGIN STRING
+風の魔力を微かに感じる軽い羽
+素材
+Light wings that slightly feel the magical power of the wind
+material
+> END STRING
+
+> BEGIN STRING
+蜘蛛の糸玉
+Spider thread ball
+> END STRING
+
+> BEGIN STRING
+編み物が得意な手芸蜘蛛の丈夫な糸
+素材
+Durable thread of handicraft spider who is good at knitting
+material
+> END STRING
+
+> BEGIN STRING
+つやうろこ
+Glossy scales
+> END STRING
+
+> BEGIN STRING
+独特の光沢があるうろこ
+素材
+Scales with a unique luster
+material
+> END STRING
+
+> BEGIN STRING
+もこもこ
+Mokomoko
+> END STRING
+
+> BEGIN STRING
+もこもこふわふわした何か
+素材
+Something fluffy and fluffy
+material
+> END STRING
+
+> BEGIN STRING
+ふさ毛皮
+Bushy fur
+> END STRING
+
+> BEGIN STRING
+触り心地のいいふさふさな毛皮
+素材
+Comfortable bushy fur
+material
+> END STRING
+
+> BEGIN STRING
+パピルス
+papyrus
+> END STRING
+
+> BEGIN STRING
+謎の言語が書かれたとても丈夫なスクロール
+素材
+A very durable scroll with a mysterious language
+material
+> END STRING
+
+> BEGIN STRING
+グルーパウダー
+Glue powder
+> END STRING
+
+> BEGIN STRING
+水を混ぜると引っ付いて取れなくなる粉
+素材
+Powder that sticks and cannot be removed when mixed with water
+material
+> END STRING
+
+> BEGIN STRING
+サンゴ
+Coral
+> END STRING
+
+> BEGIN STRING
+植物のような石のような動物
+素材
+Animals like stones like plants
+material
+> END STRING
+
+> BEGIN STRING
+ペレット
+pellet
+> END STRING
+
+> BEGIN STRING
+猛禽類などが吐き出した謎の塊
+素材
+A mysterious mass spit out by birds of prey
+material
+> END STRING
+
+> BEGIN STRING
+捕光石
+Light catching stone
+> END STRING
+
+> BEGIN STRING
+光を閉じ込める性質がある石　割ると光る
+素材
+A stone that has the property of trapping light and shines when broken
+material
+> END STRING
+
+> BEGIN STRING
+燃料貝
+Fuel shell
+> END STRING
+
+> BEGIN STRING
+砕くと激しく燃える貝殻
+素材
+Seashells that burn violently when crushed
+material
+> END STRING
+
+> BEGIN STRING
+六魂石
+Six Soul Stones
+> END STRING
+
+> BEGIN STRING
+魔物の胃の中で6人分の命が圧縮された塊
+素材
+A lump of compressed life for 6 people in the stomach of a monster
+material
+> END STRING
+
+> BEGIN STRING
+
+素材
+
+material
+> END STRING
+
+> BEGIN STRING
+心の結晶
+Crystal of the heart
+> END STRING
+
+> BEGIN STRING
+人属性の魔力が結晶化したもの
+素材
+Crystallized magical power of human attributes
+material
+> END STRING
+
+> BEGIN STRING
+悪の結晶
+Evil crystal
+> END STRING
+
+> BEGIN STRING
+悪属性の魔力が結晶化したもの
+素材
+Crystallized magical power of evil attributes
+material
+> END STRING
+
+> BEGIN STRING
+獣の結晶
+Beast crystal
+> END STRING
+
+> BEGIN STRING
+獣属性の魔力が結晶化したもの
+素材
+Crystallized beast-type magical power
+material
+> END STRING
+
+> BEGIN STRING
+水の結晶
+Water crystals
+> END STRING
+
+> BEGIN STRING
+水属性の魔力が結晶化したもの
+素材
+Crystallized magical power of water attribute
+material
+> END STRING
+
+> BEGIN STRING
+風の結晶
+Wind crystals
+> END STRING
+
+> BEGIN STRING
+風属性の魔力が結晶化したもの
+素材
+Crystallized magical power of wind attribute
+material
+> END STRING
+
+> BEGIN STRING
+虫の結晶
+Insect crystals
+> END STRING
+
+> BEGIN STRING
+虫属性の魔力が結晶化したもの
+素材
+Crystallized insect-type magical power
+material
+> END STRING
+
+> BEGIN STRING
+草の結晶
+Grass crystals
+> END STRING
+
+> BEGIN STRING
+草属性の魔力が結晶化したもの
+素材
+Crystallized grass-type magical power
+material
+> END STRING
+
+> BEGIN STRING
+機械の部品
+Machine parts
+> END STRING
+
+> BEGIN STRING
+ポロっととれた何かのパーツ
+素材
+Some parts that came off
+material
+> END STRING
+
+> BEGIN STRING
+ロープ
+rope
+> END STRING
+
+> BEGIN STRING
+丈夫なロープ
+
+Durable rope
+> END STRING
+
+> BEGIN STRING
+尖ったもの
+Pointed
+> END STRING
+
+> BEGIN STRING
+鋭く尖った槍の先っぽ
+
+The tip of a sharply pointed spear
+> END STRING
+
+> BEGIN STRING
+棒
+rod
+> END STRING
+
+> BEGIN STRING
+ただの木の棒
+
+Just a wooden stick
+> END STRING
+
+> BEGIN STRING
+重くて硬いもの
+Heavy and hard
+> END STRING
+
+> BEGIN STRING
+重くて硬い金属のインゴット
+Heavy and hard metal ingot
+> END STRING
+
+> BEGIN STRING
+またたび
+Again often
+> END STRING
+
+> BEGIN STRING
+猫を狂わせる魔法の粉
+Magic powder that makes cats go crazy
+> END STRING
+
+> BEGIN STRING
+金目のもの
+Valuables
+> END STRING
+
+> BEGIN STRING
+使えない癖に価値のありそうな何か
+換金アイテム
+You can't use it, but it's probably worth something.
+Cash Item
+> END STRING
+
+> BEGIN STRING
+もっと金目のもの
+Uncommon Valuables
+> END STRING
+
+> BEGIN STRING
+とりあえずよく光を反射するキラキラした何か
+換金アイテム
+Something glittering that reflects light well for the time being
+Cash Item
+> END STRING
+
+> BEGIN STRING
+かなり金目のもの
+Rare Valuables
+> END STRING
+
+> BEGIN STRING
+高級感はあるが置く以外に用途の無い何か
+換金アイテム
+Something that has a sense of luxury but has no use other than placing it
+Cash Item
+> END STRING
+
+> BEGIN STRING
+素晴らしく金目のもの
+Super Rare Valuables
+> END STRING
+
+> BEGIN STRING
+お金持ちがお金持ちアピールする為の何か
+換金アイテム
+Something for the rich to appeal to the rich
+Cash Item
+> END STRING
+
+> BEGIN STRING
+圧倒的に金目のもの
+Ultra Rare Valuables
+> END STRING
+
+> BEGIN STRING
+素手で触ることに罪悪感を覚えるほどの何か
+換金アイテム
+Something that makes you feel guilty to touch with your bare hands
+Cash Item
+> END STRING
+
+> BEGIN STRING
+菓子折り
+Cake Box
+> END STRING
+
+> BEGIN STRING
+この世界の甘さをギュッと箱に詰めたもの
+正気度3回復
+The sweetness of this world packed tightly in a box
+Sanity 3 recovery
+> END STRING
+
+> BEGIN STRING
+お菓子
+snack
+> END STRING
+
+> BEGIN STRING
+兄妹で励まし合いながら食べると元気が出るはず
+正気度1回復
+Eating while encouraging each other with brothers and sisters should make you feel better
+Sanity 1 recovery
+> END STRING
+
+> BEGIN STRING
+～大切なもの～
+~ Important things ~
+> END STRING
+
+> BEGIN STRING
+帰還の翼
+Wings of Return
+> END STRING
+
+> BEGIN STRING
+テレポートの魔力が込められた翼
+拠点に戻ることが出来る
+Wings with the magical power of teleport
+You can return to the base
+> END STRING
+
+> BEGIN STRING
+錬金道具
+Alchemy tools
+> END STRING
+
+> BEGIN STRING
+錬金術の道具一式
+どこでも錬金術が出来る
+A set of alchemy tools
+Alchemy can be done anywhere
+> END STRING
+
+> BEGIN STRING
+手鏡
+Hand Mirror
+> END STRING
+
+> BEGIN STRING
+鏡の中の自分がこちらを見ている
+現在のSAN値\\v[270]　名前変更/不具合の修正が出来る
+A mirror you can see yourself in.
+Current Sanity \\v[270]. Change name and fix bugs.
+
+> END STRING
+
+> BEGIN STRING
+依存度
+Degree of dependence
+> END STRING
+
+> BEGIN STRING
+まだやれるか自分の顔を見つめてみる
+現在のSAN値　\\v[270]
+I'll stare at my face to see if I can still do it
+Current SAN value \\v[270]
+> END STRING
+
+> BEGIN STRING
+応接室の鍵
+Drawing room key
+> END STRING
+
+> BEGIN STRING
+応接室とタグが付いた鍵
+
+Drawing room and tagged key
+> END STRING
+
+> BEGIN STRING
+食糧庫の鍵
+Food storage key
+> END STRING
+
+> BEGIN STRING
+食糧庫とタグの付いた鍵
+Food storage and tagged key
+> END STRING
+
+> BEGIN STRING
+書庫の鍵
+Library stack key
+> END STRING
+
+> BEGIN STRING
+書庫とタグが付いた鍵
+
+Library and tagged key
+> END STRING
+
+> BEGIN STRING
+倉庫の鍵
+Warehouse key
+> END STRING
+
+> BEGIN STRING
+倉庫とタグが付いた鍵
+
+Warehouse and tagged key
+> END STRING
+
+> BEGIN STRING
+調理場の鍵
+Kitchen key
+> END STRING
+
+> BEGIN STRING
+調理場とタグが付いた鍵
+
+Kitchen and tagged key
+> END STRING
+
+> BEGIN STRING
+浴場の鍵
+Bathhouse key
+> END STRING
+
+> BEGIN STRING
+浴場とタグが付いた鍵
+
+Bathhouse and tagged key
+> END STRING
+
+> BEGIN STRING
+バルコニーの鍵
+Balcony key
+> END STRING
+
+> BEGIN STRING
+バルコニーとタグが付いた鍵
+
+Balcony and tagged key
+> END STRING
+
+> BEGIN STRING
+豪華な鍵
+Luxurious key
+> END STRING
+
+> BEGIN STRING
+ずっしりと重い高価そうな鍵
+
+A heavy and expensive key
+> END STRING
+
+> BEGIN STRING
+執事の鍵
+Butler's key
+> END STRING
+
+> BEGIN STRING
+執事とタグが付いた鍵
+
+Key with butler and tag
+> END STRING
+
+> BEGIN STRING
+メイドの鍵
+Maid's key
+> END STRING
+
+> BEGIN STRING
+メイドとタグが付いた鍵
+
+Key with maid and tag
+> END STRING
+
+> BEGIN STRING
+立派な鍵
+Great key
+> END STRING
+
+> BEGIN STRING
+丈夫そうな太くて硬い鍵
+Thick and hard key that seems to be strong
+> END STRING
+
+> BEGIN STRING
+クマの小箱
+Bear casket
+> END STRING
+
+> BEGIN STRING
+中に何か入っているようだが・・・
+There seems to be something inside ...
+> END STRING
+
+> BEGIN STRING
+食堂の鍵
+Dining room key
+> END STRING
+
+> BEGIN STRING
+食堂とタグが付いた鍵
+
+Dining room and tagged key
+> END STRING
+
+> BEGIN STRING
+ゴミ捨て場の鍵
+Garbage dump key
+> END STRING
+
+> BEGIN STRING
+ゴミ捨て場とタグが付いた鍵
+
+Garbage dump and tagged key
+> END STRING
+
+> BEGIN STRING
+鉄格子の鍵
+Barred key
+> END STRING
+
+> BEGIN STRING
+地下牢の鉄格子を開く鍵
+
+The key to open the bars in the dungeon
+> END STRING
+
+> BEGIN STRING
+～夢のかけら～
+~ Fragments of dreams ~
+> END STRING
+
+> BEGIN STRING
+夢のかけら
+Fragment of a dream
+> END STRING
+
+> BEGIN STRING
+自分の記憶が詰まった夢のかけら
+A piece of a dream filled with my memory
+> END STRING
+
+> BEGIN STRING
+ハンターのかけら
+Fragment of a hunter
+> END STRING
+
+> BEGIN STRING
+淫魔と戦うプロの夢のかけら
+Fragments of professional dreams to fight lewd demons
+> END STRING
+
+> BEGIN STRING
+商人のかけら
+Fragment of a merchant
+> END STRING
+
+> BEGIN STRING
+商売のノウハウが詰まった夢のかけら
+A piece of a dream full of business know-how
+> END STRING
+
+> BEGIN STRING
+シャーロットのかけら
+Charlotte Fragment
+> END STRING
+
+> BEGIN STRING
+シャーロットの記憶が詰まった夢のかけら
+A piece of a dream filled with Charlotte's memory
+> END STRING
+
+> BEGIN STRING
+アリスのかけら
+Fragment of Alice
+> END STRING
+
+> BEGIN STRING
+アリスの記憶が詰まった夢のかけら
+A piece of a dream filled with Alice's memory
+> END STRING
+
+> BEGIN STRING
+リドルのかけら
+Fragment of Riddle
+> END STRING
+
+> BEGIN STRING
+リドルの記憶が詰まった夢のかけら
+A piece of a dream filled with Riddle's memory
+> END STRING
+
+> BEGIN STRING
+親父のかけら
+Fragment of my father
+> END STRING
+
+> BEGIN STRING
+親父の記憶が詰まった夢のかけら
+A piece of a dream filled with my father's memory
+> END STRING
+
+> BEGIN STRING
+お母様のかけら
+Mother's fragment
+> END STRING
+
+> BEGIN STRING
+お母様の記憶が詰まった夢のかけら
+A piece of a dream filled with mother's memory
+> END STRING
+
+> BEGIN STRING
+小さなかけら
+Small pieces
+> END STRING
+
+> BEGIN STRING
+誰かのささいな出来事の記憶が詰まった夢のかけら
+素材　
+A piece of a dream filled with memories of someone's trivial event
+material 
+> END STRING
+
+> BEGIN STRING
+  <subCategory:esa\>
+  <subCategory:esa\>
+> END STRING
+
+> BEGIN STRING
+歪なかけら
+Distorted pieces
+> END STRING
+
+> BEGIN STRING
+誰かの歪んだ記憶が詰まった夢のかけら
+素材　
+A piece of a dream filled with someone's distorted memory
+material 
+> END STRING
+
+> BEGIN STRING
+羞恥のかけら
+A piece of shame
+> END STRING
+
+> BEGIN STRING
+誰かの恥ずかしい記憶が詰まった夢のかけら
+素材　催淫毒付与
+A piece of a dream filled with someone's embarrassing memory
+Material Aphrodisiac poisoning
+> END STRING
+
+> BEGIN STRING
+喜びのかけら
+Fragment of joy
+> END STRING
+
+> BEGIN STRING
+誰かの嬉しかった記憶が詰まった夢のかけら
+素材　攻撃力UP　技巧UP　精力500回復
+A piece of a dream filled with someone's happy memory
+Material ATKUP Skill UP Energy 500 recovery
+> END STRING
+
+> BEGIN STRING
+嘆きのかけら
+Fragment of mourning
+> END STRING
+
+> BEGIN STRING
+誰かの悲しい記憶が詰まった夢のかけら
+素材　怯み付与　敏感付与
+A piece of a dream filled with someone's sad memory
+Material frightening, sensitive
+> END STRING
+
+> BEGIN STRING
+憤怒のかけら
+Fragment of wrath
+> END STRING
+
+> BEGIN STRING
+誰かの怒りの記憶が詰まった夢のかけら
+素材　淫魔に500の固定ダメージ
+A piece of a dream filled with memories of someone's anger
+Material: 500 fixed damage to Incubus
+> END STRING
+
+> BEGIN STRING
+記憶：童貞
+Memory: Virgin
+> END STRING
+
+> BEGIN STRING
+まだ未経験という記憶
+本番をすると喪失
+Memory of being inexperienced yet
+Lost in production
+> END STRING
+
+> BEGIN STRING
+～敗北の記憶～
+~ Memory of defeat ~
+> END STRING
+
+> BEGIN STRING
+敗北の記憶：リリー
+Memory of defeat: Lily
+> END STRING
+
+> BEGIN STRING
+リリーに搾り尽くされた記憶
+所持数がどれだけ依存しているかを表す
+Memory squeezed by Lily
+Shows how much the number of possessions depends
+> END STRING
+
+> BEGIN STRING
+敗北の記憶：シィナ
+Memory of defeat: Sina
+> END STRING
+
+> BEGIN STRING
+シィナに搾り尽くされた記憶
+所持数がどれだけ依存しているかを表す
+Memories squeezed by Sina
+Shows how much the number of possessions depends
+> END STRING
+
+> BEGIN STRING
+敗北の記憶：ライム
+Memory of defeat: Lime
+> END STRING
+
+> BEGIN STRING
+ライムに搾り尽くされた記憶
+所持数がどれだけ依存しているかを表す
+Memories squeezed by lime
+Shows how much the number of possessions depends
+> END STRING
+
+> BEGIN STRING
+敗北の記憶：アーコ
+Memory of Defeat: Arco
+> END STRING
+
+> BEGIN STRING
+アーコに搾り尽くされた記憶
+所持数がどれだけ依存しているかを表す
+Memories squeezed by Arco
+Shows how much the number of possessions depends
+> END STRING
+
+> BEGIN STRING
+敗北の記憶：ロメリア
+Memory of defeat: Romeria
+> END STRING
+
+> BEGIN STRING
+ロメリアに搾り尽くされた記憶
+所持数がどれだけ依存しているかを表す
+Memory squeezed by Romeria
+Shows how much the number of possessions depends
+> END STRING
+
+> BEGIN STRING
+敗北の記憶：シャーロット
+Memory of defeat: Charlotte
+> END STRING
+
+> BEGIN STRING
+シャーロットに搾り尽くされた記憶
+Memory squeezed by Charlotte
+> END STRING
+
+> BEGIN STRING
+敗北の記憶：ローズ
+Memory of defeat: Rose
+> END STRING
+
+> BEGIN STRING
+ローズに搾り尽くされた記憶
+Memories squeezed by Rose
+> END STRING
+
+> BEGIN STRING
+敗北の記憶：キエリ
+Memory of defeat: Kieri
+> END STRING
+
+> BEGIN STRING
+キエリに搾り尽くされた記憶
+Memories squeezed by Kieri
+> END STRING
+
+> BEGIN STRING
+敗北の記憶：エイミー
+Memory of defeat: Amy
+> END STRING
+
+> BEGIN STRING
+エイミーに搾り尽くされた記憶
+Memories squeezed by Amy
+> END STRING
+
+> BEGIN STRING
+敗北の記憶：アリス
+Memory of defeat: Alice
+> END STRING
+
+> BEGIN STRING
+アリスに搾り尽くされた記憶
+Memories squeezed by Alice
+> END STRING
+
+> BEGIN STRING
+敗北の記憶：ノノ
+Memory of defeat: Nono
+> END STRING
+
+> BEGIN STRING
+ノノに搾り尽くされた記憶
+Memories squeezed by Nono
+> END STRING
+
+> BEGIN STRING
+敗北の記憶：クラスタ
+Memory of defeat: Cluster
+> END STRING
+
+> BEGIN STRING
+クラスタに搾り尽くされた記憶
+Memory squeezed by the cluster
+> END STRING
+
+> BEGIN STRING
+敗北の記憶：プリズマ
+Memory of defeat: Prisma
+> END STRING
+
+> BEGIN STRING
+プリズマに搾り尽くされた記憶
+Memories squeezed by Prisma
+> END STRING
+
+> BEGIN STRING
+シィナに搾り尽くされた記憶
+Memories squeezed by Sina
+> END STRING
+
+> BEGIN STRING
+敗北の記憶：夢喰い
+Memory of Defeat: Dream Eating
+> END STRING
+
+> BEGIN STRING
+夢喰いに搾り尽くされた記憶
+Memories squeezed out by dream eating
+> END STRING
+
+> BEGIN STRING
+敗北の記憶：ポリー
+Memory of defeat: Polly
+> END STRING
+
+> BEGIN STRING
+ポリーに搾り尽くされた記憶
+Memory squeezed by Polly
+> END STRING
+
+> BEGIN STRING
+敗北の記憶：ナース
+Memory of defeat: Nurse
+> END STRING
+
+> BEGIN STRING
+ナースに搾り尽くされた記憶
+Memory squeezed by the nurse
+> END STRING
+
+> BEGIN STRING
+敗北の記憶：リップ
+Memory of defeat: Lip
+> END STRING
+
+> BEGIN STRING
+リップに搾り尽くされた記憶
+Memory squeezed by the lip
+> END STRING
+
+> BEGIN STRING
+敗北の記憶：ヒュプノ
+Memory of Defeat: Hypno
+> END STRING
+
+> BEGIN STRING
+ヒュプノに搾り尽くされた記憶
+Memories squeezed by Hypno
+> END STRING
+
+> BEGIN STRING
+敗北の記憶：スライム
+Memory of defeat: slime
+> END STRING
+
+> BEGIN STRING
+スライムに搾り尽くされた記憶
+Memory squeezed by slime
+> END STRING
+
+> BEGIN STRING
+敗北の記憶：シレーネ
+Memory of defeat: Sirene
+> END STRING
+
+> BEGIN STRING
+シレーネに搾り尽くされた記憶
+Memories squeezed by Sirene
+> END STRING
+
+> BEGIN STRING
+敗北の記憶：ウィッチ
+Memory of defeat: Witch
+> END STRING
+
+> BEGIN STRING
+ウィッチに搾り尽くされた記憶
+Memories squeezed by the witch
+> END STRING
+
+> BEGIN STRING
+敗北の記憶：エルフ
+Memory of Defeat: Elves
+> END STRING
+
+> BEGIN STRING
+エルフに搾り尽くされた記憶
+Memories squeezed by elves
+> END STRING
+
+> BEGIN STRING
+敗北の記憶：たこちゃん
+Memory of defeat: Tako-chan
+> END STRING
+
+> BEGIN STRING
+たこちゃんに搾り尽くされた記憶
+Memory squeezed by Tako-chan
+> END STRING
+
+> BEGIN STRING
+敗北の記憶：ラミア
+Memory of defeat: Lamia
+> END STRING
+
+> BEGIN STRING
+ラミアに搾り尽くされた記憶
+Memories squeezed by Lamia
+> END STRING
+
+> BEGIN STRING
+敗北の記憶：エラッタ
+Memory of defeat: Errata
+> END STRING
+
+> BEGIN STRING
+エラッタに搾り尽くされた記憶
+Memories squeezed by errata
+> END STRING
+
+> BEGIN STRING
+敗北の記憶：シルキー
+Memory of defeat: Silky
+> END STRING
+
+> BEGIN STRING
+シルキーに搾り尽くされた記憶
+Memory squeezed by silky
+> END STRING

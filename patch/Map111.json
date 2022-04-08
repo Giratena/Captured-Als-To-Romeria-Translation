@@ -1,0 +1,279 @@
+RPG MAKER MV RAW DATA
+> BEGIN STRING
+自動実行
+
+> END STRING
+
+> BEGIN STRING
+木材
+wood
+> END STRING
+
+> BEGIN STRING
+ <enemy:149\>
+ <enemy:149\>
+> END STRING
+
+> BEGIN STRING
+木材が通路を塞いでいる・・・
+
+> END STRING
+
+> BEGIN STRING
+食糧庫ドア
+
+> END STRING
+
+> BEGIN STRING
+シャンデリア
+
+> END STRING
+
+> BEGIN STRING
+引っかけ場所
+
+> END STRING
+
+> BEGIN STRING
+<TE:立体起動\>
+
+> END STRING
+
+> BEGIN STRING
+メイドの部屋の鍵を開けた！
+
+> END STRING
+
+> BEGIN STRING
+メイドの部屋のようだ。
+鍵がかかっている・・・
+
+> END STRING
+
+> BEGIN STRING
+扉が開かない・・・
+魔法的な力で閉じられているようだ。
+
+> END STRING
+
+> BEGIN STRING
+リリーを倒そう。
+最後の戦いになる。
+準備は出来ているだろうか・・・
+
+> END STRING
+
+> BEGIN STRING
+はい
+
+> END STRING
+
+> BEGIN STRING
+いいえ
+
+> END STRING
+
+> BEGIN STRING
+\\n<？？？\>待って！
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>あたしは中立だよ。
+だから、どっちの味方でもないし、敵でもない。
+でもね。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>戦わないでほしい。
+って思ってる。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>勝手なことだって分かってる。
+リリーたちは人を襲う淫魔だし、悪いやつだよ。
+退治されてもしょうがない。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>でもね・・・
+あいつらが悪なら、あたしはどっち付かずの最悪なの。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>だから、あんたを襲う。今から。
+あたしに勝てないようならリリーには絶対勝てない。
+あたしが勝ったら、諦めて帰って。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>というのは建前で、
+本当はムラムラしたから襲うんだけどね。
+お腹も空いたし。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>あ、それとね！
+鍵、見つけちゃった。鉄格子の。
+あたしに勝ったらあげちゃう！おっけー？
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>じゃあ、えっちしよう！
+絶対負けないから！
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>あ・・・こ、腰が・・・♥
+力が入らない・・・♥
+くぅ・・・♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>ごめん。
+もう邪魔しない。
+頑張って。気持ちよかった・・・
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>ごちそーさま♥
+あー美味しかった。
+じゃ、帰ろう。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>大丈夫・・・？立てる？
+ちょっとやり過ぎちゃった♥
+ごめん。
+
+> END STRING
+
+> BEGIN STRING
+書庫の鍵を開けた！
+
+> END STRING
+
+> BEGIN STRING
+書庫のようだ。
+鍵がかかっている・・・
+
+> END STRING
+
+> BEGIN STRING
+豪華な鍵を使って
+館主の部屋を開けた！
+
+> END STRING
+
+> BEGIN STRING
+館主の部屋のようだ。
+鍵がかかっている・・・
+
+> END STRING
+
+> BEGIN STRING
+バルコニーの鍵を開けた！
+
+> END STRING
+
+> BEGIN STRING
+この向こうはバルコニーのようだ。
+鍵がかかっている・・・
+外に出られればなんとかなるかもしれない。
+
+> END STRING
+
+> BEGIN STRING
+執事の部屋の鍵を開けた！
+
+> END STRING
+
+> BEGIN STRING
+執事の部屋のようだ。
+鍵がかかって開かない・・・
+
+> END STRING
+
+> BEGIN STRING
+EV095
+EV095
+> END STRING
+
+> BEGIN STRING
+EV096
+EV096
+> END STRING
+
+> BEGIN STRING
+EV097
+EV097
+> END STRING
+
+> BEGIN STRING
+EV098
+EV098
+> END STRING
+
+> BEGIN STRING
+EV099
+EV099
+> END STRING
+
+> BEGIN STRING
+イベント用アーコ
+
+> END STRING
+
+> BEGIN STRING
+リリーの日記
+
+> END STRING
+
+> BEGIN STRING
+リリーの日記
+知識VS直感
+
+> END STRING
+
+> BEGIN STRING
+読んでみる
+
+> END STRING
+
+> BEGIN STRING
+やめておく
+
+> END STRING
+
+> BEGIN STRING
+報告書
+
+> END STRING
+
+> BEGIN STRING
+バルコニーの鍵を食糧庫内の倉庫で拾いました。
+近くの棚に置いておきます。
+誰が落としたのか知りませんが、鍵の管理には気を付けてください。
+
+> END STRING
+
+> BEGIN STRING
+EV103
+EV103
+> END STRING
+
+> BEGIN STRING
+シャンデリアはフックショットがあれば渡れそうだ・・・
+
+> END STRING

@@ -1,0 +1,602 @@
+RPG MAKER MV RAW DATA
+> BEGIN STRING
+戦闘不能
+Unable to Fight
+> END STRING
+
+> BEGIN STRING
+は倒れた！
+ fell!
+> END STRING
+
+> BEGIN STRING
+を倒した！
+ is defeated!
+> END STRING
+
+> BEGIN STRING
+は立ち上がった！
+ got up!
+> END STRING
+
+> BEGIN STRING
+ステート１番はＨＰが０になったときに
+自動的に付加されます。
+State 1 when hp reaches 0
+It is automatically attached.
+> END STRING
+
+> BEGIN STRING
+防御
+Defend
+> END STRING
+
+> BEGIN STRING
+不死身
+Invincible
+> END STRING
+
+> BEGIN STRING
+催淫毒
+Aphrodisiac
+> END STRING
+
+> BEGIN STRING
+は催淫毒にかかった！
+ is affected by aphrodisiacs!
+> END STRING
+
+> BEGIN STRING
+に毒をかけた！
+ has been poisioned!
+> END STRING
+
+> BEGIN STRING
+暗闇
+dark
+> END STRING
+
+> BEGIN STRING
+は前が見えなくなった！
+ can't see!
+> END STRING
+
+> BEGIN STRING
+を暗闇に閉ざした！
+Closed to darkness!
+> END STRING
+
+> BEGIN STRING
+スタン
+Stan
+> END STRING
+
+> BEGIN STRING
+は怯んだ！
+I'm scared!
+> END STRING
+
+> BEGIN STRING
+敏感
+Sensitive
+> END STRING
+
+> BEGIN STRING
+は敏感になった！
+ became sensitive!
+> END STRING
+
+> BEGIN STRING
+は感じやすくなった！
+ is really sensitive!
+> END STRING
+
+> BEGIN STRING
+拘束
+Bound
+> END STRING
+
+> BEGIN STRING
+は拘束された！
+ has been bound!
+> END STRING
+
+> BEGIN STRING
+を拘束した！
+ was bound!
+> END STRING
+
+> BEGIN STRING
+は拘束から逃れた！
+ broke free!
+> END STRING
+
+> BEGIN STRING
+魅了
+Charm
+> END STRING
+
+> BEGIN STRING
+は魅了された！
+ has been charmed!
+> END STRING
+
+> BEGIN STRING
+を魅了した！
+ was charmed!
+> END STRING
+
+> BEGIN STRING
+は魅了されている・・・
+ is under the enemy's spell...
+> END STRING
+
+> BEGIN STRING
+脱力
+Exhaustion
+> END STRING
+
+> BEGIN STRING
+は力が抜けた・・・
+ lost all strength...
+> END STRING
+
+> BEGIN STRING
+諦めた
+Give in
+> END STRING
+
+> BEGIN STRING
+は抵抗する意志を無くした・・・
+ has lost the will to resist...
+> END STRING
+
+> BEGIN STRING
+興奮
+Arousal
+> END STRING
+
+> BEGIN STRING
+は興奮が止められなくなった！
+ couldn't control their arousal!
+> END STRING
+
+> BEGIN STRING
+は興奮している・・・
+ is very aroused...
+> END STRING
+
+> BEGIN STRING
+<SAC防御封印スイッチ:107\>
+
+> END STRING
+
+> BEGIN STRING
+低速
+Slow
+> END STRING
+
+> BEGIN STRING
+はゆっくりになった・・・
+It's slower...
+> END STRING
+
+> BEGIN STRING
+行動できない
+I can't act.
+> END STRING
+
+> BEGIN STRING
+発情
+Lust
+> END STRING
+
+> BEGIN STRING
+は発情してしまった・・・
+ is acting lustfully...
+> END STRING
+
+> BEGIN STRING
+敗北の記憶
+Remembering Defeat
+> END STRING
+
+> BEGIN STRING
+アイリンバフ
+Iren Buff
+> END STRING
+
+> BEGIN STRING
+攻撃力アップ
+ATK Up
+> END STRING
+
+> BEGIN STRING
+は攻撃力と技巧が上がった！
+ATK and skill have improved!
+> END STRING
+
+> BEGIN STRING
+防御アップ
+Defense Up
+> END STRING
+
+> BEGIN STRING
+は防御力と精神力が上がった！
+Def and mental power have gone up!
+> END STRING
+
+> BEGIN STRING
+警戒
+Cautious
+> END STRING
+
+> BEGIN STRING
+は警戒状態になった！
+ is on alert!
+> END STRING
+
+> BEGIN STRING
+鬼神
+Demon
+> END STRING
+
+> BEGIN STRING
+は鬼神の力を宿した！
+ 
+> END STRING
+
+> BEGIN STRING
+ハードモード
+Hard Mode
+> END STRING
+
+> BEGIN STRING
+集中
+Concentration
+> END STRING
+
+> BEGIN STRING
+は集中力を高めた・・・
+ increased their concentration...
+> END STRING
+
+> BEGIN STRING
+ダミーステート
+Dummy State
+> END STRING
+
+> BEGIN STRING
+A主人公毒
+A hero poison
+> END STRING
+
+> BEGIN STRING
+毒
+poison
+> END STRING
+
+> BEGIN STRING
+A主人公脱力
+A Hero Weakness
+> END STRING
+
+> BEGIN STRING
+A主人公加速
+A Hero Acceleration
+> END STRING
+
+> BEGIN STRING
+<shotIntervalRate:0.5\>
+<shotIntervalRate:0.5\>
+> END STRING
+
+> BEGIN STRING
+A主人公減速
+A Hero deceleration
+> END STRING
+
+> BEGIN STRING
+<shotIntervalRate:2\>
+<shotIntervalRate:2\>
+> END STRING
+
+> BEGIN STRING
+A主人公球増
+A Hero Ball Increase
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotWay:1\>
+> END STRING
+
+> BEGIN STRING
+A主人公攻撃不可
+A Hero attack impossible
+> END STRING
+
+> BEGIN STRING
+<shotWay:-999\>
+<shotWay:-999\>
+> END STRING
+
+> BEGIN STRING
+～追加ステータス～
+~ Additional status ~
+> END STRING
+
+> BEGIN STRING
+カチコチ
+Kachikochi
+> END STRING
+
+> BEGIN STRING
+はカチコチになった！
+I got a tick!
+> END STRING
+
+> BEGIN STRING
+萎え
+Wither.
+> END STRING
+
+> BEGIN STRING
+ぬるぬる
+Slimy
+> END STRING
+
+> BEGIN STRING
+はぬるぬるになった！
+ became all slimy!
+> END STRING
+
+> BEGIN STRING
+冷静
+Calm
+> END STRING
+
+> BEGIN STRING
+は冷静になった！
+ became sober!
+> END STRING
+
+> BEGIN STRING
+増幅
+amplification
+> END STRING
+
+> BEGIN STRING
+～イベント用～
+~ For events ~
+> END STRING
+
+> BEGIN STRING
+は力が抜けてしまった・・・
+ lost their strength!
+> END STRING
+
+> BEGIN STRING
+防御ダウン（大）
+Defense Down (Large)
+> END STRING
+
+> BEGIN STRING
+の防御力が下がった・・・
+The DEF of has gone down...
+> END STRING
+
+> BEGIN STRING
+攻撃力もりもりMAX
+ATK Morimori MAX
+> END STRING
+
+> BEGIN STRING
+攻撃禁止
+No attack
+> END STRING
+
+> BEGIN STRING
+素早さマックス
+Quickness Max
+> END STRING
+
+> BEGIN STRING
+素早さ0
+Quickness 0
+> END STRING
+
+> BEGIN STRING
+強制敗北用
+For forced defeat
+> END STRING
+
+> BEGIN STRING
+HP1
+HP1
+> END STRING
+
+> BEGIN STRING
+決意
+decision
+> END STRING
+
+> BEGIN STRING
+??
+??
+> END STRING
+
+> BEGIN STRING
+は発情している・・・
+Is estrus...
+> END STRING
+
+> BEGIN STRING
+動揺
+disturbance
+> END STRING
+
+> BEGIN STRING
+怯え
+Frightened
+> END STRING
+
+> BEGIN STRING
+恐怖
+fear
+> END STRING
+
+> BEGIN STRING
+やや無敵
+Somewhat invincible
+> END STRING
+
+> BEGIN STRING
+～敵用ステート～
+~ Enemy State ~
+> END STRING
+
+> BEGIN STRING
+敵用催淫毒
+Enemy Aphrodisiac
+> END STRING
+
+> BEGIN STRING
+は催淫毒に犯された！
+ was affected by the aphrodisiac!
+> END STRING
+
+> BEGIN STRING
+最強
+strongest
+> END STRING
+
+> BEGIN STRING
+最強１０
+Strongest 10
+> END STRING
+
+> BEGIN STRING
+イージーモード
+Easy mode
+> END STRING
+
+> BEGIN STRING
+～レベル用ステート～
+~State for Level~
+> END STRING
+
+> BEGIN STRING
+レベル10
+Level10
+> END STRING
+
+> BEGIN STRING
+レベル20
+Level20
+> END STRING
+
+> BEGIN STRING
+レベル30
+Level30
+> END STRING
+
+> BEGIN STRING
+レベル40
+Level40
+> END STRING
+
+> BEGIN STRING
+レベル50
+Level50
+> END STRING
+
+> BEGIN STRING
+レベル60
+Level60
+> END STRING
+
+> BEGIN STRING
+レベル70
+Level70
+> END STRING
+
+> BEGIN STRING
+レベル80
+Level80
+> END STRING
+
+> BEGIN STRING
+レベル90
+Level90
+> END STRING
+
+> BEGIN STRING
+レベル99
+Level99
+> END STRING
+
+> BEGIN STRING
+～メルブレ用～
+~ For Melbre ~
+> END STRING
+
+> BEGIN STRING
+射精1回目
+1st Climax
+> END STRING
+
+> BEGIN STRING
+射精2回目
+2nd Climax
+> END STRING
+
+> BEGIN STRING
+射精3回目
+3rd Climax
+> END STRING
+
+> BEGIN STRING
+勃起
+Erect
+> END STRING
+
+> BEGIN STRING
+は勃起してしまった・・・
+ has become erect...
+> END STRING
+
+> BEGIN STRING
+イキそう
+Edge
+> END STRING
+
+> BEGIN STRING
+はイキそうになった・・・
+ is on the edge...
+> END STRING
+
+> BEGIN STRING
+バランスを崩す
+Loss of Balance
+> END STRING
+
+> BEGIN STRING
+はバランスを崩した！
+ lost their balance!
+> END STRING
+
+> BEGIN STRING
+発情ARPG用
+For Estrus ARPG
+> END STRING
+
+> BEGIN STRING
+<shotWay:-1\>
+<shotWay:-1\>
+> END STRING
+
+> BEGIN STRING
+ミニマム
+Minimum
+> END STRING

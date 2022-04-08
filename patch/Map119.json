@@ -1,0 +1,577 @@
+RPG MAKER MV RAW DATA
+> BEGIN STRING
+自動実行
+
+> END STRING
+
+> BEGIN STRING
+リリー
+
+> END STRING
+
+> BEGIN STRING
+シィナ
+
+> END STRING
+
+> BEGIN STRING
+アーコイベ用
+
+> END STRING
+
+> BEGIN STRING
+ライム
+
+> END STRING
+
+> BEGIN STRING
+最初のイベント
+
+> END STRING
+
+> BEGIN STRING
+\\n<ライム\>やっぱりね！
+
+> END STRING
+
+> BEGIN STRING
+\\n<ライム\>逃げる時間そんなにないよなー、って思ってたの。
+どこかに隠れてたのかな？
+待ってたら来ると思ったよー！
+
+> END STRING
+
+> BEGIN STRING
+\\n<ライム\>にへへへへー♥
+つーかまーえた♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>ぬるぬるして動きにくいでしょー。
+早く逃げないと白いの出させちゃうぞー？
+
+> END STRING
+
+> BEGIN STRING
+\\C[3]※捕まるとタイミングバーが表示されます。
+\\C[0]タイミングよく黄か赤で止めてください。
+赤で止めると被ダメージが半減します。
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>むにゅー・・・♥
+柔らかくて溶けちゃいそうでしょー♥
+気持ちいい気持ちいいー♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>あれー？もう出ちゃうのー？
+おっぱい我慢できなかったー？あはは♥
+じゃあ一回だけ、出しちゃおっかー♪
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>あっあっ♥おっぱいの間でぴくぴくしてるー♥
+おちんちん喜んでくれたみたい♥
+うれしー♥
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]SAN値が1下がった・・・（現在SAN値\\v[270]）
+
+> END STRING
+
+> BEGIN STRING
+\\n<ライム\>もうー。ひょっとして全然抵抗する気ないのー？
+ゲームはまだ始まったばかりなのに。
+次は本気で搾っちゃうからねー？
+
+> END STRING
+
+> BEGIN STRING
+\\n<ライム\>あっ！逃げられちゃった・・・
+まぁいいっかー。
+
+> END STRING
+
+> BEGIN STRING
+\\n<ライム\>えーっと、リリーの行ってたこと、
+聞こえてたかな？
+脱出ゲームがどーのこーの・・・
+
+> END STRING
+
+> BEGIN STRING
+\\n<ライム\>この館は広いからねー。
+なかなか出られないと思うけど・・・
+頑張って色んなところ、探してみてね。
+
+> END STRING
+
+> BEGIN STRING
+\\n<ライム\>リリーもシィナも楽しそうだから。
+簡単に諦めたりしちゃーダメだよー？
+いっぱい遊ばれてね。
+
+> END STRING
+
+> BEGIN STRING
+\\n<ライム\>次は一回射精したぐらいじゃ
+許してあげないからねー？くすくす♥
+ばいばーい♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<ライム\>じゃー頑張ってねー。
+次は私も本気でぴゅっぴゅさせにいっちゃうからねー。
+
+> END STRING
+
+> BEGIN STRING
+ドア
+
+> END STRING
+
+> BEGIN STRING
+玄関扉は固く閉ざされている・・・
+
+> END STRING
+
+> BEGIN STRING
+\\n<？？？\>開かないよ。
+
+> END STRING
+
+> BEGIN STRING
+\\n<？？？\>あたしも閉じ込められて困ってんの。
+あんた誰？
+
+> END STRING
+
+> BEGIN STRING
+MP_SET_MOVIE e8_Ta
+MP_SET_MOVIE e8_Ta
+> END STRING
+
+> BEGIN STRING
+MP_SET_LOOP 6 on
+MP_SET_LOOP 6 on
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>あーあー警戒しないで。
+あたし中立だから。ちゅーりつ。
+知ってる？ちゅーりつって言葉。チューリップじゃないよ。
+
+> END STRING
+
+> BEGIN STRING
+\\n<？？？\>こんなところに人間が居るなんて珍しーね。
+リリーたちに捕まったのかな？
+
+> END STRING
+
+> BEGIN STRING
+\\n<？？？\>あたしアーコ。
+黒猫のアーコだよ。よろしく。
+あんたは？
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]・・・
+
+> END STRING
+
+> BEGIN STRING
+擬態型かァ～？
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>友好型だよ。アーコだよ。
+名前。教えてよ。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>\\n[1]。
+うん。覚えた。フツーだね。
+フツーにいい名前。フツー。
+
+> END STRING
+
+> BEGIN STRING
+\\n<シィナ\>アーコ来てんのかー！？
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>隠れて！
+
+> END STRING
+
+> BEGIN STRING
+\\n<シィナ\>タバコにゃ。
+持ってきたにゃ？
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>ほいほい。
+税金上がったから1箱540Gだよ。
+何個欲しいの？しぃにゃん。
+
+> END STRING
+
+> BEGIN STRING
+\\n<シィナ\>淫魔が税金納めてんじゃねー！
+カートンにゃ！
+あと次しぃにゃんって呼んだら殺す！
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>5400G！まいどー♪
+あたし、しぃにゃんの怒った顔好き。
+
+> END STRING
+
+> BEGIN STRING
+\\n<シィナ\>アーココロス！
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>（やっぱりシィナは怒った時の顔が一番可愛い・・・）
+
+> END STRING
+
+> BEGIN STRING
+\\n<シィナ\>あーお前と話してるとほんと調子狂うにゃ。
+はよ帰れし。
+じゃーなバーカ。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>帰りたくても帰れないよ。
+玄関開かないもん。
+
+> END STRING
+
+> BEGIN STRING
+\\n<シィナ\>あ。そうにゃ。
+今人間と脱出ゲームやってるから全部閉め切ってるにゃん。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>脱出ゲーム？
+
+> END STRING
+
+> BEGIN STRING
+\\n<シィナ\>人間がここから脱出するのが先か
+アタシらにチンポ犯されまくって干物になるのが先かの・・・
+
+> END STRING
+
+> BEGIN STRING
+\\n<シィナ\>まさにセイシをかけたゲームにゃ！
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>そう・・・
+（また妙なことやってる・・・）
+
+> END STRING
+
+> BEGIN STRING
+\\n<シィナ\>邪魔すんなよ。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>えっ？ちょっと待って。
+それってあたしも出られないってコト？
+
+> END STRING
+
+> BEGIN STRING
+\\n<シィナ\>お前のことは知らんし。
+大人しく床の溝でもなぞっとけにゃ。
+カートンありがとにゃー。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>なるほどねー。
+事情は分かったよ。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>どうやら\\n[1]が出口を見つけるか干物になるまで
+あたしも出られなくなっちゃったみたい。
+うーん。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>今ここで干物にしちゃうか・\\.・\\.・\\.
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>冗談だよ。
+うける。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>ところであたしは淫魔だけどお店をやってるんだよ。
+黒猫屋！
+精力剤とか必要でしょ？売ってあげるよ！
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>お金無いの？
+じゃあ、もしこの館でお金になりそうなものあったら
+あたしに持ってきて。買い取ってあげる。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>あたしここに居るから。
+何かあったら話しかけてね。
+じゃ。
+
+> END STRING
+
+> BEGIN STRING
+シィナイベ用
+
+> END STRING
+
+> BEGIN STRING
+アーコ
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>やぁやぁ。アーコだよ。
+何か欲しい物とかあるの？
+見てく？
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>武器になりそうなものとか見つけた？
+まずはそういうの探すといいかもね。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>何食べたらそんなにおっぱい大きくなるの？
+横縞模様だからおっぱい大きく見えるの？
+錯覚？
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>囚人服に合ってるよ。
+まさに囚人って感じ。
+褒めてないよ。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>あたしは淫魔だし、気持ちが分かるから
+どっちの味方もしないよ。
+でも仲良くしたいって思ってる。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>シィナは猫の時からの友達だよ。
+リリーに淫魔にされたんだってさ。
+あたしは違うやつに淫魔にされたけど。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>あたしも淫魔だから精液が一番美味しいと思うけど
+カリカリもかつおぶしも同じくらい美味しいと思う。
+一番がいっぱいあるといいね。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>ここは元々大金持ちが住んでたんだって。
+メイドも使用人もいっぱい居たってさ。
+なんでこんな森の中に？って感じ。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>みんなお金に興味ないから
+あたしがこの館から色々持って行っても何とも思わないんだよ。
+だから、ここで仕入れて町で売ったりする。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>その見返りにタバコとか持ってきてあげるの。
+まぁ、それもお金取るけどね。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>淫魔の巣に閉じ込められるのは
+人間にとって辛いでしょ。
+少しでもえっちな気分になるとすぐ硬くなっちゃう。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>行き詰ったらとりあえず攻撃してみたらいいよ。
+壊せるものとかあるかもしれないし。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>お兄ちゃんも下に居るの？
+面白そうだから後で行ってみよー。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>妹も捕まってるの？
+後で行ってみよー。
+仲良くなれるかな？
+
+> END STRING
+
+> BEGIN STRING
+買い物
+
+> END STRING
+
+> BEGIN STRING
+用事はない
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>何を買ってくれるのかな？
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>ははーん。さては冷やかしだな？
+ふーん！
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>まいどあり～！
+
+> END STRING
+
+> BEGIN STRING
+\\n<アーコ\>ふーん。
+
+> END STRING
+
+> BEGIN STRING
+食糧庫ドア
+
+> END STRING
+
+> BEGIN STRING
+食糧庫の鍵を開けた！
+
+> END STRING
+
+> BEGIN STRING
+食糧庫のようだ。
+鍵がかかっている・・・
+
+> END STRING
+
+> BEGIN STRING
+いわ
+
+> END STRING
+
+> BEGIN STRING
+ <enemy:145\>
+ <enemy:145\>
+> END STRING
+
+> BEGIN STRING
+瓦礫を壊せば通れそうだ・・・
+
+> END STRING
+
+> BEGIN STRING
+EV023
+EV023
+> END STRING
+
+> BEGIN STRING
+浴場の鍵を開けた！
+
+> END STRING
+
+> BEGIN STRING
+この先は浴場のようだ。
+鍵がかかっている・・・
+
+> END STRING
+
+> BEGIN STRING
+応接室の鍵を開けた！
+
+> END STRING
+
+> BEGIN STRING
+応接室の扉だ。
+鍵がかかっている・・・
+
+> END STRING
+
+> BEGIN STRING
+倉庫の鍵を開けた！
+
+> END STRING
+
+> BEGIN STRING
+倉庫の扉だ。
+鍵がかかっている・・・
+
+> END STRING
+
+> BEGIN STRING
+梯子
+
+> END STRING
+
+> BEGIN STRING
+引っかけ場所
+
+> END STRING
+
+> BEGIN STRING
+<TE:立体起動\>
+
+> END STRING
