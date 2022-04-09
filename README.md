@@ -11,7 +11,7 @@ your current one!
 
 << How to use the translation files >>
 -------------------------------------------
-The translation files are located in the data folder of this repository. Inside are .json files that contain the translation.
+The translation files are located in the data folder of this repository. Inside are files that contain the translation.
 
 You are free fork this translation and edit it's contents to help out with the translation! Once you're done, create a pull request and I'll merge it with the main translation!
 
