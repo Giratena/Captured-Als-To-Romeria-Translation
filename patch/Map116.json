@@ -1,0 +1,427 @@
+RPG MAKER MV RAW DATA
+> BEGIN STRING
+自動実行
+
+> END STRING
+
+> BEGIN STRING
+掃除道具入れ
+
+> END STRING
+
+> BEGIN STRING
+石鹸だ・・・
+残り少なくなっている・・・
+
+> END STRING
+
+> BEGIN STRING
+EV003
+EV003
+> END STRING
+
+> BEGIN STRING
+何か使えるものは・・・
+
+> END STRING
+
+> BEGIN STRING
+食糧庫とタブの付いた鍵を見つけた！
+他には・・・・
+
+> END STRING
+
+> BEGIN STRING
+シィナのパンツを見つけてしまった・・・
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]欲しい
+
+> END STRING
+
+> BEGIN STRING
+嫌な予感がする
+
+> END STRING
+
+> BEGIN STRING
+・・・
+ごくり・・・
+
+> END STRING
+
+> BEGIN STRING
+これを拾うと色々と終わってしまう気がする・・・
+戻しておこう。
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>それアタシのパンツにゃん。
+それ拾ってどーするつもりにゃ？
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>ふーん・・・
+どーせくんくんしながらオナニーするにゃ？
+どすけべマゾ。
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>いいにゃ。
+それあげるにゃん。
+プレゼントにゃ♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>ただしお前じゃなくてお前のチンポにな！
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>ただしお前じゃなくてお前のチンポににゃ！
+
+> END STRING
+
+> BEGIN STRING
+炎
+
+> END STRING
+
+> BEGIN STRING
+ <enemy:99\><ch:1.5\>
+ <enemy:99\><ch:1.5\>
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>あっつ！！！
+
+> END STRING
+
+> BEGIN STRING
+ <enemy:99\><cw:1.5\><ch:1.5\>
+ <enemy:99\><cw:1.5\><ch:1.5\>
+> END STRING
+
+> BEGIN STRING
+立体起動
+
+> END STRING
+
+> BEGIN STRING
+<enemy:99\>
+<enemy:99\>
+> END STRING
+
+> BEGIN STRING
+水たまりサンプル
+
+> END STRING
+
+> BEGIN STRING
+食糧庫ドア
+
+> END STRING
+
+> BEGIN STRING
+掃除道具入れだ・・・
+何か使えるものがあるかもしれない・・・
+
+> END STRING
+
+> BEGIN STRING
+調べる
+
+> END STRING
+
+> BEGIN STRING
+今はやめておく
+
+> END STRING
+
+> BEGIN STRING
+もう使えそうなものはなさそうだ・・・
+
+> END STRING
+
+> BEGIN STRING
+モップの棒が取れてしまった・・・
+何かに使えるかもしれない。
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>お風呂お風呂～♪
+
+> END STRING
+
+> BEGIN STRING
+\\n<シィナ\>アタシも入るにゃ！
+
+> END STRING
+
+> BEGIN STRING
+\\n<ライム\>えー、じゃあ私もー♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>ひとりくらいあいつ探しなさいよ・・・
+
+> END STRING
+
+> BEGIN STRING
+お風呂の鏡は曇っている・・・
+
+> END STRING
+
+> BEGIN STRING
+EV014
+EV014
+> END STRING
+
+> BEGIN STRING
+水が入った桶・・・
+
+> END STRING
+
+> BEGIN STRING
+湿気でふにゃふにゃになってしまっている・・・
+
+> END STRING
+
+> BEGIN STRING
+何故お風呂に焼き魚が・・・
+
+> END STRING
+
+> BEGIN STRING
+何故お風呂にパイが・・・
+
+> END STRING
+
+> BEGIN STRING
+薪だ。
+こんなところに置いて湿気ないのか。
+
+> END STRING
+
+> BEGIN STRING
+いい匂いのタオルだ。
+でもあまり嗅がない方がいい・・・
+
+> END STRING
+
+> BEGIN STRING
+報告書
+
+> END STRING
+
+> BEGIN STRING
+鏡に自分が映っている・・・
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>（へんなもの付けられちゃったし・・・
+もう女湯に入れないのかな・・・）
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>（大浴場・・・
+随分と立派だ。
+余程の金持ちが住んでいたに違いない。）
+
+> END STRING
+
+> BEGIN STRING
+大きいタライだ。
+もし降ってきたら首を痛めそうなサイズ・・・
+
+> END STRING
+
+> BEGIN STRING
+シィナ決戦
+
+> END STRING
+
+> BEGIN STRING
+\\n<ライム\>\\n[1]・・・
+本当に戦わなきゃダメなの？
+
+> END STRING
+
+> BEGIN STRING
+\\n<ライム\>・・・
+そっか。
+じゃあしょうがないね。
+
+> END STRING
+
+> BEGIN STRING
+\\n<ライム\>どうなっても恨みっこ無しだよ！
+絶対に負けないんだから！
+
+> END STRING
+
+> BEGIN STRING
+ポップアップ有効化
+
+> END STRING
+
+> BEGIN STRING
+\\n<ライム\>はぁ・・・はぁ・・・♥
+と、とけるぅ・・・♥
+あへぇ～・・・♥
+
+> END STRING
+
+> BEGIN STRING
+ライムを退治した！
+
+> END STRING
+
+> BEGIN STRING
+リリーの日記
+
+> END STRING
+
+> BEGIN STRING
+ライムの日記
+お風呂でピザ
+
+> END STRING
+
+> BEGIN STRING
+読んでみる
+
+> END STRING
+
+> BEGIN STRING
+やめておく
+
+> END STRING
+
+> BEGIN STRING
+ライムの日記
+水かけ論
+
+> END STRING
+
+> BEGIN STRING
+EV039
+EV039
+> END STRING
+
+> BEGIN STRING
+紙が落ちるような音がした・・・
+
+> END STRING
+
+> BEGIN STRING
+もう何もない・・・
+
+> END STRING
+
+> BEGIN STRING
+EV041
+EV041
+> END STRING
+
+> BEGIN STRING
+災害対策の本だ・・・
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]は\\C[3]『警戒』\\C[0]を覚えた！
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>（少しやつれたように見える・・・
+でも、ダイエットと思えば。）
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>（少しやつれたかもしれない・・・）
+
+> END STRING
+
+> BEGIN STRING
+EV043
+EV043
+> END STRING
+
+> BEGIN STRING
+EV044
+EV044
+> END STRING
+
+> BEGIN STRING
+EV045
+EV045
+> END STRING
+
+> BEGIN STRING
+EV046
+EV046
+> END STRING
+
+> BEGIN STRING
+EV047
+EV047
+> END STRING
+
+> BEGIN STRING
+EV048
+EV048
+> END STRING
+
+> BEGIN STRING
+EV049
+EV049
+> END STRING
+
+> BEGIN STRING
+EV050
+EV050
+> END STRING
+
+> BEGIN STRING
+EV051
+EV051
+> END STRING
+
+> BEGIN STRING
+EV052
+EV052
+> END STRING
+
+> BEGIN STRING
+EV053
+EV053
+> END STRING
+
+> BEGIN STRING
+EV054
+EV054
+> END STRING
+
+> BEGIN STRING
+EV055
+EV055
+> END STRING
+
+> BEGIN STRING
+ライムの日記
+脱走者
+
+> END STRING

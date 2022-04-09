@@ -1,0 +1,910 @@
+RPG MAKER MV RAW DATA
+> BEGIN STRING
+<Darkness:20\>
+
+> END STRING
+
+> BEGIN STRING
+EV001
+
+> END STRING
+
+> BEGIN STRING
+<CG拡大率:1,80,80\>
+
+> END STRING
+
+> BEGIN STRING
+\\n<フィリア\>お腹空いた！
+
+> END STRING
+
+> BEGIN STRING
+さっきご飯食べたじゃん
+
+> END STRING
+
+> BEGIN STRING
+う・・・嫌な予感がする
+
+> END STRING
+
+> BEGIN STRING
+\\n<フィリア\>分かってる癖に！
+いいから服脱いで。
+
+> END STRING
+
+> BEGIN STRING
+\\n<フィリア\>何その顔。
+フィリアのこと馬鹿にしてるの？
+ふーん。
+
+> END STRING
+
+> BEGIN STRING
+\\n<フィリア\>脱げ！
+
+> END STRING
+
+> BEGIN STRING
+\\n<フィリア\>ばか！！
+ばかばかばかばかばか！！！
+
+> END STRING
+
+> BEGIN STRING
+\\n<フィリア\>・・・
+
+> END STRING
+
+> BEGIN STRING
+\\n<フィリア\>ばーか！！！
+
+> END STRING
+
+> BEGIN STRING
+\\n<フィリア\>ベッドまで連れてってあげよ。
+フィリアってばやさしー・・・
+
+> END STRING
+
+> BEGIN STRING
+\\n<フィリア\>重い！無理！
+フィリアしーらない。
+
+> END STRING
+
+> BEGIN STRING
+EV002
+
+> END STRING
+
+> BEGIN STRING
+EV003
+
+> END STRING
+
+> BEGIN STRING
+なめらかスライドon 0.06
+
+> END STRING
+
+> BEGIN STRING
+性別を選んでください。
+
+> END STRING
+
+> BEGIN STRING
+僕は・・・(男主人公)
+
+> END STRING
+
+> BEGIN STRING
+私は・・・(女主人公)
+
+> END STRING
+
+> BEGIN STRING
+主人公のセリフを表示しますか？
+
+> END STRING
+
+> BEGIN STRING
+主人公セリフあり(デフォルト)
+
+> END STRING
+
+> BEGIN STRING
+主人公セリフ無し
+
+> END STRING
+
+> BEGIN STRING
+喘ぎ声のタイプを選択してください。
+
+> END STRING
+
+> BEGIN STRING
+犯され(デフォルト)
+
+> END STRING
+
+> BEGIN STRING
+メロメロ
+
+> END STRING
+
+> BEGIN STRING
+ん？誰か来たようだ・・・
+
+> END STRING
+
+> BEGIN STRING
+フィリア
+
+> END STRING
+
+> BEGIN STRING
+マーガレット
+
+> END STRING
+
+> BEGIN STRING
+startAutoBossHpGauge
+
+> END STRING
+
+> BEGIN STRING
+EV004
+
+> END STRING
+
+> BEGIN STRING
+EV005
+
+> END STRING
+
+> BEGIN STRING
+今は着替えなくていいかな・・・
+
+> END STRING
+
+> BEGIN STRING
+EV006
+
+> END STRING
+
+> BEGIN STRING
+ <enemy:99\>
+
+> END STRING
+
+> BEGIN STRING
+nwayAim 1 40 0 0.2 100 4 39 791
+
+> END STRING
+
+> BEGIN STRING
+EV007
+
+> END STRING
+
+> BEGIN STRING
+そういえばこの一番上に・・・
+
+> END STRING
+
+> BEGIN STRING
+一応念のために持っておこうかな・・・
+
+> END STRING
+
+> BEGIN STRING
+008オーク
+
+> END STRING
+
+> BEGIN STRING
+ <enemy:100\>
+
+> END STRING
+
+> BEGIN STRING
+EV009
+
+> END STRING
+
+> BEGIN STRING
+shatter_event_id : 0 : 0 : 1 : 0
+
+> END STRING
+
+> BEGIN STRING
+EV010
+
+> END STRING
+
+> BEGIN STRING
+敗北シーンを別パターンに変えられます。
+
+> END STRING
+
+> BEGIN STRING
+別パターンで！
+
+> END STRING
+
+> BEGIN STRING
+普通で！
+
+> END STRING
+
+> BEGIN STRING
+敗北シーンを変更しました！
+
+> END STRING
+
+> BEGIN STRING
+普通のパターンにしました！
+
+> END STRING
+
+> BEGIN STRING
+EV011
+
+> END STRING
+
+> BEGIN STRING
+<CG拡大率:1,90,90\>
+
+> END STRING
+
+> BEGIN STRING
+\\n<マーガレット\>\\n[1]さん！
+お疲れ様です！
+
+> END STRING
+
+> BEGIN STRING
+お疲れ様！
+
+> END STRING
+
+> BEGIN STRING
+どうしたのその恰好
+
+> END STRING
+
+> BEGIN STRING
+\\n<マーガレット\>えっと・・・
+あの、この服どうですか・・・？
+応援する時の恰好らしいです。
+
+> END STRING
+
+> BEGIN STRING
+\\n<マーガレット\>\\n[1]さんいっつも頑張ってるから
+あの、応援してあげなきゃって思って・・・
+
+> END STRING
+
+> BEGIN STRING
+\\n<マーガレット\>わたくしもよく知らないんですけど
+応援する時の恰好なんだって
+さっきレーチェルさんが無理やり・・・
+
+> END STRING
+
+> BEGIN STRING
+\\n<マーガレット\>フレー！フレー！\\n[1]さん！
+みたいな感じで踊るといいらしいです。
+
+> END STRING
+
+> BEGIN STRING
+\\n<マーガレット\>変・・・ですか？
+
+> END STRING
+
+> BEGIN STRING
+しんぼうたまらん！
+
+> END STRING
+
+> BEGIN STRING
+かわいい！
+
+> END STRING
+
+> BEGIN STRING
+\\n<マーガレット\>わぁ！ちょっと！
+\\n[1]さん・・・！？
+
+> END STRING
+
+> BEGIN STRING
+\\n<マーガレット\>はぁ・・・♥
+やっぱり\\n[1]さんには敵いませんね♥
+えへへへ♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<マーガレット\>元気出ました？
+わたくしはいっぱい元気貰っちゃいました。
+
+> END STRING
+
+> BEGIN STRING
+\\n<マーガレット\>いつもありがとうございます。
+\\n[1]さん♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<マーガレット\>あの・・・？
+\\n[1]さん・・・？
+もしもーし・・・？
+
+> END STRING
+
+> BEGIN STRING
+\\n<マーガレット\>え、えへへへ♥
+ちょっと元気になり過ぎちゃったみたいですね♥
+あー・・・
+
+> END STRING
+
+> BEGIN STRING
+\\n<マーガレット\>どうしましょう・・・
+何か栄養になるものでも・・・
+うーん！ごめんなさい！
+
+> END STRING
+
+> BEGIN STRING
+EV012
+
+> END STRING
+
+> BEGIN STRING
+\\n<アイリン\>おはようございます！
+良く寝てましたね！もうお昼前ですよ。
+夜更かししました？
+
+> END STRING
+
+> BEGIN STRING
+\\n<アイリン\>変な寝ぐせ付いてますよ。
+顔洗ってきたらどうですか？
+
+> END STRING
+
+> BEGIN STRING
+\\n<アイリン\>あ、そうだ。
+今日は珍しく旅人さんが来ているみたいですよ。
+村の集会場です。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アイリン\>私外の世界のことあまり知らないから
+後でお話聞きに行こうかなって思ってます。
+\\n[1]も一緒に行きませんか？
+
+> END STRING
+
+> BEGIN STRING
+行こう行こう！
+
+> END STRING
+
+> BEGIN STRING
+乗り気じゃないなぁ
+
+> END STRING
+
+> BEGIN STRING
+\\n<アイリン\>じゃあ準備しなきゃです。
+顔洗って来てください。
+楽しみですね！
+
+> END STRING
+
+> BEGIN STRING
+\\n<アイリン\>外のこと、興味ある癖に！
+絶対行った方がいいのに。じゃあ私ひとりで行きます。
+面白い話聞いても教えてあげません。
+
+> END STRING
+
+> BEGIN STRING
+\\n<マキサ\>いってーな！
+どこ見て歩いて・・・
+ん・・・？
+
+> END STRING
+
+> BEGIN STRING
+\\n<マキサ\>（なんだコイツ・・・
+めちゃめちゃ金持ってる匂いがすんぞ・・・
+これはアタシの感だが・・・
+
+> END STRING
+
+> BEGIN STRING
+\\n<マキサ\>（コイツの財布の中には今・・・
+とんでもない額の大金が入っているッ！！
+そんな気がするッ・・・！！
+
+> END STRING
+
+> BEGIN STRING
+\\n<マキサ\>（賭けてみるか・・・
+
+> END STRING
+
+> BEGIN STRING
+\\n<マキサ\>ごめんなさい！ちゃんと前見てなくて・・・！
+大丈夫ですか？お怪我はありませんか？
+
+> END STRING
+
+> BEGIN STRING
+\\n<マキサ\>良かった！私ったらそそっかしくていけません。
+よく考え事をしていて人とぶつかってしまうんです。
+本当にすみませんでした。では失礼します。
+
+> END STRING
+
+> BEGIN STRING
+\\n<マキサ\>あっ！痛たた・・・
+足をくじいてしまったみたいです・・・
+えへへ・・・どんくさいですね。お恥ずかしい・・・
+
+> END STRING
+
+> BEGIN STRING
+大丈夫ですか？
+
+> END STRING
+
+> BEGIN STRING
+こちらこそごめんなさい！
+
+> END STRING
+
+> BEGIN STRING
+\\n<マキサ\>あ、いえいえ、これぐらい何てことありません！
+お気遣いなく・・・！
+
+> END STRING
+
+> BEGIN STRING
+\\n<マキサ\>あっ！痛たた・・・
+うぅ・・・
+
+> END STRING
+
+> BEGIN STRING
+肩を貸しましょうか？
+
+> END STRING
+
+> BEGIN STRING
+じゃそういう事で！
+
+> END STRING
+
+> BEGIN STRING
+\\n<マキサ\>え？本当ですか？優しい・・・♥
+ありがとうございます♥
+あの、私の家はすぐそこなので・・・♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<マキサ\>（馬鹿が・・・
+
+> END STRING
+
+> BEGIN STRING
+\\n<マキサ\>あー！！！痛い！！足が折れたかもしれません！！
+あー！どうしましょう！！
+
+> END STRING
+
+> BEGIN STRING
+\\n<アイリン\>あう！りんごやめて！
+食べ物を粗末にするなって教わらなかったんですか？
+
+> END STRING
+
+> BEGIN STRING
+\\n<アイリン\>痛い！！！
+なんでそんなことするんですか！！
+ばか！！
+
+> END STRING
+
+> BEGIN STRING
+EV013
+
+> END STRING
+
+> BEGIN STRING
+\\n<ウォルフ\>ん？なんだてめぇーは。
+あたしとやろーってのか？
+いい根性してるぜ。
+
+> END STRING
+
+> BEGIN STRING
+\\n<ウォルフ\>覚悟しな！
+てめぇなんかあたしの肉球で
+ぷにぷにしてやるぜ！
+
+> END STRING
+
+> BEGIN STRING
+\\n<マキサ\>お前可愛いんだよ！！
+
+> END STRING
+
+> BEGIN STRING
+\\n<ウォルフ\>ねーさん見ててね！
+すぐ始末してやるから！
+見ててね！
+
+> END STRING
+
+> BEGIN STRING
+\\n<マキサ\>・・・
+さっさと片付けなさい。
+
+> END STRING
+
+> BEGIN STRING
+\\n<ウォルフ\>あぉ～ん！
+
+> END STRING
+
+> BEGIN STRING
+\\n<ウォルフ\>効かねぇ！淫魔だから！ドンッ！
+
+> END STRING
+
+> BEGIN STRING
+EV014
+
+> END STRING
+
+> BEGIN STRING
+\\n<レーチェル\>はいはい何っすか？
+あたしに聞きたいこと、あるっす？
+
+> END STRING
+
+> BEGIN STRING
+\\n<レーチェル\>めちゃめちゃえっちぃ話しますけど
+大丈夫っすか？
+
+> END STRING
+
+> BEGIN STRING
+\\n<アイリン\>・・・！！
+
+> END STRING
+
+> BEGIN STRING
+\\n<アイリン\>・・・
+
+> END STRING
+
+> BEGIN STRING
+\\n<アイリン\>どうぞ！！
+
+> END STRING
+
+> BEGIN STRING
+\\n<ユイネ\>アイリン！
+
+> END STRING
+
+> BEGIN STRING
+\\n<レーチェル\>まぁ淫魔の話っすからね。
+えろいこと抜きには語れないっていうか。
+（なんだ今の間は・・・）
+
+> END STRING
+
+> BEGIN STRING
+\\n<レーチェル\>じゃぁ問題です。
+淫魔は何を食べて生きているか分かりますか？
+
+> END STRING
+
+> BEGIN STRING
+\\n<ユイネ\>男性の精気を吸って生きてるって聞いたことある。
+あの・・・えっちなことして吸い取るんでしょ？
+
+> END STRING
+
+> BEGIN STRING
+\\n<レーチェル\>もっと具体的にー？
+
+> END STRING
+
+> BEGIN STRING
+\\n<ユイネ\>せ、セックスとかして・・・
+精液を奪う。
+
+> END STRING
+
+> BEGIN STRING
+\\n<レーチェル\>正解！
+精子、精液、ザーメンなど色々と呼び方がありますね。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アイリン\>（ざ・・・ざーめん・・・）
+
+> END STRING
+
+> BEGIN STRING
+\\n<レーチェル\>おーっと、おチビちゃん。
+早くも脱落っすか？ウブなんすねぇ♥
+（ひょー♥たまんねーな♥）
+
+> END STRING
+
+> BEGIN STRING
+\\n<レーチェル\>ぐぇ！
+何するんすか！
+
+> END STRING
+
+> BEGIN STRING
+EV015
+
+> END STRING
+
+> BEGIN STRING
+\\n<ユイネ\>また剣の稽古してんの？
+熱心だねー。
+
+> END STRING
+
+> BEGIN STRING
+\\n<ユイネ\>みんなのこと守ってくれるんでしょ？
+馬鹿にしてなんかない。
+
+> END STRING
+
+> BEGIN STRING
+\\n<ユイネ\>頑張ってね。
+怪我をしたら私がポーション作ってあげるから。
+手がズル向けになるまで握ってていいんだよ。
+
+> END STRING
+
+> BEGIN STRING
+\\n<ユイネ\>大分マシになったんだから！
+その・・・飲んでも死ぬようなものは出来なくなったかな！
+
+> END STRING
+
+> BEGIN STRING
+\\n<ユイネ\>うん！
+じゃぁまた後でね！
+
+> END STRING
+
+> BEGIN STRING
+\\n<レーチェル\>いってーなこのやろー！！
+燃やすぞ！
+
+> END STRING
+
+> BEGIN STRING
+EV016
+
+> END STRING
+
+> BEGIN STRING
+\\n<マキサ\>何だよ
+気安く話しかけてんじゃねータコ。
+
+> END STRING
+
+> BEGIN STRING
+\\n<マキサ\>テメェーまじでぶっ殺す！！！
+
+> END STRING
+
+> BEGIN STRING
+nwayAim 1 40 0 0.3 100 4 9 792
+
+> END STRING
+
+> BEGIN STRING
+EV017
+
+> END STRING
+
+> BEGIN STRING
+EV018
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>顔グラのテストだ。
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>楽しいぜ
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>いい加減にしろ！
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>イクッ！！うあぁぁぁぁぁ！！！
+
+> END STRING
+
+> BEGIN STRING
+EV019
+
+> END STRING
+
+> BEGIN STRING
+服
+
+> END STRING
+
+> BEGIN STRING
+はい
+
+> END STRING
+
+> BEGIN STRING
+いいえ
+
+> END STRING
+
+> BEGIN STRING
+髪の色
+
+> END STRING
+
+> BEGIN STRING
+オプション
+
+> END STRING
+
+> BEGIN STRING
+オプション2
+
+> END STRING
+
+> BEGIN STRING
+赤み度
+
+> END STRING
+
+> BEGIN STRING
+EV020
+
+> END STRING
+
+> BEGIN STRING
+21スラミー
+
+> END STRING
+
+> BEGIN STRING
+EV022
+
+> END STRING
+
+> BEGIN STRING
+EV023
+
+> END STRING
+
+> BEGIN STRING
+EV024
+
+> END STRING
+
+> BEGIN STRING
+25毒スラミー
+
+> END STRING
+
+> BEGIN STRING
+ <enemy:101\>
+
+> END STRING
+
+> BEGIN STRING
+26オオコウモリ
+
+> END STRING
+
+> BEGIN STRING
+ <enemy:102\>
+
+> END STRING
+
+> BEGIN STRING
+27脱力スラミー
+
+> END STRING
+
+> BEGIN STRING
+ <enemy:103\>
+
+> END STRING
+
+> BEGIN STRING
+28減速スラミー
+
+> END STRING
+
+> BEGIN STRING
+ <enemy:104\>
+
+> END STRING
+
+> BEGIN STRING
+29パーブル
+
+> END STRING
+
+> BEGIN STRING
+ <enemy:105\>
+
+> END STRING
+
+> BEGIN STRING
+30ムダボーン
+
+> END STRING
+
+> BEGIN STRING
+ <enemy:106\>
+
+> END STRING
+
+> BEGIN STRING
+31スポア
+
+> END STRING
+
+> BEGIN STRING
+ <enemy:107\>
+
+> END STRING
+
+> BEGIN STRING
+nwayAim 6 1 0 0.02 140 2 4 794
+
+> END STRING
+
+> BEGIN STRING
+EV033
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>ｵﾏｴﾉｼﾜｻﾞ　ﾀﾞﾀﾉｶ…
+
+> END STRING

@@ -1,0 +1,680 @@
+RPG MAKER MV RAW DATA
+> BEGIN STRING
+囚われのアルストロメリア
+Captured Als-to-Romeria
+> END STRING
+
+> BEGIN STRING
+両用
+Dual-use
+> END STRING
+
+> BEGIN STRING
+男性用
+Men Only
+> END STRING
+
+> BEGIN STRING
+女性用
+Girls Only
+> END STRING
+
+> BEGIN STRING
+アイリン専用
+Irin Only
+> END STRING
+
+> BEGIN STRING
+キャンティ専用
+Chianti Only
+> END STRING
+
+> BEGIN STRING
+カスタムパーツ
+Custom Parts
+> END STRING
+
+> BEGIN STRING
+愛撫
+Caress
+> END STRING
+
+> BEGIN STRING
+胸
+Breasts
+> END STRING
+
+> BEGIN STRING
+アソコ
+Pussy
+> END STRING
+
+> BEGIN STRING
+尻
+Ass
+> END STRING
+
+> BEGIN STRING
+キス
+Kiss
+> END STRING
+
+> BEGIN STRING
+その他
+Other
+> END STRING
+
+> BEGIN STRING
+魔法
+Magic
+> END STRING
+
+> BEGIN STRING
+～敵基本属性～
+
+> END STRING
+
+> BEGIN STRING
+人
+Person
+> END STRING
+
+> BEGIN STRING
+悪/エナドレ
+Evil/Energy Slave
+> END STRING
+
+> BEGIN STRING
+獣/尻尾コキ
+Beast/Tailjob
+> END STRING
+
+> BEGIN STRING
+水/ローション
+Water/Lotion
+> END STRING
+
+> BEGIN STRING
+風/風コキ
+Wind/Windjob
+> END STRING
+
+> BEGIN STRING
+虫/糸
+Insect/Thread
+> END STRING
+
+> BEGIN STRING
+草/触手
+Grass/Tentacles
+> END STRING
+
+> BEGIN STRING
+機械/オナホ
+Machine/Onnahole
+> END STRING
+
+> BEGIN STRING
+～主人公用～
+
+> END STRING
+
+> BEGIN STRING
+手コキ
+Handjob
+> END STRING
+
+> BEGIN STRING
+足コキ
+Footjob
+> END STRING
+
+> BEGIN STRING
+パイズリ
+Paizuri
+> END STRING
+
+> BEGIN STRING
+フェラ
+Fellatio
+> END STRING
+
+> BEGIN STRING
+セックス
+Sex
+> END STRING
+
+> BEGIN STRING
+尻コキ/アナルSEX
+Assjob/Anal
+> END STRING
+
+> BEGIN STRING
+キス/誘惑
+Kiss/Seduction
+> END STRING
+
+> BEGIN STRING
+脇/前立腺/その他
+Armput/Prostate/Others
+> END STRING
+
+> BEGIN STRING
+～雑魚敵属性～
+
+> END STRING
+
+> BEGIN STRING
+斬撃
+Slashing
+> END STRING
+
+> BEGIN STRING
+打撃
+Blow
+> END STRING
+
+> BEGIN STRING
+炎
+Flame
+> END STRING
+
+> BEGIN STRING
+水
+Water
+> END STRING
+
+> BEGIN STRING
+雷
+Thunder
+> END STRING
+
+> BEGIN STRING
+誘惑
+Temptation
+> END STRING
+
+> BEGIN STRING
+食べ物
+Food
+> END STRING
+
+> BEGIN STRING
+武器
+Weapon
+> END STRING
+
+> BEGIN STRING
+性具
+Sextoy
+> END STRING
+
+> BEGIN STRING
+ゴム
+Comdom
+> END STRING
+
+> BEGIN STRING
+指輪
+Ring
+> END STRING
+
+> BEGIN STRING
+装飾品
+Accessory
+> END STRING
+
+> BEGIN STRING
+スキル
+Skills
+> END STRING
+
+> BEGIN STRING
+敵の技
+Enemy skills
+> END STRING
+
+> BEGIN STRING
+行動
+Action
+> END STRING
+
+> BEGIN STRING
+投擲
+Throwing
+> END STRING
+
+> BEGIN STRING
+薬
+Medicine
+> END STRING
+
+> BEGIN STRING
+日用品
+Daily necessities
+> END STRING
+
+> BEGIN STRING
+レベル
+Level
+> END STRING
+
+> BEGIN STRING
+Lv
+Lv
+> END STRING
+
+> BEGIN STRING
+精力
+Energy
+> END STRING
+
+> BEGIN STRING
+SP
+SP
+> END STRING
+
+> BEGIN STRING
+体力
+Physical Strength
+> END STRING
+
+> BEGIN STRING
+HP
+HP
+> END STRING
+
+> BEGIN STRING
+TP
+TP
+> END STRING
+
+> BEGIN STRING
+経験値
+experience points
+> END STRING
+
+> BEGIN STRING
+EXP
+EXP
+> END STRING
+
+> BEGIN STRING
+戦う
+Fight
+> END STRING
+
+> BEGIN STRING
+逃げる
+Escape
+> END STRING
+
+> BEGIN STRING
+防御
+Defend
+> END STRING
+
+> BEGIN STRING
+アイテム
+Items
+> END STRING
+
+> BEGIN STRING
+装備
+Equipment
+> END STRING
+
+> BEGIN STRING
+ステータス
+Status
+> END STRING
+
+> BEGIN STRING
+並び替え
+Organise
+> END STRING
+
+> BEGIN STRING
+セーブ
+Save
+> END STRING
+
+> BEGIN STRING
+ゲーム終了
+Game End
+> END STRING
+
+> BEGIN STRING
+オプション
+Options
+> END STRING
+
+> BEGIN STRING
+最強装備
+Sort Strongest
+> END STRING
+
+> BEGIN STRING
+全て外す
+Remove All
+> END STRING
+
+> BEGIN STRING
+ニューゲーム
+New Game
+> END STRING
+
+> BEGIN STRING
+コンティニュー
+Continue
+> END STRING
+
+> BEGIN STRING
+タイトルへ
+To Title
+> END STRING
+
+> BEGIN STRING
+やめる
+Exit
+> END STRING
+
+> BEGIN STRING
+購入する
+Purchase
+> END STRING
+
+> BEGIN STRING
+売却する
+Sell
+> END STRING
+
+> BEGIN STRING
+最大HP
+Max HP
+> END STRING
+
+> BEGIN STRING
+最大MP
+Max MP
+> END STRING
+
+> BEGIN STRING
+攻撃力
+Attack
+> END STRING
+
+> BEGIN STRING
+防御力
+Defense
+> END STRING
+
+> BEGIN STRING
+技巧
+Technique
+> END STRING
+
+> BEGIN STRING
+精神力
+Willpower
+> END STRING
+
+> BEGIN STRING
+敏捷性
+Speed
+> END STRING
+
+> BEGIN STRING
+戦闘力
+Combat Power
+> END STRING
+
+> BEGIN STRING
+命中率
+Hit rate
+> END STRING
+
+> BEGIN STRING
+回避率
+Evasion rate
+> END STRING
+
+> BEGIN STRING
+%1には効かなかった！
+%1 wasn't effected!
+> END STRING
+
+> BEGIN STRING
+%1は %2 のダメージを受けた！
+%1 received %2 damage!
+> END STRING
+
+> BEGIN STRING
+%1は%2を %3 吸い取られた！
+%1 was drained of %3 %2! 
+> END STRING
+
+> BEGIN STRING
+%1の%2が %3 増えた！
+%1's %2 increase by %3!
+> END STRING
+
+> BEGIN STRING
+%1の%2が %3 減った！
+%1's %2 decreases by %3!
+> END STRING
+
+> BEGIN STRING
+%1はダメージを受けていない！
+%1 was not damaged!
+> END STRING
+
+> BEGIN STRING
+ミス！　%1はダメージを受けていない！
+Miss! %1 didn't recieve damage!
+> END STRING
+
+> BEGIN STRING
+%1の%2が %3 回復した！
+%1's %2 recovered by %3!
+> END STRING
+
+> BEGIN STRING
+常時ダッシュ
+Auto Dash
+> END STRING
+
+> BEGIN STRING
+BGM 音量
+BGM Volume
+> END STRING
+
+> BEGIN STRING
+BGS 音量
+BGS Volume
+> END STRING
+
+> BEGIN STRING
+%1の%2が上がった！
+%1's %2 increased!
+> END STRING
+
+> BEGIN STRING
+%1の%2が元に戻った！
+%1's %2 returned to normal!
+> END STRING
+
+> BEGIN STRING
+コマンド記憶
+Cursor Memory
+> END STRING
+
+> BEGIN STRING
+%1の反撃！
+%1 counter attacked!
+> END STRING
+
+> BEGIN STRING
+痛恨の一撃！！
+A devastating blow!!
+> END STRING
+
+> BEGIN STRING
+会心の一撃！！
+An excellent blow!!
+> END STRING
+
+> BEGIN STRING
+%1の%2が下がった！
+%1's %2 decreased!
+> END STRING
+
+> BEGIN STRING
+%1は戦いに敗れた。
+%1 was defeated.
+> END STRING
+
+> BEGIN STRING
+%1が出現！
+%1 appeared!
+> END STRING
+
+> BEGIN STRING
+%1に %2 のダメージを与えた！
+%1 recieved %2 damage!
+> END STRING
+
+> BEGIN STRING
+%1の%2を %3 吸い取った！
+%1's %2 was drained by %3!
+> END STRING
+
+> BEGIN STRING
+%1にダメージを与えられない！
+%1 was not damaged!
+> END STRING
+
+> BEGIN STRING
+ミス！　%1にダメージを与えられない！
+Miss! %1 couldn't be damagd!
+> END STRING
+
+> BEGIN STRING
+しかし逃げることはできなかった！
+But you couldn't escape!
+> END STRING
+
+> BEGIN STRING
+%1は逃げ出した！
+%1 escaped!
+> END STRING
+
+> BEGIN STRING
+%1は攻撃をかわした！
+%1 dodged the attack!
+> END STRING
+
+> BEGIN STRING
+次の%1まで
+Until next %1 
+> END STRING
+
+> BEGIN STRING
+現在の%1
+Current %1
+> END STRING
+
+> BEGIN STRING
+ファイル
+File
+> END STRING
+
+> BEGIN STRING
+%1は%2 %3 に上がった！
+%1 went up to %2 %3!
+> END STRING
+
+> BEGIN STRING
+どのファイルをロードしますか？
+Which file would you like to load?
+> END STRING
+
+> BEGIN STRING
+%1は魔法を打ち消した！
+
+> END STRING
+
+> BEGIN STRING
+%1は魔法を跳ね返した！
+
+> END STRING
+
+> BEGIN STRING
+ME 音量
+MS Volume
+> END STRING
+
+> BEGIN STRING
+%1 の%2を獲得！
+
+> END STRING
+
+> BEGIN STRING
+お金を %1\\G 手に入れた！
+Obtained %1\\G!
+> END STRING
+
+> BEGIN STRING
+%1を手に入れた！
+
+> END STRING
+
+> BEGIN STRING
+%1を覚えた！
+Learned %1!
+> END STRING
+
+> BEGIN STRING
+%1たち
+
+> END STRING
+
+> BEGIN STRING
+持っている数
+
+> END STRING
+
+> BEGIN STRING
+%1は先手を取った！
+
+> END STRING
+
+> BEGIN STRING
+どのファイルにセーブしますか？
+Which file would you like to save to?
+> END STRING
+
+> BEGIN STRING
+SE 音量
+SE Volume
+> END STRING
+
+> BEGIN STRING
+%1が%2をかばった！
+
+> END STRING
+
+> BEGIN STRING
+%1は不意をつかれた！
+%1 was caught off guard!
+> END STRING
+
+> BEGIN STRING
+%1は%2を使った！
+%1 used a %2!
+> END STRING
+
+> BEGIN STRING
+%1の勝利！
+%1 was victorious!
+> END STRING

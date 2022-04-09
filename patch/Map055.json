@@ -1,0 +1,316 @@
+RPG MAKER MV RAW DATA
+> BEGIN STRING
+スイーパーA
+
+> END STRING
+
+> BEGIN STRING
+ <enemy:111\>
+
+> END STRING
+
+> BEGIN STRING
+nwayAim 1 40 0 0.2 100 4 39 791
+
+> END STRING
+
+> BEGIN STRING
+スイーパー
+
+> END STRING
+
+> BEGIN STRING
+自動実行
+
+> END STRING
+
+> BEGIN STRING
+やみいち
+
+> END STRING
+
+> BEGIN STRING
+ <enemy:99\>
+
+> END STRING
+
+> BEGIN STRING
+\\n<露天商\>いらっしゃい♪
+何かお花をお探しかしら。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アイリン\>サキュバステイルって植物を探してるんですけど・・・
+
+> END STRING
+
+> BEGIN STRING
+\\n<露天商\>あ～、サキュバステイルかぁ。
+私も一度見てみたくて探してるんだけど、全然。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アイリン\>そうですか・・・
+お花屋さんでも見つけられないんですね。
+
+> END STRING
+
+> BEGIN STRING
+\\n<露天商\>淫魔がこの世界に現れるようになって生まれた新種らしいの。
+おそらく、彼女らの魔力が植物に何らかの影響を与えているのね。
+
+> END STRING
+
+> BEGIN STRING
+\\n<露天商\>ところであなた達、冒険者？
+なんだか新米って感じね。
+レコシードは持ってる？
+
+> END STRING
+
+> BEGIN STRING
+\\n<クマリ\>ん？レコシードってなんだ？
+
+> END STRING
+
+> BEGIN STRING
+\\n<露天商\>レコシードは別名\\C[3]『音を蓄える種』\\C[0]って言ってね、
+発芽する前に溜めた音を放出して
+動物に食べられないよう、脅かす特徴があるの。
+
+> END STRING
+
+> BEGIN STRING
+\\n<露天商\>つまり\\C[3]『音を記録して残す』\\C[0]ことが出来るの。
+声を吹き込んで誰かにメッセージを伝えたり、
+歌や音楽を記録して好きな時に聞けるのよ。
+
+> END STRING
+
+> BEGIN STRING
+\\n<露天商\>記録する時は、種を指でグッとつまんで音を聞かせる。
+再生する時は、湿ったハンカチで包んで手のひらで暖める。
+冒険の必需品よ。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アイリン\>面白そう！
+種の中に言葉を残しておけるんですね！！
+すごい！やってみたい！！
+
+> END STRING
+
+> BEGIN STRING
+\\n<露天商\>はい、これ手のひらで暖めてみて。
+
+> END STRING
+
+> BEGIN STRING
+\\n<レコシード\>面白そう！
+種の中に言葉を残しておけるんですね！！
+すごい！やってみたい！！
+
+> END STRING
+
+> BEGIN STRING
+\\n<フリオ\>うぉぉぉぉ！！ほんとだ！！
+アイリンの声だ！！
+種が喋った！！魔法みたいだ！！
+
+> END STRING
+
+> BEGIN STRING
+\\n<ユイネ\>わぁ！！種が喋った！！
+ほんとだ！！これアイリンの声だよ！！
+魔法みたい！！
+
+> END STRING
+
+> BEGIN STRING
+\\n<アイリン\>え・・・
+私こんな変な声なんですか・・・？
+なんかちょっと、ショック・・・
+
+> END STRING
+
+> BEGIN STRING
+\\n<露天商\>あはは、自分の声って変な風に聞こえるからね。
+はいこれ、握ってみて。
+
+> END STRING
+
+> BEGIN STRING
+\\n<レコシード\>うぉぉぉぉ！！ほんとだ！！
+アイリンの声だ！！
+種が喋った！！魔法みたいだ！！
+
+> END STRING
+
+> BEGIN STRING
+\\n<クマリ\>おぉ！今度はフリオの声だ！！
+忠実に再現されている！！
+息継ぎまで、完璧だ！！
+
+> END STRING
+
+> BEGIN STRING
+\\n<レコシード\>わぁ！！種が喋った！！
+ほんとだ！！これアイリンの声だよ！！
+魔法みたい！！
+
+> END STRING
+
+> BEGIN STRING
+\\n<クマリ\>おぉ！今度はユイネの声だ！！
+忠実に再現されている！！
+息継ぎまで、完璧だ！！
+
+> END STRING
+
+> BEGIN STRING
+\\n<フリオ\>え・・・
+俺ってこんな変な声なのか・・・？
+なんかちょっと、ショック・・・
+
+> END STRING
+
+> BEGIN STRING
+\\n<ユイネ\>え・・・
+私って、こんな変な声だったの・・・？
+なんかちょっと、ショック・・・
+
+> END STRING
+
+> BEGIN STRING
+\\n<露天商\>身体の中から聞こえる声と外から聞こえる声じゃ
+違って聞こえるものなのよ。
+はい、じゃあ次。
+
+> END STRING
+
+> BEGIN STRING
+\\n<レコシード\>おぉ！今度はフリオの声だ！！
+忠実に再現されている！！
+息継ぎまで、完璧だ！！
+
+> END STRING
+
+> BEGIN STRING
+\\n<レコシード\>おぉ！今度はユイネの声だ！！
+忠実に再現されている！！
+息継ぎまで、完璧だ！！
+
+> END STRING
+
+> BEGIN STRING
+\\n<クマリ\>え・・・
+俺こんな変な声をしているのか・・・？
+なんかちょっと、ショック・・・
+
+> END STRING
+
+> BEGIN STRING
+\\n<露天商\>みんな同じリアクションなのね。
+
+> END STRING
+
+> BEGIN STRING
+\\n<露天商\>これサービス。
+よかったら使ってみて。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アイリン\>わぁ！
+ありがとうございます！
+
+> END STRING
+
+> BEGIN STRING
+\\n<露天商\>暖め過ぎると芽が出ちゃうから、気を付けてね。
+芽が出るともう使えなくなるけど、
+出る前なら何回でも聞きなおせるから。
+
+> END STRING
+
+> BEGIN STRING
+\\n<露天商\>私も若い頃は旦那とレコシードでやり取りしてたわ。
+親の目を盗んで、コッソリ種を渡して・・・ふふ♥
+プロポーズもコレだったのよ。
+
+> END STRING
+
+> BEGIN STRING
+\\n<露天商\>ある日、家に帰ってわくわくしながら再生したら
+『窓の外を見て』って。
+窓の外を見たら、花束を持った彼が立ってたの。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アイリン\>わぁ、素敵です・・・♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<アイリン\>はわわ♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<ユイネ\>え、ちょっとまって・・・
+尊い・・・♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<露天商\>種を握ったまま放心状態よ。
+嬉しくて泣いてたらそのまま発芽しちゃって、
+もう二度と聞けなくなっちゃった。
+
+> END STRING
+
+> BEGIN STRING
+\\n<露天商\>でもいいの。
+ずっと心に残ってるもの。
+目を閉じれば、何度だって再生できるわ。
+
+> END STRING
+
+> BEGIN STRING
+\\n<露天商\>あ、ちなみにレコの花は天ぷらにすると美味しいわよ。
+間違えて咲かせちゃったら食べてみてね。
+
+> END STRING
+
+> BEGIN STRING
+\\n<クマリ\>食ったんかい。
+
+> END STRING
+
+> BEGIN STRING
+\\n<ユイネ\>素敵なエピソードですね♥
+・・・♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<ユイネ\>覚えたか\\n[1]。
+女の子はこういうの好きなんだぞ。
+剣ばっか振ってないで勉強しろ。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アイリン\>勉強してください。
+
+> END STRING
+
+> BEGIN STRING
+\\n<露天商\>危ないなぁ。
+あなた達の田舎じゃ、それが挨拶なの？
+
+> END STRING
