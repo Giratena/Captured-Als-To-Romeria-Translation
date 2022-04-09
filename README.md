@@ -11,8 +11,10 @@ your current one!
 
 << How to use the translation files >>
 -------------------------------------------
-TBA
-These translation files were made in Translator++
+The translation files are located in the data folder of this repository. Inside are .json files that contain the translation.
+
+You are free fork this translation and edit it's contents
+in a text editor (I reccomend notepad++) to help out with the translation! Once you're done, create a pull request and I'll merge it with the main translation!
 
 -------------------------------------------
 Enjoy these kinds of things? Check out our translation discord here! https://discord.gg/QJppHcu
