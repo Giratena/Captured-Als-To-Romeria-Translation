@@ -1,0 +1,3853 @@
+RPG MAKER MV RAW DATA
+> BEGIN STRING
+降竜剣
+Dragon sword
+> END STRING
+
+> BEGIN STRING
+ドラゴンの力を纏わせた大剣
+斬撃　3方向短　隙45　貫通
+A large sword with the power of a dragon
+Slashing 3 directions short gap 45 penetration
+> END STRING
+
+> BEGIN STRING
+<shotWay:3\>
+<shotSpace:0.3\>
+<shotCount:20\>
+<shotSpeed:0.2\>
+<shotInterval:45\>
+<shotType:4\>
+<shotIndex:35\>
+<shotSkill:801\>
+<shotSeName:Sword4\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+<shotWay:3\>
+<shotSpace:0.3\>
+<shotCount:20\>
+<shotSpeed:0.2\>
+<shotInterval:45\>
+<shotType:4\>
+<shotIndex:35\>
+<shotSkill:801\>
+<shotSeName:Sword4\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+> END STRING
+
+> BEGIN STRING
+お皿フリスビー
+Plate frisbee
+> END STRING
+
+> BEGIN STRING
+ひびが入って使い物にならない皿
+打撃　2方向長　隙40
+A dish that is cracked and unusable
+Blow 2-way length gap 40
+> END STRING
+
+> BEGIN STRING
+<shotWay:2\>
+<shotSpace:0.3\>
+<shotCount:30\>
+<shotSpeed:0.3\>
+<shotInterval:40\>
+<shotType:4\>
+<shotIndex:17\>
+<shotSkill:807\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+<shotWay:2\>
+<shotSpace:0.3\>
+<shotCount:30\>
+<shotSpeed:0.3\>
+<shotInterval:40\>
+<shotType:4\>
+<shotIndex:17\>
+<shotSkill:807\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+> END STRING
+
+> BEGIN STRING
+リンゴ
+Apple
+> END STRING
+
+> BEGIN STRING
+当たると痛い
+打撃　1方向長　隙40
+It hurts when hit
+Blow 1 direction long gap 40
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:40\>
+<shotSpeed:0.2\>
+<shotInterval:40\>
+<shotType:3\>
+<shotIndex:34\>
+<shotSkill:799\>
+<shotSeName:Wind7\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:40\>
+<shotSpeed:0.2\>
+<shotInterval:40\>
+<shotType:3\>
+<shotIndex:34\>
+<shotSkill:799\>
+<shotSeName:Wind7\>
+> END STRING
+
+> BEGIN STRING
+失敗作
+Failure work
+> END STRING
+
+> BEGIN STRING
+錬金に失敗して出来た身体に悪そうな薬
+水　1方向長　隙35
+A drug that seems to be harmful to the body made by failing alchemy
+Water 1 direction long gap 35
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:40\>
+<shotSpeed:0.2\>
+<shotInterval:35\>
+<shotType:3\>
+<shotIndex:25\>
+<shotSkill:804\>
+<shotSeName:Wind7\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:40\>
+<shotSpeed:0.2\>
+<shotInterval:35\>
+<shotType:3\>
+<shotIndex:25\>
+<shotSkill:804\>
+<shotSeName:Wind7\>
+> END STRING
+
+> BEGIN STRING
+ハリルの剣
+Haril's sword
+> END STRING
+
+> BEGIN STRING
+亡き父の愛用した剣　よく手入れされている
+斬撃　2方向短　隙40　貫通
+The sword used by his late father is well maintained
+Slashing 2-way short gap 40 penetration
+> END STRING
+
+> BEGIN STRING
+<shotWay:2\>
+<shotSpace:0.1\>
+<shotCount:15\>
+<shotSpeed:0.25\>
+<shotInterval:40\>
+<shotType:4\>
+<shotIndex:34\>
+<shotSkill:817\>
+<shotSeName:Sword4\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+<shotWay:2\>
+<shotSpace:0.1\>
+<shotCount:15\>
+<shotSpeed:0.25\>
+<shotInterval:40\>
+<shotType:4\>
+<shotIndex:34\>
+<shotSkill:817\>
+<shotSeName:Sword4\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+> END STRING
+
+> BEGIN STRING
+ベアスロー
+Bear throw
+> END STRING
+
+> BEGIN STRING
+クマリを投げる
+打撃　1方向長　隙120
+Throw Kumari
+Hitting 1 direction long gap 120
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:60\>
+<shotSpeed:0.15\>
+<shotInterval:120\>
+<shotType:4\>
+<shotIndex:22\>
+<shotSkill:803\>
+<shotSeName:Wind7\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:60\>
+<shotSpeed:0.15\>
+<shotInterval:120\>
+<shotType:4\>
+<shotIndex:22\>
+<shotSkill:803\>
+<shotSeName:Wind7\>
+> END STRING
+
+> BEGIN STRING
+試験管
+Test tube
+> END STRING
+
+> BEGIN STRING
+毒薬を詰めた試験管をばらまく
+水　5方向長　隙60
+Disperse test tubes filled with poison
+Water 5 directions long gap 60
+> END STRING
+
+> BEGIN STRING
+<shotWay:5\>
+<shotSpace:0.3\>
+<shotCount:40\>
+<shotSpeed:0.2\>
+<shotInterval:40\>
+<shotType:3\>
+<shotIndex:29\>
+<shotSkill:804\>
+<shotWay:5\>
+<shotSpace:0.3\>
+<shotCount:40\>
+<shotSpeed:0.2\>
+<shotInterval:40\>
+<shotType:3\>
+<shotIndex:29\>
+<shotSkill:804\>
+> END STRING
+
+> BEGIN STRING
+踊り子の扇子
+Dancer fan
+> END STRING
+
+> BEGIN STRING
+踊りながら扇子をばらまく
+誘惑　9方向長　隙100
+Scatter the fan while dancing
+Temptation 9 directions long gap 100
+> END STRING
+
+> BEGIN STRING
+<shotWay:9\>
+<shotSpace:0.7\>
+<shotCount:40\>
+<shotSpeed:0.1\>
+<shotInterval:100\>
+<shotType:3\>
+<shotIndex:39\>
+<shotSkill:806\>
+<shotWay:9\>
+<shotSpace:0.7\>
+<shotCount:40\>
+<shotSpeed:0.1\>
+<shotInterval:100\>
+<shotType:3\>
+<shotIndex:39\>
+<shotSkill:806\>
+> END STRING
+
+> BEGIN STRING
+スカーレットリップ
+Scarlet trip
+> END STRING
+
+> BEGIN STRING
+投げキッスで敵を興奮させる
+誘惑　2方向　隙30
+Excite the enemy with a throwing kiss
+Temptation 2 directions gap 30
+> END STRING
+
+> BEGIN STRING
+<shotWay:2\>
+<shotSpace:0.5\>
+<shotCount:40\>
+<shotSpeed:0.1\>
+<shotInterval:30\>
+<shotType:3\>
+<shotIndex:40\>
+<shotSkill:806\>
+<shotSeName:lip00\>
+<shotWay:2\>
+<shotSpace:0.5\>
+<shotCount:40\>
+<shotSpeed:0.1\>
+<shotInterval:30\>
+<shotType:3\>
+<shotIndex:40\>
+<shotSkill:806\>
+<shotSeName:lip00\>
+> END STRING
+
+> BEGIN STRING
+～斬撃系武器～
+~ Slashing weapons ~
+> END STRING
+
+> BEGIN STRING
+フェザーソード
+Feather sword
+> END STRING
+
+> BEGIN STRING
+羽のように軽い剣
+斬撃　3方向長　隙30
+A sword as light as a feather
+Slashing 3 directions long gap 30
+> END STRING
+
+> BEGIN STRING
+<shotWay:3\>
+<shotSpace:0.5\>
+<shotCount:30\>
+<shotSpeed:0.3\>
+<shotInterval:45\>
+<shotType:4\>
+<shotIndex:36\>
+<shotSkill:811\>
+<shotSeName:Sword4\>
+<shotWay:3\>
+<shotSpace:0.5\>
+<shotCount:30\>
+<shotSpeed:0.3\>
+<shotInterval:45\>
+<shotType:4\>
+<shotIndex:36\>
+<shotSkill:811\>
+<shotSeName:Sword4\>
+> END STRING
+
+> BEGIN STRING
+鉄の剣
+Iron sword
+> END STRING
+
+> BEGIN STRING
+サントリナ製の安物量産品
+斬撃　3方向短　隙45　貫通
+Cheap mass-produced products made in Santolina
+Slashing 3 directions short gap 45 penetration
+> END STRING
+
+> BEGIN STRING
+<shotWay:3\>
+<shotSpace:0.4\>
+<shotCount:20\>
+<shotSpeed:0.2\>
+<shotInterval:45\>
+<shotType:4\>
+<shotIndex:35\>
+<shotSkill:801\>
+<shotSeName:Sword4\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+<shotWay:3\>
+<shotSpace:0.4\>
+<shotCount:20\>
+<shotSpeed:0.2\>
+<shotInterval:45\>
+<shotType:4\>
+<shotIndex:35\>
+<shotSkill:801\>
+<shotSeName:Sword4\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+> END STRING
+
+> BEGIN STRING
+果物ナイフ
+Fruit Knife
+> END STRING
+
+> BEGIN STRING
+リンゴの皮を向くナイフ
+斬撃　1方向長　隙30
+A knife used to cut fruit.
+Slashing. 30% crit chance.
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:20\>
+<shotSpeed:0.5\>
+<shotInterval:30\>
+<shotType:3\>
+<shotIndex:0\>
+<shotSkill:802\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:20\>
+<shotSpeed:0.5\>
+<shotInterval:30\>
+<shotType:3\>
+<shotIndex:0\>
+<shotSkill:802\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+> END STRING
+
+> BEGIN STRING
+設置型爆弾
+Stationary bomb
+> END STRING
+
+> BEGIN STRING
+敵が踏むと爆発する爆弾
+炎　設置　隙50
+A bomb that explodes when an enemy steps on it
+Flame installation gap 50
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.5\>
+<shotCount:200\>
+<shotSpeed:0.0\>
+<shotInterval:50\>
+<shotType:3\>
+<shotIndex:36\>
+<shotSkill:808\>
+<shotSeName:key\>
+<shotWay:1\>
+<shotSpace:0.5\>
+<shotCount:200\>
+<shotSpeed:0.0\>
+<shotInterval:50\>
+<shotType:3\>
+<shotIndex:36\>
+<shotSkill:808\>
+<shotSeName:key\>
+> END STRING
+
+> BEGIN STRING
+ピアノ
+piano
+> END STRING
+
+> BEGIN STRING
+ピアノは打楽器
+打撃　1方向短　隙200
+Piano is a percussion instrument
+Blow 1 direction short gap 200
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.15\>
+<shotCount:60\>
+<shotSpeed:0.10\>
+<shotInterval:200\>
+<shotType:5\>
+<shotIndex:17\>
+<shotSkill:809\>
+<shotSeName:chest1\>
+<shotWay:1\>
+<shotSpace:0.15\>
+<shotCount:60\>
+<shotSpeed:0.10\>
+<shotInterval:200\>
+<shotType:5\>
+<shotIndex:17\>
+<shotSkill:809\>
+<shotSeName:chest1\>
+> END STRING
+
+> BEGIN STRING
+投げ槍
+Javelin
+> END STRING
+
+> BEGIN STRING
+適当に投げてはいけない
+斬撃　1方向長　隙60　貫通
+Don't throw properly
+Slashing 1-way long gap 60 penetration
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:30\>
+<shotSpeed:0.25\>
+<shotInterval:60\>
+<shotType:4\>
+<shotIndex:6\>
+<shotSkill:813\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:50\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:30\>
+<shotSpeed:0.25\>
+<shotInterval:60\>
+<shotType:4\>
+<shotIndex:6\>
+<shotSkill:813\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:50\>
+> END STRING
+
+> BEGIN STRING
+光の槍
+Spear of light
+> END STRING
+
+> BEGIN STRING
+サテライトレーザー！
+炎　1方向長　隙60
+Satellite laser!
+Flame 1-way long gap 60
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:20\>
+<shotSpeed:0.4\>
+<shotInterval:45\>
+<shotType:5\>
+<shotIndex:7\>
+<shotSkill:812\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:50\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:20\>
+<shotSpeed:0.4\>
+<shotInterval:45\>
+<shotType:5\>
+<shotIndex:7\>
+<shotSkill:812\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:50\>
+> END STRING
+
+> BEGIN STRING
+ユビフエール
+Ubifueru
+> END STRING
+
+> BEGIN STRING
+一時的に指が2、3本増える薬
+味方に当てると一時的に球数が増える
+A drug that temporarily increases the number of fingers by a few
+If you hit an ally, the number of balls will increase temporarily
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:100\>
+<shotSpeed:0.2\>
+<shotInterval:40\>
+<shotType:3\>
+<shotIndex:34\>
+<shotSkill:815\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:100\>
+<shotSpeed:0.2\>
+<shotInterval:40\>
+<shotType:3\>
+<shotIndex:34\>
+<shotSkill:815\>
+> END STRING
+
+> BEGIN STRING
+ビッグクマリ
+Big Kumari
+> END STRING
+
+> BEGIN STRING
+クマリが巨大化して敵を切り刻む
+斬撃　1方向短い　隙200
+Kumari becomes huge and chops the enemy
+Slashing 1 direction short gap 200
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.2\>
+<shotCount:30\>
+<shotSpeed:0.1\>
+<shotInterval:200\>
+<shotType:5\>
+<shotIndex:23\>
+<shotSkill:805\>
+<shotSeName:Monster6\>
+<shotWay:1\>
+<shotSpace:0.2\>
+<shotCount:30\>
+<shotSpeed:0.1\>
+<shotInterval:200\>
+<shotType:5\>
+<shotIndex:23\>
+<shotSkill:805\>
+<shotSeName:Monster6\>
+> END STRING
+
+> BEGIN STRING
+火の魔導書没
+Fire spellbook death
+> END STRING
+
+> BEGIN STRING
+ぷちファイアの魔法が使えるようになる超初級魔導書
+炎　2方向短　隙45
+A super-beginner spellbook that allows you to use the magic of Petit Fire
+Flame 2-way short gap 45
+> END STRING
+
+> BEGIN STRING
+<shotWay:2\>
+<shotSpace:0.3\>
+<shotCount:20\>
+<shotSpeed:0.2\>
+<shotInterval:45\>
+<shotType:4\>
+<shotIndex:39\>
+<shotSkill:818\>
+<shotSeName:Fire1\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+<shotWay:2\>
+<shotSpace:0.3\>
+<shotCount:20\>
+<shotSpeed:0.2\>
+<shotInterval:45\>
+<shotType:4\>
+<shotIndex:39\>
+<shotSkill:818\>
+<shotSeName:Fire1\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+> END STRING
+
+> BEGIN STRING
+雷の魔導書没
+Thunder spellbook death
+> END STRING
+
+> BEGIN STRING
+サンダーの魔法が使えるようになる初級魔導書
+雷　1方向長　隙45　貫通
+A beginner's spellbook that allows you to use Thunder's magic
+Lightning 1-way long gap 45 penetration
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:40\>
+<shotSpeed:0.5\>
+<shotInterval:45\>
+<shotType:4\>
+<shotIndex:35\>
+<shotSkill:819\>
+<shotSeName:Thunder3\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:40\>
+<shotSpeed:0.5\>
+<shotInterval:45\>
+<shotType:4\>
+<shotIndex:35\>
+<shotSkill:819\>
+<shotSeName:Thunder3\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+> END STRING
+
+> BEGIN STRING
+水の魔導書没
+Water spellbook death
+> END STRING
+
+> BEGIN STRING
+スプラッシュの魔法が使えるようになる初級魔導書
+水　5方向短　隙45
+A beginner's spellbook that allows you to use the magic of splash
+Water 5 directions short gap 45
+> END STRING
+
+> BEGIN STRING
+<shotWay:5\>
+<shotSpace:0.6\>
+<shotCount:20\>
+<shotSpeed:0.2\>
+<shotInterval:45\>
+<shotType:4\>
+<shotIndex:38\>
+<shotSkill:820\>
+<shotSeName:Water1\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+<shotWay:5\>
+<shotSpace:0.6\>
+<shotCount:20\>
+<shotSpeed:0.2\>
+<shotInterval:45\>
+<shotType:4\>
+<shotIndex:38\>
+<shotSkill:820\>
+<shotSeName:Water1\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+> END STRING
+
+> BEGIN STRING
+プリンキピア
+Principia
+> END STRING
+
+> BEGIN STRING
+自然の理を数学的に解いた本
+水　8方向短　隙40
+A book that mathematically solves the reason of nature
+Water 8 directions short gap 40
+> END STRING
+
+> BEGIN STRING
+<shotWay:8\>
+<shotSpace:0.7\>
+<shotCount:20\>
+<shotSpeed:0.2\>
+<shotInterval:40\>
+<shotType:4\>
+<shotIndex:38\>
+<shotSkill:820\>
+<shotSeName:Water1\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+<shotWay:8\>
+<shotSpace:0.7\>
+<shotCount:20\>
+<shotSpeed:0.2\>
+<shotInterval:40\>
+<shotType:4\>
+<shotIndex:38\>
+<shotSkill:820\>
+<shotSeName:Water1\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+> END STRING
+
+> BEGIN STRING
+炎の魔導書没
+The magical book of fire
+> END STRING
+
+> BEGIN STRING
+ファイアの魔法が使えるようになる初級魔導書
+炎　3方向短　隙45
+A beginner's spellbook that allows you to use the magic of fire
+Flame 3 direction short gap 45
+> END STRING
+
+> BEGIN STRING
+<shotWay:3\>
+<shotSpace:0.3\>
+<shotCount:20\>
+<shotSpeed:0.2\>
+<shotInterval:45\>
+<shotType:4\>
+<shotIndex:39\>
+<shotSkill:818\>
+<shotSeName:Fire1\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+<shotWay:3\>
+<shotSpace:0.3\>
+<shotCount:20\>
+<shotSpeed:0.2\>
+<shotInterval:45\>
+<shotType:4\>
+<shotIndex:39\>
+<shotSkill:818\>
+<shotSeName:Fire1\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+> END STRING
+
+> BEGIN STRING
+シューティングナイフ
+Shooting knife
+> END STRING
+
+> BEGIN STRING
+4方向にばらまくナイフ
+斬撃　4方向　隙40
+Knife scattered in 4 directions
+Slashing 4 directions gap 40
+> END STRING
+
+> BEGIN STRING
+<shotWay:4\>
+<shotSpace:0.5\>
+<shotCount:15\>
+<shotSpeed:0.5\>
+<shotInterval:40\>
+<shotType:3\>
+<shotIndex:0\>
+<shotSkill:802\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+<shotWay:4\>
+<shotSpace:0.5\>
+<shotCount:15\>
+<shotSpeed:0.5\>
+<shotInterval:40\>
+<shotType:3\>
+<shotIndex:0\>
+<shotSkill:802\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+> END STRING
+
+> BEGIN STRING
+暗黒魔法ダークネスエッジ
+Dark magic darkness edge
+> END STRING
+
+> BEGIN STRING
+ただし魔法は尻から出る
+斬撃　1方向短　後方　隙45
+However, the magic comes out of the butt
+Slashing one-way short, rear gap 45
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:20\>
+<shotSpeed:-0.2\>
+<shotInterval:45\>
+<shotType:5\>
+<shotIndex:35\>
+<shotSkill:821\>
+<shotSeName:Darkness3\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:20\>
+<shotSpeed:-0.2\>
+<shotInterval:45\>
+<shotType:5\>
+<shotIndex:35\>
+<shotSkill:821\>
+<shotSeName:Darkness3\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+> END STRING
+
+> BEGIN STRING
+ハンドアックス
+Hand ax
+> END STRING
+
+> BEGIN STRING
+持ちやすいけど重たい斧
+斬撃　1方向短　隙60
+Easy to hold but heavy ax
+Slashing 1-way short gap 60
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:20\>
+<shotSpeed:0.20\>
+<shotInterval:60\>
+<shotType:3\>
+<shotIndex:2\>
+<shotSkill:822\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:50\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:20\>
+<shotSpeed:0.20\>
+<shotInterval:60\>
+<shotType:3\>
+<shotIndex:2\>
+<shotSkill:822\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:50\>
+> END STRING
+
+> BEGIN STRING
+バトルアックス
+Battle ax
+> END STRING
+
+> BEGIN STRING
+筋肉系の戦士が好む戦いの為の斧
+斬撃　1方向短　隙60
+Ax for battle preferred by muscular warriors
+Slashing 1-way short gap 60
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:20\>
+<shotSpeed:0.20\>
+<shotInterval:60\>
+<shotType:3\>
+<shotIndex:10\>
+<shotSkill:822\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:50\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:20\>
+<shotSpeed:0.20\>
+<shotInterval:60\>
+<shotType:3\>
+<shotIndex:10\>
+<shotSkill:822\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:50\>
+> END STRING
+
+> BEGIN STRING
+ヘビーアックス
+Heavy ax
+> END STRING
+
+> BEGIN STRING
+持ち上げるので精一杯な斧
+斬撃　1方向短　隙90
+I will lift it so I can do my best
+Slashing 1-way short gap 90
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:20\>
+<shotSpeed:0.20\>
+<shotInterval:90\>
+<shotType:4\>
+<shotIndex:11\>
+<shotSkill:823\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:50\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:20\>
+<shotSpeed:0.20\>
+<shotInterval:90\>
+<shotType:4\>
+<shotIndex:11\>
+<shotSkill:823\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:50\>
+> END STRING
+
+> BEGIN STRING
+雷撃の斧
+Lightning ax
+> END STRING
+
+> BEGIN STRING
+重たい上に痺れる斧
+雷　1方向短　隙90　貫通
+Heavy and numbing ax
+Lightning 1-way short gap 90 penetration
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:20\>
+<shotSpeed:0.20\>
+<shotInterval:90\>
+<shotType:4\>
+<shotIndex:13\>
+<shotSkill:824\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:50\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:20\>
+<shotSpeed:0.20\>
+<shotInterval:90\>
+<shotType:4\>
+<shotIndex:13\>
+<shotSkill:824\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:50\>
+> END STRING
+
+> BEGIN STRING
+巨人の斧
+Giant ax
+> END STRING
+
+> BEGIN STRING
+人の背丈より大きな巨人用の斧
+斬撃　1方向短　隙120
+An ax for giants larger than a person's height
+Slashing 1-way short gap 120
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:20\>
+<shotSpeed:0.20\>
+<shotInterval:120\>
+<shotType:5\>
+<shotIndex:11\>
+<shotSkill:822\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:50\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:20\>
+<shotSpeed:0.20\>
+<shotInterval:120\>
+<shotType:5\>
+<shotIndex:11\>
+<shotSkill:822\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:50\>
+> END STRING
+
+> BEGIN STRING
+審判の斧
+Referee's ax
+> END STRING
+
+> BEGIN STRING
+幾多の罪を半分にしてきた斧
+斬撃　1方向短　隙180
+An ax that has halved many sins
+Slashing 1-way short gap 180
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:20\>
+<shotSpeed:0.20\>
+<shotInterval:180\>
+<shotType:5\>
+<shotIndex:13\>
+<shotSkill:823\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:50\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:20\>
+<shotSpeed:0.20\>
+<shotInterval:180\>
+<shotType:5\>
+<shotIndex:13\>
+<shotSkill:823\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:50\>
+> END STRING
+
+> BEGIN STRING
+手裏剣
+Shuriken
+> END STRING
+
+> BEGIN STRING
+忍びの者が愛用する飛び道具
+斬撃　3方向長　隙20
+Projectiles used by Shinobi no Mono
+Slashing 3 directions long gap 20
+> END STRING
+
+> BEGIN STRING
+<shotWay:3\>
+<shotSpace:0.3\>
+<shotCount:20\>
+<shotSpeed:0.5\>
+<shotInterval:20\>
+<shotType:3\>
+<shotIndex:14\>
+<shotSkill:802\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+<shotWay:3\>
+<shotSpace:0.3\>
+<shotCount:20\>
+<shotSpeed:0.5\>
+<shotInterval:20\>
+<shotType:3\>
+<shotIndex:14\>
+<shotSkill:802\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+> END STRING
+
+> BEGIN STRING
+短剣
+dagger
+> END STRING
+
+> BEGIN STRING
+設計ミスで短くなり過ぎた剣
+斬撃　1方向長　隙30
+A sword that has become too short due to a design mistake
+Slashing 1 direction long gap 30
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:20\>
+<shotSpeed:0.5\>
+<shotInterval:30\>
+<shotType:3\>
+<shotIndex:9\>
+<shotSkill:802\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:20\>
+<shotSpeed:0.5\>
+<shotInterval:30\>
+<shotType:3\>
+<shotIndex:9\>
+<shotSkill:802\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+> END STRING
+
+> BEGIN STRING
+ビースピア
+Bee Spear
+> END STRING
+
+> BEGIN STRING
+投げやすい小さな槍
+斬撃　2方向長　隙40　貫通
+A small spear that is easy to throw
+Slashing 2 directions long gap 40 penetration
+> END STRING
+
+> BEGIN STRING
+<shotWay:2\>
+<shotSpace:0.3\>
+<shotCount:20\>
+<shotSpeed:0.4\>
+<shotInterval:40\>
+<shotType:3\>
+<shotIndex:8\>
+<shotSkill:813\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+<shotWay:2\>
+<shotSpace:0.3\>
+<shotCount:20\>
+<shotSpeed:0.4\>
+<shotInterval:40\>
+<shotType:3\>
+<shotIndex:8\>
+<shotSkill:813\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+> END STRING
+
+> BEGIN STRING
+フォーク
+fork
+> END STRING
+
+> BEGIN STRING
+先が二股に分かれた投げやり
+斬撃　1方向長　隙45
+Throwing with a bifurcated tip
+Slashing 1-way length gap 45
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:25\>
+<shotSpeed:0.4\>
+<shotInterval:45\>
+<shotType:3\>
+<shotIndex:12\>
+<shotSkill:802\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:25\>
+<shotSpeed:0.4\>
+<shotInterval:45\>
+<shotType:3\>
+<shotIndex:12\>
+<shotSkill:802\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+> END STRING
+
+> BEGIN STRING
+通販のナイフ
+Mail order knife
+> END STRING
+
+> BEGIN STRING
+一本買ったら同じものが二本ついてきた
+斬撃　1方向長　隙30
+When I bought one, two of the same ones came with me
+Slashing 1 direction long gap 30
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:20\>
+<shotSpeed:0.5\>
+<shotInterval:30\>
+<shotType:4\>
+<shotIndex:9\>
+<shotSkill:810\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:20\>
+<shotSpeed:0.5\>
+<shotInterval:30\>
+<shotType:4\>
+<shotIndex:9\>
+<shotSkill:810\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+> END STRING
+
+> BEGIN STRING
+トライエッジ
+Tri-edge
+> END STRING
+
+> BEGIN STRING
+三本一組で確実に相手をしとめる剣
+斬撃　1方向長　隙30
+A sword that surely stops the opponent with a set of three
+Slashing 1 direction long gap 30
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:20\>
+<shotSpeed:0.4\>
+<shotInterval:30\>
+<shotType:4\>
+<shotIndex:15\>
+<shotSkill:810\>
+<shotSeName:Sword3\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:20\>
+<shotSpeed:0.4\>
+<shotInterval:30\>
+<shotType:4\>
+<shotIndex:15\>
+<shotSkill:810\>
+<shotSeName:Sword3\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+> END STRING
+
+> BEGIN STRING
+流星の剣
+Meteor sword
+> END STRING
+
+> BEGIN STRING
+投げると三本に増える剣
+斬撃　1方向長　隙30
+A sword that increases to three when thrown
+Slashing 1 direction long gap 30
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:20\>
+<shotSpeed:0.4\>
+<shotInterval:30\>
+<shotType:5\>
+<shotIndex:9\>
+<shotSkill:810\>
+<shotSeName:Sword4\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:20\>
+<shotSpeed:0.4\>
+<shotInterval:30\>
+<shotType:5\>
+<shotIndex:9\>
+<shotSkill:810\>
+<shotSeName:Sword4\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+> END STRING
+
+> BEGIN STRING
+インフィニティエッジ
+Infinity Edge
+> END STRING
+
+> BEGIN STRING
+虚数空間から無限の剣が降り注ぐ
+斬撃　7方向長　隙45
+An infinite sword pours down from the imaginary space
+Slashing 7-direction long gap 45
+> END STRING
+
+> BEGIN STRING
+<shotWay:7\>
+<shotSpace:0.7\>
+<shotCount:20\>
+<shotSpeed:0.3\>
+<shotInterval:30\>
+<shotType:5\>
+<shotIndex:15\>
+<shotSkill:821\>
+<shotSeName:Sword4\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+<shotWay:7\>
+<shotSpace:0.7\>
+<shotCount:20\>
+<shotSpeed:0.3\>
+<shotInterval:30\>
+<shotType:5\>
+<shotIndex:15\>
+<shotSkill:821\>
+<shotSeName:Sword4\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+> END STRING
+
+> BEGIN STRING
+ロケットパンチ
+Rocket punch
+> END STRING
+
+> BEGIN STRING
+飛ばした後の不便さを考えないロマン
+打撃　1方向長　隙80
+A romance that does not consider the inconvenience after flying
+Blow 1 direction long gap 80
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:60\>
+<shotSpeed:0.15\>
+<shotInterval:80\>
+<shotType:3\>
+<shotIndex:3\>
+<shotSkill:803\>
+<shotSeName:Fire3\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:60\>
+<shotSpeed:0.15\>
+<shotInterval:80\>
+<shotType:3\>
+<shotIndex:3\>
+<shotSkill:803\>
+<shotSeName:Fire3\>
+> END STRING
+
+> BEGIN STRING
+メイス
+Mace
+> END STRING
+
+> BEGIN STRING
+殴られると痛い
+打撃　1方向　隙50
+It hurts when beaten
+Blow 1 direction gap 50
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:40\>
+<shotSpeed:0.15\>
+<shotInterval:50\>
+<shotType:3\>
+<shotIndex:4\>
+<shotSkill:803\>
+<shotSeName:Wind7\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:40\>
+<shotSpeed:0.15\>
+<shotInterval:50\>
+<shotType:3\>
+<shotIndex:4\>
+<shotSkill:803\>
+<shotSeName:Wind7\>
+> END STRING
+
+> BEGIN STRING
+ハンマー
+hammer
+> END STRING
+
+> BEGIN STRING
+釘を打つための道具
+打撃　1方向　隙50
+Tools for hitting nails
+Blow 1 direction gap 50
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:40\>
+<shotSpeed:0.15\>
+<shotInterval:50\>
+<shotType:3\>
+<shotIndex:5\>
+<shotSkill:803\>
+<shotSeName:Wind7\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:40\>
+<shotSpeed:0.15\>
+<shotInterval:50\>
+<shotType:3\>
+<shotIndex:5\>
+<shotSkill:803\>
+<shotSeName:Wind7\>
+> END STRING
+
+> BEGIN STRING
+鉄パイプ
+Iron pipe
+> END STRING
+
+> BEGIN STRING
+世界を救うにはまずこれから
+打撃　1方向　隙50
+From now on to save the world
+Blow 1 direction gap 50
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:40\>
+<shotSpeed:0.15\>
+<shotInterval:50\>
+<shotType:3\>
+<shotIndex:13\>
+<shotSkill:803\>
+<shotSeName:Wind7\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:40\>
+<shotSpeed:0.15\>
+<shotInterval:50\>
+<shotType:3\>
+<shotIndex:13\>
+<shotSkill:803\>
+<shotSeName:Wind7\>
+> END STRING
+
+> BEGIN STRING
+ブーメラン
+boomerang
+> END STRING
+
+> BEGIN STRING
+戻ってこないブーメラン型の鈍器
+打撃　3方向長　隙50
+Boomerang type blunt instrument that does not come back
+Blow 3 directions long gap 50
+> END STRING
+
+> BEGIN STRING
+<shotWay:3\>
+<shotSpace:0.2\>
+<shotCount:60\>
+<shotSpeed:0.15\>
+<shotInterval:50\>
+<shotType:3\>
+<shotIndex:15\>
+<shotSkill:803\>
+<shotSeName:Wind7\>
+<shotWay:3\>
+<shotSpace:0.2\>
+<shotCount:60\>
+<shotSpeed:0.15\>
+<shotInterval:50\>
+<shotType:3\>
+<shotIndex:15\>
+<shotSkill:803\>
+<shotSeName:Wind7\>
+> END STRING
+
+> BEGIN STRING
+ピコピコハンマー
+Pico Pico Hammer
+> END STRING
+
+> BEGIN STRING
+殴られるとピコ―！と叫んで絶命する
+打撃　1方向　隙50
+Pico when beaten! Screaming and dying
+Blow 1 direction gap 50
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:30\>
+<shotSpeed:0.15\>
+<shotInterval:50\>
+<shotType:4\>
+<shotIndex:4\>
+<shotSkill:809\>
+<shotSeName:Wind7\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:30\>
+<shotSpeed:0.15\>
+<shotInterval:50\>
+<shotType:4\>
+<shotIndex:4\>
+<shotSkill:809\>
+<shotSeName:Wind7\>
+> END STRING
+
+> BEGIN STRING
+トールハンマー
+Thor hammer
+> END STRING
+
+> BEGIN STRING
+殴られるとマントルまでめり込む
+打撃　1方向　隙50
+When hit, it digs into the mantle
+Blow 1 direction gap 50
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:30\>
+<shotSpeed:0.15\>
+<shotInterval:50\>
+<shotType:5\>
+<shotIndex:4\>
+<shotSkill:809\>
+<shotSeName:Wind7\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:30\>
+<shotSpeed:0.15\>
+<shotInterval:50\>
+<shotType:5\>
+<shotIndex:4\>
+<shotSkill:809\>
+<shotSeName:Wind7\>
+> END STRING
+
+> BEGIN STRING
+太刀魚
+Hairtail
+> END STRING
+
+> BEGIN STRING
+触れるもの皆切り刻む魚　美味しい
+斬撃　1方向長　隙60
+Everything you touch is delicious, chopped fish
+Slashing 1 direction long gap 60
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:40\>
+<shotSpeed:0.2\>
+<shotInterval:60\>
+<shotType:3\>
+<shotIndex:32\>
+<shotSkill:811\>
+<shotSeName:Wind7\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:40\>
+<shotSpeed:0.2\>
+<shotInterval:60\>
+<shotType:3\>
+<shotIndex:32\>
+<shotSkill:811\>
+<shotSeName:Wind7\>
+> END STRING
+
+> BEGIN STRING
+ミカン
+Orange
+> END STRING
+
+> BEGIN STRING
+カビが生えたミカン
+食べ物　1方向長　隙40
+Moldy oranges
+Food 1-way long gap 40
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:40\>
+<shotSpeed:0.2\>
+<shotInterval:40\>
+<shotType:3\>
+<shotIndex:35\>
+<shotSkill:825\>
+<shotSeName:Wind7\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:40\>
+<shotSpeed:0.2\>
+<shotInterval:40\>
+<shotType:3\>
+<shotIndex:35\>
+<shotSkill:825\>
+<shotSeName:Wind7\>
+> END STRING
+
+> BEGIN STRING
+かぼちゃとニシンのパイ
+Pumpkin and herring pie
+> END STRING
+
+> BEGIN STRING
+優しさに包まれてないパイ
+食べ物　1方向長　隙40
+A pie that is not wrapped in kindness
+Food 1-way long gap 40
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:40\>
+<shotSpeed:0.2\>
+<shotInterval:40\>
+<shotType:4\>
+<shotIndex:18\>
+<shotSkill:825\>
+<shotSeName:Wind7\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:40\>
+<shotSpeed:0.2\>
+<shotInterval:40\>
+<shotType:4\>
+<shotIndex:18\>
+<shotSkill:825\>
+<shotSeName:Wind7\>
+> END STRING
+
+> BEGIN STRING
+ケーキ
+cake
+> END STRING
+
+> BEGIN STRING
+夢のようにあまーいケーキ
+食べ物　設置　隙70
+A sweet cake like a dream
+Food installation gap 70
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:200\>
+<shotSpeed:0\>
+<shotInterval:70\>
+<shotType:4\>
+<shotIndex:19\>
+<shotSkill:825\>
+<shotSeName:pyoro46\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:200\>
+<shotSpeed:0\>
+<shotInterval:70\>
+<shotType:4\>
+<shotIndex:19\>
+<shotSkill:825\>
+<shotSeName:pyoro46\>
+> END STRING
+
+> BEGIN STRING
+ランチプレート
+Lunch plate
+> END STRING
+
+> BEGIN STRING
+みんなの好きなものすこしずつ
+食べ物　1方向　隙50
+Little by little what everyone likes
+Food 1 direction gap 50
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:40\>
+<shotSpeed:0.15\>
+<shotInterval:50\>
+<shotType:4\>
+<shotIndex:29\>
+<shotSkill:825\>
+<shotSeName:Wind7\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:40\>
+<shotSpeed:0.15\>
+<shotInterval:50\>
+<shotType:4\>
+<shotIndex:29\>
+<shotSkill:825\>
+<shotSeName:Wind7\>
+> END STRING
+
+> BEGIN STRING
+スターゲイジーパイ
+Stargazy pie
+> END STRING
+
+> BEGIN STRING
+星を眺める魚のパイ　食べると星になる
+食べ物　1方向長　隙70
+A fish pie looking at the stars becomes a star when eaten
+Food 1-way long gap 70
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:40\>
+<shotSpeed:0.2\>
+<shotInterval:70\>
+<shotType:5\>
+<shotIndex:18\>
+<shotSkill:825\>
+<shotSeName:Wind7\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:40\>
+<shotSpeed:0.2\>
+<shotInterval:70\>
+<shotType:5\>
+<shotIndex:18\>
+<shotSkill:825\>
+<shotSeName:Wind7\>
+> END STRING
+
+> BEGIN STRING
+ウェディングケーキ
+Wedding cake
+> END STRING
+
+> BEGIN STRING
+人生の墓場にお供えするケーキ
+食べ物　設置　隙70
+Cake for the graveyard of life
+Food installation gap 70
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:200\>
+<shotSpeed:0\>
+<shotInterval:70\>
+<shotType:5\>
+<shotIndex:19\>
+<shotSkill:825\>
+<shotSeName:pyoro46\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:200\>
+<shotSpeed:0\>
+<shotInterval:70\>
+<shotType:5\>
+<shotIndex:19\>
+<shotSkill:825\>
+<shotSeName:pyoro46\>
+> END STRING
+
+> BEGIN STRING
+フルコース
+Full course
+> END STRING
+
+> BEGIN STRING
+前菜スープ魚ソルベ肉野菜甘みコーヒーまとめて毒入り
+食べ物　1方向　隙50
+Appetizer soup fish sorbet meat vegetables sweet coffee all together poisoned
+Food 1 direction gap 50
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:40\>
+<shotSpeed:0.15\>
+<shotInterval:50\>
+<shotType:5\>
+<shotIndex:29\>
+<shotSkill:825\>
+<shotSeName:Wind7\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:40\>
+<shotSpeed:0.15\>
+<shotInterval:50\>
+<shotType:5\>
+<shotIndex:29\>
+<shotSkill:825\>
+<shotSeName:Wind7\>
+> END STRING
+
+> BEGIN STRING
+ラブレター
+Love letter
+> END STRING
+
+> BEGIN STRING
+ちょっと病んだ内容のラブレター
+誘惑　3方向　隙40
+A little sick love letter
+Temptation 3 directions gap 40
+> END STRING
+
+> BEGIN STRING
+<shotWay:3\>
+<shotSpace:0.5\>
+<shotCount:20\>
+<shotSpeed:0.3\>
+<shotInterval:40\>
+<shotType:4\>
+<shotIndex:31\>
+<shotSkill:806\>
+<shotSeName:Wind7\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+<shotWay:3\>
+<shotSpace:0.5\>
+<shotCount:20\>
+<shotSpeed:0.3\>
+<shotInterval:40\>
+<shotType:4\>
+<shotIndex:31\>
+<shotSkill:806\>
+<shotSeName:Wind7\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+> END STRING
+
+> BEGIN STRING
+ヤバいラブレター
+Dangerous love letter
+> END STRING
+
+> BEGIN STRING
+手紙と一緒に髪とか爪とか入ってるラブレター
+誘惑　3方向　隙40
+A love letter with hair and nails in it with the letter
+Temptation 3 directions gap 40
+> END STRING
+
+> BEGIN STRING
+<shotWay:3\>
+<shotSpace:0.5\>
+<shotCount:20\>
+<shotSpeed:0.3\>
+<shotInterval:40\>
+<shotType:5\>
+<shotIndex:31\>
+<shotSkill:806\>
+<shotSeName:Wind7\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+<shotWay:3\>
+<shotSpace:0.5\>
+<shotCount:20\>
+<shotSpeed:0.3\>
+<shotInterval:40\>
+<shotType:5\>
+<shotIndex:31\>
+<shotSkill:806\>
+<shotSeName:Wind7\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+> END STRING
+
+> BEGIN STRING
+半端なかけら
+Half-hearted pieces
+> END STRING
+
+> BEGIN STRING
+不意に誰かを傷付けていく
+水　1方向遅　隙60
+Suddenly hurt someone
+Water one-way delay 60
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:150\>
+<shotSpeed:0.05\>
+<shotInterval:60\>
+<shotType:3\>
+<shotIndex:19\>
+<shotSkill:826\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:50\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:150\>
+<shotSpeed:0.05\>
+<shotInterval:60\>
+<shotType:3\>
+<shotIndex:19\>
+<shotSkill:826\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:50\>
+> END STRING
+
+> BEGIN STRING
+水鉄砲
+Water gun
+> END STRING
+
+> BEGIN STRING
+水圧で穴を空ける銃　しゅこしゅこしてリロードする
+水　1方向長　隙180
+A gun that makes holes with water pressure.
+Water one-way length gap 180
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.1\>
+<shotCount:60\>
+<shotSpeed:0.4\>
+<shotInterval:180\>
+<shotType:3\>
+<shotIndex:38\>
+<shotSkill:804\>
+<shotSeName:Splash\>
+<shotWay:1\>
+<shotSpace:0.1\>
+<shotCount:60\>
+<shotSpeed:0.4\>
+<shotInterval:180\>
+<shotType:3\>
+<shotIndex:38\>
+<shotSkill:804\>
+<shotSeName:Splash\>
+> END STRING
+
+> BEGIN STRING
+ウォーターバズーカ
+Water bazooka
+> END STRING
+
+> BEGIN STRING
+水鉄砲のパワーアップ版　壁に穴が開く
+水　1方向長　隙210
+Power-up version of the water gun, a hole opens in the wall
+Water 1-way long gap 210
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.1\>
+<shotCount:60\>
+<shotSpeed:0.4\>
+<shotInterval:210\>
+<shotType:3\>
+<shotIndex:24\>
+<shotSkill:804\>
+<shotSeName:Splash\>
+<shotWay:1\>
+<shotSpace:0.1\>
+<shotCount:60\>
+<shotSpeed:0.4\>
+<shotInterval:210\>
+<shotType:3\>
+<shotIndex:24\>
+<shotSkill:804\>
+<shotSeName:Splash\>
+> END STRING
+
+> BEGIN STRING
+水龍弾
+Water dragon bullet
+> END STRING
+
+> BEGIN STRING
+高圧相氷を打ち出す水鉄砲
+水　1方向長　隙240
+Water gun that launches high-pressure phase ice
+Water 1-way long gap 240
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.1\>
+<shotCount:60\>
+<shotSpeed:0.4\>
+<shotInterval:240\>
+<shotType:4\>
+<shotIndex:38\>
+<shotSkill:804\>
+<shotSeName:Splash\>
+<shotWay:1\>
+<shotSpace:0.1\>
+<shotCount:60\>
+<shotSpeed:0.4\>
+<shotInterval:240\>
+<shotType:4\>
+<shotIndex:38\>
+<shotSkill:804\>
+<shotSeName:Splash\>
+> END STRING
+
+> BEGIN STRING
+マシンガン
+Machine gun
+> END STRING
+
+> BEGIN STRING
+下に打つと反動で空が飛べるらしい
+炎　1方向　隙6　固定ダメージ3
+It seems that if you hit it down, you can fly in the sky in reaction
+Flame 1 direction gap 6 fixed damage 3
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.1\>
+<shotCount:30\>
+<shotSpeed:0.4\>
+<shotInterval:6\>
+<shotType:1\>
+<shotIndex:1\>
+<shotSkill:827\>
+<shotSeName:Gun1\>
+<shotSePitch:150\>
+<shotSeVolume:50\>
+<shotWay:1\>
+<shotSpace:0.1\>
+<shotCount:30\>
+<shotSpeed:0.4\>
+<shotInterval:6\>
+<shotType:1\>
+<shotIndex:1\>
+<shotSkill:827\>
+<shotSeName:Gun1\>
+<shotSePitch:150\>
+<shotSeVolume:50\>
+> END STRING
+
+> BEGIN STRING
+ポーラスター
+Polar Star
+> END STRING
+
+> BEGIN STRING
+北極星印のハンドガン
+炎　1方向　隙20　レベル分の固定ダメージ
+Arctic Star Hand Gun
+Fixed damage for 1 direction of flame, 20 levels of gap
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.1\>
+<shotCount:40\>
+<shotSpeed:0.4\>
+<shotInterval:20\>
+<shotType:1\>
+<shotIndex:2\>
+<shotSkill:828\>
+<shotSeName:Gun1\>
+<shotSePitch:150\>
+<shotWay:1\>
+<shotSpace:0.1\>
+<shotCount:40\>
+<shotSpeed:0.4\>
+<shotInterval:20\>
+<shotType:1\>
+<shotIndex:2\>
+<shotSkill:828\>
+<shotSeName:Gun1\>
+<shotSePitch:150\>
+> END STRING
+
+> BEGIN STRING
+ショットガン
+Shotgun
+> END STRING
+
+> BEGIN STRING
+大量に弾をばらまく近距離用の銃
+炎　10方向短　隙30　固定ダメージ3
+A short-range gun that scatters a large amount of bullets
+Flame 10-direction short gap 30 Fixed damage 3
+> END STRING
+
+> BEGIN STRING
+<shotWay:10\>
+<shotSpace:0.05\>
+<shotCount:15\>
+<shotSpeed:0.4\>
+<shotInterval:30\>
+<shotType:1\>
+<shotIndex:1\>
+<shotSkill:827\>
+<shotSeName:Gun1\>
+<shotSePitch:50\>
+<shotWay:10\>
+<shotSpace:0.05\>
+<shotCount:15\>
+<shotSpeed:0.4\>
+<shotInterval:30\>
+<shotType:1\>
+<shotIndex:1\>
+<shotSkill:827\>
+<shotSeName:Gun1\>
+<shotSePitch:50\>
+> END STRING
+
+> BEGIN STRING
+レールガン
+Railgun
+> END STRING
+
+> BEGIN STRING
+物体をローレンツ力により加速して打ち出す装置
+雷　1方向長　隙300　固定ダメージ100　地形貫通
+A device that accelerates and launches an object by Lorentz force
+Lightning 1 direction long gap 300 fixed damage 100 terrain penetration
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.1\>
+<shotCount:120\>
+<shotSpeed:0.6\>
+<shotInterval:300\>
+<shotType:2\>
+<shotIndex:3\>
+<shotSkill:829\>
+<shotSeName:Gun3\>
+<shotSePitch:50\>
+<shotWay:1\>
+<shotSpace:0.1\>
+<shotCount:120\>
+<shotSpeed:0.6\>
+<shotInterval:300\>
+<shotType:2\>
+<shotIndex:3\>
+<shotSkill:829\>
+<shotSeName:Gun3\>
+<shotSePitch:50\>
+> END STRING
+
+> BEGIN STRING
+ブレイスガン
+Brace gun
+> END STRING
+
+> BEGIN STRING
+女性型武装探索ロボットのマシンガン
+炎　2方向長　隙6　固定ダメージ3
+Machine gun of female armed search robot
+Flame 2 direction long gap 6 Fixed damage 3
+> END STRING
+
+> BEGIN STRING
+<shotWay:2\>
+<shotSpace:0.01\>
+<shotCount:35\>
+<shotSpeed:0.4\>
+<shotInterval:6\>
+<shotType:1\>
+<shotIndex:1\>
+<shotSkill:827\>
+<shotSeName:Gun1\>
+<shotSePitch:150\>
+<shotSeVolume:50\>
+<shotWay:2\>
+<shotSpace:0.01\>
+<shotCount:35\>
+<shotSpeed:0.4\>
+<shotInterval:6\>
+<shotType:1\>
+<shotIndex:1\>
+<shotSkill:827\>
+<shotSeName:Gun1\>
+<shotSePitch:150\>
+<shotSeVolume:50\>
+> END STRING
+
+> BEGIN STRING
+シュプール
+Spur
+> END STRING
+
+> BEGIN STRING
+こんや、12じ、だれかが・・・
+水　1方向長　隙15　レベル分の固定ダメージ
+Hello, 12 people, someone ...
+Water 1 direction long gap 15 Level fixed damage
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.1\>
+<shotCount:60\>
+<shotSpeed:0.4\>
+<shotInterval:15\>
+<shotType:2\>
+<shotIndex:2\>
+<shotSkill:833\>
+<shotSeName:Gun1\>
+<shotSePitch:150\>
+<shotWay:1\>
+<shotSpace:0.1\>
+<shotCount:60\>
+<shotSpeed:0.4\>
+<shotInterval:15\>
+<shotType:2\>
+<shotIndex:2\>
+<shotSkill:833\>
+<shotSeName:Gun1\>
+<shotSePitch:150\>
+> END STRING
+
+> BEGIN STRING
+マリッジガン
+Marriage gun
+> END STRING
+
+> BEGIN STRING
+責任を取らせるためのショットガン
+炎　20方向短　隙30　固定ダメージ3
+Shotgun to take responsibility
+Flame 20 directions short gap 30 fixed damage 3
+> END STRING
+
+> BEGIN STRING
+<shotWay:20\>
+<shotSpace:0.12\>
+<shotCount:15\>
+<shotSpeed:0.4\>
+<shotInterval:30\>
+<shotType:1\>
+<shotIndex:1\>
+<shotSkill:827\>
+<shotSeName:Gun1\>
+<shotSePitch:50\>
+<shotWay:20\>
+<shotSpace:0.12\>
+<shotCount:15\>
+<shotSpeed:0.4\>
+<shotInterval:30\>
+<shotType:1\>
+<shotIndex:1\>
+<shotSkill:827\>
+<shotSeName:Gun1\>
+<shotSePitch:50\>
+> END STRING
+
+> BEGIN STRING
+タレットガン
+Turret gun
+> END STRING
+
+> BEGIN STRING
+警備アンドロイドの装備
+雷　5方向　隙15　固定ダメージ3
+Security android equipment
+Lightning 5 directions Gap 15 Fixed damage 3
+> END STRING
+
+> BEGIN STRING
+<shotWay:5\>
+<shotSpace:0.10\>
+<shotCount:30\>
+<shotSpeed:0.4\>
+<shotInterval:15\>
+<shotType:1\>
+<shotIndex:3\>
+<shotSkill:834\>
+<shotSeName:Gun1\>
+<shotSePitch:150\>
+<shotSeVolume:50\>
+<shotWay:5\>
+<shotSpace:0.10\>
+<shotCount:30\>
+<shotSpeed:0.4\>
+<shotInterval:15\>
+<shotType:1\>
+<shotIndex:3\>
+<shotSkill:834\>
+<shotSeName:Gun1\>
+<shotSePitch:150\>
+<shotSeVolume:50\>
+> END STRING
+
+> BEGIN STRING
+クラスタガン
+Cluster gun
+> END STRING
+
+> BEGIN STRING
+弾をばらまく銃
+雷　16方向　隙30　固定ダメージ3
+A gun that scatters bullets
+Lightning 16 directions Gap 30 Fixed damage 3
+> END STRING
+
+> BEGIN STRING
+<shotWay:16\>
+<shotSpace:0.03\>
+<shotCount:20\>
+<shotSpeed:0.4\>
+<shotInterval:30\>
+<shotType:1\>
+<shotIndex:3\>
+<shotSkill:834\>
+<shotSeName:Gun1\>
+<shotSePitch:150\>
+<shotSeVolume:50\>
+<shotWay:16\>
+<shotSpace:0.03\>
+<shotCount:20\>
+<shotSpeed:0.4\>
+<shotInterval:30\>
+<shotType:1\>
+<shotIndex:3\>
+<shotSkill:834\>
+<shotSeName:Gun1\>
+<shotSePitch:150\>
+<shotSeVolume:50\>
+> END STRING
+
+> BEGIN STRING
+チェンソー
+Chainsaw
+> END STRING
+
+> BEGIN STRING
+切り刻んで悪魔のいけにえにする
+斬撃　1方向短　隙150
+Chop it up and make it a sacrifice to the devil
+Slashing 1-way short gap 150
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.1\>
+<shotCount:30\>
+<shotSpeed:0.08\>
+<shotInterval:150\>
+<shotType:4\>
+<shotIndex:10\>
+<shotSkill:821\>
+<shotSeName:Gun2\>
+<shotSePitch:120\>
+
+<shotWay:1\>
+<shotSpace:0.1\>
+<shotCount:30\>
+<shotSpeed:0.08\>
+<shotInterval:150\>
+<shotType:4\>
+<shotIndex:10\>
+<shotSkill:821\>
+<shotSeName:Gun2\>
+<shotSePitch:120\>
+> END STRING
+
+> BEGIN STRING
+テンペスト
+Tempest
+> END STRING
+
+> BEGIN STRING
+踏むと神の雷が降り注ぐ
+雷　設置　隙300　貫通
+When you step on it, the thunder of God falls
+Lightning installation gap 300 penetration
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:300\>
+<shotSpeed:0\>
+<shotInterval:300\>
+<shotType:4\>
+<shotIndex:16\>
+<shotSkill:830\>
+<shotSeName:Wind7\>
+<shotSeVolume:70\>
+<shotSePitch:50\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:300\>
+<shotSpeed:0\>
+<shotInterval:300\>
+<shotType:4\>
+<shotIndex:16\>
+<shotSkill:830\>
+<shotSeName:Wind7\>
+<shotSeVolume:70\>
+<shotSePitch:50\>
+> END STRING
+
+> BEGIN STRING
+バイブル
+Bible
+> END STRING
+
+> BEGIN STRING
+踏むと光の矢が降り注ぐ
+雷　設置　隙300　貫通
+When you step on it, an arrow of light falls
+Lightning installation gap 300 penetration
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:300\>
+<shotSpeed:0\>
+<shotInterval:300\>
+<shotType:4\>
+<shotIndex:16\>
+<shotSkill:831\>
+<shotSeName:Wind7\>
+<shotSeVolume:70\>
+<shotSePitch:50\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:300\>
+<shotSpeed:0\>
+<shotInterval:300\>
+<shotType:4\>
+<shotIndex:16\>
+<shotSkill:831\>
+<shotSeName:Wind7\>
+<shotSeVolume:70\>
+<shotSePitch:50\>
+> END STRING
+
+> BEGIN STRING
+火炎放射器
+Flamethrower
+> END STRING
+
+> BEGIN STRING
+火が付いた液体を投射する兵器
+炎　5方向短　隙15　固定ダメージ3
+A weapon that projects a lit liquid
+Flame 5 directions short gap 15 fixed damage 3
+> END STRING
+
+> BEGIN STRING
+<shotWay:5\>
+<shotSpace:0.3\>
+<shotCount:7\>
+<shotSpeed:0.2\>
+<shotInterval:15\>
+<shotType:4\>
+<shotIndex:39\>
+<shotSkill:832\>
+<shotSeName:Fire2\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+<shotWay:5\>
+<shotSpace:0.3\>
+<shotCount:7\>
+<shotSpeed:0.2\>
+<shotInterval:15\>
+<shotType:4\>
+<shotIndex:39\>
+<shotSkill:832\>
+<shotSeName:Fire2\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+> END STRING
+
+> BEGIN STRING
+ネメシス
+Nemesis
+> END STRING
+
+> BEGIN STRING
+神の憤りと罰を象徴する女神の銃
+雷　1方向　隙30　50-レベル分の固定ダメージ
+Goddess gun that symbolizes God's wrath and punishment
+Lightning 1 direction gap 30 50-Level fixed damage
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.1\>
+<shotCount:35\>
+<shotSpeed:0.3\>
+<shotInterval:30\>
+<shotType:1\>
+<shotIndex:3\>
+<shotSkill:835\>
+<shotSeName:Gun1\>
+<shotSePitch:150\>
+<shotWay:1\>
+<shotSpace:0.1\>
+<shotCount:35\>
+<shotSpeed:0.3\>
+<shotInterval:30\>
+<shotType:1\>
+<shotIndex:3\>
+<shotSkill:835\>
+<shotSeName:Gun1\>
+<shotSePitch:150\>
+> END STRING
+
+> BEGIN STRING
+クリムゾン
+Crimson
+> END STRING
+
+> BEGIN STRING
+今夜もまた誰かが命を落とす
+雷　2方向　隙50　50-レベル分の固定ダメージ
+Someone will die again tonight
+Lightning 2 directions 50-Level fixed damage
+> END STRING
+
+> BEGIN STRING
+<shotWay:2\>
+<shotSpace:0.3\>
+<shotCount:35\>
+<shotSpeed:0.3\>
+<shotInterval:50\>
+<shotType:1\>
+<shotIndex:1\>
+<shotSkill:835\>
+<shotSeName:Gun1\>
+<shotSePitch:150\>
+<shotWay:2\>
+<shotSpace:0.3\>
+<shotCount:35\>
+<shotSpeed:0.3\>
+<shotInterval:50\>
+<shotType:1\>
+<shotIndex:1\>
+<shotSkill:835\>
+<shotSeName:Gun1\>
+<shotSePitch:150\>
+> END STRING
+
+> BEGIN STRING
+フレイムスロワー
+Flames lower
+> END STRING
+
+> BEGIN STRING
+金属を溶接するのに使用する工具
+炎　6方向短　隙15　固定ダメージ3
+Tools used to weld metal
+Flame 6-direction short gap 15 Fixed damage 3
+> END STRING
+
+> BEGIN STRING
+<shotWay:6\>
+<shotSpace:0.2\>
+<shotCount:9\>
+<shotSpeed:0.2\>
+<shotInterval:15\>
+<shotType:4\>
+<shotIndex:39\>
+<shotSkill:832\>
+<shotSeName:Fire2\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+<shotWay:6\>
+<shotSpace:0.2\>
+<shotCount:9\>
+<shotSpeed:0.2\>
+<shotInterval:15\>
+<shotType:4\>
+<shotIndex:39\>
+<shotSkill:832\>
+<shotSeName:Fire2\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+> END STRING
+
+> BEGIN STRING
+ハンドガン
+Hand gun
+> END STRING
+
+> BEGIN STRING
+扱いやすい銃
+炎　1方向　隙30　固定ダメージ3　カスタムパーツ装備可
+Easy-to-use gun
+Flame 1 direction gap 30 fixed damage 3 custom parts can be equipped
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0\>
+<shotCount:45\>
+<shotSpeed:0.4\>
+<shotInterval:30\>
+<shotType:1\>
+<shotIndex:1\>
+<shotSkill:827\>
+<shotSeName:Gun1\>
+<shotSePitch:150\>
+<shotSeVolume:50\>
+<shotWay:1\>
+<shotSpace:0\>
+<shotCount:45\>
+<shotSpeed:0.4\>
+<shotInterval:30\>
+<shotType:1\>
+<shotIndex:1\>
+<shotSkill:827\>
+<shotSeName:Gun1\>
+<shotSePitch:150\>
+<shotSeVolume:50\>
+> END STRING
+
+> BEGIN STRING
+バーストガン
+Burst gun
+> END STRING
+
+> BEGIN STRING
+同時に3発の弾が出るように改造したハンドガン
+炎　3方向　隙30　固定ダメージ3　カスタムパーツ装備可
+A hand gun modified to release 3 bullets at the same time
+Flame 3 directions, gap 30, fixed damage 3, custom parts can be equipped
+> END STRING
+
+> BEGIN STRING
+<shotWay:3\>
+<shotSpace:0\>
+<shotCount:45\>
+<shotSpeed:0.4\>
+<shotInterval:30\>
+<shotType:1\>
+<shotIndex:1\>
+<shotSkill:827\>
+<shotSeName:Gun1\>
+<shotSePitch:150\>
+<shotSeVolume:50\>
+<shotWay:3\>
+<shotSpace:0\>
+<shotCount:45\>
+<shotSpeed:0.4\>
+<shotInterval:30\>
+<shotType:1\>
+<shotIndex:1\>
+<shotSkill:827\>
+<shotSeName:Gun1\>
+<shotSePitch:150\>
+<shotSeVolume:50\>
+> END STRING
+
+> BEGIN STRING
+コインシューター
+Coin shooter
+> END STRING
+
+> BEGIN STRING
+コインをローレンツ力により加速して打ち出す装置
+雷　2方向長　隙300　固定ダメージ100　地形貫通
+A device that accelerates and launches coins by Lorentz force
+Lightning 2 directions long gap 300 fixed damage 100 terrain penetration
+> END STRING
+
+> BEGIN STRING
+<shotWay:2\>
+<shotSpace:0.01\>
+<shotCount:120\>
+<shotSpeed:0.6\>
+<shotInterval:300\>
+<shotType:2\>
+<shotIndex:3\>
+<shotSkill:829\>
+<shotSeName:Gun3\>
+<shotSePitch:50\>
+<shotWay:2\>
+<shotSpace:0.01\>
+<shotCount:120\>
+<shotSpeed:0.6\>
+<shotInterval:300\>
+<shotType:2\>
+<shotIndex:3\>
+<shotSkill:829\>
+<shotSeName:Gun3\>
+<shotSePitch:50\>
+> END STRING
+
+> BEGIN STRING
+トルテの爆弾
+Torte bomb
+> END STRING
+
+> BEGIN STRING
+トルテを1kmふっ飛ばすぐらいの威力がある
+炎　設置　隙999
+Powerful enough to blow Torte 1km away
+Flame installation gap 999
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.5\>
+<shotCount:500\>
+<shotSpeed:0.0\>
+<shotInterval:999\>
+<shotType:3\>
+<shotIndex:36\>
+<shotSkill:808\>
+<shotSeName:key\>
+<shotWay:1\>
+<shotSpace:0.5\>
+<shotCount:500\>
+<shotSpeed:0.0\>
+<shotInterval:999\>
+<shotType:3\>
+<shotIndex:36\>
+<shotSkill:808\>
+<shotSeName:key\>
+> END STRING
+
+> BEGIN STRING
+ドクロのパネル
+Skull panel
+> END STRING
+
+> BEGIN STRING
+下痢のように爆弾が漏れ出す
+炎　設置　隙10
+Bomb leaks like diarrhea
+Flame installation gap 10
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.5\>
+<shotCount:200\>
+<shotSpeed:0.0\>
+<shotInterval:10\>
+<shotType:3\>
+<shotIndex:36\>
+<shotSkill:808\>
+<shotSeName:key\>
+<shotWay:1\>
+<shotSpace:0.5\>
+<shotCount:200\>
+<shotSpeed:0.0\>
+<shotInterval:10\>
+<shotType:3\>
+<shotIndex:36\>
+<shotSkill:808\>
+<shotSeName:key\>
+> END STRING
+
+> BEGIN STRING
+キルシュトルテ
+Kirstorte
+> END STRING
+
+> BEGIN STRING
+黒い森のサクランボケーキ
+食べ物　設置　隙70
+Black forest cherry cake
+Food installation gap 70
+> END STRING
+
+> BEGIN STRING
+ローズリップ
+Rose lip
+> END STRING
+
+> BEGIN STRING
+薔薇のように赤い口紅
+誘惑　2方向　隙30
+Red lipstick like a rose
+Temptation 2 directions gap 30
+> END STRING
+
+> BEGIN STRING
+プリンセスハート
+Princess Heart
+> END STRING
+
+> BEGIN STRING
+セクシービーム出発
+雷　2方向長　隙60
+A sexy beam emitter.
+Lightning 2-directional %60 Crit
+> END STRING
+
+> BEGIN STRING
+<shotWay:2\>
+<shotSpace:0.3\>
+<shotCount:80\>
+<shotSpeed:0.1\>
+<shotInterval:60\>
+<shotType:3\>
+<shotIndex:41\>
+<shotSkill:812\>
+<shotSeName:Saint1\>
+<shotWay:2\>
+<shotSpace:0.3\>
+<shotCount:80\>
+<shotSpeed:0.1\>
+<shotInterval:60\>
+<shotType:3\>
+<shotIndex:41\>
+<shotSkill:812\>
+<shotSeName:Saint1\>
+> END STRING
+
+> BEGIN STRING
+でたらめなかけら
+Random pieces
+> END STRING
+
+> BEGIN STRING
+好き勝手ばら撒く
+水　4方向遅　隙80
+Sprinkle as you like
+Water 4 directions slow gap 80
+> END STRING
+
+> BEGIN STRING
+<shotWay:4\>
+<shotSpace:0.5\>
+<shotCount:150\>
+<shotSpeed:0.05\>
+<shotInterval:60\>
+<shotType:3\>
+<shotIndex:19\>
+<shotSkill:826\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:50\>
+<shotWay:4\>
+<shotSpace:0.5\>
+<shotCount:150\>
+<shotSpeed:0.05\>
+<shotInterval:60\>
+<shotType:3\>
+<shotIndex:19\>
+<shotSkill:826\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:50\>
+> END STRING
+
+> BEGIN STRING
+毒リンゴ
+Poisoned apple
+> END STRING
+
+> BEGIN STRING
+食べると眠り続けてしまう毒入りのリンゴ
+食べ物　1方向長　隙40
+
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:40\>
+<shotSpeed:0.2\>
+<shotInterval:40\>
+<shotType:3\>
+<shotIndex:34\>
+<shotSkill:825\>
+<shotSeName:Wind7\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:40\>
+<shotSpeed:0.2\>
+<shotInterval:40\>
+<shotType:3\>
+<shotIndex:34\>
+<shotSkill:825\>
+<shotSeName:Wind7\>
+> END STRING
+
+> BEGIN STRING
+ぬいぐるみ
+
+> END STRING
+
+> BEGIN STRING
+ストレス解消にちょうどいいクマのぬいぐるみ
+打撃　1方向長　隙60
+
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:60\>
+<shotSpeed:0.15\>
+<shotInterval:60\>
+<shotType:4\>
+<shotIndex:22\>
+<shotSkill:803\>
+<shotSeName:Wind7\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:60\>
+<shotSpeed:0.15\>
+<shotInterval:60\>
+<shotType:4\>
+<shotIndex:22\>
+<shotSkill:803\>
+<shotSeName:Wind7\>
+> END STRING
+
+> BEGIN STRING
+アイスソード
+
+> END STRING
+
+> BEGIN STRING
+手に入れたことを誰かに喋ると死ぬ
+水　3方向短　隙45
+
+> END STRING
+
+> BEGIN STRING
+<shotWay:3\>
+<shotSpace:0.3\>
+<shotCount:20\>
+<shotSpeed:0.2\>
+<shotInterval:45\>
+<shotType:4\>
+<shotIndex:35\>
+<shotSkill:826\>
+<shotSeName:Sword4\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+<shotWay:3\>
+<shotSpace:0.3\>
+<shotCount:20\>
+<shotSpeed:0.2\>
+<shotInterval:45\>
+<shotType:4\>
+<shotIndex:35\>
+<shotSkill:826\>
+<shotSeName:Sword4\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+> END STRING
+
+> BEGIN STRING
+プレゼント
+
+> END STRING
+
+> BEGIN STRING
+とてもわくわくする箱　開けると爆発する
+炎　設置　隙80
+
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:300\>
+<shotSpeed:0\>
+<shotInterval:100\>
+<shotType:4\>
+<shotIndex:30\>
+<shotSkill:808\>
+<shotSeName:Wind7\>
+<shotSeVolume:70\>
+<shotSePitch:50\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:300\>
+<shotSpeed:0\>
+<shotInterval:100\>
+<shotType:4\>
+<shotIndex:30\>
+<shotSkill:808\>
+<shotSeName:Wind7\>
+<shotSeVolume:70\>
+<shotSePitch:50\>
+> END STRING
+
+> BEGIN STRING
+ショックジョッキー
+
+> END STRING
+
+> BEGIN STRING
+手からビガーっと雷撃を放つ魔法
+雷　3方向長　隙45　貫通
+
+> END STRING
+
+> BEGIN STRING
+<shotWay:3\>
+<shotSpace:0.3\>
+<shotCount:40\>
+<shotSpeed:0.5\>
+<shotInterval:45\>
+<shotType:4\>
+<shotIndex:35\>
+<shotSkill:819\>
+<shotSeName:Thunder3\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+<shotWay:3\>
+<shotSpace:0.3\>
+<shotCount:40\>
+<shotSpeed:0.5\>
+<shotInterval:45\>
+<shotType:4\>
+<shotIndex:35\>
+<shotSkill:819\>
+<shotSeName:Thunder3\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+> END STRING
+
+> BEGIN STRING
+剣豪魚
+
+> END STRING
+
+> BEGIN STRING
+剣の道を究めた魚　はらわたが苦い
+斬撃　1方向長　隙30
+
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:40\>
+<shotSpeed:0.5\>
+<shotInterval:30\>
+<shotType:3\>
+<shotIndex:32\>
+<shotSkill:811\>
+<shotSeName:Wind7\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:40\>
+<shotSpeed:0.5\>
+<shotInterval:30\>
+<shotType:3\>
+<shotIndex:32\>
+<shotSkill:811\>
+<shotSeName:Wind7\>
+> END STRING
+
+> BEGIN STRING
+ヴォイニッチ手稿
+
+> END STRING
+
+> BEGIN STRING
+独自の言語で書かれた謎の書物
+雷　設置　隙300　貫通
+
+> END STRING
+
+> BEGIN STRING
+リリスエッジ
+
+> END STRING
+
+> BEGIN STRING
+好き放題魔法弾を撃つわがままハンドガン
+炎　3方向　隙30　固定ダメージ15　カスタムパーツ装備可
+
+> END STRING
+
+> BEGIN STRING
+<shotWay:3\>
+<shotSpace:0\>
+<shotCount:45\>
+<shotSpeed:0.4\>
+<shotInterval:30\>
+<shotType:1\>
+<shotIndex:1\>
+<shotSkill:836\>
+<shotSeName:Gun1\>
+<shotSePitch:150\>
+<shotSeVolume:50\>
+<shotWay:3\>
+<shotSpace:0\>
+<shotCount:45\>
+<shotSpeed:0.4\>
+<shotInterval:30\>
+<shotType:1\>
+<shotIndex:1\>
+<shotSkill:836\>
+<shotSeName:Gun1\>
+<shotSePitch:150\>
+<shotSeVolume:50\>
+> END STRING
+
+> BEGIN STRING
+オセロット
+
+> END STRING
+
+> BEGIN STRING
+ヤマネコ印のリボルバー
+炎　1方向　隙35　固定ダメージ15　カスタムパーツ装備可
+
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0\>
+<shotCount:50\>
+<shotSpeed:0.4\>
+<shotInterval:35\>
+<shotType:1\>
+<shotIndex:1\>
+<shotSkill:836\>
+<shotSeName:Gun1\>
+<shotSePitch:150\>
+<shotSeVolume:50\>
+<shotWay:1\>
+<shotSpace:0\>
+<shotCount:50\>
+<shotSpeed:0.4\>
+<shotInterval:35\>
+<shotType:1\>
+<shotIndex:1\>
+<shotSkill:836\>
+<shotSeName:Gun1\>
+<shotSePitch:150\>
+<shotSeVolume:50\>
+> END STRING
+
+> BEGIN STRING
+アクアベレッタ
+
+> END STRING
+
+> BEGIN STRING
+空気中の水分を圧縮して撃つ銃　カスタムパーツ装備可
+水　1方向長　隙240
+
+> END STRING
+
+> BEGIN STRING
+ジェインソー
+
+> END STRING
+
+> BEGIN STRING
+一度も使ったことがないチェンソー
+斬撃　1方向短　隙180
+
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.1\>
+<shotCount:30\>
+<shotSpeed:0.08\>
+<shotInterval:180\>
+<shotType:5\>
+<shotIndex:10\>
+<shotSkill:821\>
+<shotSeName:Gun2\>
+<shotSePitch:120\>
+
+<shotWay:1\>
+<shotSpace:0.1\>
+<shotCount:30\>
+<shotSpeed:0.08\>
+<shotInterval:180\>
+<shotType:5\>
+<shotIndex:10\>
+<shotSkill:821\>
+<shotSeName:Gun2\>
+<shotSePitch:120\>
+> END STRING
+
+> BEGIN STRING
+リリスバスター
+
+> END STRING
+
+> BEGIN STRING
+最強の剣　レベル99のリリスを倒した証
+斬撃　1方向　隙30
+
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.7\>
+<shotCount:20\>
+<shotSpeed:0.3\>
+<shotInterval:30\>
+<shotType:5\>
+<shotIndex:3\>
+<shotSkill:821\>
+<shotSeName:Sword4\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+<shotWay:1\>
+<shotSpace:0.7\>
+<shotCount:20\>
+<shotSpeed:0.3\>
+<shotInterval:30\>
+<shotType:5\>
+<shotIndex:3\>
+<shotSkill:821\>
+<shotSeName:Sword4\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+> END STRING
+
+> BEGIN STRING
+アミーゴ
+
+> END STRING
+
+> BEGIN STRING
+地元じゃ負け知らず　ゲームオーバー0クリアの証
+雷　1方向　隙100
+
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.7\>
+<shotCount:60\>
+<shotSpeed:0.1\>
+<shotInterval:100\>
+<shotType:5\>
+<shotIndex:16\>
+<shotSkill:812\>
+<shotSeName:Sword4\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+<shotWay:1\>
+<shotSpace:0.7\>
+<shotCount:60\>
+<shotSpeed:0.1\>
+<shotInterval:100\>
+<shotType:5\>
+<shotIndex:16\>
+<shotSkill:812\>
+<shotSeName:Sword4\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+> END STRING
+
+> BEGIN STRING
+カンマーハンマー
+
+> END STRING
+
+> BEGIN STRING
+殴られると面白くないのに笑ってしまう木槌
+打撃　1方向　隙50
+
+> END STRING
+
+> BEGIN STRING
+ぷちファイア
+
+> END STRING
+
+> BEGIN STRING
+炎系の初級魔法
+炎　1方向　隙100
+
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:80\>
+<shotSpeed:0.2\>
+<shotInterval:100\>
+<shotType:4\>
+<shotIndex:39\>
+<shotSkill:818\>
+<shotSeName:Fire1\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:80\>
+<shotSpeed:0.2\>
+<shotInterval:100\>
+<shotType:4\>
+<shotIndex:39\>
+<shotSkill:818\>
+<shotSeName:Fire1\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+> END STRING
+
+> BEGIN STRING
+おにぎり
+
+> END STRING
+
+> BEGIN STRING
+魔王米のおにぎりに毒を詰めたもの
+食べ物　1方向　隙80
+
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:80\>
+<shotSpeed:0.15\>
+<shotInterval:80\>
+<shotType:3\>
+<shotIndex:44\>
+<shotSkill:825\>
+<shotSeName:Wind7\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:80\>
+<shotSpeed:0.15\>
+<shotInterval:80\>
+<shotType:3\>
+<shotIndex:44\>
+<shotSkill:825\>
+<shotSeName:Wind7\>
+> END STRING
+
+> BEGIN STRING
+ハルジオン
+
+> END STRING
+
+> BEGIN STRING
+中が空洞になっている剣
+斬撃　1方向　隙30
+
+> END STRING
+
+> BEGIN STRING
+植物図鑑
+
+> END STRING
+
+> BEGIN STRING
+ユイネが2番目に好きだったもの
+雷　設置　隙300　貫通
+
+> END STRING
+
+> BEGIN STRING
+リップスティック
+
+> END STRING
+
+> BEGIN STRING
+唇の魅力を上げると同時に乾燥を防ぐ
+誘惑　2方向　隙70
+
+> END STRING
+
+> BEGIN STRING
+<shotWay:2\>
+<shotSpace:0.5\>
+<shotCount:40\>
+<shotSpeed:0.1\>
+<shotInterval:70\>
+<shotType:3\>
+<shotIndex:40\>
+<shotSkill:806\>
+<shotSeName:lip00\>
+<shotWay:2\>
+<shotSpace:0.5\>
+<shotCount:40\>
+<shotSpeed:0.1\>
+<shotInterval:70\>
+<shotType:3\>
+<shotIndex:40\>
+<shotSkill:806\>
+<shotSeName:lip00\>
+> END STRING
+
+> BEGIN STRING
+スイートキッス
+
+> END STRING
+
+> BEGIN STRING
+キスがもっと甘くなる口紅
+誘惑　3方向　隙90
+
+> END STRING
+
+> BEGIN STRING
+<shotWay:3\>
+<shotSpace:0.5\>
+<shotCount:40\>
+<shotSpeed:0.1\>
+<shotInterval:90\>
+<shotType:3\>
+<shotIndex:40\>
+<shotSkill:806\>
+<shotSeName:lip00\>
+<shotWay:3\>
+<shotSpace:0.5\>
+<shotCount:40\>
+<shotSpeed:0.1\>
+<shotInterval:90\>
+<shotType:3\>
+<shotIndex:40\>
+<shotSkill:806\>
+<shotSeName:lip00\>
+> END STRING
+
+> BEGIN STRING
+パッショーネ
+
+> END STRING
+
+> BEGIN STRING
+情熱の赤い口紅
+誘惑　3方向　隙90
+
+> END STRING
+
+> BEGIN STRING
+ハートアタック
+
+> END STRING
+
+> BEGIN STRING
+あまりの興奮に心臓発作を起こす投げキッス
+誘惑　1方向　隙200
+
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.5\>
+<shotCount:40\>
+<shotSpeed:0.1\>
+<shotInterval:200\>
+<shotType:3\>
+<shotIndex:40\>
+<shotSkill:806\>
+<shotSeName:lip00\>
+<shotWay:1\>
+<shotSpace:0.5\>
+<shotCount:40\>
+<shotSpeed:0.1\>
+<shotInterval:200\>
+<shotType:3\>
+<shotIndex:40\>
+<shotSkill:806\>
+<shotSeName:lip00\>
+> END STRING
+
+> BEGIN STRING
+スムーチボム
+
+> END STRING
+
+> BEGIN STRING
+メロメロにして脳みそを爆発させるキス
+誘惑　1方向　隙100
+
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.5\>
+<shotCount:40\>
+<shotSpeed:0.1\>
+<shotInterval:100\>
+<shotType:3\>
+<shotIndex:40\>
+<shotSkill:806\>
+<shotSeName:lip00\>
+<shotWay:1\>
+<shotSpace:0.5\>
+<shotCount:40\>
+<shotSpeed:0.1\>
+<shotInterval:100\>
+<shotType:3\>
+<shotIndex:40\>
+<shotSkill:806\>
+<shotSeName:lip00\>
+> END STRING
+
+> BEGIN STRING
+デアスノテ
+
+> END STRING
+
+> BEGIN STRING
+謎の文字で書かれた本　面倒どころの騒ぎじゃない
+雷　設置　隙300　貫通
+
+> END STRING
+
+> BEGIN STRING
+リンゴの皮を向くナイフ
+斬撃　1方向短　隙30
+
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.4\>
+<shotCount:15\>
+<shotSpeed:0.2\>
+<shotInterval:35\>
+<shotType:4\>
+<shotIndex:35\>
+<shotSkill:801\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+<shotWay:1\>
+<shotSpace:0.4\>
+<shotCount:15\>
+<shotSpeed:0.2\>
+<shotInterval:35\>
+<shotType:4\>
+<shotIndex:35\>
+<shotSkill:801\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+> END STRING
+
+> BEGIN STRING
+マープルソード
+
+> END STRING
+
+> BEGIN STRING
+王都マープルの安物量産品
+斬撃　3方向短　隙45　貫通
+
+> END STRING
+
+> BEGIN STRING
+オーガソード
+
+> END STRING
+
+> BEGIN STRING
+壁に立てかけると柄まで地面に刺さる名刀
+斬撃　5方向短　隙45　貫通
+
+> END STRING
+
+> BEGIN STRING
+<shotWay:5\>
+<shotSpace:0.2\>
+<shotCount:20\>
+<shotSpeed:0.2\>
+<shotInterval:45\>
+<shotType:4\>
+<shotIndex:35\>
+<shotSkill:801\>
+<shotSeName:Sword4\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+<shotWay:5\>
+<shotSpace:0.2\>
+<shotCount:20\>
+<shotSpeed:0.2\>
+<shotInterval:45\>
+<shotType:4\>
+<shotIndex:35\>
+<shotSkill:801\>
+<shotSeName:Sword4\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+> END STRING
+
+> BEGIN STRING
+炎の魔導書
+Fire Tome
+> END STRING
+
+> BEGIN STRING
+ファイアの魔法が使えるようになる初級魔導書
+炎　2方向短　隙45
+An magical tome that allows the user to cast fire.
+Fire Short Direction 45% Crit
+> END STRING
+
+> BEGIN STRING
+氷の魔導書
+Ice Tome
+> END STRING
+
+> BEGIN STRING
+氷の塊を飛ばしぶつかった場所から温度を奪う魔法
+氷　1方向　隙45
+Flings a hunk of ice that cools whatever it hits.
+Ice Single Direction 45% Crit
+> END STRING
+
+> BEGIN STRING
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:40\>
+<shotSpeed:0.3\>
+<shotInterval:45\>
+<shotType:4\>
+<shotIndex:41\>
+<shotSkill:837\>
+<shotSeName:Ice2\>
+<shotSeVolume:70\>
+<shotSePitch:100\>
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:40\>
+<shotSpeed:0.3\>
+<shotInterval:45\>
+<shotType:4\>
+<shotIndex:41\>
+<shotSkill:837\>
+<shotSeName:Ice2\>
+<shotSeVolume:70\>
+<shotSePitch:100\>
+> END STRING
+
+> BEGIN STRING
+雷の魔導書
+
+> END STRING
+
+> BEGIN STRING
+脆い物なら壊せそうな鈍器
+打撃　1方向短　隙50
+
+> END STRING
+
+> BEGIN STRING
+<mat1:I112*1\>
+<mat2:I111*1\>
+
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:40\>
+<shotSpeed:0.15\>
+<shotInterval:50\>
+<shotType:3\>
+<shotIndex:4\>
+<shotSkill:803\>
+<shotSeName:Wind7\>
+<mat1:I112*1\>
+<mat2:I111*1\>
+
+<shotWay:1\>
+<shotSpace:0.3\>
+<shotCount:40\>
+<shotSpeed:0.15\>
+<shotInterval:50\>
+<shotType:3\>
+<shotIndex:4\>
+<shotSkill:803\>
+<shotSeName:Wind7\>
+> END STRING
+
+> BEGIN STRING
+フックショット
+
+> END STRING
+
+> BEGIN STRING
+柱などに突き刺して素早く移動することができる
+斬撃　1方向　隙55　地形貫通
+
+> END STRING
+
+> BEGIN STRING
+<mat1:I110*1\>
+<mat2:I109*1\>
+
+<shotWay:1\>
+<shotSpace:0.36\>
+<shotCount:26\>
+<shotSpeed:0.52\>
+<shotInterval:60\>
+<shotType:3\>
+<shotIndex:8\>
+<shotSkill:838\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+<mat1:I110*1\>
+<mat2:I109*1\>
+
+<shotWay:1\>
+<shotSpace:0.36\>
+<shotCount:26\>
+<shotSpeed:0.52\>
+<shotInterval:60\>
+<shotType:3\>
+<shotIndex:8\>
+<shotSkill:838\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+> END STRING
+
+> BEGIN STRING
+縮地
+Earth Armour
+> END STRING
+
+> BEGIN STRING
+高速で移動する技　身体に負担がかかる
+特殊　1方向　隙50　
+A technique that causes your body to move at high speeds.
+Special 1-way 50% Crit
+> END STRING
+
+> BEGIN STRING
+
+
+<shotWay:1\>
+<shotSpace:0.36\>
+<shotCount:160\>
+<shotSpeed:0\>
+<shotInterval:50\>
+<shotType:3\>
+<shotIndex:8\>
+<shotSkill:839\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+
+
+<shotWay:1\>
+<shotSpace:0.36\>
+<shotCount:160\>
+<shotSpeed:0\>
+<shotInterval:50\>
+<shotType:3\>
+<shotIndex:8\>
+<shotSkill:839\>
+<shotSeName:Sword5\>
+<shotSeVolume:70\>
+<shotSePitch:150\>
+> END STRING

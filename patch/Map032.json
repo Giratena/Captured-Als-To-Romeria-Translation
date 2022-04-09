@@ -1,0 +1,1840 @@
+RPG MAKER MV RAW DATA
+> BEGIN STRING
+EV001
+EV001
+> END STRING
+
+> BEGIN STRING
+\\n<アイリン\>今は軽量化がONの状態です！
+
+> END STRING
+
+> BEGIN STRING
+\\n<アイリン\>今は軽量化がOFFの状態です！
+
+> END STRING
+
+> BEGIN STRING
+テストを始める
+
+> END STRING
+
+> BEGIN STRING
+軽量化ON
+
+> END STRING
+
+> BEGIN STRING
+軽量化OFF
+
+> END STRING
+
+> BEGIN STRING
+説明を見る
+
+> END STRING
+
+> BEGIN STRING
+やめておく
+
+> END STRING
+
+> BEGIN STRING
+\\n<アイリン\>軽量化をONにしました。
+説明を見ることをお勧めします。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アイリン\>軽量化をOFFにしました。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アイリン\>説明ですね！分かりました！
+任せてください！
+
+> END STRING
+
+> BEGIN STRING
+\\n<アイリン\>軽量化をONにすると
+動画の使用量が少し減って動きが多少改善されるかもしれません。
+ただし注意点がいくつかあります。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アイリン\>ひとつ。
+動画の切り替わりで画像がちらつきます。
+一瞬だけ表示が変になります。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アイリン\>ふたつ。
+再生速度が制限されます。
+滅茶苦茶に扱いてもある程度の速さにしかなりません。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アイリン\>以上の点から少し見辛くなってしまいます・・・
+ごめんなさい。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アイリン\>なるべく軽くなるように試行錯誤しています。
+動作に関して何かありましたらコメントやメッセージを頂けると
+とても助かります！
+
+> END STRING
+
+> BEGIN STRING
+\\n<アイリン\>全く問題ない場合でも
+問題なかったと教えて頂けるだけでとても助かります。
+お手数をお掛けしますが御助力を頂けると嬉しいです。
+
+> END STRING
+
+> BEGIN STRING
+EV002
+EV002
+> END STRING
+
+> BEGIN STRING
+\\n<アイリン\>動作のテスト版です！
+どんな感じで動くか試してみてください。
+重たい場合は軽量化スイッチを使用してみてください。
+
+> END STRING
+
+> BEGIN STRING
+\\n<アイリン\>じゃぁ脱いじゃいますね。
+失礼します。
+
+> END STRING
+
+> BEGIN STRING
+EV003
+EV003
+> END STRING
+
+> BEGIN STRING
+EV004
+EV004
+> END STRING
+
+> BEGIN STRING
+EV005
+EV005
+> END STRING
+
+> BEGIN STRING
+MP_SET_MOVIE シャルテスト2
+
+> END STRING
+
+> BEGIN STRING
+MP_SET_LOOP 5 on
+MP_SET_LOOP 5 on
+> END STRING
+
+> BEGIN STRING
+てすと
+
+> END STRING
+
+> BEGIN STRING
+EV006
+EV006
+> END STRING
+
+> BEGIN STRING
+１
+
+> END STRING
+
+> BEGIN STRING
+２
+
+> END STRING
+
+> BEGIN STRING
+３
+
+> END STRING
+
+> BEGIN STRING
+４
+
+> END STRING
+
+> BEGIN STRING
+MP_SET_MOVIE シャルテスト
+
+> END STRING
+
+> BEGIN STRING
+MP_SET_MOVIE test1
+MP_SET_MOVIE test1
+> END STRING
+
+> BEGIN STRING
+MP_SET_MOVIE e2_a1
+MP_SET_MOVIE e2_a1
+> END STRING
+
+> BEGIN STRING
+test
+test
+> END STRING
+
+> BEGIN STRING
+シィナ
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>捕まえたにゃ！
+にゃははは♥
+ソッコー搾り取ってやるし♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>ちんこビンビンにしてどこ行くにゃぁ？
+ほら、アタシの手とセックスしてくにゃ♥
+ほらほらほらァー♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>ここ掴まれたらもう終わりにゃぁ？
+人間ってバカだもんにゃぁ。
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>ひょっとしてわざと捕まったにゃぁ？
+ほれほれ。
+素直になっていいにゃぁ～？
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>あーぁ♥もうダメにゃぁ♥
+イクイクイクーって震えてるし♥
+負けろ負けろー♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>にゃっは♥もうイったにゃ♥
+ハンターの癖にソーローにゃぁ。
+床が汚れちゃったにゃぁ？
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>あーむ♥
+頂きにゃぁ♥
+じゅるるる♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>じゅるるるる♥
+気持ちよくて動けないにゃぁ？
+そのままじっとしてろにゃ♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>ほら出せ♥
+れろれろれろぉ♥
+ぜーんぶ飲み干してやるし♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>アタシに食べられたくて待ってたにゃ？
+にゃは♥
+その顔見れば分かるし♥じゅる♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>お前の精子アタシのお腹で溶かして殺してやるにゃ♥
+じゅるるるる♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>んにゃぁ・・・♥
+お前の負けにゃ♥
+ばーーーーか♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>捕まえたし！
+美味しそーな匂いだにゃぁ♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>ちんこビンビンにしてどこ行くにゃぁ？
+ほら、アタシのほっぺとセックスしてくにゃ♥
+ぐりぐりー♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>イクまで逃がさないにゃぁ♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>ひょっとしてわざと捕まったにゃぁ？
+だってもうこんなにカッチカチにゃ。
+コレどーして欲しいにゃ？
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>にゃぁ？
+ほっぺすりすりしただけで出すにゃ？
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>にゃっは♥
+死にかけの虫みたいにビクビクして面白いにゃぁ♥
+アタシもうずうずしてくるし♥
+
+> END STRING
+
+> BEGIN STRING
+EV008
+EV008
+> END STRING
+
+> BEGIN STRING
+果物ナイフか・・・
+一応武器として使えるかもしれない。
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>何してるのー？
+ねーねー。
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>私ちょっとお腹空いてきちゃったー。
+少しでいいから精液飲ませてほしいなー♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>\\n[1]ー♥こっち見てー♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>おっぱいでおちんちん挟んで
+ぬるぬるしてあげるからー♥
+おいでよー♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>にゅるん♥にゅるん♥って動かしてー、
+おちんちんカチカチにしてあげるよー？
+にゅるん♥にゅるーん♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>おっぱいでいじめられるの想像しちゃったー？
+足が震えてきてるよー？
+くすっ♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>今日はもう逃げるのやめてー、
+私と気持ちいいことしちゃおうよ♥
+ねー♥おいでおいでー♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>そんなにおっきくしてるのに我慢するのー？
+一度出してすっきりした方がいいんじゃないかなー？
+出しておいた方がいいでしょー？ほーら♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>うんうん♥
+いい子だねー♥
+いっぱい甘えていいからねー♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>もー・・・
+こんなに誘ってるのにダメなのー？
+あーあ。
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>じゃあもう無理矢理捕まえて搾っちゃうから。
+優しくしてあーげない♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>誘いを断ったこと後悔するぐらい
+いっぱいびゅーびゅー出させてあげるからねー♥
+
+> END STRING
+
+> BEGIN STRING
+アイテムサンプル
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>みーつけた♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>あら・・・
+果物ナイフなんか持っちゃって。
+危ないわねー。
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>そんな物騒なもの置いて？
+ねぇ、私と気持ちいいことしましょう♥
+ほら見て♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>ふーり♥ふーり♥
+あはっ♥
+見ちゃったわね♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>あんたのそのレベルじゃ
+こーんなあからさまな誘惑でも
+おちんちんにきちゃうでしょ♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>ねぇ♥気持ちいい事しましょ？
+そんな小さなナイフなんて置いて♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>ナイフなんかよりその股間についてる武器を握らないと♥
+サキュバスは倒せないわよ？
+くすくす♥
+
+> END STRING
+
+> BEGIN STRING
+目を背ける
+
+> END STRING
+
+> BEGIN STRING
+ナイフを置く
+
+> END STRING
+
+> BEGIN STRING
+ペニスを握る
+
+> END STRING
+
+> BEGIN STRING
+<random\><timer\>
+<random\><timer\>
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>あはっ♥本当に置いちゃった。
+バカね。
+そんなにオマンコしたかった？くすくす♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>あーぁ♥握っちゃった♥
+サキュバスのオマンコ見ながらソレ握っちゃったら
+もうやることはひとつしかないよねー♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>はい時間切れ♥
+見てるだけで我慢汁だらだら♥
+もう逃げられないでしょ。くす♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>どこ見てるの？
+ねぇ、私を見なさいよ♥
+見てると我慢できなくなっちゃう弱虫なの？
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>くすくす♥
+ちょっとアソコ見せただけでウブな反応しちゃって。
+あんたそれでもハンターなの？
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>ひとつ言っておくけど、
+『そんなもの』じゃ私たち淫魔は倒せないからね？
+武器は効かないの。もちろん知ってるわよね。
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>ま、好きにしなさい。
+もっと抗ってみせてね♥
+雑魚ハンターさん♥
+
+> END STRING
+
+> BEGIN STRING
+リリー
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>ふふ…っ。かわいいサイズになったわね？ 
+とっても美味しそうじゃない
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>あぁ……っ、や、やめて……
+
+> END STRING
+
+> BEGIN STRING
+突然、背後に現れたリリーが私を摘み上げ、
+自分の目の前まで持ち上げる。
+
+> END STRING
+
+> BEGIN STRING
+必死にもがくけど、今の私は8㎝もないくらいの大きさ。
+彼女の細い指すら振り払えない。
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>やだっ！ 離して…！
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>うふふ……そんなこと言っても許さない。
+このまま食べてあげる
+
+> END STRING
+
+> BEGIN STRING
+ふぅ…っ。熱い吐息が吐き掛けられる。
+
+> END STRING
+
+> BEGIN STRING
+それだけで、アタシの身体は敏感になって……
+無理やり生やされたおちんちんがびくん、と反応してしまう。
+
+> END STRING
+
+> BEGIN STRING
+ふたなりの身体なんて厄介だ……これも早く、治したいのに。
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>んんっ！！……くぅっ
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>あらあら？ どうしたのかしら？
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>なんでもなっ……ひゃっ！ あぁ…っ……
+
+> END STRING
+
+> BEGIN STRING
+意地悪な顔を浮かべたリリーの……大きな唇が開く。
+ほんの少し開いただけなのに、
+私が呑み込まれそうなくらいの暗黒が広がる……
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>逃げないの？ じゃあ、遊んじゃうわよ？
+
+> END STRING
+
+> BEGIN STRING
+にゅるり。巨大な壁のような舌先が飛び出す。
+私は、顔どころか……上半身を丸ごと舐め上げられる。
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>ひぃっ！？……あっ、ああぁ～っ！！
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>ちゅぷ……うふふ、ビクビク震えちゃってかーわい♪ 
+それじゃあ、いただきまーす
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>い、いやぁっ！ だめぇっ！
+
+> END STRING
+
+> BEGIN STRING
+食べられる。このまま食べられてしまう……
+でも、それを考えただけで……
+過敏になったおちんちんがびくんと震えてしまう。
+
+> END STRING
+
+> BEGIN STRING
+なぜか、命の危険を感じれば感じるほどよけいに張りつめて……
+痛いくらいになってしまう。
+
+> END STRING
+
+> BEGIN STRING
+べろりっ、ぷちゅり……っ。
+
+> END STRING
+
+> BEGIN STRING
+ぬめる舌が這い回るたび、私の小さな体は上下左右に動かされる。
+
+> END STRING
+
+> BEGIN STRING
+大きな舌で、ずりずり……、ずりゅずりゅ……っ
+顔も上半身も思い切り埋めつぶされ、
+息もできないほど舐めこすられる。
+
+> END STRING
+
+> BEGIN STRING
+そして、その動きに合わせて……
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>きゃうんっ！ はっ、はぁあんっ！
+
+> END STRING
+
+> BEGIN STRING
+お腹の奥がきゅんきゅん疼いて、甘い声を上げさせられてしまう。
+その感覚は小さい体にはとても強烈で……
+もう、まるで抵抗なんてできる状態じゃない。
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>うふふ……気持ちいいでしょう？ 
+ほぉら、もっともっと可愛がってあげる
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>あっ！ あぁ…っ！ だ、め……だめぇえっ！
+
+> END STRING
+
+> BEGIN STRING
+じゅるじゅると舌が巻き付いて吸い付いてくる。
+巨大な舌はずりずりと肌の上を這って、今度は足先を唇に挟まれる。
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>あっ！？ ……や、だ……っ！！
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>だぁーめ。それじゃ……あ～ん……っ♪
+
+> END STRING
+
+> BEGIN STRING
+ぱくり。ちゅぷ。
+
+> END STRING
+
+> BEGIN STRING
+足先から膝まで一気に唇に吸い込まれた。
+そのまま激しく口の中で弄ばれる。
+たちまち全身に甘い痺れが広がっていく。
+
+> END STRING
+
+> BEGIN STRING
+腰が跳ねる。逃げられない…っ……。
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>（だめ……っ！ こんなの、ダメだよぉ……っ！！）
+
+> END STRING
+
+> BEGIN STRING
+私はハンター。サキュバスを倒す存在なんだ。
+なのに今、目の前にいる悪魔にはそんなこと関係なく
+手も足も出なくて……
+
+> END STRING
+
+> BEGIN STRING
+ただ私は舌で弄ばれ……そして食べられようとしてる。
+それを考えるだけで、身体中が熱くなる。
+心臓が激しく脈打ち、頭がぼーっとしてくる。
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>さっきより大きくなってるわね。感じてるんでしょ？
+もっと気持ちよくしてあげる
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>そ、そんなわけ……っ！
+
+> END STRING
+
+> BEGIN STRING
+急に見透かされたような声を掛けられる。
+でも、それさえ強烈な刺激……
+
+> END STRING
+
+> BEGIN STRING
+私はおちんちんをさらにびくびくと震えさせて
+腰をくねらせるしかない。
+お腹が熱い……、おちんちんが痛い…っ……。
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>遠慮しないで？ あなたは私の獲物。
+たっぷり味わわせてあげる。狂うくらいにね？
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>ち、違う……！ ちが…う、もん……っ！
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>あらそれ本当？ 
+それじゃあもっと奥まで味わって教えてあげないとね？
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>あ……っ、んひゃうぅぅっ！！？
+
+> END STRING
+
+> BEGIN STRING
+突然、リリーの歯が私の太ももを挟み込む。
+きちり、鈍い痛みの刺激と……それ以上の快感。
+
+> END STRING
+
+> BEGIN STRING
+ぬぢゅ……っ、ちゅるる……っ！
+歯で押さえつけられた私の身体がさらに
+一気に唇の間へ引き摺り込まれる。
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>！！
+
+> END STRING
+
+> BEGIN STRING
+ぷちゅり…っ。
+限界まで張りつめていたおちんちんが柔らかい唇に触れ……
+
+> END STRING
+
+> BEGIN STRING
+じゅるるるる……っ！
+ 一気に口内のぬるぬるの粘膜の中に突っ込んでいった。
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>～～～ッ！！！！
+
+> END STRING
+
+> BEGIN STRING
+一瞬で視界がピンク色のフラッシュで染まる。思考が吹き飛ぶ。
+ぬるぬるの唾液で濡れた粘膜でおちんちんを急にこすられる
+直接的な刺激。
+
+> END STRING
+
+> BEGIN STRING
+気が遠くなりそうなほどの衝撃。でも、まだ終わらない。
+
+> END STRING
+
+> BEGIN STRING
+ぐちゅ、ぐちゅちゅちゅ……っ！
+アタシのおちんちんを狙って唇裏の粘膜と分厚い舌先が挟みい
+擦るように扱きあげてきた！
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>あ"っ！ あぁあああ～～～っ！！！
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>うふふ……いっぱい出していいのよ？ ほら、ほらほら！
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>あ、あ、あぁぁぁぁぁっ！ やっ、やだぁぁぁぁぁぁ！！
+
+> END STRING
+
+> BEGIN STRING
+あっさり、限界が訪れた。
+
+> END STRING
+
+> BEGIN STRING
+どくん、どくんどくんっ！ 
+お腹の奥から熱いものがせり上がる感覚。
+耐えられない。出ちゃう……っ！
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>～～～っ！！
+
+> END STRING
+
+> BEGIN STRING
+びゅるっ！ びゅるるるるっ！！ 
+声にならない悲鳴を上げて、私は勢いよく射精した。
+
+> END STRING
+
+> BEGIN STRING
+頭の中で火花が弾けて真っ白になる。何も考えられない。
+ただ、体液を吐き出しながらビクビクとおちんちんが痙攣するだけ……。
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>うふふ、美味しい♪
+
+> END STRING
+
+> BEGIN STRING
+満足そうに笑うリリーの声。
+舌先が動いて、吐き出した精液を残さず舐めとっていく。
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>あぁぁっ！ うあぁぁぁぁっ！！
+
+> END STRING
+
+> BEGIN STRING
+射精直後の敏感な亀頭がごりゅごりゅ擦られ、
+腰がさらにびくんびくん跳ねる。
+
+> END STRING
+
+> BEGIN STRING
+淫魔に捕まれば、1回の射精では済まされない。
+私はその事実を身をもって思い知らされる。
+
+> END STRING
+
+> BEGIN STRING
+にゅる…っ、にゅる……、ぷちゅ、ぬちゅぷ……っ
+まるで麦粒をなぞるような小さい小さい舌先の動き。
+
+> END STRING
+
+> BEGIN STRING
+それだけで私は強引に刺激され、
+萎えたばかりのおちんちんが無理やり勃起させられていく……。
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>んふ…♪ ああでも、このまま遊んでると
+アイツらと取り合いになっちゃうから……
+
+> END STRING
+
+> BEGIN STRING
+にゅるり……っ。
+唇がゆっくり広がる感触。
+
+> END STRING
+
+> BEGIN STRING
+しっかり挟み込まれていた腰が解放された……
+そう思った次の瞬間、
+全身がにゅるにゅると口の中へ吸い込まれはじめる。
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>…えっ！？
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>次はお口の中でもっと遊びましょう？ 
+……ドロドロのぐにゅぐにゅにしてあげる
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>そんな……や、やだ、やだぁ……っ！
+
+> END STRING
+
+> BEGIN STRING
+そんなの嫌だ。
+こんなに興奮させられた状態で全身舐められたら……！
+
+> END STRING
+
+> BEGIN STRING
+でも、抵抗しようにも腕も足も動かせない。
+必死で腰をよじるけど、それも舌先だけで押さえつけられる。
+
+> END STRING
+
+> BEGIN STRING
+…ちゅぷっ……。
+唇が鳴る情けない音とともに、
+私はあっけなくリリーの口内に引きずり込まれた。
+
+> END STRING
+
+> BEGIN STRING
+くちゅぅぅぅぅ……っ
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>ひぎっ！？
+
+> END STRING
+
+> BEGIN STRING
+再度の激しい目眩を伴う吸引。
+射精直後のおちんちんを襲う激しい摩擦。
+
+> END STRING
+
+> BEGIN STRING
+ずりゅずりゅずりゅっ。
+舌の表面に全身で押し付けられて腰ごと、
+おちんちんごと全身を舐めしゃぶられる。
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>（こ、んなの……無理っ！ 無理矢理、出され……出ちゃう……っ！）
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>あ、あぁ……っ、ああぁぁぁ……っ！！
+
+> END STRING
+
+> BEGIN STRING
+どくんっ！ どくんどくんっ！！ 
+心臓が爆発しそう。
+再び奥底から熱く激しくせり上がってくる射精感。
+
+> END STRING
+
+> BEGIN STRING
+腰が震える、跳ねる。でも動けない。
+舌肉と上顎にしっかり挟みつぶされて、全身の痙攣まで味わわれる。
+
+> END STRING
+
+> BEGIN STRING
+ずりゅん…っ、ずりゅりゅ……っ。
+舌と上顎が交互に前後に動いて、
+私の全身がごりゅごりゅと擦られてく。
+
+> END STRING
+
+> BEGIN STRING
+ぬりゅぬりゅ、ぢゅるぢゅる……っ！
+唾液が全身に絡んで沁みこんで……
+肌もおちんちんもどんどんヌルヌルにされる。
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>あらあら、また出ちゃうの？ いいわよ、いっぱい出して♪
+
+> END STRING
+
+> BEGIN STRING
+リリーの言葉と同時に、
+下半身全体が搾り上げられるように強く締め付けられた。
+
+> END STRING
+
+> BEGIN STRING
+どっぷり分厚い舌肉におちんちんがぐじゅぐじゅ埋まって、
+敏感な先端が温かい粘膜で一気に擦られて……っ
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>あぁぁぁぁーーーっ！！ んぅあぁぁぁぁぁぁぁぁぁっ！！！
+
+> END STRING
+
+> BEGIN STRING
+びゅるるるっ！！ びゅーーーっ！！ びゅるるるるるるっ！！！
+
+> END STRING
+
+> BEGIN STRING
+二度目の射精。
+一度目の射精よりさらに勢いよく、熱いものが尿道を通っていく。
+
+> END STRING
+
+> BEGIN STRING
+どぼ、どぼどぼ……
+吐き出された精液が私の腰とリリーの舌肉の間に溜まって、
+ぼちゃぼちゃ波を立てる。
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>はぁ……っ、あぁ……っ、んぅ…
+
+> END STRING
+
+> BEGIN STRING
+あまりの快感に意識が遠ざかる。
+もうダメ……！
+このまま…このまま、眠ってしまいたい……楽になりたい……っ…
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>あら、だめよ？ 気を喪わせてもらえるわけないじゃない
+
+> END STRING
+
+> BEGIN STRING
+ぬりゅっ！ ぬにゅるるるっ……
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>んっ！！ ひぃ…っ、んふうぅぅぅ……っ！！
+
+> END STRING
+
+> BEGIN STRING
+そんな甘い考えを見透かすような言葉と共に、
+口内の舌肉が激しく前後する。
+
+> END STRING
+
+> BEGIN STRING
+根元から裏筋にかけて……、つま先から頭にかけて……
+何度も粘膜が往復し、おちんちんも全身も、まとめて撫で回される。
+
+> END STRING
+
+> BEGIN STRING
+上下に動く喉元がごくっ、こく……と、
+腰まわりの溜まった精液を喉に流し込んでいく。
+
+> END STRING
+
+> BEGIN STRING
+精液だけじゃない。
+今度は私の身体もずりゅ、ずりゅ……舌肉を滑って、
+喉へと流されていく……
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>え……っ！？
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>もうわかっているでしょ？ 最後の射精はおなかの中。
+……ん、さっきより濃くて美味し♪
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>や、やだ……飲まないでっ！ 呑み込まないでぇぇ……っ……
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>だめよ。いまさらアイツらに取られるのもいやだし……
+私の胃で射精しながら溶けなさい♪
+
+> END STRING
+
+> BEGIN STRING
+ずりゅずりゅ、ずりゅりゅりゅ～っ。
+リリーの舌がさらに持ち上がる。
+
+> END STRING
+
+> BEGIN STRING
+私はおちんちんごと粘膜の上を滑って……
+ずるずる、喉奥へ落ちていく。
+
+> END STRING
+
+> BEGIN STRING
+にゅるるる……っ！
+足先が口内よりもずっと熱くて柔らかく溶けた部分に沈む。
+
+> END STRING
+
+> BEGIN STRING
+舌がさらにせりあがって、
+全身が喉奥の柔らかい部分に押し込まれ……っ。
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>（や、ばい……これ、死んじゃう……）
+
+> END STRING
+
+> BEGIN STRING
+私の身体がリリーのお腹の中に沈んでいく。
+もう、止められない……止める方法がない……っ
+
+> END STRING
+
+> BEGIN STRING
+ん……っ♪
+
+> END STRING
+
+> BEGIN STRING
+こくり……っ。
+リリーの喉が変なくらいに可愛らしく鳴って……
+
+> END STRING
+
+> BEGIN STRING
+MP_SET_MOVIE e23_c4_2
+MP_SET_MOVIE e23_c4_2
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>うあぁぁぁぁぁぁぁぁぁ～～～っ！！！！
+
+> END STRING
+
+> BEGIN STRING
+精液を飲むのと同じように。
+いともあっさり簡単に、私はじゅるんっと飲まれた。
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>ああっ！　ああぁぁぁぁ……っ！！
+
+> END STRING
+
+> BEGIN STRING
+MP_SET_MOVIE D-gateさん丸飲み
+
+> END STRING
+
+> BEGIN STRING
+ずりゅずりゅずりゅ…っ！ 
+細い喉肉を勢いよく滑る。滑り降りる。
+
+> END STRING
+
+> BEGIN STRING
+全身が激しく擦られる、けど……
+口内の唾液と自分の精液でぬるぬるになった身体は止まらない。
+落ちる。
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>うふふ……♪ 中の様子はどう？ 
+全身ぐちゅぐちゅに揉みつぶされちゃうんだから
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>あぁっ、あんぅ……！ ひっ、や、めてぇ……！
+
+> END STRING
+
+> BEGIN STRING
+食道の締め付けがどんどん強くなる。
+狭い肉の通路を無理やり押し広げられながら、
+リリーの体内を下へ下へ進んでいく。
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>んっ、あ……っ！ もぉだめぇぇ……っ
+
+> END STRING
+
+> BEGIN STRING
+とうとう出口にたどり着き、
+全身を包んでいた粘膜の圧迫感が不意に消えた。
+
+> END STRING
+
+> BEGIN STRING
+どぷん……っ！
+何かを通り抜けて、全身が熱い粘膜に包まれる。
+
+> END STRING
+
+> BEGIN STRING
+MP_SET_MOVIE D-gateさん丸飲み2
+
+> END STRING
+
+> BEGIN STRING
+解放された安堵を感じる暇もなく、
+落下した身体は再度どろどろの粘液に埋まる。
+
+> END STRING
+
+> BEGIN STRING
+まるで膣内にいるみたいな感触。
+どろりと粘つくソコはぬちゅぬちゅと絶えず波打って……
+全身が揉みこまれるみたい。
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>あ、あぁ……こ、ここ……ここって……
+
+> END STRING
+
+> BEGIN STRING
+膣ではない。やさしい空間でもない。
+……リリーの胃袋。食物を消化するための器官。
+
+> END STRING
+
+> BEGIN STRING
+証拠に、先に喉を通った精液が胃液で薄められ
+肉壁にぬっとり糸を引いてるのが見える。
+もはや逃げ場のない終点にたどり着いてしまった。
+
+> END STRING
+
+> BEGIN STRING
+叩きつけるような実感で、頭がぐらぐらと揺れる。
+腰がきゅうっと縮む……
+
+> END STRING
+
+> BEGIN STRING
+新しい獲物を感じたのか、
+全身に絡みつく柔らかな粘膜がぎゅう……っと締まってゆく。
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>んんんんんん！？ ひゃううぅぅ……っ！！
+
+> END STRING
+
+> BEGIN STRING
+強烈な締め付けが全身を一気に刺激し……
+嚥下のショックで収まりかけていた絶頂感が一気に蘇る。
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>手加減なんて無理よ？ だって……胃は勝手に動くの。
+私の意志なんて関係ないからね
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>あ、あうぅ……！！ 
+や、やらぁ……っ、イくっ、またイっちゃうよぉ……！
+
+> END STRING
+
+> BEGIN STRING
+ぶしゅわああああっ！ ぴちちち……っ！
+
+> END STRING
+
+> BEGIN STRING
+限界なのはおちんちんだけじゃなかった。
+その下のおまんこも……
+内側がキュンキュンと痙攣し、大量の愛液を噴き出す。
+
+> END STRING
+
+> BEGIN STRING
+リリーの言う通り、胃は彼女の意志と関係なく動いている。
+……つまりそれは私がどれだけ抵抗しても、何の影響もない。
+
+> END STRING
+
+> BEGIN STRING
+たとえリリーの気が変わったとしても、
+胃は容赦なく私を責め立て溶かし続ける……
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>あぁぁぁ……だ、だっめ……ぇ……！
+
+> END STRING
+
+> BEGIN STRING
+私を包んでいる肉の壁が、ゆっくりと動き始める。
+無数の肉襞がぞりゅぞりゅと全身を擦りあげてくる。
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>あぁっ、ああぁ～っ！！
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>（やだぁ、やだぁぁぁっ！ ……そこは、
+そこは……
+絶対、だめっ、だめだめっ気持ちい…っあぁぁぁ……！！）
+
+> END STRING
+
+> BEGIN STRING
+全身くまなく撫でまわされる感覚に、身体がガクガク震えだす。
+特に敏感なお尻に、クリトリスに、
+粘液がたっぷり絡まった粘膜がまとわりついてくる。
+
+> END STRING
+
+> BEGIN STRING
+ぬちゅ、ぬちゅ……っ、くちゅっ。
+くりゅっ、にちゅちゅ……っ！！
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>―――～～～～ッ！！！
+
+> END STRING
+
+> BEGIN STRING
+全身が溶ける。溶かされる。
+
+> END STRING
+
+> BEGIN STRING
+意識が飛びそうになるほどの甘い快感に犯されて――
+五感と思考が溶けていく。
+
+> END STRING
+
+> BEGIN STRING
+気が狂うほどに熱い粘膜と胃液に浸されて――
+肌と肉がとろけていく。
+
+> END STRING
+
+> BEGIN STRING
+強烈な融解感。おかしくなりそうな蕩酔感。
+淫魔の胃で消化されているだけなのに……
+私は五感ごと狂わされ全身でぐちゃぐちゃになる。
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>んんぅっ！？ んっ、んぐぅぅ……っ！！
+
+> END STRING
+
+> BEGIN STRING
+どくん……！ びゅーーっ！！！
+もはや我慢する理性もなく、
+衝動のまま腰が突きあがり、勢いよく精液が噴き出す。
+
+> END STRING
+
+> BEGIN STRING
+頭の中でぷちゅっと、
+何かが音を立てて壊れるような音がしたような気がして……
+
+> END STRING
+
+> BEGIN STRING
+腰をびくんびくんと激しく跳ねさせながら、
+おなかの水分をすべて吐き出すように射精する。
+
+> END STRING
+
+> BEGIN STRING
+突き出す腰は快楽から逃げるどころか、
+逆に胃粘膜にずっぷり埋まって……
+連鎖する快楽からはどの方向へも逃げることができない。
+
+> END STRING
+
+> BEGIN STRING
+ただひたすらに衝き上げるような激しすぎるオスの快楽……
+ただひたすらに溶け崩れるような甘ったるいメスの悦楽……
+
+> END STRING
+
+> BEGIN STRING
+無数の快感に同時に溺れ、
+息も絶え絶えに喘ぐしかない。震えるしかない。
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>んんんんん！！ ……んんんーーっ！！ 
+…んああぁぁぁぁぁぁっ！！
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>うふふ……どう？ 美味しい？ 私はとっても美味しいわよ？
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>～～っ！……っ！……っ！
+
+> END STRING
+
+> BEGIN STRING
+ぶんぶんと、必死になって首を振る。否定する。拒絶する。
+そうしないと壊れてしまいそうだから……。
+こんなの、耐えられるわけがないから……
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>そっか。じゃあ……
+もっともっと味あわせて、教え込んであげるわね
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>～～～っ！？
+
+> END STRING
+
+> BEGIN STRING
+必死の抵抗を切り捨てるようなリリーの無情な言葉。
+声にもならない悲鳴が漏れる。
+
+> END STRING
+
+> BEGIN STRING
+私の反応を楽しむように胃蠕動が激しくなり、
+耳奥までぐちゅぐちゅと水音が沁みこむ。
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>ひゃうんっ、ああっ、ああっ……！！
+
+> END STRING
+
+> BEGIN STRING
+ぞくぞくするようなびくびくするような強烈すぎる感覚。
+感覚はどんどん強くなって、芯まで水浸しになって……
+私の手足から力が溶けていく。
+
+> END STRING
+
+> BEGIN STRING
+かくり、と……倒れ込むことさえ許されず、
+全身に纏いつく粘膜に押し止められる。
+
+> END STRING
+
+> BEGIN STRING
+そのせいで両胸の先端が
+包み込む粘膜へぐりぐりと押し付けられ、潰れて擦られる。
+
+> END STRING
+
+> BEGIN STRING
+びりびりぃ…っ！ 
+強烈すぎる刺激が胸から腰に走り抜け、
+脳がどろりと溶ける感じがする。
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>（ああああああぁぁぁっ！！）
+
+> END STRING
+
+> BEGIN STRING
+っ～～！！
+
+> END STRING
+
+> BEGIN STRING
+全身を挟み込んで蠢いていた胃壁の肉襞がまた、一斉に動き出す。
+
+> END STRING
+
+> BEGIN STRING
+ぞりゅぞりゅっ、ぞりゅりゅ……っ、
+ぞりゅぞりゅぞりゅぅぅぅ……っ！！
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>い"あ"あ"あ"ん"ん"ん"ん"っっ―――！！！！
+
+> END STRING
+
+> BEGIN STRING
+声もなく絶叫する。喉を搾りつくしたような音しか出ない。
+全身を舐めまわされながら揉みこまれ、
+肉襞で押しつぶされたまま擦られ続ける。
+
+> END STRING
+
+> BEGIN STRING
+もう全身はどろどろの胃液まみれ。
+さっきまで糸を引いてた精液ももはや影も形もない。
+
+> END STRING
+
+> BEGIN STRING
+呑み込まれてから時間が経ったせいで、
+増えた胃液に混ざって消化された……
+
+> END STRING
+
+> BEGIN STRING
+そんな状態で激しい上下運動を繰り返しすおちんちんは、
+もう快感どころではない。
+
+> END STRING
+
+> BEGIN STRING
+何度もすり潰すような抽送を繰り返されて、
+いつ射精したかももうわからなくて……
+
+> END STRING
+
+> BEGIN STRING
+それこそ、本当に溶けてしまっているんじゃないかと
+思うぐらいにぐちゅぐちゅで……
+
+> END STRING
+
+> BEGIN STRING
+今の私はリリーの中でドロドロに溶け、混ざるだけ……
+でも、止まらない。止められない。
+
+> END STRING
+
+> BEGIN STRING
+この地獄のような快楽はどこまで続くのか。
+このまま私はどうなってしまうのか。
+
+> END STRING
+
+> BEGIN STRING
+恐ろしいけど……もうどうしようもない。
+快楽と消化で溶けるだけしかできない。
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>うふふ……お腹の中はもうぐちゅぐちゅね。
+私に消化されるのは気持ちいい？
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>んんっ……んむぅ……あぁぁぁぁ……っ
+
+> END STRING
+
+> BEGIN STRING
+違う、本当は嫌。助けて欲しい。誰かお願いだから止めて。
+だけど……
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>嫌がっちゃうの？
+だめね、嘘つきさんにはもっと激しくしてあげないとね
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>っ！？
+
+> END STRING
+
+> BEGIN STRING
+突然一気に増える胃液。
+滝のように分泌されるとろとろの粘液が
+洪水になって私に襲い掛かって……
+
+> END STRING
+
+> BEGIN STRING
+ごぼぉおぉぉぉ……っ！ 
+どぼっ、ごぶっ、ごぶごぶごぶごぶ……っ！！
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>～～っ！？ っ！ っ！ っ！
+
+> END STRING
+
+> BEGIN STRING
+口の中にも容赦なく大量の胃酸が流れ込み、
+喉から食道を通って体内を満たしていく。
+
+> END STRING
+
+> BEGIN STRING
+焼けつくような感覚。
+それと共に凄まじい快感が鼻を、脳を突き抜ける。
+
+> END STRING
+
+> BEGIN STRING
+息ができない……苦しい……
+でも、身体は甘い快感を感じてびくびく跳ねまわる。
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>～～っ！！！
+
+> END STRING
+
+> BEGIN STRING
+どろ、どろどろ……ぷぴゅ…っ、ぷぴゅ……っ
+何度目かわからない射精…。
+私の中身そのものが直接抜け出していくような感覚。
+
+> END STRING
+
+> BEGIN STRING
+もう勢いなんてなく、精液はただ周囲に広がり、
+そのまま胃液に溶け消えていく……
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>あはっ。
+またイッちゃったわね、情けない。これで何回目かしら？
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>あぶぅぅぅ……、んんぅぅぅぅ……っ！！ 
+んんーーーーー……
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>消化された全身が精液みたいに噴き出す感覚ってどう？ 
+貴女はそのままとろけてしまうのよ？
+
+> END STRING
+
+> BEGIN STRING
+だめ、だめ。何を話しかけられてももう、考えることもできない。
+手足はふやけて、肌もぬるぬるにとろけ……
+もう私はほとんど栄養のなりかけ。
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>（たすけて……だれかたすけてぇ……）
+
+> END STRING
+
+> BEGIN STRING
+心の中でどれだけ叫んでも誰も聞いてくれない。
+リリーは楽しそうに笑いながら私を溶かし続けてる。
+容赦なんてない。
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>（もう、限界だよ……あにき、あにき……っ……）
+
+> END STRING
+
+> BEGIN STRING
+とろぉ…、とろぉ……っ。
+もう勃起すらしなくなったおちんちんからは
+無限に精液があふれ出す。
+
+> END STRING
+
+> BEGIN STRING
+そのすぐ下からも、大量の愛液がとろとろ漏れだして
+とめどなく流れあふれる。
+
+> END STRING
+
+> BEGIN STRING
+こんな状態なのに、残る感覚は全力で快楽を伝える。
+溶ける。溶かされる。だめ、気持ちいい……
+
+> END STRING
+
+> BEGIN STRING
+抗いがたい蕩酔感に、すべてを奪われる融解感に……
+全身が溺れてしまって逃げ道がない。
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>うふふ……もういいのよ？ ぜんぶ、溶けちゃいなさい……？
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>っ――！？
+
+> END STRING
+
+> BEGIN STRING
+最期に聞いた、ひどく優しい声……
+
+> END STRING
+
+> BEGIN STRING
+ごぼっ、ごぼぼぼぼぼぼっ！！
+
+> END STRING
+
+> BEGIN STRING
+～～～―――！！！～～～～っ！！
+
+> END STRING
+
+> BEGIN STRING
+意識も視界もあたたかな闇に包まれてゆく。
+
+> END STRING
+
+> BEGIN STRING
+手足も、性器も、感覚も……
+ぜんぶ、全部熱い粘液に溶け混ざってゆく。
+
+> END STRING
+
+> BEGIN STRING
+脳の奥までぷちゅりと、
+甘ったるいとろとろの汁が染みた感じがして……
+そしてそのまま、私の身体は完全にとろけ、消化されていった。
+
+> END STRING
+
+> BEGIN STRING
+とろり……とろり……
+
+> END STRING
+
+> BEGIN STRING
+ちゅぷり…っ。
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>ん…っ。美味しかった♪ 
+ごちそうさま。\\n[1]ちゃん
+
+> END STRING

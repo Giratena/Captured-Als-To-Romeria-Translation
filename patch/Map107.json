@@ -1,0 +1,390 @@
+RPG MAKER MV RAW DATA
+> BEGIN STRING
+自動実行
+
+> END STRING
+
+> BEGIN STRING
+水噴出
+
+> END STRING
+
+> BEGIN STRING
+ <enemy:99\>
+
+> END STRING
+
+> BEGIN STRING
+水漏れしている・・・
+びしょ濡れになりたくないから
+出来るなら通りたくない・・・
+
+> END STRING
+
+> BEGIN STRING
+カチコチに凍っている・・・
+
+> END STRING
+
+> BEGIN STRING
+食糧庫ドア
+
+> END STRING
+
+> BEGIN STRING
+食堂の鍵を開けた！
+
+> END STRING
+
+> BEGIN STRING
+食堂に繋がっているようだ。
+鍵がかかっている・・・
+
+> END STRING
+
+> BEGIN STRING
+ゴミ捨て場の鍵を開けた！
+
+> END STRING
+
+> BEGIN STRING
+この先はゴミ捨て場のようだ・・・
+匂いが漏れてきている。
+
+> END STRING
+
+> BEGIN STRING
+報告書
+
+> END STRING
+
+> BEGIN STRING
+失敗した料理のような塊がある・・・
+新鮮な生ごみ。
+
+> END STRING
+
+> BEGIN STRING
+出現防止
+
+> END STRING
+
+> BEGIN STRING
+EV011
+
+> END STRING
+
+> BEGIN STRING
+リラクゼーションの本だ・・・
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]は\\C[3]『休憩』\\C[0]を覚えた！
+
+> END STRING
+
+> BEGIN STRING
+イベント用キャラ
+
+> END STRING
+
+> BEGIN STRING
+シィナに料理をさせないで！
+あんなの食べたら精奴隷さんが死んじゃうよ！
+食材も勿体ないから見つけたら止めてね！
+
+> END STRING
+
+> BEGIN STRING
+EV014
+
+> END STRING
+
+> BEGIN STRING
+果物ナイフか・・・
+一応武器として使えるかもしれない。
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>みーつけた♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>あら・・・
+果物ナイフなんか持っちゃって。
+危ないわねー。
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>そんな物騒なもの置いて？
+ねぇ、私と気持ちいいことしましょう♥
+ほら見て♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>ふーり♥ふーり♥
+あはっ♥
+見ちゃったわね♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>あんたのそのレベルじゃ
+こーんなあからさまな誘惑でも
+おちんちんにきちゃうでしょ♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>ねぇ♥気持ちいい事しましょ？
+そんな小さなナイフなんて置いて♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>ナイフなんかよりその股間についてる武器を握らないと♥
+サキュバスは倒せないわよ？
+くすくす♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<リリー\>いいのよ？
+サキュバスに搾られるのが怖いなら、自分で扱けば？
+ほら♥それなら大丈夫でしょ？くす♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>あはっ♥その気になってくれたぁ？
+じゃあ私のこと見ながらオナニーして見せて♥
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>くすくす♥
+ちょっとアソコ見せただけでウブな反応しちゃって。
+あんたそれでもハンターなの？
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>ひとつ言っておくけど、
+『そんなもの』じゃ私たち淫魔は倒せないからね？
+武器は効かないの。もちろん知ってるわよね。
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[3]\>ま、好きにしなさい。
+もっと抗ってみせてね♥
+雑魚ハンターさん♥
+
+> END STRING
+
+> BEGIN STRING
+果物ナイフが置いてある・・・
+一本あれば十分だ。
+
+> END STRING
+
+> BEGIN STRING
+さくらんぼとチョコレートのケーキのレシピだ・・・
+美味しそう。
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>（これ作ってくれるなら・・・
+もう一日くらい捕まっててもいいな。
+なんて・・・）
+
+> END STRING
+
+> BEGIN STRING
+ビンが割れている。
+アルコールの匂いがする・・・
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>（勿体ない・・・）
+
+> END STRING
+
+> BEGIN STRING
+EV017
+
+> END STRING
+
+> BEGIN STRING
+リリーの日記
+
+> END STRING
+
+> BEGIN STRING
+リリーの日記
+ミスト屋敷襲撃
+
+> END STRING
+
+> BEGIN STRING
+読んでみる
+
+> END STRING
+
+> BEGIN STRING
+やめておく
+
+> END STRING
+
+> BEGIN STRING
+EV019
+
+> END STRING
+
+> BEGIN STRING
+ニンニクとお肉。
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>（料理をしている時間はないね。）
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>（塩コショウとニンニクで焼くだけ。
+肉料理はこれで完成されている。あとは蛇足だ。）
+
+> END STRING
+
+> BEGIN STRING
+調味料・・・
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>（淫魔にコショウをかけてくしゃみをしている間に・・・）
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>（・・・
+これは持っていく必要はないかな。）
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>（料理は苦手だ・・・
+少々とか適量とか、それが分からないからレシピを見ているのに。）
+
+> END STRING
+
+> BEGIN STRING
+麦・・・
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>（焼きたてのパンが食べたい・・・）
+
+> END STRING
+
+> BEGIN STRING
+お皿・・・
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>（投げて武器にすることができるかも・・・）
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>（そんなアホな戦い方はしたくない。）
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>（これをフリスビーのように投げれば・・・
+・・・
+いや、やめておこう。）
+
+> END STRING
+
+> BEGIN STRING
+アイテム
+
+> END STRING
+
+> BEGIN STRING
+もう使えそうなものはない。
+
+> END STRING
+
+> BEGIN STRING
+珍しい調味料が並んでいる・・・
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>（カルダモン・・・カレーに入れると美味しい。）
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>（カルダモン・・・？ゆるキャラか？）
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>（バイマックル・・・カレーに入れると美味しい。）
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>（バイマックル・・・？攻撃力が上がりそうだ。）
+
+> END STRING
+
+> BEGIN STRING
+立体起動
+
+> END STRING
+
+> BEGIN STRING
+<enemy:99\><cw:1.3\><ch:1.5\>
+
+> END STRING
+
+> BEGIN STRING
+箱のようなものがあるが
+高くて手が届かない・・・
+
+> END STRING
+
+> BEGIN STRING
+もう何もない・・・
+
+> END STRING
+
+> BEGIN STRING
+生ごみ・・・
+
+> END STRING
+
+> BEGIN STRING
+\\n<\\n[1]\>（う"ぇ"・・・）
+
+> END STRING
+
+> BEGIN STRING
+EV036
+
+> END STRING
