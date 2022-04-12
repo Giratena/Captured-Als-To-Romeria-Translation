@@ -22,7 +22,7 @@ https://www.patreon.com/Giratena
 
 << How to contribue to the translation files >>
 -------------------------------------------
-The translation files are located in the data folder of this repository. Inside are files that contain the translation.
+The translation files are located in the **data** folder of this repository. Inside are files that contain the translation.
 
 You are free fork this translation using Github Desktop and edit it's contents to help out with the translation! Once you're done, create a pull request and I'll merge it with the main translation!
 
