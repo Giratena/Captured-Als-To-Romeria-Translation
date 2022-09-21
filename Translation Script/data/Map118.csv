@@ -1,0 +1,846 @@
+"自動実行","自動実行",""
+"リリー","Lily",""
+"シィナ","Shina",""
+"アーコイベ用","アーコイベ用",""
+"ライム","Lime",""
+"自動実行カギ","自動実行カギ",""
+"\n<リリー>あ、シィナあんた。
+ちゃんと鍵掛けた？","\n<Lily>Oh Shina, you're back.
+Did you lock them up?
+",""
+"\n<シィナ>は？知らんし。","\n<Shina>Huh, me?
+Beats me.",""
+"\n<リリー>ちょっと！
+しっかりしてよね！
+逃げられたらどうすんのよ！","\n<Lily>Whoa whoa whoa!
+You need to take this seriously!
+What if they got out!",""
+"\n<リリー>はぁ～～～・・・
+ほんとあんたっていっつも・・・","\n<Lily>Sigh....
+Why are you always so... so...",""
+"\n<シィナ>はぁ？
+知らんにゃ。
+鍵持ってないし。アタシじゃねー！","\n<Shina>Whaa?
+I dunno-nya.
+I don't have the key. It's not my fault!",""
+"\n<ライム>私も持ってないよ。","\n<Lime>I don't have a key either.",""
+"\n<リリー>ん？","\n<Lily>Hm?",""
+"\n<リリー>・・・！！","\n<Lily>...!!",""
+"\n<リリー>私が持ってた。
+・・・
+鍵、閉めたっけ？","\n<Lily>I have the key.
+...
+Did you at least shut the door?",""
+"\n<シィナ>知らんし。
+アホにゃ。","\n<Shina>I dunno.
+Why don't you do it yourself-nya.",""
+"\n<ライム>とりあえず、確認しに戻ろっか。
+リリー。","\n<Lime>Well for now, let's go back and check,
+Lily?",""
+"\n<シィナ>ごめんなさいは～？","\n<Shina>Now who should be the one apologizing?~",""
+"\n<リリー>えへっ♥","\n<Lily>Eei♥",""
+"引っかけ場所","引っかけ場所",""
+"<TE:立体起動>","<TE:立体起動>",""
+"最初のイベント","最初のイベント",""
+"\n<ライム>やっぱりね！","\n<Lime>I knew it!",""
+"\n<ライム>逃げる時間そんなにないよなー、って思ってたの。
+どこかに隠れてたのかな？
+待ってたら来ると思ったよー！","\n<Lime>I was just thinking, ""there was no time to escape at all-"".
+You hid somewhere, right? So I thought to wait here, just in case!",""
+"ーーーーー基本変更点ーーーーー","",""
+"\n<ライム>にへへへへー♥
+つーかまーえた♥","\n<Lime>Ehehehehe-♥
+Caught you-♥",""
+"\n<\n[3]>ぬるぬるして動きにくいでしょー。
+早く逃げないと白いの出させちゃうぞー？","\n<\n[3]>It's hard to move when everything is so slippery right?
+If you don't escape soon you'll let out your white
+stuff you know?",""
+"\C[3]※捕まるとタイミングバーが表示されます。
+\C[0]タイミングよく黄か赤で止めてください。
+赤で止めると被ダメージが半減します。","\C[3]※A timing bar will display if you're caught.
+\C[0]Go ahead and stop in the red or yellow areas.
+Red areas will reduce damage taken by half.",""
+"\n<\n[3]>むにゅー・・・♥
+柔らかくて溶けちゃいそうでしょー♥
+気持ちいい気持ちいいー♥","\n<\n[3]>Squish-...♥
+They're so soft, your cares just melt away right?♥
+Feels so good- Feels so good-♥",""
+"\n<\n[3]>あれー？もう出ちゃうのー？
+おっぱい我慢できなかったー？あはは♥
+じゃあ一回だけ、出しちゃおっかー♪","\n<\n[3]>What's this? You're about to cum already-?
+So you couldn't resist my boobs after all? Ahaha♥
+Well then, I'll give you one more pump, let it all out♪",""
+"\n<\n[3]>あっあっ♥おっぱいの間でぴくぴくしてるー♥
+おちんちん喜んでくれたみたい♥
+うれしー♥","\n<\n[3]>Ahh ahh♥ It's shooting between my boobies-♥
+Your penis seems delighted too♥ I'm so happy-♥",""
+"\C[1]SAN値が1下がった・・・（現在SAN値\v[270]）","\C[1]Sanity decreased by 1... (Current Sanity: \v[270]）",""
+"\n<ライム>もうー。ひょっとして全然抵抗する気ないのー？
+ゲームはまだ始まったばかりなのに。
+次は本気で搾っちゃうからねー？","\n<Lime>Whoa- Were you seriously not trying to resist at all-?
+And the game has only just started too,
+next time I'll milk you for real okay?",""
+"\n<ライム>あっ！逃げられちゃった・・・
+まぁいいっかー。","\n<Lime>Ah! You escaped...
+Oh well-.",""
+"\n<ライム>えーっと、リリーの言ってたこと、
+聞こえてたかな？
+脱出ゲームがどーのこーの・・・","\n<Lime>That is...you heard what Lily said right?
+About this escape game thingy...",""
+"\n<ライム>この館は広いからねー。
+なかなか出られないと思うけど・・・
+頑張って色んなところ、探してみてね。","\n<Lime>This mansion is very, very big-.
+I don't think you'll get out...but feel free to try your hardest,
+and search everywhere you can okay?",""
+"\n<ライム>あ！あとねー。
+魔物さんたちにも捕まえるの手伝って貰ってるの。","\n<Lime>Ah! By the way-.
+We've received the help of some lower class monsters to help
+capture you.",""
+"\n<ライム>私たちに捕まると\C[1]『精力にダメージ』\C[0]
+魔物さんたちに捕まると\C[14]『体力にダメージ』\C[0]
+どっちが0になってもゲームオーバーだよー。","\n<Lime>If we capture you, \C[1]your energy will be drained.\C[0]
+If our monsters capture you, \C[14]you'll take physical damage.\C[0]
+If any of these values reach 0, it'll be game over-!",""
+"\n<ライム>リリーもシィナも楽しそうだから。
+簡単に諦めたりしちゃダメだよー？
+いっぱい遊ばれてね。","\n<Lime>Lily and Shina seem to be happy after all.
+So you shouldn't give up so easily OK? Enjoy yourself
+as much as possible now-.",""
+"\n<ライム>次は一回射精したぐらいじゃ
+許してあげないからねー？くすくす♥
+ばいばーい♥","\n<Lime>Next time you cum, I won't go easy on you now alright?
+Teehee♥ Bye bye♥",""
+"\n<ライム>じゃー頑張ってねー。
+次は私も本気でぴゅっぴゅさせにいっちゃうからねー。","\n<Lime>Now then, do your best okay?
+Next time I'll make you go pew pew for realsies-",""
+"ドア","ドア",""
+"玄関扉は固く閉ざされている・・・","The entrance door has been shut tight...",""
+"\n<？？？>開かないよ。","\n<???>It won't open.",""
+"\n<？？？>あたしも閉じ込められて困ってんの。
+あんた誰？","\n<???>I'm afraid it means I can't get out either.
+Who are you?",""
+"MP_SET_MOVIE e8_Ta","MP_SET_MOVIE e8_Ta",""
+"MP_SET_LOOP 6 on","MP_SET_LOOP 6 on",""
+"\n<アーコ>あーあー警戒しないで。
+あたし中立だから。ちゅーりつ。
+知ってる？ちゅーりつって言葉。チューリップじゃないよ。","\n<???>Ah, there's no need to look so cautious.
+I'm a neutral party. Neutral party. Not the natural party.
+Do you understand? I'm not related to anyone here. ",""
+"\n<？？？>こんなところに人間が居るなんて珍しーね。
+リリーたちに捕まったのかな？","\n<???>It's rare to see humans in places like these you know.
+Did Lily and her gang capture you?",""
+"\n<？？？>あたしアーコ。
+黒猫のアーコだよ。よろしく。
+あんたは？","\n<???>The name's Ako, Ako the black cat.
+Nice to meet you. What's your name?",""
+"\n[1]・・・","\n[1]...",""
+"擬態型かァ～？","Friend or foe...?",""
+"\n<アーコ>友好型だよ。アーコだよ。
+名前。教えてよ。","\n<Ako>Friend! And it's Ako!
+What's yours?",""
+"\n<アーコ>\n[1]。
+うん。覚えた。フツーだね。
+フツーにいい名前。フツー。","\n<Ako>\n[1].
+I see. I'll remember that. What an ordinary name.
+Ordinary ordinary.",""
+"\n<シィナ>アーコ来てんのかー！？","\n<Shina>So did you bring them or not Ako-!?",""
+"\n<アーコ>隠れて！","\n<Ako>Hide!",""
+"\n<シィナ>タバコにゃ。
+持ってきたにゃ？","\n<Shina>My cigarettes-nya.
+You brought them right-nya?",""
+"\n<アーコ>ほいほい。
+税金上がったから1箱540Gだよ。
+何個欲しいの？しぃにゃん。","\n<Ako>Right here.
+Due to increases in tax one box is 540G.
+How many do you want? Shin-nya?",""
+"\n<シィナ>淫魔が税金納めてんじゃねー！
+カートンにゃ！
+あと次しぃにゃんって呼んだら殺す！","\n<Shina>Succubus don't pay taxes!!
+A whole carton! A-And call me Shi-nya again and
+you'll really be in for it!",""
+"\n<アーコ>5400G！まいどー♪
+あたし、しぃにゃんの怒った顔好き。","\n<Ako>And that comes to 5400G!
+Pleasure doing business with you♪
+I'll never get sick of seeing Shi-nyans flustered face.",""
+"\n<シィナ>アーココロス！","\n<Shina>I'll, I'll kill you!",""
+"\n<アーコ>（可愛い・・・）","\n<Ako>(She's so cute...)",""
+"\n<シィナ>あーお前と話してるとほんと調子狂うにゃ。
+はよ帰れし。
+じゃーなバーカ。","\n<Shina>S-Speaking with you really makes me mad-nya.
+Now go home. See ya later, idiot.",""
+"\n<アーコ>帰りたくても帰れないよ。
+玄関開かないもん。","\n<Ako>I can't go back even if I want to.
+The door won't open.",""
+"\n<シィナ>あ。そうにゃ。
+今人間と脱出ゲームやってるから全部閉め切ってるにゃん。","\n<Shina>Ah. That's right-nya.
+Because of an escape game we're playing with a human right
+now, it's completely shut-nya.",""
+"\n<アーコ>脱出ゲーム？","\n<Ako>An escape game?",""
+"\n<シィナ>人間がここから脱出するのが先か
+アタシらにチンポ犯されまくって干物になるのが先かの・・・","\n<Shina>A game of what will come first...
+The human escaping, or getting their dick totally
+milked until they become our semen slave...",""
+"\n<シィナ>まさにセイシをかけたゲームにゃ！","\n<Shina>A game of life and death-nya!",""
+"\n<アーコ>そう・・・
+（また妙なことやってる・・・）","\n<Ako>I see...
+(So they're doing weird stuff again...)",""
+"\n<シィナ>邪魔すんなよ。","\n<Shina>You'd better not get in our way.",""
+"\n<アーコ>えっ？ちょっと待って。
+それってあたしも出られないってコト？","\n<Ako>Eh? Wait just a moment.
+Are you saying that I can't get out either now?",""
+"\n<シィナ>お前のことは知らんし。
+大人しく床の溝でもなぞっとけにゃ。
+カートンありがとにゃー。","\n<Shina>I don't know about you.
+Trace the grooves of the floor or something.
+Thanks for the cigars-nya.",""
+"\n<アーコ>なるほどねー。
+事情は分かったよ。","\n<Ako>I see-
+I think I understand your circumstances.",""
+"\n<アーコ>どうやら\n[1]が出口を見つけるか干物になるまで
+あたしも出られなくなっちゃったみたい。
+うーん。","\n<Ako>It seems that until \n[1] gets milked or
+finds a way out, I'm stuck here. Haah...",""
+"\n<アーコ>今ここで干物にしちゃうか・\.・\.・\.","\n<Ako>Maybe I could milk you a little now.\..\..\.",""
+"\n<アーコ>冗談だよ。
+うける。","\n<Ako>Just joking!
+Gotcha.",""
+"\n<アーコ>ところであたしは淫魔だけどお店をやってるんだよ。
+黒猫屋！
+精力剤とか必要でしょ？売ってあげるよ！","\n<Ako>By the way, I may be a succubus, but I also 
+run a shop. It's called the Black Cat! You need medicine?
+I sell it all!",""
+"\n<アーコ>お金無いの？
+じゃあ、もしこの館でお金になりそうなものあったら
+あたしに持ってきて。買い取ってあげる。","\n<Ako>You don't have any money?
+Well, if you find anything in this house that you think
+is worth something, bring it to me. I'll buy it.",""
+"\n<アーコ>あたしここに居るから。
+何かあったら話しかけてね。
+じゃ。","\n<Ako>I'll be waiting right here.
+Come chat if you need something alright? Till then!",""
+"シィナイベ用","シィナイベ用",""
+"アーコ","Ako",""
+"\n<アーコ>やぁやぁ。アーコだよ。
+何か欲しい物とかあるの？
+見てく？","\n<Ako>Hello hello! Ako here!
+Is there something you want? Why not take a look?",""
+"\n<アーコ>武器になりそうなものとか見つけた？
+まずはそういうの探すといいかもね。","\n<Ako>Did you find anything that you could use as a weapon?
+That's the first thing you should search for I bet.",""
+"\n<アーコ>何食べたらそんなにおっぱい大きくなるの？
+横縞模様だからおっぱい大きく見えるの？
+錯覚？","\n<Ako>What do you eat to make your boobs so big?
+Is it the horizontal stripes that make them look bigger?
+Is it some kind of illusion?",""
+"\n<アーコ>囚人服に合ってるよ。
+まさに囚人って感じ。
+褒めてないよ。","\n<Ako>That prison outfit suits you.
+I mean, you are a prisoner I guess.
+Don't take it as a compliment.",""
+"\n<アーコ>あたしは淫魔だし、気持ちが分かるから
+どっちの味方もしないよ。
+でも仲良くしたいって思ってる。","\n<Ako>I'm a succubus, and I know how you feel.
+I won't pick sides. But I hope we can be friends.",""
+"\n<アーコ>シィナは猫の時からの友達だよ。
+リリーに淫魔にされたんだってさ。
+あたしは違うやつに淫魔にされたけど。","\n<Ako>Shina has been my friend since we were just cats!
+Lily turned her into a succubus, and now she's like that.
+A different person turned me into a succubus though.",""
+"\n<アーコ>あたしも淫魔だから精液が一番美味しいと思うけど
+カリカリもかつおぶしも同じくらい美味しいと思う。
+一番がいっぱいあるといいね。","\n<Ako>I'm a succubus as well so of course semen is the most delicious
+thing in the world... But I love crisps and katsuobushi as well.
+I can never get enough of them~",""
+"\n<アーコ>ここは元々大金持ちが住んでたんだって。
+メイドも使用人もいっぱい居たってさ。
+なんでこんな森の中に？って感じ。","\n<Ako>A very rich person used to live here...
+And lots of maids and servants too. It makes me think-
+What was it doing out in the forest?",""
+"\n<アーコ>みんなお金に興味ないから
+あたしがこの館から色々持って行っても何とも思わないんだよ。
+だから、ここで仕入れて町で売ったりする。","\n<Ako>Because no one has any interest in gold here,
+they don't care if I take stuff from the mansion.
+So, I just take it to town and sell it.",""
+"\n<アーコ>その見返りにタバコとか持ってきてあげるの。
+まぁ、それもお金取るけどね。","\n<Ako>I'll give you cigars and stuff for something good.
+...Well, for the right price that is.",""
+"\n<アーコ>淫魔の巣に閉じ込められるのは
+人間にとって辛いでしょ。
+少しでもえっちな気分になるとすぐ硬くなっちゃう。","\n<Ako>It must be so difficult being a human 
+locked up in the succubus hideout.
+Even being just a bit aroused will make you hard.",""
+"\n<アーコ>行き詰ったらとりあえず攻撃してみたらいいよ。
+壊せるものとかあるかもしれないし。","\n<Ako>If things look hopeless, just keep attacking.
+You might just make a break through.",""
+"\n<アーコ>お兄ちゃんも下に居るの？
+面白そうだから後で行ってみよー。","\n<Ako>Your big brother is down there too right?
+How interesting, I'll be sure to give him a visit later-.",""
+"\n<アーコ>妹も捕まってるの？
+後で行ってみよー。
+仲良くなれるかな？","\n<Ako>So your sister has been captured as well?
+I'll go and visit her later-.I wonder if we would get along well?",""
+"買い物","Buy something",""
+"用事はない","I don't need anything right now",""
+"・・・","...",""
+"\n<アーコ>何を買ってくれるのかな？","\n<Ako>What would you like to buy?",""
+"\n<アーコ>ははーん。さては冷やかしだな？
+ふーん！","\n<Ako>Haah. Did you just come to window shop or something?
+Hmmph!",""
+"\n<アーコ>まいどあり～！","\n<Ako>Thank you for your purchase-!",""
+"\n<アーコ>ふーん。","\n<Ako>Hmm.","\n<Ako>Hmm."
+"\n<アーコ>戦うの・・・？
+そっか・・・","\n<Ako>Fighting...?
+I see...","\n<Ako>Fighting...?
+I see..."
+"\n<アーコ>（どっちが勝ってもやだなぁ・・・
+・・・
+でも・・・しょうがないのかなぁ・・・）","\n<Ako>（どっちが勝ってもやだなぁ・・・
+・・・でも・・・しょうがないのかなぁ・・・）","\n<Ako>(I don't really care who wins…
+...
+But... Is this the only way…)"
+"\n<アーコ>あたしは中立。
+だからお金くれる方の味方。というかお金の味方。
+うん。","\n<Ako>I'm a neutral party.
+I side with whoever's got money.\nI'm a buddy for hire, mmhm!",""
+"\n<アーコ>分かった。売ってあげる。
+戦うための装備。
+・・・","\n<Ako>分かった。売ってあげる。
+戦うための装備。・・・",""
+"\n<アーコ>本当に戦うの・・・？
+リリーは強いよ。
+\n[1]が負けて食べられちゃうのあたし、やだな。","\n<Ako>本当に戦うの・・・？
+リリーは強いよ。\n[1]が負けて食べられちゃうのあたし、やだな。",""
+"\n<アーコ>何が欲しいのかな？","\n<Ako>何が欲しいのかな？",""
+"\n<アーコ>もう帰ろーよー。","\n<Ako>もう帰ろーよー。",""
+"\n<アーコ>そっか。","\n<Ako>そっか。",""
+"食糧庫ドア","食糧庫ドア","Door to the Food Warehouse"
+"食糧庫の鍵を開けた！","食糧庫の鍵を開けた！","Used the key to the Food Warehouse!"
+"食糧庫のようだ。
+鍵がかかっている・・・","食糧庫のようだ。
+鍵がかかっている・・・","It seems to lead to the Food Warehouse.
+It's locked..."
+"いわ","いわ","Boulder"
+" <enemy:145>","<enemy:145>",""
+"瓦礫を壊せば通れそうだ・・・","瓦礫を壊せば通れそうだ・・・",""
+"EV023","EV023",""
+"浴場の鍵を開けた！","浴場の鍵を開けた！",""
+"この先は浴場のようだ。
+鍵がかかっている・・・","この先は浴場のようだ。
+鍵がかかっている・・・",""
+"応接室の鍵を開けた！","応接室の鍵を開けた！",""
+"応接室の扉だ。
+鍵がかかっている・・・","応接室の扉だ。
+鍵がかかっている・・・",""
+"倉庫の鍵を開けた！","倉庫の鍵を開けた！",""
+"倉庫の扉だ。
+鍵がかかっている・・・","倉庫の扉だ。
+鍵がかかっている・・・",""
+"梯子","梯子",""
+"硬いドア","硬いドア",""
+" <enemy:151>","<enemy:151>",""
+"鍵穴が見当たらないが
+建付けが悪くて開きそうにない・・・","鍵穴が見当たらないが
+建付けが悪くて開きそうにない・・・",""
+"植物","植物",""
+" <enemy:99>","<enemy:99>",""
+"変数203（ARGP攻撃種類）
+1斬　2打撃　3水　4火　5雷
+6誘惑　7食べ物
+特殊206（個別攻撃種類）
+1リンゴ　2皿　3卵","",""
+"リリー召喚魔法陣","リリー召喚魔法陣",""
+"--------キャラ指定-----座標設定------------","",""
+"----------------------------------------","",""
+"\n<\n[3]>ちょっと待ちなさい。
+2階はダメよ。
+私の部屋があるもの。","\n<\n[3]>Hold it right there.
+The second floor is off limits.
+My room is up there.",""
+"\n<\n[3]>そうねぇ。
+どうしても通りたいって言うなら・・・
+ちょっとしたゲームをしましょ。","\n<\n[3]>Actually, that gives me an idea-
+If you really want to get by...
+Then let's play a little game.",""
+"\n<\n[3]>あんたが後ろから私を突いて、射精を我慢するの♥
+ゆっくり奥まで入れて抜くだけ♥
+そうね、3回でいいわ。","\n<\n[3]>Thrust into my lovely rear, and try to resist squirting inside♥
+Just a couple of slow, lovely strokes inside my pussy♥
+I'd say about...3 times should be plenty.",""
+"\n<\n[3]>3回入れて射精しなかったらあんたの勝ち。
+我慢できずにイっちゃったらあんたの負け。
+どう？これぐらいなら余裕でしょ？","\n<\n[3]>If you don't ejaculate after 3 thrusts, then you win.
+If you can't hold it back, then you lose.
+Well? Does that sound fair?",""
+"\n<\n[3]>たったの3回、おちんちんをオマンコに入れるだけよ。
+私からは手を出さない。
+超簡単なゲーム♥大サービスよ。","\n<\n[3]>Just insert your dick in my pussy 3 times.
+And don't take your hands off of me.
+Super simple game♥ Consider it a freebie from me to you~",""
+"\n<\n[3]>ほらおいで♥
+大丈夫。たったの3回よ♥
+まさか、怖気づいちゃった訳じゃないわよねぇ？くすくす♥","\n<\n[3]>ほらおいで♥
+大丈夫。たったの3回よ♥まさか、怖気づいちゃった訳じゃないわよねぇ？くすくす♥","\n<\n[3]>Come here♥ It's all right. Just 3 times♥
+What, you're not scared, are you?
+Hee hee♥"
+"\n<\n[3]>あはっ♥どうしたの驚いた顔しちゃって♥
+そんなに気持ちよかった？
+ほら、あと2回♥がんばれ♥がんばれ♥","\n<\n[3]>あはっ♥どうしたの驚いた顔しちゃって♥
+そんなに気持ちよかった？ほら、あと2回♥がんばれ♥がんばれ♥","\n<\n[3]>Ahaa♥ What's wrong? You look so surprised♥
+Didn't it feel good? Hora, just two more times♥
+Give it your best♥"
+"\n<\n[3]>息が荒いわよ？必死に耐えてるの？
+イキそうならやめてもいいのよ♥
+それとも、私に中出しする？くすくす♥","\n<\n[3]>息が荒いわよ？必死に耐えてるの？
+イキそうならやめてもいいのよ♥それとも、私に中出しする？くすくす♥","\n<\n[3]>Are you out of breath? Can you barely stand it?
+You can stop if you're about to cum♥ Or will you 
+cum inside me? Hee hee♥"
+"\n<\n[3]>あははは！その必死な顔♥超ウケる♥
+でもまぁ、あんたの勝ちよ♥
+ぷ・・・くくく♥","\n<\n[3]>あははは！その必死な顔♥超ウケる♥
+でもまぁ、あんたの勝ちよ♥ぷ・・・くくく♥","\n<\n[3]>Ahahaha! That desperate look on your face♥ So good♥
+But hey, you won♥
+Fu... Hee hee hee♥"
+"挿入","挿入","Insert"
+"やめる","やめる","Stop"
+"\n<\n[3]>あはっ。
+抜いたのに限界が来ちゃってたみたい♥
+お尻に熱いのがかかってるわ♥くすくす♥","\n<\n[3]>あはっ。
+抜いたのに限界が来ちゃってたみたい♥お尻に熱いのがかかってるわ♥くすくす♥","\n<\n[3]>Ahaaa.
+It seems you reached you limit even after
+pulling out♥ My ass feels all hot now♥ Hee hee♥"
+"\n<\n[3]>やめるの？
+イキそうになっちゃった？
+じゃあゲームはここまでね。","\n<\n[3]>やめるの？
+イキそうになっちゃった？じゃあゲームはここまでね。","\n<\n[3]>Are you gonna stop? Are you about to cum?
+So the game's about to end."
+"\n<\n[1]>あぁ！！ダメ！！
+あぁぁぁぁぁぁぁ！！！","\n<\n[1]>あぁ！！ダメ！！
+あぁぁぁぁぁぁぁ！！！","\n<\n[1]>Ahhh! C-can't!!
+Aaaaaaaaahhhh!!!"
+"\n<\n[1]>うぁ！！や、やめ！！！
+あぁぁぁぁぁぁぁ！！！","\n<\n[1]>うぁ！！や、やめ！！！
+あぁぁぁぁぁぁぁ！！！","\n<\n[1]>Uwaah!! S-stop!!!
+Aaaaaaaaahhh!!!"
+"\n<\n[3]>ん？なーに？
+ゲームは終わりって言ったじゃない。
+私が何もしないのはゲームの時だけよ？","\n<\n[3]>ん？なーに？
+ゲームは終わりって言ったじゃない。私が何もしないのはゲームの時だけよ？","\n<\n[3]>Mmm? What's this? 
+Sounds like the game is over.
+I didn't move a muscle, and it's still all over?"
+"\n<\n[3]>あはっ♥お尻にもたれかかって。
+くすくす♥
+そんなに気持ちよかったの？","\n<\n[3]>あはっ♥お尻にもたれかかって。
+くすくす♥そんなに気持ちよかったの？","\n<\n[3]>Ahaa♥ You're leaning against my butt.
+Hee hee♥
+Did it really feel so good?"
+"\n<\n[3]>じゃ、通っていいわよ。
+約束だものね。","\n<\n[3]>じゃ、通っていいわよ。
+約束だものね。","\n<\n[3]>Well then, you may pass.
+A promise is a promise."
+"\n<\n[3]>たったの3回入れただけでイキそうになってるあんたが
+この先無事に脱出できるとは思えないけど♥
+ま、精々楽しませてね♥","\n<\n[3]>たったの3回入れただけでイキそうになってるあんたが
+この先無事に脱出できるとは思えないけど♥ま、精々楽しませてね♥","\n<\n[3]>You're about to come just from 3 pumps. I don't
+think you're gonna make it much further than here♥\nKeep me entertained here, why don't you♥"
+"\n<\n[3]>雑魚♥
+3回すら我慢できないの？くすくす♥
+じゃ、また挑戦したくなったら来なさい。","\n<\n[3]>雑魚♥
+3回すら我慢できないの？くすくす♥じゃ、また挑戦したくなったら来なさい。","\n<\n[3]>Weakling♥
+Can't even endure 3 pumps? Hee hee♥
+Well, come back if you want to try again."
+"ツタが入口を塞いでいる・・・
+武器があればなんとか出来るかもしれない。","ツタが入口を塞いでいる・・・
+武器があればなんとか出来るかもしれない。","Ivy is blocking the entrance… You might be able to do something if you had a weapon."
+"障壁","障壁","Barrier"
+"半透明な壁が階段を塞いでいる・・・","半透明な壁が階段を塞いでいる・・・","A translucent barrier blocks the stairway…"
+"EV058","EV058",""
+"何か使えそうなものは・・・","何か使えそうなものは・・・",""
+"\n<\n[3]>精奴隷みっけにゃ！
+お前なにやってんにゃぁ？そんなとこで。","\n<\n[3]>精奴隷みっけにゃ！
+お前なにやってんにゃぁ？そんなとこで。",""
+"\n<\n[3]>悪あがき頑張ってるのにゃぁ？
+くすくす♥
+でも、本当にいいにゃん？","\n<\n[3]>悪あがき頑張ってるのにゃぁ？
+くすくす♥でも、本当にいいにゃん？",""
+"\n<\n[3]>ここから出たらアタシらとえっちなこと出来んにゃ？
+一生後悔するにゃぁ。
+ほらこっち見ろにゃん。","\n<\n[3]>ここから出たらアタシらとえっちなこと出来んにゃ？
+一生後悔するにゃぁ。ほらこっち見ろにゃん。",""
+"ーーーーー待機or攻撃アニメSE選択ーーーーー","",""
+"--------ここから誘惑------------","",""
+"\n<\n[3]>しーこ♥しーこにゃ♥
+これ見てるとムズムズしてくるにゃぁ？","\n<\n[3]>しーこ♥しーこにゃ♥
+これ見てるとムズムズしてくるにゃぁ？",""
+"\n<\n[3]>こっちに来たらアタシがこの手とベロで
+チンコいじめまくって
+いっぱい泣かせてやるにゃ♥","\n<\n[3]>こっちに来たらアタシがこの手とベロで
+チンコいじめまくっていっぱい泣かせてやるにゃ♥",""
+"\n<\n[3]>しーこ♥しーこ♥
+れーろ♥れーろ♥にゃはっ♥
+見てるだけでチンコダメージ受けてるし♥","\n<\n[3]>しーこ♥しーこ♥
+れーろ♥れーろ♥にゃはっ♥見てるだけでチンコダメージ受けてるし♥",""
+"\n<\n[3]>ほーら♥我慢できるにゃぁ？
+これ見て頭バカにするにゃん♥
+れろれろー♥","\n<\n[3]>ほーら♥我慢できるにゃぁ？
+これ見て頭バカにするにゃん♥れろれろー♥",""
+"--------ここから選択肢-------------","",""
+"\n<\n[3]>たったこれだけで我慢汁垂れ流しになってるし。
+そんなよわよわチンコどうせ無理にゃ。
+今喰ってやるにゃ。","\n<\n[3]>たったこれだけで我慢汁垂れ流しになってるし。
+そんなよわよわチンコどうせ無理にゃ。今喰ってやるにゃ。",""
+"\n<\n[3]>もう逃げる気無くなったし。
+よーわ。
+じゃあまず自分で扱いて見せろにゃ。","\n<\n[3]>もう逃げる気無くなったし。
+よーわ。じゃあまず自分で扱いて見せろにゃ。",""
+"--------ここからクリア------------","",""
+"\n<\n[3]>くんくん・・・
+にゃぁ・・・♥
+我慢させればさせるほどいい匂いになるにゃぁ。","\n<\n[3]>くんくん・・・
+にゃぁ・・・♥我慢させればさせるほどいい匂いになるにゃぁ。",""
+"\n<\n[3]>もう少し泳がしてやるし。
+アタシ以外で射精したら殺すにゃ。
+ちゃんと我慢するにゃぁ？","\n<\n[3]>もう少し泳がしてやるし。
+アタシ以外で射精したら殺すにゃ。ちゃんと我慢するにゃぁ？",""
+"\n<\n[3]>アタシのこと思い出して
+自分でしこったりすんなよー？
+にゃはははは♥","\n<\n[3]>アタシのこと思い出して
+自分でしこったりすんなよー？にゃはははは♥",""
+"\n<\n[3]>逃げるために悪あがきしてるのにゃぁ？
+本当にー？","\n<\n[3]>逃げるために悪あがきしてるのにゃぁ？
+本当にー？",""
+"\n<\n[3]>ここから出たらアタシらとえっちなこと出来んにゃ？
+それでいいのにゃぁ？
+ほらこっち見るにゃん♥","\n<\n[3]>ここから出たらアタシらとえっちなこと出来んにゃ？
+それでいいのにゃぁ？ほらこっち見るにゃん♥",""
+"\n<\n[3]>しーこ♥しーこ♥
+れーろ♥れーろ♥
+にゃはっ♥見てるだけでチンコダメージ受けてるし♥","\n<\n[3]>しーこ♥しーこ♥
+れーろ♥れーろ♥にゃはっ♥見てるだけでチンコダメージ受けてるし♥",""
+"\n<\n[3]>たったこれだけで我慢汁垂れ流しになってるにゃん。
+そんなよわよわチンコどうせ無理にゃ。
+諦めてぴゅっぴゅしろばーか♥","\n<\n[3]>たったこれだけで我慢汁垂れ流しになってるにゃん。
+そんなよわよわチンコどうせ無理にゃ。諦めてぴゅっぴゅしろばーか♥",""
+"\n<\n[3]>もう逃げる気無くなったし。
+よーわ。
+じゃあまず自分で扱いて見せるにゃん♥","\n<\n[3]>もう逃げる気無くなったし。
+よーわ。じゃあまず自分で扱いて見せるにゃん♥",""
+"\n<\n[3]>もう少し泳がしてやるし。
+アタシ以外でぴゅーぴゅーしたら殺すにゃ。
+ちゃんと我慢するにゃぁ？","\n<\n[3]>もう少し泳がしてやるし。
+アタシ以外でぴゅーぴゅーしたら殺すにゃ。ちゃんと我慢するにゃぁ？",""
+"お金","お金",""
+"もう何も入っていない・・・","もう何も入っていない・・・",""
+"EV062","EV062",""
+"炎の魔導書・・・
+装備すれば何かを燃やすことが出来そうだ。","炎の魔導書・・・
+装備すれば何かを燃やすことが出来そうだ。",""
+"\n<リリー>捕まえたっ♥
+ほらこっち向きなさい♥","\n<Lily>捕まえたっ♥
+ほらこっち向きなさい♥",""
+"\n<\n[3]>ちゅー♥
+あっは♥いきなりキスしちゃった♥
+くすくす♥","\n<\n[3]>ちゅー♥
+あっは♥いきなりキスしちゃった♥くすくす♥",""
+"\n<\n[3]>あんたってマゾだからさー、
+こうやってキスされるとすぐスイッチ入っちゃうでしょ。
+ちゅっ♥ちゅっ♥","\n<\n[3]>あんたってマゾだからさー、
+こうやってキスされるとすぐスイッチ入っちゃうでしょ。ちゅっ♥ちゅっ♥",""
+"\n<\n[3]>ほらビンビンに勃起した。あーぁ。
+ここに挟まれたらもう逃げられないわね。","\n<\n[3]>ほらビンビンに勃起した。あーぁ。
+ここに挟まれたらもう逃げられないわね。",""
+"\n<\n[3]>あら、振り払おうとしてるの？
+全然力が入ってないけど♥
+おちんちんは逃げたくないみたいよ？","\n<\n[3]>あら、振り払おうとしてるの？
+全然力が入ってないけど♥おちんちんは逃げたくないみたいよ？",""
+"\n<\n[3]>イキなさい。
+あんたの負けよ。
+くすくす♥","\n<\n[3]>イキなさい。
+あんたの負けよ。くすくす♥",""
+"\n<リリー>なにあんた。必死になっちゃって。
+分かったわよ。
+離れてあげる。","\n<Lily>なにあんた。必死になっちゃって。
+分かったわよ。離れてあげる。",""
+"\n<リリー>あらあら大変。
+我慢汁だらだらじゃないの。
+床汚さないでよ。","\n<Lily>あらあら大変。
+我慢汁だらだらじゃないの。床汚さないでよ。",""
+"立体起動","立体起動",""
+"<enemy:99><cw:1.3><ch:1.5>","<enemy:99><cw:1.3><ch:1.5>",""
+"EV065","EV065",""
+"一応玄関が開くか調べてみよう・・・","Let's check whether the entrance door opens or not...",""
+"EV066","EV066",""
+"EV067","EV067",""
+"EV068","EV068",""
+"EV069","EV069",""
+"EV070","EV070",""
+"EV071","EV071",""
+"EV072","EV072",""
+"EV073","EV073",""
+"EV074","EV074",""
+"EV075","EV075",""
+"作業台","作業台",""
+"報告書","報告書",""
+"楽譜が並んでいる・・・","楽譜が並んでいる・・・",""
+"\n<\n[1]>（う・・・気になるけど我慢。）","\n<\n[1]>（う・・・気になるけど我慢。）",""
+"\n<\n[1]>（音楽に興味はないけどこれが読める人に憧れはある・・・）","\n<\n[1]>（音楽に興味はないけどこれが読める人に憧れはある・・・）",""
+"EV078","EV078",""
+"果物ナイフか・・・
+一応武器として使えるかもしれない。","果物ナイフか・・・
+一応武器として使えるかもしれない。",""
+"\n<リリー>みーつけた♥","\n<リリー>みーつけた♥",""
+"\n<リリー>あら・・・
+果物ナイフなんか持っちゃって。
+危ないわねー。","\n<リリー>あら・・・
+果物ナイフなんか持っちゃって。
+危ないわねー。",""
+"\n<リリー>そんな物騒なもの置いて？
+ねぇ、私と気持ちいいことしましょう♥
+ほら見て♥","\n<リリー>そんな物騒なもの置いて？
+ねぇ、私と気持ちいいことしましょう♥
+ほら見て♥",""
+"ーーーーー待機or攻撃アニメ選択ーーーーー","",""
+"\n<リリー>ふーり♥ふーり♥
+あはっ♥
+見ちゃったわね♥","\n<リリー>ふーり♥ふーり♥
+あはっ♥
+見ちゃったわね♥",""
+"\n<リリー>あんたのそのレベルじゃ
+こーんなあからさまな誘惑でも
+おちんちんにきちゃうでしょ♥","\n<リリー>あんたのそのレベルじゃ
+こーんなあからさまな誘惑でも
+おちんちんにきちゃうでしょ♥",""
+"\n<リリー>ねぇ♥気持ちいい事しましょ？
+そんな小さなナイフなんて置いて♥","\n<Lily>Hey, it feels good, right?
+You've got such a little knife♥",""
+"\n<リリー>ナイフなんかよりその股間についてる武器を握らないと♥
+サキュバスは倒せないわよ？
+くすくす♥","\n<Lily>The only weapon you can hold is the one attached to your crotch♥
+There's no way to defeat a succubus, right?
+Heehee♥",""
+"\n<リリー>いいのよ？
+サキュバスに搾られるのが怖いなら、自分で扱けば？
+ほら♥それなら大丈夫でしょ？くす♥","\n<リリー>いいのよ？
+サキュバスに搾られるのが怖いなら、自分で扱けば？
+ほら♥それなら大丈夫でしょ？くす♥",""
+"\n<\n[3]>あはっ♥その気になってくれたぁ？
+じゃあ私のこと見ながらオナニーして見せて♥","\n<\n[3]>あはっ♥その気になってくれたぁ？
+じゃあ私のこと見ながらオナニーして見せて♥",""
+"\n<\n[3]>くすくす♥
+ちょっとアソコ見せただけでウブな反応しちゃって。
+あんたそれでもハンターなの？","\n<\n[3]>Teehee♥ 
+Just a little teasing made you react like that?
+Can you even call yourself a hunter anymore?",""
+"\n<\n[3]>ひとつ言っておくけど、
+『そんなもの』じゃ私たち淫魔は倒せないからね？
+武器は効かないの。もちろん知ってるわよね。","\n<\n[3]>Let me tell you something. 
+You can't defeat a succubus with something like that, right? 
+Weapons don't work. But you know that already.",""
+"\n<\n[3]>ま、好きにしなさい。
+もっと抗ってみせてね♥
+雑魚ハンターさん♥","\n<\n[3]>I hope you like it. 
+Show me more♥
+Little succubus hunter♥",""
+"果物ナイフが置いてある・・・
+一本あれば十分だ。","果物ナイフが置いてある・・・
+一本あれば十分だ。",""
+"EV079","EV079",""
+"\n<\n[3]>なに探してるにゃん。
+そんなところに何もないにゃ。","\n<\n[3]>なに探してるにゃん。
+そんなところに何もないにゃ。",""
+"\n<\n[3]>ほっぺすりすりにゃ。
+これされると人間はバカだからメロメロになって
+逃げられなくなるにゃ。","\n<\n[3]>ほっぺすりすりにゃ。
+これされると人間はバカだからメロメロになって
+逃げられなくなるにゃ。",""
+"\n<\n[3]>にゃぁん・・・♥
+美味しそうな匂いにゃぁ♥","\n<\n[3]>にゃぁん・・・♥
+美味しそうな匂いにゃぁ♥",""
+"\n<\n[3]>アタシの顔に精液かけたくないにゃぁ？
+にゃーにゃー？","\n<\n[3]>アタシの顔に精液かけたくないにゃぁ？
+にゃーにゃー？",""
+"\n<\n[3]>振り払おうとしても無駄だし♥
+諦めてほっぺに射精するにゃ♥","\n<\n[3]>振り払おうとしても無駄だし♥
+諦めてほっぺに射精するにゃ♥",""
+"\n<\n[3]>ざーこ♥","\n<\n[3]>ざーこ♥",""
+"\n<\n[3]>にゃはは！
+まだ頑張ろうとしてるにゃん？
+面白いやつ！","\n<\n[3]>にゃはは！
+まだ頑張ろうとしてるにゃん？
+面白いやつ！",""
+"\n<\n[3]>でももうチンポ苦しそうにゃん。
+顔も赤いし、鼻息も馬みたいだし。","\n<\n[3]>でももうチンポ苦しそうにゃん。
+顔も赤いし、鼻息も馬みたいだし。",""
+"\n<\n[3]>後でアタシの部屋に来るにゃ。
+いっぱい搾ってやるにゃ♥","\n<\n[3]>後でアタシの部屋に来るにゃ。
+いっぱい搾ってやるにゃ♥",""
+"報告書：魔物について（オーク）","報告書：魔物について（オーク）",""
+"二足歩行の豚のような低級の魔物です。
+道具を使う個体もいますが、基本的に知能は豚並です。
+豚なので鼻が良いようです。","二足歩行の豚のような低級の魔物です。
+道具を使う個体もいますが、基本的に知能は豚並です。
+豚なので鼻が良いようです。",""
+"繁殖力が高く、理性が低いので
+淫魔等の他種族に使役される事が多いようです。
+（躾ければ芸のひとつも覚えるかも？）","繁殖力が高く、理性が低いので
+淫魔等の他種族に使役される事が多いようです。
+（躾ければ芸のひとつも覚えるかも？）",""
+"近寄ると殴ってきますが所詮雑魚モンスター、脅威にはなりません。
+身体がなまっている時は運動がてら
+経験値にしてもいいでしょう。","近寄ると殴ってきますが所詮雑魚モンスター、脅威にはなりません。
+身体がなまっている時は運動がてら
+経験値にしてもいいでしょう。",""
+"接着剤などの小道具が置いてある。
+何か作ることが出来そうだ。","接着剤などの小道具が置いてある。
+何か作ることが出来そうだ。",""
+"薬","薬",""
+"もう使えそうなものはない。","もう使えそうなものはない。",""
+"本日のメニュー
+・ネギのビネグレット
+・鴨もも肉のコンフィ","本日のメニュー
+・ネギのビネグレット
+・鴨もも肉のコンフィ","Today's menu:
+・Green onion vinaigrette
+・Duck confit"
+"\n<\n[1]>（ビネグレット？
+コンフィ？
+・・・？？？）","\n<\n[1]>（ビネグレット？
+コンフィ？
+・・・？？？）","\n<\n[1]>(Vinaigrette?
+Confit?
+...???)"
+"\n<\n[1]>（あにきに持っていったら喜ぶかな・・・
+いや、飲んでる場合じゃないか。
+やめとこ。）","\n<\n[1]>（あにきに持っていったら喜ぶかな・・・
+いや、飲んでる場合じゃないか。
+やめとこ。）","\n<\n[1]>(I wonder if brother would like me to bring him
+some of this... No, now's not the time to be drinking.
+I'd better not.)"
+"\n<\n[1]>（ひと口だけなら・・・
+いや、ダメだ。
+飲んでる場合じゃない・・・）","\n<\n[1]>（ひと口だけなら・・・
+いや、ダメだ。
+飲んでる場合じゃない・・・）",""
+"EV089","EV089",""
+"シィナのバカにシャンデリアは道じゃないって教えてやって。
+あいつが飛び乗る度にほこりが凄いのよ。
+頭おかしいんじゃないのマジで。","シィナのバカにシャンデリアは道じゃないって教えてやって。
+あいつが飛び乗る度にほこりが凄いのよ。
+頭おかしいんじゃないのマジで。","Someone tell that idiot Shina that the chandelier is not
+for jumping on. She kicks up a ton of dust every time she jumps on it.
+Seriously, she's insane."
+"私が言っても「お前にはこれ出来んにゃぁ～」とか
+意味不明な方向で煽ってくるから腹立つのよね。
+言い聞かせておいてね。","私が言っても「お前にはこれ出来んにゃぁ～」とか
+意味不明な方向で煽ってくるから腹立つのよね。
+言い聞かせておいてね。","Then she says 「You can't do this, nya～」, to provoke me,
+as if that's the reason I'm angry.
+I'm telling you, it drives me crazy."
+"天使の像・・・","天使の像・・・","An angel statue…"
+"もう何もない・・・","もう何もない・・・",""
+"時計が時を刻んでいる・・・","時計が時を刻んでいる・・・","The clock ticks away…"
+"\n<\n[1]>（どれだけの時間、ここにいるんだろう・・・）","\n<\n[1]>（どれだけの時間、ここにいるんだろう・・・）","\n<\n[1]>(I wonder how long I'll be trapped here...)"
+"\n<\n[1]>（時間の感覚がおかしくなる・・・
+早くここから抜け出さないと・・・）","\n<\n[1]>（時間の感覚がおかしくなる・・・
+早くここから抜け出さないと・・・）","\n<\n[1]>(I'm losing my sense of time...
+I need to get out of here soon...)"
+"時計は故障している・・・","時計は故障している・・・",""
+"EV097","EV097",""
+"\C[3]※ARPGの操作について\C[0]","\C[3]※This game is an ARPG.\C[0]",""
+"武器を装備して『Aキー』を押すことで攻撃を行えます。
+淫魔には効きませんが、魔物を倒したり、
+障害物を取り除いたり出来ます。","Push the 『A Button』 to attack with your equipped weapon.
+Though this will have no effect on succubi,
+you can defeat monsters and obstacles in this way. ",""
+"また、『Dキー』を押している間は向きを固定して移動できます。
+徘徊しているオークを攻撃することで
+経験値を稼ぐことが出来ます。","Also, you can strafe by pushing the 『D Button』.
+You can earn EXP by defeating the roaming orcs.",""
+"Aキー：攻撃を放つ（ショット）
+Dキー：向きを固定して移動する","A Button: Attack (Shoot)
+D Button: Move in a fixed direction",""
+"メニューから先ほど入手した『果物ナイフ』を装備してみましょう。","For now, try equipping the 『Fruit Knife』
+you obtained earlier from the menu.",""
+"鏡に自分が映っている・・・","It's your reflection in the mirror...",""
+"\n<\n[1]>（頑張れ私・・・！負けるな・・・）","\n<\n[1]>（I have to do my best...! I won't lose...）",""
+"\n<\n[1]>（囚人服・・・
+心まで囚われてたまるか・・・）","\n<\n[1]>(I may be a captured prisoner...
+but they will never capture my heart...)",""
+"EV102","EV102",""
+"EV103","EV103",""
+"EV104","EV104",""
+"EV105","EV105",""
+"EV106","EV106",""
+"EV107","EV107",""
+"EV108","EV108",""
+"EV109","EV109",""
+"EV110","EV110",""
+"EV111","EV111",""
+"EV112","EV112",""
+"時計の装飾品が凄く豪華だ・・・
+取ってしまおう。","時計の装飾品が凄く豪華だ・・・
+取ってしまおう。",""
+"EV114","EV114",""
+"EV115","EV115",""
+"EV116","EV116",""
+"シィナが本で爪研いでたんだけど、
+あれ私たちの日記だったみたい！
+ページがバラバラに散らばっちゃった！","シィナが本で爪研いでたんだけど、
+あれ私たちの日記だったみたい！
+ページがバラバラに散らばっちゃった！","Shina was sharpening her claws with a book,
+and it looked like it was my diary!
+The pages were scattering everywhere!"
+"でも怒らないであげて！
+文字が読めないから、どうでもいい本だと思ったんだって！
+ページはまた集めればいいから。","でも怒らないであげて！
+文字が読めないから、どうでもいい本だと思ったんだって！
+ページはまた集めればいいから。","I mustn't get angry though! She can't read, so she
+didn't know how important the book was! I just need
+to collect the pages again."
+"バルコニーで飛んでいっちゃったのはもう無理かもだけど。
+どこかに引っかかってたらいいな。","バルコニーで飛んでいっちゃったのはもう無理かもだけど。
+どこかに引っかかってたらいいな。","It may not be possible for me to fly off of the
+balcony. It would be nice to visit someplace else."
+"EV118","EV118",""
+"EV119","EV119",""
+"EV120","EV120",""
+"EV121","EV121",""
+"食堂にネズミが出るわ！
+手癖の悪いネズミ！鍵を持って行かれたわ。
+一体何がしたいのかしら。","食堂にネズミが出るわ！
+手癖の悪いネズミ！鍵を持って行かれたわ。
+一体何がしたいのかしら。",""
+"シィナのバカに頼んで捕まえて貰おう。
+とりあえず、穴を塞いで逃げられなくしてやれば・・・","シィナのバカに頼んで捕まえて貰おう。
+とりあえず、穴を塞いで逃げられなくしてやれば・・・",""
+"EV123","EV123",""
+"武器を作る材料は・・・","武器を作る材料は・・・",""
+"メイスの答えを見る","メイスの答えを見る",""
+"フックショットの答えを見る","フックショットの答えを見る",""
+"見ない","Don't see",""
+"棒はお風呂場、
+重くて硬い物は2F執事の部屋（シィナの部屋）にあります。","棒はお風呂場、
+重くて硬い物は2F執事の部屋（シィナの部屋）にあります。",""
+"尖ったものは2F右の館主の部屋、
+ロープは倉庫にあります。","尖ったものは2F右の館主の部屋、
+ロープは倉庫にあります。",""
+"EV124","EV124",""
+"2Fに上がるには・・・","How to get up to the 2F...",""
+"答えを見る","See solution",""
+"リリーに3回挿入して射精を我慢してください。
+レベルを上げる、もしくは精力増強剤を使う事で
+突破がしやすくなります。","You will need to thrust into Lily 3 times without ejaculating.
+Raising your level or using an energy boosting item will make this
+easier.",""
+"リリーの日記","リリーの日記",""
+"アーコの帳簿
+再会","アーコの帳簿
+再会",""
+"読んでみる","読んでみる",""
+"やめておく","やめておく",""
+"EV126","EV126",""
+"アーコの帳簿
+レストランを開こう","アーコの帳簿
+レストランを開こう",""
+"アーコの帳簿
+例のブツ","アーコの帳簿
+例のブツ",""
