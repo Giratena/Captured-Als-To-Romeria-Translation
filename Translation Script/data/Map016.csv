@@ -1,0 +1,97 @@
+"植物",""
+" <enemy:99>",""
+"変数203（ARGP攻撃種類）
+1斬　2打撃　3水　4火　5雷
+6誘惑　7食べ物
+特殊206（個別攻撃種類）
+1リンゴ　2皿　3卵",""
+"EV002",""
+"立体起動",""
+"<enemy:99><cw:1.3><ch:1.5>",""
+"置手紙",""
+"とらの飼育日記","Tiger Raising Journal"
+"今日もとらは相変わらず凶暴！
+もう少しで研究員の人が腕を噛み千切られるところだった。
+そりゃこんな地下に閉じ込められてたら、鬱憤も溜まるよね。","The tiger is as ferocious today as ever! A researcher nearly had
+his arm torn clean off. Being trapped underground all the time,
+it's no surprise she's got all this pent up anger."
+"今日はとらがご機嫌だった！
+特別に調合したまたたびがお気に召したみたい。
+やっぱりデカい猫ね！","The tiger was in high spirits today! She really seemed to enjoy 
+our specially blended silver vine mix.
+She really is just a giant cat, after all!"
+"今日はオークを餌として与えることになった。
+魔物なんて与えて、ケガをしないか心配だったけど
+あっさり首元に噛みついた。つよい！","Today I tried to feed an orc to the tiger.
+I was concerned she wouldn't be able to injure a monster,
+but she tore right into its neck. So strong!"
+"今日はDr.チョコレがリリーから集めた魔力で
+とらを淫魔化する実験をするらしい。
+実験動物だし、いつかこういう日が来ると思ってたけど・・・","Today, with the magic she collected from Lily, Dr. Chocolate
+conducted an experiment to turn the tiger into a succubus.
+She's a lab animal after, so I knew this was coming, but still..."
+"EV006"," "
+"トラ小突きスイッチ",""
+"チョコレの実験記録
+淫魔化実験成功！","Chocolat's Lab Report
+Succubus-ification successful!"
+"読んでみる","Read"
+"やめておく","Stop"
+"EV048",""
+"とらがお気に入りの場所から降りてこない時は
+近くのスイッチを踏むといいです。
+穴から棒が突き出してびっくりするので飛び降りてきます。","If the tiger won't come down from her favorite spot,
+step on the nearby switch. A pole will shoot out of the hole,
+surprising her into jumping down."
+"※とらが穴の上にいる時にスイッチを踏まないこと。
+かなり怒ります。","※Do not step on the switch if the tiger is on top of the hole.
+She will get very angry."
+"EV049",""
+"動物実験室
+トラ","Lab Animal
+Tiger"
+"餌は馬肉、牛肉などを与える。（脂身が嫌いなので赤身）
+※淫魔化した為、男性職員の精液、精奴隷、
+冒険者を与えるように変更。","Feed with beef or horse meat. (Dislikes fatty meat. Red meat only.)
+※Since her succubus transformation, only feed her semen from slaves,
+male staff members, or adventurers."
+"男性職員が檻に入る際は細心の注意を払うこと。
+力づくで押さえつけられて精を搾り取られます。
+トミー研究員の悲劇を忘れてはならない。","Male personnel should be extremely cautious when entering the pen.
+They may be forced down, and drained of their semen.
+We must not forget the tragedy of Tommy, our researcher."
+"EV050",""
+"地下だというのに草がボーボーになってしまいました。
+猫草をあげたいと提案した人は責任をもって草刈りをしてください！
+ジャングル化して、何がどこにあるのか分からなくなります。","Despite being underground, the grass has overgrown.
+If you want to grow cat grass, take responsibility and mow it!
+It's become a jungle. I can't tell where anything is now."
+"EV051",""
+"とらちゃん",""
+"ポップアップ有効化",""
+"EV053",""
+"EV054",""
+"EV055",""
+"EV056",""
+"EV057",""
+"EV058",""
+"この部屋の仕掛けの説き方は・・・","How to solve this room..."
+"答えを見る","See answer"
+"とらから逃げつつ、剣で草を切ってスイッチを探してください。
+スイッチは部屋の上部真ん中にあります。
+スイッチを踏むと棒が出るのでフックショットで飛び移りましょう。","While avoiding the tiger, cut the grass and search for a switch.
+The switch is around the top center of the room. The switch 
+produces a stick, which you can hit with your hookshot."
+"『とらのまたたび』を入手すると
+とらのステータスを大幅に弱体化させることが出来ます。","With the 'Tiger's Silver Vine', you can dramatically
+weaken the tiger."
+"誰か",""
+"\n<？？？>・・・","\n<？？？>..."
+"\n<リリー>誰・・・！？","\n<Lily>Who...!?"
+"\n<リリー>誰なの・・・？","\n<Lily>Who's there...?"
+"\n<リリー>誰なの！？
+ねぇ、誰なのよ！？","\n<Lily>Who's there!?
+Hey, who's out there!?"
+"\n<リリー>誰だったのよ！？
+怖いわ！！","\n<Lily>Who was that!?
+I'm scared!!"

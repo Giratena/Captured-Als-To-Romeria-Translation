@@ -1,0 +1,152 @@
+"EV001",""
+"ウィッチラミアは我々に協力的ではありますが、
+万が一、逃げ出してしまうと大惨事になります。
+怒らせないように気を付けてください。","The Witch Lamia has cooperated with us so far. In the event that
+she were to escape, it would prove disaterous.
+Be extremely careful not to upset her."
+"扉は内側からは開かないようになっています。
+開閉はスイッチを使用してください。","The door cannot be opened from inside.
+Please use the switch to open or close it."
+"立体起動",""
+"<enemy:99><cw:1.3><ch:1.5>",""
+"EV003",""
+"トラ小突きスイッチ",""
+" <enemy:99>",""
+"EV005",""
+"この部屋の仕掛けの説き方は・・・","How to solve this room..."
+"答えを見る","See answer"
+"やめておく","Stop"
+"金色の象をスイッチの近くまで押して運んでください。
+その後スイッチを踏み、金色の象にフックショットを当てて飛び、
+ドアが閉まる前に入室してください。","Push the gold statues near the switch.
+Press the switch, then hookshot to the statue.
+Run through the door before it closes."
+"ドア",""
+"EV007",""
+"置手紙",""
+"ウィッチラミアの記録","Witch Lamia Report"
+"ウィッチと名が付く通り、通常のラミアに比べ魔術に長けている。
+元々人の形に近い為か、
+非常に高い知能と理性を持っているようだ。","As her name implies, she is more skilled in magic than an average
+Lamia. Perhaps owing to her originally near-human form,
+she posesses high intelligence and logic."
+"衣食住と書物を提供することで友好的に接することが可能。
+しかし、あくまで協力関係である為
+機嫌を損ねないよう細心の注意が必要だ。","By providing her with food, shelter and books, we have been able
+to maintain a friendly relationship with her. Due to the nature of our
+relationship though, we must take great care not to upset her."
+"理性で抑えてはいるが、
+人間に対しての敵意を持っていないわけではない。
+協力を頼む場合は必ず先に対価を用意すること。","Her friendliness is calculated. There's no reason to believe she
+doesn't despise us humans. In order to request her cooperation,
+we must always be prepared to compensate her first."
+"淫魔化の実験は自ら望んで志願した。
+外見は殆ど変化が無かったが、他の対象と同様に食性は変化した。","She willingly volunteered for the succubus transformation experiment.
+Her appearance barely changed, though her diet changed \nlike all the others."
+"魔術書が並んでいる・・・
+『錬金術師が読んではいけない科学の本』","Books on magic line the shelf...
+'Science books that alchemists shouldn't read'"
+"魔術書が並んでいる・・・
+『良く食べる子の回復魔法』","Books on magic line the shelf...
+'Recovery magic for the well-fed child'"
+"魔術書が並んでいる・・・
+『なりたい自分になる為の100の変性魔法』","Books on magic line the shelf...
+'100 transformation spells - Become who you want to be'"
+"魔術書が並んでいる・・・
+『性欲を攻撃魔法に昇華するトレーニング』","Books on magic line the shelf...
+'Training to channel your lust into offensive magic'"
+"魔術書が並んでいる・・・
+『睡眠と魔力の関係』","Books on magic line the shelf...
+'The relation between sleep and magic'"
+"魔術書が並んでいる・・・
+『高等魔術教本　著フォッグ＝マジカーレ』","Books on magic line the shelf...
+'Advanced sorcery by Fogg Magikal'"
+"『ミニマム』
+対象の身体を小さくする魔法です。
+相手の魔力や精神状態によって効果時間が変化します。","Minimize'
+A spell that shrinks the target's body. The target's magic power
+and mental state will determine the duration of the spell."
+"コツとしては対象の身体に薄い魔力の膜を貼って
+それをぎゅっと圧縮するイメージです。
+例えば深海にかかる水圧のような・・・","The trick is to imagine a thin coating of magic surrounding
+your target, and compressing their body. Imagine the
+pressure of the deep sea, closing in around them."
+"薬",""
+"もう使えそうなものはない。","Nothing else useful."
+"EV017",""
+"屍だ・・・
+何かメモのようなものを持っている。","A corpse...
+It's holding a note."
+"今までが、どれだけ天国だったことか。
+ここに連れて来られてからは毎日毎日、
+ラミアに精を搾られては魔法の実験台にさせられている。","How wonderful it had been until now.
+Since I was brought here, every single day, the Lamia squeezes
+me dry, and tests her magic out on me."
+"僕は多分、このまま好きなように使われて朽ちていくんだろう。
+元々、失うものなんて無い冒険者だったけど、
+まさか、こんな終わり方をするなんて・・・","I fear I shall be abused to her liking, and left to rot.
+I've always been an adventurer with nothing to lose, and yet,
+I never imagined it would end like this..."
+"リリー様が恋しい・・・
+ライムちゃんのご飯が食べたい・・・
+シィナ様の足が舐めたい・・・","I miss Mistress Lily...
+I want to eat Mistress Lime's cooking again...
+I want to lick Mistress Shina's feet..."
+"あの檻の中に戻りたい・・・
+シィナ様の足が・・・舐め・・・
+舐め・・・","I want to go back to my cage...
+I want to lick Mistress Shina's feet... Feet...
+Feet..."
+"\n<リリー>これはひょっとして・・・
+前にシィナが勝手に逃がした精奴隷・・・
+（メモまで気持ち悪いわね。）","\n<Lily>Could this be...
+The semen slave that Shina set free...
+(Just reading this note is grossing me out.)"
+"EV018",""
+"EV019",""
+"EV020",""
+"EV021",""
+"EV024",""
+"EV025",""
+"リリーの日記",""
+"チョコレの実験記録
+魔力の集め方","Chocolat's Lab Records
+Collecting magic power"
+"読んでみる","Read"
+"リリーの魔力石",""
+"いわ",""
+" <enemy:145>",""
+"瓦礫だ。
+崩せるかもしれない。","Rubble.
+It might be possible to break it."
+"とらちゃん",""
+"\n<ウィッチラミア>なんでまた来たの？
+もう鍵は持っていると思うけど。","\n<Witch Lamia>Why are you still here?
+I thought you already had my key."
+"\n<ウィッチラミア>そんなに私に食べられたいの？
+くす♥
+今度は負けないから。","\n<Witch Lamia>Do you want to be eaten that badly?
+Hee♥
+This time, I won't lose."
+"\n<リリー>何度やっても同じことよ。
+\n[1]、やっておしまい！","\n<Lily>Nothing's gonna change this time.
+\n[1], let's do this!"
+"\n<ウィッチラミア>ようこそ。
+アナタが来るのは聞いていたわ。","\n<Witch Lamia>Welcome.
+I was told you'd be coming."
+"\n<ウィッチラミア>私、ここの生活気に入ってるのよね。
+本も読めるし、食べ物にも困らない。
+研究とやらにも、少し興味あるし。","\n<Witch Lamia>I enjoy living here. I have books to read,
+I don't have to worry about food. I'm even a little bit
+interested in the research they're doing."
+"\n<ウィッチラミア>だから、悪いけど食べちゃうね。
+アナタのこと♥","\n<Witch Lamia>So I'm sorry, but it's time to eat.
+I think I'll have you♥"
+"\n<リリー>淫魔が人間に飼われてるんじゃないわよ。
+\n[1]、やっておしまい。","\n<Lily>You're no succubus. Just some human's pet.
+\n[1], let's do this."
+"\n<リリー>あの程度のやつに負けるわけないわよね。
+さ、次いくわよ。","\n<Lily>We'd never lose to someone like you.
+So let's go."
+"ポップアップ有効化",""
+"EV053",""
