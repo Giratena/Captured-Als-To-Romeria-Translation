@@ -30,7 +30,6 @@ You are free fork this translation using Github Desktop and edit it's contents t
 
 1. You can open the .csv files in any text editor, but I recommend using VSCode for easy editing.
 2. If you're using Vscode, be sure to install a csv table editor plugin fron the side bar. You'll thank me later! 
-**PLEASE DO NOT OVERWRITE ANY EXISTING TEXT IN THE .XLSX FILES, ONLY ADD!**
 3. Create a pull request with your fork. I will see it and merge it with the translation!
 
 
