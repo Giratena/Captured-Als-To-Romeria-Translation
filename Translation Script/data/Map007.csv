@@ -1,62 +1,46 @@
-"EV001",""
+"EV001","EV001"
 "全職員へ連絡。
 リリーと例のハンターを当施設に誘引します。
-実験台の淫魔を解放するので速やかに退去してください。","Attention all personnel.
-We are luring Lily and the hunter to the facility.
-We are releasing the succubi. Evacuate immediately."
+実験台の淫魔を解放するので速やかに退去してください。",""
 "目標の捕獲、もしくは死亡が確認出来るまで近づかないように。
-今こそディグニス様の無念を晴らす時です。","Do not approach the subjects until they are confirmed captured
-or dead. Now is the time to relieve Dignis' regrets."
+今こそディグニス様の無念を晴らす時です。",""
 "\n<リリー>ディグニス・・・？
-誰よ。","\n<Lily>Dignis...?
-Who's that?"
+誰よ。",""
 "\n<リリー>あ・・・
-（あいつか・・・）","\n<Lily>Ahh...
-(Could it have been that man...)"
+（あいつか・・・）",""
 "置手紙",""
 "\n[1]へ。
 人質を返して欲しければ生態実験室まで来てください。
-ただし、扉には鍵が掛かっています。","Dear \n[1],
-If you want the hostages back, come to the Ecology Labs.
-The door there is locked, however."
+ただし、扉には鍵が掛かっています。",""
 "鍵は全部で4つ。
 それぞれ実験場の淫魔が所持しています。
-ハンターの実力を見せてください。","There are 4 keys in total.
-Each one is held by a succubus in a different test chamber.
-Show me the true power of a hunter."
+ハンターの実力を見せてください。",""
 "\n<リリー>淫魔・・・
 本来なら無駄に争いたくはないけれど、仕方ないわね。
-\n[1]、私も手を貸すわ。","\n<Lily>Succubi...
-I normally don't enjoy pointless fighting, but we
-have no other choice. \n[1], I'll lend you a hand."
+\n[1]、私も手を貸すわ。",""
 "\C[1]※今後の淫魔戦はリリーが力を貸してくれます。
 \C[0]リリーは4ターンごとに何かしらの補助魔法を使います。
-行動順は一番最後です。","\C[1]※Lily will lend her power during future succubus battles.
-\C[0]Lily will use a random support spell every 4 turns.
-She goes last in a turn."
+行動順は一番最後です。",""
 "また、探索中にオークなどの攻撃によって\n[1]が倒れると
 蘇生に魔力を使い、リリーのレベルが下がってしまいます。
-レベルが下がると使用する補助魔法が少なくなります。","Also, if \n[1] is defeated by orcs, Lily will use her power to revive them
-at the cost of one level of hers. The lower her level, the less 
-support magic she can use."
+レベルが下がると使用する補助魔法が少なくなります。",""
 "\n<リリー>4つも必要なの・・・
-急がないといけないのに！","\n<Lily>We need 4 keys...
-We really need to hurry!"
-"EV003",""
+急がないといけないのに！",""
+"EV003","EV003"
 "ルーレットが設置してある・・・","A roulette table is installed here..."
 "\n<リリー>しっかり娯楽まであるじゃない。
 ひとんちの下で遊んでんじゃないわよ。
 モグラ共・・・","\n<Lily>A lot of games lying around.
 They were having all sorts of fun underground.
 Bunch of moles..."
-"薬",""
-"もう使えそうなものはない。","Nothing else useful."
-"EV005",""
+"薬","Medicine"
+"もう使えそうなものはない。",""
+"EV005","EV005"
 "怪しい薬品が並べられている・・・","Strange drugs line the shelves..."
 "\n<リリー>この薬は何かしら・・・
 くんくん・・・","\n<Lily>What are all these drugs for...
 Sniff sniff..."
-"\n<リリー>エンッ！！！","\n<Lily>Eccch!!!"
+"\n<リリー>エンッ！！！",""
 "\n<リリー>ぶびっ・・・！うぁ・・・
 はにゃみずが・・・
 あにこのにおひ・・・","\n<Lily>Sniffle...! Uwaah...
@@ -68,30 +52,27 @@ Pouring from my nose..."
 Hurry up.
 Sniffle..."
 "イベント実行",""
-"EV008",""
+"EV008","EV008"
 "先に進むためには・・・","How to move forward..."
 "答えを見る","See answer"
 "やめておく","Stop"
-"4つの部屋の仕掛けを解き、4体の淫魔を倒して鍵を集めましょう。","In each of the 4 rooms, solve the puzzle, defeat the succubus, \nand collect the key."
-"EV009",""
-"EV010",""
+"4つの部屋の仕掛けを解き、4体の淫魔を倒して鍵を集めましょう。",""
+"EV009","EV009"
+"EV010","EV010"
 "EV011",""
 "EV012",""
 "EV013",""
 "EV014",""
-"4つの鍵をぶっ刺した！","Used the 4 keys!"
-"鍵が開いたようだ！","The door is unlocked!"
+"4つの鍵をぶっ刺した！",""
+"鍵が開いたようだ！",""
 "\n<リリー>この先に・・・","\n<Lily>From here on..."
 "\n<リリー>\n[1]。やり残したことはない？
-しっかり準備して行きなさい。","\n<Lily>\n[1]. Do you have anything left to do here?
-Make sure you're good and ready before we move on."
+しっかり準備して行きなさい。",""
 "鍵穴が4つも付いている・・・
-まだ鍵が足りないみたいだ。","There are 4 keyholes...
-You don't have enough keys yet."
+まだ鍵が足りないみたいだ。",""
 "EV015",""
 "戻る必要はない。
-先に進もう。","There's no need to go back.
-Let's move on."
+先に進もう。",""
 "EV016",""
 "飲みかけのコーヒーだ・・・","A half-empty coffee cup..."
 "\n<リリー>位置的に、ここは屋敷の地下ね。
@@ -99,14 +80,11 @@ Let's move on."
 How didn't I know about this..."
 "\n<リリー>なんかたまに変な音とかすると思ったのよね。
 視線感じることもあったし。
-オークのせいだと思ってたけど。","\n<Lily>I thought I could hear strange noises sometimes.
-I felt like I was being watched sometimes too.
-I just assumed it was the orcs."
+オークのせいだと思ってたけど。",""
 "リリーの日記",""
 "チョコレの実験記録
-機械の使い方","Chocolat's Lab Reports
-How to use the machine"
-"読んでみる","Read"
+機械の使い方",""
+"読んでみる",""
 "EV018",""
 "EV019",""
 "EV020",""
@@ -114,26 +92,21 @@ How to use the machine"
 急がないと・・・","Two keys left to go...!
 Need to hurry..."
 "鍵がすべて揃った・・・！
-先に進もう！","You've got all the keys now...!
-Time to move on!"
+先に進もう！",""
 "ティッキ",""
 "<enemy:99>",""
-"\n<？？？>ひぃ！！","\n<？？？>Yeeek!!"
+"\n<？？？>ひぃ！！",""
 "\n<リリー>あんた誰よ？
-あいつらの仲間？","\n<Lily>Who are you?
-Are you with these people?"
+あいつらの仲間？",""
 "\n<？？？>あわわわわわわ・・・！！
-こ、殺さないで殺さないで・・・！！","\n<？？？>Awawawawawa...!!
-P-please don't kill me...!!"
+こ、殺さないで殺さないで・・・！！",""
 "落ち着いて","Calm her down"
-"驚かす","Startle her"
-"\n<\n[1]>がおー！！","\n<\n[1]>Boo-!!"
-"\n<？？？>きゃうっ！！！","\n<？？？>KYAAAAHHH!!!"
+"驚かす",""
+"\n<\n[1]>がおー！！",""
+"\n<？？？>きゃうっ！！！",""
 "\n<リリー>何やってんのよ・・・
 なんか可哀想になって来たわ。
-あんた誰？","\n<Lily>What are you doing...
-How could you be so mean.
-Who are you?"
+あんた誰？",""
 "\n<？？？>わ、私は・・・その・・・
 や、屋敷でメイドとして働いていた者です。
 すいません・・・","\n<？？？>I-I am... Or... I was...
@@ -151,22 +124,15 @@ I didn't know the truth...
 I had no choice... I couldn't go anywhere..."
 "\n<メイド>ごめんなさいごめんなさい・・・
 逃げたら家族が・・・
-脅されて・・・ずっとここで・・・ひっく。","\n<Maid>I'm so sorry, I'm so sorry...
-If we tried to leave, they... They threatened our
-families... I was stuck... Sniffle."
+脅されて・・・ずっとここで・・・ひっく。",""
 "\n<リリー>・・・
 別に取って食ったりしないわよ。
-あんたが知ってることを聞かせて。","\n<Lily>...
-I'm not especially hungry today.
-Tell me everything you know."
+あんたが知ってることを聞かせて。",""
 "\n<メイド>は、はい・・・
 えっと・・・
-今の状況を・・・出来る限り説明します。","\n<Maid>O-of course...
-Well...
-Let me explain as best I can... What's going on."
+今の状況を・・・出来る限り説明します。",""
 "\n<メイド>こ、ここでは魔物を研究していて・・・
-表の屋敷はそれを隠すためのものでした。","\n<Maid>Th-they researched monsters in here...
-The mansion was a front to disguise it."
+表の屋敷はそれを隠すためのものでした。",""
 "\n<メイド>屋敷に訪れた冒険者を監禁して実験に使ったり・・・
 とても酷いことを・・・
 うぅ・・・","\n<Maid>They would imprison adventurers who visited...
@@ -187,72 +153,57 @@ Of course, you took over the mansion, and the master..."
 I was completely clueless while I was working there.
 If not for you, I would still be..."
 "\n<リリー>他の奴らはどうしたのよ。
-あんたはここで何してんの？","\n<Lily>And what about everyone else?
-Why are you here alone?"
+あんたはここで何してんの？",""
 "\n<メイド>実験用の淫魔を解放するので従業員は避難しました。
 ここに残っているのはDr.チョコレと
-メイド長のベルーチェ様だけだと思います。","\n<Maid>Everyone was evacuated when we released the succubi.
-The only ones here still are Dr. Chocolat, and Ms. Velvet,
-the head maid."
+メイド長のベルーチェ様だけだと思います。",""
 "\n<メイド>私はその・・・メガネを探していたら
 逃げ遅れてしまって・・・","\n<Maid>I was... Searching for my glasses.
 I missed my chance to escape..."
 "\n<メイド>はぁ・・・
 私はこの建物も、ここの人達も好きじゃないです。
-もし良ければ、お手伝いさせてください。","\n<Maid>Hah...
-I really hate this building, and these people.
-If you can, please rescue me."
+もし良ければ、お手伝いさせてください。",""
 "\n<リリー>・・・
 とりあえず、信じることにするわ。
-あんたもなんて言うか、気の毒ね。","\n<Lily>...
-I'll believe you for now. If what you said is true,
-then I feel pity for you."
+あんたもなんて言うか、気の毒ね。",""
 "\n<メイド>何か必要な物があればおっしゃってください。
 ここを出た後のことを考えると、
 お代はいただきたいのですが・・・","\n<Maid>Please let me know if you need anything.
 I need to think about what I'll do once I get out of here,
 so if you wouldn't mind paying a little..."
 "\n<リリー>は？
-タダで寄こしなさいよ。","\n<Lily>Huh?
-No, give us something for free."
-"\n<メイド>ひぃ・・・！！！","\n<Maid>Yeeeeek...!!!"
+タダで寄こしなさいよ。",""
+"\n<メイド>ひぃ・・・！！！",""
 "\n<メイド>な、何でしょうか！
-必要な物があれば・・・何なりと！","\n<Maid>Wh-what is it?
-If you need anything... Anything at all!"
+必要な物があれば・・・何なりと！",""
 "\n<リリー>もう十分よ。
 あんたいつまでそこにいるつもり？
-早く逃げなさいよ。","\n<Lily>That should be plenty.
-How long are you planning to stay here?
-Hurry up and get out."
+早く逃げなさいよ。",""
 "\n<メイド>あの、なんだか・・・
 リリー様はもっと怖い感じだと思ってました。
 えへへ・・・♥","\n<Maid>Ah, somehow...
 I thought Ms. Lily would be scarier than this.
 Eheehee...♥"
 "\n<リリー>いいから帰れっつってんのよ！
-調子に乗んな！","\n<Lily>I'm telling you to get lost!
-Don't get the wrong idea!"
+調子に乗んな！",""
 "\n<メイド>ひぃっ・・・！！
 もうちょっとしたら帰りますぅ・・・","\n<Maid>Yeeek...!!
 I'll leave in a little while..."
-"\n<リリー>やけに品揃え良いわね。","\n<Lily>You've got quite a fine selection."
+"\n<リリー>やけに品揃え良いわね。",""
 "\n<メイド>研究所ですから・・・
 いや、あの、それと・・・
 私物が・・・少々・・・///","\n<Maid>It's all stuff from the research center...
 Er, no, I suppose...
 There's some stuff from my... Personal collection...///"
 "\n<メイド>んひぃぃぃ！！！
-助けてぇぇぇぇ！！","\n<Maid>YEEEEEK!!!
-Help meeeeee!!"
-"\n<リリー>なかなかいい声出すじゃない。","\n<Lily>You've got a nice, strong voice."
+助けてぇぇぇぇ！！",""
+"\n<リリー>なかなかいい声出すじゃない。",""
 "EV023",""
 "よく分からない機械だ・・・
-触らないでおこう。","A bizarre machine...
-Best not to touch it."
+触らないでおこう。",""
 "\n<リリー>機械・・・
-使いこなせる人間がいるのね。","\n<Lily>A machine...
-Some human must know how to use it."
+使いこなせる人間がいるのね。",""
 "EV024",""
 "ロメ/アル",""
-"\n<\n[1]>（何か考えてみよう・・・）","\n<\n[1]>(I should collect my thoughts...)"
+"\n<\n[1]>（何か考えてみよう・・・）",""
 "情報の整理（日記の確認）",""

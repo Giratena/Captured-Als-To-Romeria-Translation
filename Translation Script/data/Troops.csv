@@ -123,9 +123,9 @@
 "チョコレバトル","",""
 "つよトラ","",""
 "トラまたたび","",""
-"オーク","","Orc"
-"ウィッチラミア","","Witch Lamia"
-"マンティス","","Mantis"
+"オーク","Orc",""
+"ウィッチラミア","Witch Lamia",""
+"マンティス","Mantis",""
 "ミニマムとら","",""
 "ミニマムマンティス","",""
 "ミニマムオーク","",""
@@ -1025,14 +1025,14 @@ W-Why you...!",""
 雑魚チンポ。",""
 "\n<\n[3]>これはお礼なんだからね。
 だから、力を抜いて・・・♥
-全部私に任せて♥","","\n<\n[3]>This is my thanks to you.
+全部私に任せて♥","\n<\n[3]>This is my thanks to you.
 So just relax...♥
-Leave everything to me♥"
+Leave everything to me♥",""
 "\n<リリー>ん・・・♥ちゅっ♥
 セックスだと精気吸っちゃうから・・・
-手でね・・・♥ちゅぅ♥","","\n<Lily>Mmm...♥ Smooch♥
+手でね・・・♥ちゅぅ♥","\n<Lily>Mmm...♥ Smooch♥
 Sex would drain your energy...
-But my hand...♥ Smooch♥"
+But my hand...♥ Smooch♥",""
 "\n<\n[3]>アタシ、お前を何回イカせたか覚えてないし。
 今更勝負にならんと思うにゃぁ。
 にゃははは♥","\n<\n[3]>アタシ、お前を何回イカせたか覚えてないし。
@@ -1397,59 +1397,52 @@ Sluuuuurp♥"
 Then I'll have you squirt inside my mouth♥
 Ahhhhn♥"
 "0:手コキ 1:キス 2:胸見せ 3:尻コキ","",""
-"ベルーチェ","",""
+"ベルーチェ","Velvet",""
 "属性：人　弱点：胸","",""
-"チョコレ","","Chocolat"
-"0:顔舐め 1:キス手コキ 2:ベロチュー手コキ 3:穴責め","","0:Face licking 1:Kissing handjob 2:French kiss 3:Hole torture"
+"チョコレ","Chocolat",""
+"0:顔舐め 1:キス手コキ 2:ベロチュー手コキ 3:穴責め","",""
 "\n<\n[3]>ペニスは刺激を与えられると
 精液を吐き出しちゃうように出来てるんれすよ？
-ほら、どうせ出しちゃうんれす♥我慢しないれ♥","","\n<\n[3]>So when provided stimulation, the penis will spit
+ほら、どうせ出しちゃうんれす♥我慢しないれ♥","\n<\n[3]>So when provided stimulation, the penis will spit
 out semen? I'm going to squeeze some out either way♥
-Don't try to resist♥"
+Don't try to resist♥",""
 "\n<\n[3]>くひひ♥もうカッチカチれすね♥
 敵に興奮して大きくしちゃうなんて
-流石ハンターさんれす♥","","\n<\n[3]>Kuheehee♥ It's already twitching♥
+流石ハンターさんれす♥","\n<\n[3]>Kuheehee♥ It's already twitching♥
 Getting excited and swelling up for your enemy,
-I'd expect no less from you, hunter♥"
+I'd expect no less from you, hunter♥",""
 "\n<\n[1]>（うぁ・・・！出る・・・！！
 でも・・・
-絶対・・・耐えないと・・・！！！）","","\n<\n[1]>(Uwah...! I'm gonna cum...!!
-But...
-I absolutely... Need to endure...!!!)"
+絶対・・・耐えないと・・・！！！）","",""
 "ダメだ・・・！
-絶対に負けられない・・・！","","No way...!
-I can't afford to lose this...!"
+絶対に負けられない・・・！","",""
 "\n<\n[3]>あれ～？今イっちゃいそうれしたぁ？
 くすくす♥
-そんなに興奮しちゃったんれすかぁ？","","\n<\n[3]>Ahhh～? Were you just about to cum?
-Tee hee♥
-Are you really that excited?"
+そんなに興奮しちゃったんれすかぁ？","",""
 "\n<\n[3]>あうぅぅぅう・・・♥
 ま、またイっちゃう・・・！！
-負けちゃいますぅ・・・！！","","\n<\n[3]>Ahhhhhnnn...♥
-I-I'm cumming again...!!
-I'm gonna lose...!!"
+負けちゃいますぅ・・・！！","",""
 "\n<\n[3]>あうあうあうあう！！
 な、なんか来ちゃいますよぉ♥
-凄いの来る・・・♥♥♥","","\n<\n[3]>Ahn, ahn,ahn, ahn!!
+凄いの来る・・・♥♥♥","\n<\n[3]>Ahn, ahn,ahn, ahn!!
 S-something's coming♥
-Something incredible is coming...♥♥♥"
-"\n<\n[3]>ああぁぁぁぁぁぁぁぁん♥♥♥","","\n<\n[3]>Aaaaahhhhhhhhhhnnn♥♥♥"
+Something incredible is coming...♥♥♥",""
+"\n<\n[3]>ああぁぁぁぁぁぁぁぁん♥♥♥","\n<\n[3]>Aaaaahhhhhhhhhhnnn♥♥♥",""
 "\n<\n[3]>はぅぅ・・・♥
 き、気持ちいいれす・・・♥
-またイカされちゃいますよぅ♥","","\n<\n[3]>Haaah...♥
+またイカされちゃいますよぅ♥","\n<\n[3]>Haaah...♥
 F-Feels so good...♥
-Make me cum again♥"
+Make me cum again♥",""
 "\n<\n[3]>はぅぅ・・・♥
 き、気持ちいいれす・・・♥
-何かじわじわと・・・上がってきます・・・♥","","\n<\n[3]>Haaahh...♥
+何かじわじわと・・・上がってきます・・・♥","\n<\n[3]>Haaahh...♥
 S-so good...♥
-Something is slowly... Rising up...♥"
+Something is slowly... Rising up...♥",""
 "\n<\n[3]>おや、これは想定外の反応れす。
 まさかここにきて、自ら敗北を選択するとは。
-人は時に理解を超える選択をします♥くすくす♥","","\n<\n[3]>Oh my, I never would have expected this.
+人は時に理解を超える選択をします♥くすくす♥","\n<\n[3]>Oh my, I never would have expected this.
 I can't believe you'd come all this way just to surrender.
-Sometimes humans go way over my head♥ Tee hee♥"
+Sometimes humans go way over my head♥ Tee hee♥",""
 "0:顔騎 1:ぱふぱふ 2:擦り付け 3:騎乗位","",""
 "0ﾌｨﾘ 1ﾏｰｶﾞﾚ 2ｻｷｭ 3ｱｲﾘ 4ﾕｲﾈ 5ｼｬﾙ 6ﾁｭｰ 7ﾏｵ8ﾘﾘｽ 9ﾌｪﾗ高 10ﾌｪﾗ中 
 11ﾌｪﾗ低 12ﾄﾙﾃ 13ｷﾙｼｭ 14ｼｰﾌﾟ15ｼｨﾅ 16ｴｲﾐｰ 17ｷｴﾘ 18ﾉﾉ 19ﾘﾘﾌｪﾗ
@@ -1459,103 +1452,86 @@ Sometimes humans go way over my head♥ Tee hee♥"
 45ﾗﾐｱ 47ﾙﾅ 48猫 49ﾕｲﾈ 50ﾏｷｻ 51ｳｫﾙﾌ 52ｽﾗﾐｰ 53ﾗｲﾑ 54ｱｰｺ","",""
 "55ﾘﾘｰ 56ﾛﾒ 57ﾗｲﾑB 58ﾘﾘｰ強気","",""
 "とら","",""
-"0:パイズリ 1:はさみつぶす 2:なめる","","0:Tit fuck 1: Squeezing 2: Licking"
+"0:パイズリ 1:はさみつぶす 2:なめる","0:Tit fuck 1: Squeezing 2: Licking",""
 "無理やり押さえつけられた！
-分が悪い・・・今は逃げた方がいいかもしれない・・・！","","You've been pinned down!
-This isn't good... It might be best to run away...!"
+分が悪い・・・今は逃げた方がいいかもしれない・・・！","",""
 "\n<\n[3]>あーハラ減った！
 すーぐ喰ってヤル。
-抵抗すんなよー。がおー。","","\n<\n[3]>I was soooo hungry!
-I'm gonna eat so much!
-Better not resist. Roar!!"
+抵抗すんなよー。がおー。","",""
 "\n<\n[3]>はぁ・・・はぁ・・・♥
 ま、まってよう・・・！
-気持ちいいの来る・・・！！","","\n<\n[3]>Hah... Hah...♥
-J-just hold on...!
-It feels so good...!!"
-"\n<\n[3]>んにゃおおおおん・・・！！","","\n<\n[3]>Myaaaaaaoooowww...!"
+気持ちいいの来る・・・！！","",""
+"\n<\n[3]>んにゃおおおおん・・・！！","",""
 "\n<\n[3]>にゃおん・・・！
-なんだァ？てめェ・・・","","\n<\n[3]>Meoooww...!
-What the? What did you..."
+なんだァ？てめェ・・・","\n<\n[3]>Meoooww...!
+What the? What did you...",""
 "\n<\n[3]>もう動けなくなった。雑魚。
 あーあ。
-活きが悪い獲物はあんまり美味そうじゃねーなぁ。","","\n<\n[3]>You've already stopped resisting. Weakling.
-Aaahhhh...
-Weak prey just doesn't quite taste the same."
-"とらのまたたびをぶちまけた！","","Scattered the Tiger's Silver Vine!"
+活きが悪い獲物はあんまり美味そうじゃねーなぁ。","",""
+"とらのまたたびをぶちまけた！","",""
 "\n<\n[3]>んにゃおー！
 それオレのまたたびじゃんか！
-あっ♥あっ♥勝手に使うなー！","","\n<\n[3]>Myaoooow!
-Is that my silver vine!?
-Ahhn♥ Ahhn♥ Don't use that without permission!"
+あっ♥あっ♥勝手に使うなー！","",""
 "とらはラリった！
-とらのステータスが激減した！","","Tiger got high!
-Tiger's stats have all plummeted!"
+とらのステータスが激減した！","",""
 "\n<\n[3]>おあぁ・・・！
 んにゃぉ♥
-やば♥これ♥","","\n<\n[3]>Ahhhhh...!
+やば♥これ♥","\n<\n[3]>Ahhhhh...!
 Meoooow♥
-Oh nooo♥ Oh you♥"
+Oh nooo♥ Oh you♥",""
 "\n<\n[3]>犯してヤル♥犯してヤル♥
 くくく♥覚悟しろよー。
-へへへへへー♥","","\n<\n[3]>Let's fuck♥ Let's fuck♥
+へへへへへー♥","\n<\n[3]>Let's fuck♥ Let's fuck♥
 Kukuku♥ Get ready.
-Hehehehehe♥"
-"0:うちつける 1:騎乗位 2:ぐりぐり","","0:Pound 1:Cowgirl 2:Grind"
+Hehehehehe♥",""
+"0:うちつける 1:騎乗位 2:ぐりぐり","0:Pound 1:Cowgirl 2:Grind",""
 "\n<\n[3]>あはは♥
 アタシとヤろうってのか♥
-挑んだこと、後悔させてやるよ。","","\n<\n[3]>Ahaha♥
-You and I are gonna fuck♥
-I'll make you regret coming here."
+挑んだこと、後悔させてやるよ。","",""
 "\n<\n[3]>ちょっと待て・・・！
 いや、待って・・・！！
-なんで、こんな・・・ッ！","","\n<\n[3]>Wait...!
-No, wait...!!
-Wh-what's... Why...!!"
-"\n<\n[3]>あぁぁぁぁぁ！！！！","","\n<\n[3]>Aaaaaahhh!!!!"
+なんで、こんな・・・ッ！","",""
+"\n<\n[3]>あぁぁぁぁぁ！！！！","",""
 "\n<\n[3]>はぁ・・・はぁ・・・
-やるじゃねーか♥","","\n<\n[3]>Hah... Hahh...
-Keep it coming♥"
+やるじゃねーか♥","\n<\n[3]>Hah... Hahh...
+Keep it coming♥",""
 "\n<\n[3]>オマエもオークのオスと同じだな♥
 アタシのケツを見たら精子出したくて
-それ以外のことが考えられなくなる♥あははは！！","","\n<\n[3]>You're just like the male orcs♥
-The moment you see my ass, all you can think about
-is shooting your sperm inside it♥ Ahahaha!!"
-"0:パイズリ 1:パイズリ交互 2:パフパフ","","0: Paizuri 1:Alternating Paizuri 2: Puff Puff"
+それ以外のことが考えられなくなる♥あははは！！","",""
+"0:パイズリ 1:パイズリ交互 2:パフパフ","0: Paizuri 1:Alternating Paizuri 2: Puff Puff",""
 "\n<\n[3]>ふふ♥アナタとっても美味しそう♥
-食べちゃってもいいかしら♥","","\n<\n[3]>Fufu♥ You look quite delicious♥
-I wonder how you'll taste♥"
-"\n<\n[3]>あっあっあっ・・・！！","","\n<\n[3]>Ahn, ahn, ahn...!!"
-"\n<\n[3]>あぁぁぁぁイクゥゥゥ！！！！","","\n<\n[3]>Aaaahhhhh, cumming!!!!"
+食べちゃってもいいかしら♥","\n<\n[3]>Fufu♥ You look quite delicious♥
+I wonder how you'll taste♥",""
+"\n<\n[3]>あっあっあっ・・・！！","",""
+"\n<\n[3]>あぁぁぁぁイクゥゥゥ！！！！","",""
 "\n<\n[3]>何よ・・・！
-何なのこの子・・・！","","\n<\n[3]>What that...!
-Who do you think you are...!"
+何なのこの子・・・！","",""
 "\n<\n[3]>締め付けすぎてぐったりしちゃった？
 ペニスはこんなにギンギンなのに。
-あはは♥","","\n<\n[3]>Are you exhausted from being crushed?
+あはは♥","\n<\n[3]>Are you exhausted from being crushed?
 Even though your penis is still twitching?
-Ahaha♥"
-"0:フェラ 1:舐め 2:ちんキス","","0: Blowjob 1: Licking 2: Cock kiss"
+Ahaha♥",""
+"0:フェラ 1:舐め 2:ちんキス","0: Blowjob 1: Licking 2: Cock kiss",""
 "\n<\n[3]>可愛いお嬢さん♥
 食べちゃってもいいかしら♥
-くすくす♥","","\n<\n[3]>What a cute little lady♥
+くすくす♥","\n<\n[3]>What a cute little lady♥
 I wonder how you taste♥
-Tee hee♥"
+Tee hee♥",""
 "\n<\n[3]>可愛いボウヤね♥
 食べちゃいたい♥
-くす♥","","\n<\n[3]>What a cute young man♥
+くす♥","\n<\n[3]>What a cute young man♥
 I really want to eat you♥
-Hee♥"
-"\n<\n[3]>イ・・・イっちゃう・・・！！","","\n<\n[3]>I... I'm cumming...!!"
-"\n<\n[3]>あぁぁぁぁん！！！！","","\n<\n[3]>Ahhhhnnn!!!!"
+Hee♥",""
+"\n<\n[3]>イ・・・イっちゃう・・・！！","",""
+"\n<\n[3]>あぁぁぁぁん！！！！","",""
 "\n<\n[3]>ん・・・！！
-やるじゃない・・・♥","","\n<\n[3]>Nnn...!!
-Cut that out...♥"
+やるじゃない・・・♥","\n<\n[3]>Nnn...!!
+Cut that out...♥",""
 "\n<\n[3]>あらあら。抵抗しないのね。
 諦めたら後は食べられるだけなのに。
-本当にそれでいいの？ふふ♥","","\n<\n[3]>Oh my, you've stopped resisting.
+本当にそれでいいの？ふふ♥","\n<\n[3]>Oh my, you've stopped resisting.
 You know once you give up, you're being eaten.
-Is that really fine with you? Fufu♥"
+Is that really fine with you? Fufu♥",""
 "0:バック 1:アナル挿入 2:舐めさせ 3:誘惑","0:バック 1:アナル挿入 2:舐めさせ 3:誘惑",""
 "リリス","リリス",""
 "0:胸圧迫 1:胸交互 2:胸 3:パイズリフェラ","0:胸圧迫 1:胸交互 2:胸 3:パイズリフェラ",""

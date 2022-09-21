@@ -1,82 +1,71 @@
-"イベント実行",""
-"\n<シィナ>なんにゃコイツ。","\n<Shina>The hell is this, nya."
-"\n<リリー>なんで屋敷にオークがいるのよ。","\n<Lily>Why are there so many orcs in the mansion?"
+"イベント実行","イベント実行"
+"\n<シィナ>なんにゃコイツ。","\n<シィナ>なんにゃコイツ。"
+"\n<リリー>なんで屋敷にオークがいるのよ。","\n<リリー>なんで屋敷にオークがいるのよ。"
 "\n<ライム>どこから入って来たんだろ？
-・・・？","\n<Lime>Where did you come from?
-…?"
-"\n<オーク>ゴブゴブ！！","\n<Orc>Oink oink!!"
-"\n<オーク>ゴブゴブ・・・","\n<Orc>Oink, snort…"
-"\n<オーク>ゴブ！！","\n<Orc>Oink!!"
+・・・？","\n<ライム>どこから入って来たんだろ？
+・・・？"
+"\n<オーク>ゴブゴブ！！","\n<オーク>ゴブゴブ！！"
+"\n<オーク>ゴブゴブ・・・","\n<オーク>ゴブゴブ・・・"
+"\n<オーク>ゴブ！！","\n<オーク>ゴブ！！"
 "\n<シィナ>オークの癖にゴブゴブうるせー！
-ゴブリンかテメーは！","\n<Shina>I hate orcs and their squealing!
-Shut up you little goblin freak!"
-"\n<ライム>なんて言ってるのかなー？","\n<Lime>What is it trying to say?"
+ゴブリンかテメーは！","\n<シィナ>オークの癖にゴブゴブうるせー！
+ゴブリンかテメーは！"
+"\n<ライム>なんて言ってるのかなー？","\n<ライム>なんて言ってるのかなー？"
 "\n<リリー>そうだわ。
-使役しましょ。","\n<Lily>Alright then.
-Let's put it to work."
-"\n<リリー>チャーム♥","\n<Lily>Charm♥"
+使役しましょ。","\n<リリー>そうだわ。
+使役しましょ。"
+"\n<リリー>チャーム♥","\n<リリー>チャーム♥"
 "\n<オーク>ゴ・・・♥
-ゴブゴブ・・・♥","\n<Orc>Oink...♥
-Oink oink...♥"
+ゴブゴブ・・・♥","\n<オーク>ゴ・・・♥
+ゴブゴブ・・・♥"
 "\n<オーク>ゴゴ・・・♥
-ゴゴブブ・・・♥","\n<Orc>Snort...♥
-Snort, squeal...♥"
+ゴゴブブ・・・♥","\n<オーク>ゴゴ・・・♥
+ゴゴブブ・・・♥"
 "\n<オーク>ゴ・・・
-ゴブリン♥","\n<Orc>Oink...
-Squoink♥"
+ゴブリン♥","\n<オーク>ゴ・・・
+ゴブリン♥"
 "\n<リリー>よしよし♥
-ちゃんと効いたみたいね。","\n<Lily>There we are♥
-Seems like that worked just fine."
+ちゃんと効いたみたいね。","\n<リリー>よしよし♥
+ちゃんと効いたみたいね。"
 "\n<シィナ>おい！コイツ今ゴブリンって言ったぞ！
-聞いたにゃ！？今の！","\n<Shina>Oi! He just squoinked!
-Did you hear that!? Just now!"
-"\n<ライム>リリー、この子使役してどーするの？","\n<Lime>Lily, what will you do with this little one?"
+聞いたにゃ！？今の！","\n<シィナ>おい！コイツ今ゴブリンって言ったぞ！
+聞いたにゃ！？今の！"
+"\n<ライム>リリー、この子使役してどーするの？","\n<ライム>リリー、この子使役してどーするの？"
 "\n<リリー>雑用とか警備とかさせればいいでしょ。
-単細胞のアホだから。","\n<Lily>Simple chores and security work, I figure.
-They're pretty simple minded after all."
+単細胞のアホだから。","\n<リリー>雑用とか警備とかさせればいいでしょ。
+単細胞のアホだから。"
 "\n<リリー>いい？オーク！
-私たちの為にちゃんと働きなさいよ！","\n<Lily>Alright? Orc!
-Work hard for us now!"
-"\n<オーク>ゴブゴブ！","\n<Orc>Oink oink!"
-"\n<ライム>オークさんよろしくねー♥","\n<Lime>Do your best, little orc-♥"
-"\n<シィナ>給料はどんぐり3つにゃ。","\n<Shina>We're paying you 3 acorns an hour, nya."
-"\n<オーク>ゴーーーーブ！！","\n<Orc>Oiiiiiiiiinnnkk!!"
-"\n<リリー>バカじゃないの？いい加減にしてよ！","\n<Lily>What are you, stupid? Knock that off!"
-"\n<シィナ>はぁ～？そっちが悪いにゃ！","\n<Shina>Huh～? What'd you just say to me, nya!?"
+私たちの為にちゃんと働きなさいよ！","\n<リリー>いい？オーク！
+私たちの為にちゃんと働きなさいよ！"
+"\n<オーク>ゴブゴブ！","\n<オーク>ゴブゴブ！"
+"\n<ライム>オークさんよろしくねー♥","\n<ライム>オークさんよろしくねー♥"
+"\n<シィナ>給料はどんぐり3つにゃ。","\n<シィナ>給料はどんぐり3つにゃ。"
+"\n<オーク>ゴーーーーブ！！","\n<オーク>ゴーーーーブ！！"
+"\n<リリー>バカじゃないの？いい加減にしてよ！",""
+"\n<シィナ>はぁ～？そっちが悪いにゃ！",""
 "\n<ライム>はいはいはいはい。落ち着いてー。
-どっちが悪いかゲームで決めよー。","\n<Lime>Hey hey hey hey hey. Calm down now.
-Let's play a game to decide who's wrong."
+どっちが悪いかゲームで決めよー。",""
 "\n<シィナ>あ？ゲーム？
-何にゃ。","\n<Shina>Hah? A game?
-Like what, nya?"
-"\n<ライム>旗上げゲーム！","\n<Lime>The flag game!"
-"\n<リリー>やらないわよバカバカしい。","\n<Lily>I'm not playing some ridiculous game."
+何にゃ。",""
+"\n<ライム>旗上げゲーム！",""
+"\n<リリー>やらないわよバカバカしい。",""
 "\n<シィナ>負けるのが怖いにゃ？
 アタシの瞬発力に勝てるわけないにゃんねー！
-しゅっ！しゅっ！しゅっ！","\n<Shina>Scared you'll lose, nya?
-You know you can never beat my insane reflexes, nyaan!
-Nyah nyah! Neener neener!"
+しゅっ！しゅっ！しゅっ！",""
 "\n<リリー>あんた脳みそにアイロンでもかけたの？
-シワが無いみたいだけど。","\n<Lily>Did you have your brain ironed?
-It's got no wrinkles whatsoever."
+シワが無いみたいだけど。",""
 "\n<シィナ>言ってる意味が分からんにゃーん。
 ビビってんのか？
-しゅっ！しゅっ！","\n<Shina>I don't know what that meeeeans.
-Are you to nervous, nyaah?
-Nya nya nya!"
+しゅっ！しゅっ！",""
 "\n<リリー>旗上げは瞬発力より判断力よ。
-あんたなんかに負けるわけないでしょ。","\n<Lily>Raising the flags is about intelligence
-more than reflexes. I'd never lose to you."
+あんたなんかに負けるわけないでしょ。",""
 "\n<シィナ>お、やんのか？
-どっちが上か、赤白付けてやろうにゃん。","\n<Shina>Oh, we doing this, nya?
-We'll pick whether to raise the white or red flag."
+どっちが上か、赤白付けてやろうにゃん。",""
 "\n<ライム>負けた方が謝ること。言い訳無し。
 一発勝負。
-いくよー？","\n<Lime>Loser has to apologize. No excuses.
-One round.
-Are you ready-?"
-"\n<リリー>負けたらクツでもケツでも舐めてやるわよ。","\n<Lily>If I lose, I'll lick your shoes and your ass."
-"\n<シィナ>クツもケツも舐めさせてやるし。","\n<Shina>Then I'll let you lick my shoes and my ass."
+いくよー？",""
+"\n<リリー>負けたらクツでもケツでも舐めてやるわよ。",""
+"\n<シィナ>クツもケツも舐めさせてやるし。",""
 "\n<ライム>赤\.\.上げ\.ない♪\.\.\.\.白\.\.上げ\.ない♪\.\.\.\.
 赤\.\.上げ\.ない\.で♪\.\.\.\.白\.\.上げ\.ない♪","\n<Lime>Red\.\. flag\. don't raise♪\.\.\.\. White\.\. flag\. don't raise♪\.\.\.\.
 Red\.\. flag\. don't raise♪\.\.\.\.\. White\.\. flag\. don't raise♪"
@@ -86,21 +75,19 @@ White\.\. flag\. don't raise♪\.\.\.\. White\.\. flag\. down♪"
 "\n<ライム>赤\.\.上げ\.ない♪\.\.\.\.白\.\.上げ\.ない♪\.\.\.\.
 白\.\.上げ\.ない\.で\.\^","\n<Lime>Red\.\. flag\. don't raise♪\.\.\.\. White\.\. flag\. don't raise♪\.\.\.\.
 White\.\. flag\. don't\.\.\^"
-"\n<シィナ>上げさせろにゃ！","\n<Shina>We haven't raised a single freaking flag!"
-"\n<リリー>あーもうムカツクわね！","\n<Lily>Are you trying to make me mad!"
+"\n<シィナ>上げさせろにゃ！",""
+"\n<リリー>あーもうムカツクわね！",""
 "\n<ライム>ちょ、ちょっとまってよー！
-これからなのにー！","\n<Lime>W-wait wait wait a minute-!
-I was just about to-!"
-"\n<研究員1>こいつらほんと仲良いっすね。","\n<Researcher 1>These three are really tight knit, aren't they?"
+これからなのにー！",""
+"\n<研究員1>こいつらほんと仲良いっすね。",""
 "\n<研究員2>どっちかが勝ったらまた喧嘩になっちゃいますからね。
-ライムちゃん、いい子ですね。","\n<Researcher 2>The moment one of them wins, they'll start fighting again.
-You're too pure, Lime."
-"\n<研究員1>いや、多分あれ素っすよ。","\n<Researcher 1>Err, she might not realize what she's doing."
-"リリーイベ",""
-"ライムイベ",""
-"シィナイベ",""
-"オーク2 リーダ",""
-"オーク１",""
-"オーク",""
+ライムちゃん、いい子ですね。",""
+"\n<研究員1>いや、多分あれ素っすよ。",""
+"リリーイベ","リリーイベ"
+"ライムイベ","ライムイベ"
+"シィナイベ","シィナイベ"
+"オーク2 リーダ","オーク2 "
+"オーク１","オーク１"
+"オーク","オーク"
 "旗",""
 "旗２",""

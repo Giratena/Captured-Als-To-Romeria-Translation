@@ -37,7 +37,7 @@ Restores 30% + 200 points of vitality.",""
 "<mat1:I71*1>
 <matG:10>","<mat1:I71*1>
 <matG:10>",""
-"精力剤α","Energizer α",""
+"精力剤α","Energizer α","Energizer a"
 "ミントの匂い
 精力50％+200回復","Smells like mint.
 Restores 50% + 200 points of vitality.",""
@@ -432,10 +432,10 @@ Material.",""
 ","Just a plain wooden stick",""
 "重くて硬いもの","Heavy, hard object",""
 "重くて硬い金属のインゴット","A heavy, hard metal ingot",""
-"またたび","Life of the Wanderer","Silver Vine"
+"またたび","Life of the Wanderer",""
 "猫を狂わせる魔法の粉","Magic powder that drives cats crazy",""
-"とらのまたたび","","Tiger's Silver Vine"
-"デカい猫を狂わせる魔法の粉","","Strong magic powder to drive a tiger crazy"
+"とらのまたたび","Tiger's Silver Vine",""
+"デカい猫を狂わせる魔法の粉","",""
 "金目のもの","Valuable",""
 "使えない癖に価値のありそうな何か
 換金アイテム","Something that is unusable, but valuable.
@@ -525,17 +525,15 @@ Current SAN value \v[270]",""
 "鉄格子の鍵","Cell Key",""
 "地下牢の鉄格子を開く鍵
 ","The key that opens the cells in the dungeon",""
-"レコシード","","Recorder seed"
+"レコシード","",""
 "音を蓄え発芽する時に放出する植物の種
-録音と再生が出来る","","A seed that stores sound, and releases it when it 
-germinates. Can record and play sound."
-"とらの鍵","","Tiger key"
+録音と再生が出来る","",""
+"とらの鍵","Tiger key",""
 "研究所の扉を開くための鍵
-全部で4つ必要","","A key to open the laboratory doors.
-4 are required."
-"マンティスの鍵","","Mantis key"
-"ウィッチラミアの鍵","","Witch lamia key"
-"オークの鍵","","Orc key"
+全部で4つ必要","",""
+"マンティスの鍵","Mantis key",""
+"ウィッチラミアの鍵","Witch lamia key",""
+"オークの鍵","Orc key",""
 "～夢のかけら～","～夢のかけら～",""
 "夢のかけら","夢のかけら",""
 "自分の記憶が詰まった夢のかけら","自分の記憶が詰まった夢のかけら",""

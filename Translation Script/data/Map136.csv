@@ -473,7 +473,7 @@ Pizza in the bath"
 "ヒントを見る","","See a hint"
 "自力で探す","","Search by yourself"
 "浴場で入手できます。","","Found in the bath house."
-"答えを見る","","See answer"
+"答えを見る","See answer","See answer"
 "浴場の左側へフックショットで飛び
 暖炉の火を氷属性の攻撃で全て消してください。","","Hookshot to the left side of the bath house.
 Extinguish all fireplaces using ice attacks."
@@ -831,6 +831,6 @@ The speed of the sound adjusts to the playback speed."
 Once unlocked, you can view all swallowing animations.
 ※Unlocked by collecting all Part 2 diaries."
 "ミニマムビューアを使用しますか？","","Use the Minimum Viewer?"
-"ウィッチラミア","","Witch Lamia"
-"マンティス","","Witch Lamia"
-"オーク","","Orc"
+"ウィッチラミア","Witch Lamia","Witch Lamia"
+"マンティス","Mantis","Witch Lamia"
+"オーク","Orc","Orc"
