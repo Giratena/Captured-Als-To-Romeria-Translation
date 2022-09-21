@@ -26,11 +26,10 @@ The translation files are located in the **data** folder of this repository. Ins
 
 You are free fork this translation using Github Desktop and edit it's contents to help out with the translation! Once you're done, create a pull request and I'll merge it with the main translation!
 
-![alt text](https://media.discordapp.net/attachments/665763618326839326/963235261813231656/unknown.png)
+![alt text](https://cdn.discordapp.com/attachments/308465816947654656/1022077977644769280/unknown.png)
 
-1. Please keep in mind that some lines are actually across two lines, so make sure to
-break them up accordiningly!
-2. Please add your translations to the right most **unused column** (in this case column D). This helps me import your contributions safely!
+1. You can open the .csv files in ny text editor, but I recommend using VSCode for easy editing.
+2. If you're using Vscode, be sure to install a csv table editor plugin fron the side bar. You'll thank me later! 
 **PLEASE DO NOT OVERWRITE ANY EXISTING TEXT IN THE .XLSX FILES, ONLY ADD!**
 3. Create a pull request with your fork. I will see it and merge it with the translation!
 
