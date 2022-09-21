@@ -1,219 +1,312 @@
-"ベルーチェ"
-" <enemy:157>"
-"ーーーーー基本変更点ーーーーー"
+"ベルーチェ",""
+" <enemy:157>",""
+"ーーーーー基本変更点ーーーーー",""
 "\n<\n[3]>捕まえましたわ♥
 んー♥ちゅぅっ♥ちゅっ♥
-ほぉら♥戦うのなんてバカバカしくなってきたでしょう？"
+ほぉら♥戦うのなんてバカバカしくなってきたでしょう？","\n<\n[3]>I caught you♥
+Mmm♥ Smoooch♥ Smooch♥
+Hooora♥ Isn't all this fighting just so silly?"
 "\n<\n[3]>いいのですよ♥
 わたくしに全て身をゆだねて・・・♥
-さぁ♥堕とされなさい♥"
+さぁ♥堕とされなさい♥","\n<\n[3]>It's ok♥
+Just leave everything to me...♥
+Now♥ Submit to me♥"
 "\n<\n[3]>うふふ♥果ててしまったのね♥
 キスだけで絶頂させられるなんて・・・♥
-くす♥"
+くす♥","\n<\n[3]>Ufufu♥ You've reached your end♥
+To think you'd climax simply from a kiss...♥
+Hee♥"
 "\n<\n[3]>あらあら♥こんなに硬くして♥
 ここを捕まえられたらもうお終い♥
-逃げる気なんて起きないでしょう？"
+逃げる気なんて起きないでしょう？","\n<\n[3]>My goodness♥ You've gotten so hard♥
+It's all over if I capture you now♥
+You don't want to escape now, do you?"
 "\n<\n[3]>我慢なんてしなくていいのです。
 わたくしにペニスを握られて
-30秒耐えられる方はいませんので。くすくす♥"
+30秒耐えられる方はいませんので。くすくす♥","\n<\n[3]>There's no need to resist.
+Nobody has ever lasted more than 30 seconds
+with their penis gripped in my hand. Tee hee♥"
 "\n<\n[3]>ほら、あっという間に射精してしまいました♥
 くす♥足がガクガクしますか？
-でもまだ倒れてはいけませんよ。"
+でもまだ倒れてはいけませんよ。","\n<\n[3]>Hora, and you ejaculated just like that♥
+Hee♥ Are your legs feeling shaky?
+Don't fall over quite yet."
 "\n<ベルーチェ>く・・・！
 わ、わたくしの負けです。
-好きにしてくださいまし。"
+好きにしてくださいまし。","\n<Velvet>Kuh...!
+Y-you beat me.
+Please have your way with me."
 "\n<ベルーチェ>まさか\n[1]様がここまでのお方だとは
 思っておりませんでした。
-なんてお強いお方・・・♥"
+なんてお強いお方・・・♥","\n<Velvet>I never thought that you'd get this far, \n[1].
+You're so strong...♥"
 "\n<ベルーチェ>でも、セックスの方はどうでしょうか？
 ねぇ、\n[1]様・・・
-最後にわたくしを抱いてみませんか？"
+最後にわたくしを抱いてみませんか？","\n<Velvet>But, why not have a bit of sex?
+Hey, \n[1]...
+Let's finish things off with a tight embrace..."
 "\n<ベルーチェ>まさかサキュバスハンターが・・・
 淫魔との戦いを生業としている方が
-性行為で負けるなど、あり得ませんわよね？うふふ♥"
+性行為で負けるなど、あり得ませんわよね？うふふ♥","\n<Velvet>You're a succubus hunter...
+You dedicate your life to battling succubi.
+There's no way you'd lose in sex, no? Ufufu♥"
 "\n<ベルーチェ>ほら、もうそんなに硬くして・・・♥
 そちらの方は、戦う準備が出来ているようですが。
-くすくす♥"
+くすくす♥","\n<Velvet>Look, you're already so hard...♥
+You look like you're about ready to tangle.
+Tee hee♥"
 "\n<ベルーチェ>それとも、わたくしの膣内で
 精液を搾ってもらいたくて大きくしているのでしょうか？
-どちらにせよ、選択権は\n[1]様にありますわ♥"
+どちらにせよ、選択権は\n[1]様にありますわ♥","\n<Velvet>Or did you swell up so big because you 
+want my vagina to squeeze you dry?
+Either way, the choice is yours, \n[1]♥"
 "\n<ベルーチェ>さぁ、セックスで勝負なさいますか？
 それとも、わたくしに甘やかされながらたっぷり愛してほしいですか？
-どちらにします？くすくす♥"
-"\C[10]誘惑を振り払う"
-"\C[10]誘惑に負ける"
-"\C[10]甘やかされたい"
-"\C[10]勝負する"
-"<random><timer>"
+どちらにします？くすくす♥","\n<Velvet>Now, would you like to have sex?
+Or would you prefer for me to love and pamper you?
+Which do you prefer? Tee hee♥"
+"\C[10]誘惑を振り払う","\C[10]Shake off the temptation"
+"\C[10]誘惑に負ける","\C[10]Succumb to the temptation"
+"\C[10]甘やかされたい","\C[10]I want to be pampered"
+"\C[10]勝負する","\C[10]I want to have sex"
+"<random><timer>",""
 "\n<ベルーチェ>く・・・ハンターの癖に逃げるのですね・・・
 いくじなし・・・はぁ、はぁ・・・
-あぅ、もうダメ・・・身体が・・・"
+あぅ、もうダメ・・・身体が・・・","\n<Velvet>Kuh... So you flee from your hunter's instincts...
+You coward... Hah, hah...
+Ah, no more... My body..."
 "\n<ベルーチェ>迷っているのですか？
-ではこちらから挿入させていただきます♥"
-"ボス攻撃"
-"<enemy:132>"
-"まわし蹴り斬撃"
-"nwayAim 3 0.4 0 0.15 60 3 21 785"
-"nwayAim 7 0.3 0 0.15 60 3 21 785"
-"パンチ"
-"nwayAim 1 1 0 0.15 40 3 42 786"
-"nwayAim 1 1 0.2 0.15 40 3 42 786"
-"nwayAim 1 1 -0.2 0.15 40 3 42 786"
-"nwayAim 3 0.4 0 0.15 40 3 21 785"
-"nwayAim 5 0.3 0 0.15 50 3 21 785"
-"誘惑"
-"nwayAim 3 0.4 0 0.04 200 3 41 781"
-"nwayAim 4 0.2 0 0.03 300 3 41 781"
-"nwayAim 1 0.4 0 0.02 400 4 33 781"
-"攻撃パターン"
-"自動イベント"
-"戦闘開始！"
-"セーブ"
-"解説を見る"
-"攻略のヒント"
+ではこちらから挿入させていただきます♥","\n<Velvet>Are you lost?
+You put it in right here♥"
+"ボス攻撃",""
+"<enemy:132>",""
+"まわし蹴り斬撃",""
+"nwayAim 3 0.4 0 0.15 60 3 21 785",""
+"nwayAim 7 0.3 0 0.15 60 3 21 785",""
+"パンチ",""
+"nwayAim 1 1 0 0.15 40 3 42 786",""
+"nwayAim 1 1 0.2 0.15 40 3 42 786",""
+"nwayAim 1 1 -0.2 0.15 40 3 42 786",""
+"nwayAim 3 0.4 0 0.15 40 3 21 785",""
+"nwayAim 5 0.3 0 0.15 50 3 21 785",""
+"誘惑",""
+"nwayAim 3 0.4 0 0.04 200 3 41 781",""
+"nwayAim 4 0.2 0 0.03 300 3 41 781",""
+"nwayAim 1 0.4 0 0.02 400 4 33 781",""
+"攻撃パターン",""
+"自動イベント",""
+"戦闘開始！","Start the battle!"
+"セーブ","Save"
+"解説を見る","Explanation"
+"攻略のヒント","Strategy hints"
 "アクションRPGボス戦です。
 敵の攻撃を避けながらAキーで攻撃してください。
-Dキーを押している間は向きを固定して移動できます。"
+Dキーを押している間は向きを固定して移動できます。","This is an action RPG boss battle.
+Use the A-key to attack your enemies while dodging their attacks.
+Hold the D-key to move while facing one direction."
 "敵の攻撃で精力、体力のどちらかが0になると敗北です。
-誘惑攻撃の場合はタイミングバーが表示されます。"
+誘惑攻撃の場合はタイミングバーが表示されます。","You will lose if your energy or strength reaches 0 from an enemy attack.
+The timing bar will appear during temptation events."
 "また、敵から精力にダメージを受けると\C[14]発情状態\C[0]になり
 攻撃時の斬撃の数が減ってしまいます。
-発情中はステータスに♡マークがつきます。"
+発情中はステータスに♡マークがつきます。","Also, when taking energy damage, you will enter a \C[14]Heat State\C[0]
+which will decrease the number of attacks you shoot at one time.
+A ♡ symbol will appear during heat state."
 "発情は一定数歩き回ることで解除されます。
 クリティカルで振り払った場合にも発情状態が解除されます。
-余裕があれば赤で止めるようにしましょう。"
+余裕があれば赤で止めるようにしましょう。","Heat state will wear off after walking a certain distance.
+It will also wear off by critically resisting a temptation event.
+Try to stop the timer bar in the red zone."
 "・敵の攻撃パターンを覚える
 敵の攻撃にはパターンがあります。
-まずは避けることに集中して覚えましょう。"
+まずは避けることに集中して覚えましょう。","・Learn the enemy patterns
+The enemies have specific attack patterns.
+Learn to avoid them first of all."
 "・Dキーの向き固定を活用する
 向きを固定することで攻撃と回避がしやすくなります。
-下がりながら攻撃をすると戦いやすくなります。"
+下がりながら攻撃をすると戦いやすくなります。","・Strafe with the D-key
+By facing a fixed direction, it's easier to attack while avoiding.
+Moving backwards while attacking may be effective."
 "・回復アイテム、スキルを利用する
 回復アイテム、スキル（深呼吸など）に使用制限はありません。
-回復してゴリ押しすることも可能です。"
+回復してゴリ押しすることも可能です。","・User recovery items and skills
+You can freely use items and skills (Deep Breathing).
+You can brute force the battle by abusing your healing."
 "・アクションイージーを利用する
 オプションからアクションイージーをONにすることで
-難易度が大幅に下がります。デメリットはありません。"
-"ベルーチェ攻略法を見る"
-"チョコレ攻略法を見る"
-"もう大丈夫"
-"どうしても倒せない"
+難易度が大幅に下がります。デメリットはありません。","・Use Easy Action mode
+You can switch ON Easy Action in the Options menu.
+There is no penalty for doing this."
+"ベルーチェ攻略法を見る","See Velvet strategy"
+"チョコレ攻略法を見る","See Chocolat startegy"
+"もう大丈夫","That's enough"
+"どうしても倒せない","I can't do this"
 "・突進
 短距離を主人公より早い速度で移動します。
-近づいていると避けることが出来ないので距離を開けましょう。"
+近づいていると避けることが出来ないので距離を開けましょう。","・Charge
+Velvet will charge a short distance at a faster speed than yours.
+You won't be able to avoid if you're too close. Keep your distance."
 "・パンチ
 高速移動後に射程の短い自機狙いのパンチをしてきます。
-距離を離しましょう。"
+距離を離しましょう。","・Punch
+After dashing a short distance, she throws a short range
+punch at the player. Keep your distance."
 "・まわし蹴り
 回転した後7方向に斬撃を飛ばしてきます。隙間を抜けてください。
-また、攻撃の前の音で予測が出来ます。"
+また、攻撃の前の音で予測が出来ます。","・Roundhouse Kick
+After rotating, 7 slashes will move in all directions. Move through the
+gap to avoid. There is a distinct sound before the attack comes out."
 "・乳見せ（遠距離誘惑）
 ゆっくりとハートを飛ばしてきます。
-おっぱいは見ないようにしましょう。"
-"チョコレを先に倒すと攻撃の頻度が上がります。"
+おっぱいは見ないようにしましょう。","・Show Breasts (Long distance temptation)
+A heart will slowly fly across the screen.
+Do not stare at her boobs."
+"チョコレを先に倒すと攻撃の頻度が上がります。","If Chocolat is defeated first, this attack comes out more often."
 "・ダッシュ
 主人公のダッシュと同じ速度で長距離を追いかけてきます。
-逃げるスペースを確保しておきましょう。"
+逃げるスペースを確保しておきましょう。","・Dash
+Covers a long distance at the same speed as the player's run.
+Be sure to give yourself space to escape."
 "・ショットガン
 重たいリロード音の後に散弾を撃ってきます。
-離れた場所で動かないと当たりません。"
+離れた場所で動かないと当たりません。","・Shotgun
+After a loud loading sound, fires some buckshot.
+If you're far away, it will spread too far to hit you."
 "・マシンガン
 連続したリロード音の後に自機狙いの連射をしてきます。
-動き続けて避けましょう。"
+動き続けて避けましょう。","・Machinegun
+After a series of loading sounds, rapidly fires at the player.
+Keep running to avoid it."
 "・ハンドガン
 歩きながら単発の弾を5回撃ってきます。
-軸をずらして避けましょう。"
+軸をずらして避けましょう。","・Handgun
+Fires 5 times while walking around.
+Move on a slant to avoid."
 "・薬ばら撒き（遠距離誘惑）
 回転しながら薬をばら撒き設置します。
-時間経過、もしくは誘惑攻撃を食らうと消滅します。"
+時間経過、もしくは誘惑攻撃を食らうと消滅します。","・Scattering Drugs (Long distance temptation)
+Scatters drugs while walking around. They disappear over
+time, or when you enter a temptation event."
 "薬が邪魔になった場合はわざと踏むことで全て消すことが出来ます。
 ベルーチェを先に倒すと攻撃の頻度が上がり
-銃撃が強化されます。"
-"湧き上がる力を装備してください。"
+銃撃が強化されます。","If the drugs are in your way, you can remove them by stepping
+on them. Occurs more frequently after Velvet is defeated.
+The attack will also become more intense."
+"湧き上がる力を装備してください。","Steel yourself."
 "どうしても倒せない場合の救済措置です。
 戦闘力を爆増させる装備を入手できます。
-ゲームバランスは崩壊します。"
-"\C[10]解放する"
-"やめておく"
-"ユイネ"
-"ボス攻撃予備"
-"nwayAim 3 0.4 0 0.15 100 3 16 784"
-"nwayAim 6 0.3 0 0.25 100 3 16 784"
-"nwayAim 3 0.4 0 0.15 100 3 21 785"
-"nwayAim 7 0.3 0 0.15 100 3 21 785"
-"nwayAim 2 0.4 0 0.15 100 3 16 784"
-"nwayAim 6 0.4 0 0.25 100 3 16 784"
-"nwayAim 1 1 0 0 500 3 36 783"
-"nwayAim 1 1 0 0 1000 3 36 783"
-"ERS_テンプレートランダム生成 57 1 0 3 0 0"
-"イベントNo 通行可1　画面1内2外　重なり1P2イベ3両方"
-"ボス攻撃ぱんち"
-"nwayAim 1 1 0 0.1 60 3 42 786"
-"nwayAim 1 0.4 0 0.1 100 3 21 785"
-"nwayAim 5 0.4 0 0.1 60 3 21 785"
-"nwayAim 1 0 0.1 0.15 300 4 38 789"
-"チョコレ"
-" <enemy:158>"
+ゲームバランスは崩壊します。","This is a last resort if you cannot possibly win this fight.
+You will obtain some insanely powerful equipment.
+This completely breaks the game's balancing."
+"\C[10]解放する","\C[10]Hand it over"
+"やめておく","Never mind"
+"ユイネ",""
+"ボス攻撃予備",""
+"nwayAim 3 0.4 0 0.15 100 3 16 784",""
+"nwayAim 6 0.3 0 0.25 100 3 16 784",""
+"nwayAim 3 0.4 0 0.15 100 3 21 785",""
+"nwayAim 7 0.3 0 0.15 100 3 21 785",""
+"nwayAim 2 0.4 0 0.15 100 3 16 784",""
+"nwayAim 6 0.4 0 0.25 100 3 16 784",""
+"nwayAim 1 1 0 0 500 3 36 783",""
+"nwayAim 1 1 0 0 1000 3 36 783",""
+"ERS_テンプレートランダム生成 57 1 0 3 0 0",""
+"イベントNo 通行可1　画面1内2外　重なり1P2イベ3両方",""
+"ボス攻撃ぱんち",""
+"nwayAim 1 1 0 0.1 60 3 42 786",""
+"nwayAim 1 0.4 0 0.1 100 3 21 785",""
+"nwayAim 5 0.4 0 0.1 60 3 21 785",""
+"nwayAim 1 0 0.1 0.15 300 4 38 789",""
+"チョコレ",""
+" <enemy:158>",""
 "\n<\n[3]>捕まっちゃいましたねー♥
 れろれろれろぉ～♥
-こんなことされて戦う気になれますかぁ？くすくす♥"
+こんなことされて戦う気になれますかぁ？くすくす♥","\n<\n[3]>I gotcha-♥
+Lick lick lick～♥
+Can you fight back against this? Tee hee♥"
 "\n<\n[3]>興奮し過ぎれす♥
 唾液で顔中べとべとれすねぇ♥
-今おちんちん触られたらどーなるか、実験してみますねー♥"
+今おちんちん触られたらどーなるか、実験してみますねー♥","\n<\n[3]>You're so excited♥
+Your face is coated with sticky saliva♥
+Now to do some experiments by touching your penis♥"
 "\n<\n[3]>はーい♥ぴゅっぴゅっぴゅー♥
 戦ってる最中に射精するなんて
-やっぱり最初から本気じゃなかったんれすねぇ♥"
+やっぱり最初から本気じゃなかったんれすねぇ♥","\n<\n[3]>Yesss♥ Pew pew pew-♥
+You ejaculated in the middle of a fight
+As I thought, you were never trying in the first place♥"
 "\n<\n[3]>ぎゅーっ♥
 おっぱいに捕まっちゃいましたねー♥
-前かがみになってるかられすよー？"
+前かがみになってるかられすよー？","\n<\n[3]>Squeeeeze♥
+I caught you in my boobs-♥
+Are you leaning into them-?"
 "\n<\n[3]>んはっ♥鼻息くすぐったいれす♥
 あんまりもぞもぞしないでくらさい♥
-あははは♥"
+あははは♥","\n<\n[3]>Nhaah♥ Your breath is tickling me♥
+Don't squirm so much♥
+Ahahaha♥"
 "\n<\n[3]>あ・・・♥射精しちゃったんれすね♥
 これでもう私とは戦えないれすね♥
-もう戦いたくないでしょ？"
+もう戦いたくないでしょ？","\n<\n[3]>Ahh...♥ You ejaculated♥
+That means you can't fight anymore♥
+You don't still wanna fight, do you?"
 "\n<チョコレ>はぁ・・・♥はぁ・・・♥
-こうなったら最後の手段れす・・・♥"
+こうなったら最後の手段れす・・・♥","\n<Chocolat>Hah...♥ Hah...♥
+This is my last resort...♥"
 "\n<チョコレ>私はもう戦う力は残ってないれす。
 負けました。
-勝てない戦いをするのは理にかなってないれす。"
+勝てない戦いをするのは理にかなってないれす。","\n<Chocolat>I don't have the strength left to fight.
+I've been beaten.
+It makes no sense to keep fighting a losing battle."
 "\n<チョコレ>でもこのままおちんちんをナカに入れて
 あなたを気持ちよくすることぐらいは出来ます♥
-ふひひ♥"
+ふひひ♥","\n<Chocolat>But if you put your dick inside me,
+I'll do my best to make you feel good♥
+Fuhihi♥"
 "\n<チョコレ>今までのお詫びれす♥
 はぁ♥はぁ♥
-最後に私とえっちしてくれませんか？"
+最後に私とえっちしてくれませんか？","\n<Chocolat>I'm so sorry about everything♥
+Hah♥ Haaah♥
+Will you finish this by having sex with me?"
 "\n<チョコレ>入れた瞬間に射精が止まらなくなるほど気持ちいいれすよ♥
 試してみたくないれすか？
-私は人間なのれ、ちょっとぐらいえっちしても平気れす♥"
+私は人間なのれ、ちょっとぐらいえっちしても平気れす♥","\n<Chocolat>Once you put it in me, you'll feel so good you
+won't be able to stop cumming♥ Don't you wanna give it a try?
+I'm just a human, so a little bit of sex is ok♥"
 "\n<チョコレ>あと少しで入っちゃいます♥
 ほんの少しだけ、じっとしいていてくらさい♥
-ほら♥しちゃいましょう♥"
+ほら♥しちゃいましょう♥","\n<Chocolat>Just for a little bit♥
+Please just sit still for a little while♥
+Come on♥ Let's do it♥"
 "\n<チョコレ>ずっと我慢してたんれすよね♥
 騎乗位でいっぱい上下運動してあげます♥
-揺れるおっぱいを見ながら何度も負けてくらさい♥"
-"\C[10]突き飛ばす"
-"\C[10]じっとする"
-"\C[10]入れたい"
-"\C[10]射精したい"
+揺れるおっぱいを見ながら何度も負けてくらさい♥","\n<Chocolat>You've been holding out this entire time♥
+I'd get a good workout bouncing up and down on top of you♥
+Watch my boobs bounce above you as you cum over and over♥"
+"\C[10]突き飛ばす","\C[10]Push her off"
+"\C[10]じっとする","\C[10]Lay still"
+"\C[10]入れたい","\C[10]I want to put it in"
+"\C[10]射精したい","\C[10]I want to ejaculate"
 "\n<チョコレ>あうぅぅー・・・！
 もう嫌れす・・・！
-負けれすー・・・！"
+負けれすー・・・！","\n<Chocolat>Auuuuugh-...!
+You're so mean...!
+I lost...!"
 "\n<チョコレ>時間切れれす♥
-迷ったあなたの負けれす♥くひひ♥"
-"ボス攻撃2"
-"ショットガン"
-"nwayAim 4 0.2 0 0.2 100 1 3 795"
-"nwayAim 12 0.2 0 0.2 100 1 3 795"
-"nwayAim 8 0.2 0 0.2 100 1 3 795"
-"マシンガン"
-"nwayAim 1 0.15 0 0.2 100 1 3 795"
-"nwayAim 1 0.15 -0.2 0.2 100 1 3 795"
-"nwayAim 1 0.15 0.2 0.2 100 1 3 795"
-"nwayAim 3 0.15 0 0.2 100 1 3 795"
-"nwayAim 1 1 0 0 500 4 21 780"
-"nwayAim 1 1 0 0 2000 4 21 780"
-"nwayAim 1 1 0 0 500 4 54 780"
-"nwayAim 1 1 0 0 2000 4 54 780"
-"nwayAim 1 1 0 0 1000 4 54 780"
-"アーコ"
+迷ったあなたの負けれす♥くひひ♥","\n<Chocolat>Time is up♥
+That means you lose♥ Kuhihi♥"
+"ボス攻撃2",""
+"ショットガン",""
+"nwayAim 4 0.2 0 0.2 100 1 3 795",""
+"nwayAim 12 0.2 0 0.2 100 1 3 795",""
+"nwayAim 8 0.2 0 0.2 100 1 3 795",""
+"マシンガン",""
+"nwayAim 1 0.15 0 0.2 100 1 3 795",""
+"nwayAim 1 0.15 -0.2 0.2 100 1 3 795",""
+"nwayAim 1 0.15 0.2 0.2 100 1 3 795",""
+"nwayAim 3 0.15 0 0.2 100 1 3 795",""
+"nwayAim 1 1 0 0 500 4 21 780",""
+"nwayAim 1 1 0 0 2000 4 21 780",""
+"nwayAim 1 1 0 0 500 4 54 780",""
+"nwayAim 1 1 0 0 2000 4 54 780",""
+"nwayAim 1 1 0 0 1000 4 54 780",""
+"アーコ",""

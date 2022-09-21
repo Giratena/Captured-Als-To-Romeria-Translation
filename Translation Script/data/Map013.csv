@@ -1,84 +1,120 @@
-"チョコレ"
-"研究員1"
-"研究員2"
-"研究員3"
-"イベント実行"
+"チョコレ",""
+"研究員1",""
+"研究員2",""
+"研究員3",""
+"イベント実行",""
 "\n<チョコレ>さて、リリー達はどうれすか？
-何か変わった様子はありませんか？"
+何か変わった様子はありませんか？","\n<Chocolat>Now, how are Lily and the others doing?
+Have you noticed anything unusual?"
 "\n<研究員1>Dr.チョコレ。報告です。
-現在、リリーがメイド室にて読書を行っています。"
-"\n<チョコレ>ふむ。"
+現在、リリーがメイド室にて読書を行っています。","\n<Researcher 1>Dr. Chocolat. Report, ma'am.
+Currently, Lily is reading in the maid's room."
+"\n<チョコレ>ふむ。","\n<Chocolat>Hmm."
 "\n<研究員1>この表紙は・・・
 『恋と愛のはざまで～男女7人無人島漂流記～』
-vol.2ですね。"
+vol.2ですね。","\n<Researcher 1>The cover is...
+'Love and Passion at Sea ～ 7 Men and Women
+Stranded on a Deserted Island' Vol.2"
 "\n<研究員1>あぁ、よりによってどうして7人なのか。
 割り切れない数と割り切れない心、そして尽きていく食料。
-無人島に流れ着いた男と女の純愛サバイバル小説。名作です。"
-"\n<チョコレ>・・・"
-"\n<研究員1>Vol.2なのでサトルが餓死したところからですね。"
-"\n<研究員2>Dr.チョコレ！報告です！"
+無人島に流れ着いた男と女の純愛サバイバル小説。名作です。","\n<Researcher 1>Ah, why must there be 7 people?
+An indivisible number, indivisible hearts, food running short.
+A story of true love and survival on a desert island. A masterpiece."
+"\n<チョコレ>・・・","\n<Chocolat>..."
+"\n<研究員1>Vol.2なのでサトルが餓死したところからですね。","\n<Researcher 1>In Vol.2, Satoru starves to death."
+"\n<研究員2>Dr.チョコレ！報告です！","\n<Researcher 2>Dr. Chocolat! Report!"
 "\n<研究員2>たった今、ライムが
-泡立った卵白にグラニュー糖を混ぜ合わせました！"
+泡立った卵白にグラニュー糖を混ぜ合わせました！","\n<Researcher 2>Only moments ago, Lime mixed granulated
+sugar with whipped egg whites!"
 "\n<研究員2>これは・・・メレンゲです！角が立っています！
 そして卵黄と薄力粉で・・・スポンジですね！
-おそらくケーキを作っている模様！"
+おそらくケーキを作っている模様！","\n<Researcher 2>It's... It's a meringue! Look at those peaks!
+Now there's yolks and cake flour... It must be a sponge cake!
+She appears to be making a cake, ma'am!"
 "\n<研究員2>オーブンは既に温まっています！
-行けます！"
+行けます！","\n<Researcher 2>The oven is preheated!
+It's going in!"
 "\n<研究員2>待って！！
 ココアパウダーと・・・ラム酒！？
-うわぁ！これはちょっと大人なチョコレートケーキだぁ！！"
+うわぁ！これはちょっと大人なチョコレートケーキだぁ！！","\n<Researcher 2>Wait!!
+Cocoa powder and... Rum!?
+Woah! What a sophisticated chocolate cake!!"
 "\n<研究員3>Dr.チョコレ！
-シィナが尻を掻きました！"
-"\n<チョコレ>私の脳にゴミのような情報を流すんじゃなぁい！！！"
+シィナが尻を掻きました！","\n<Researcher 3>Dr. Chocolat!
+Shina has just scratched her butt!"
+"\n<チョコレ>私の脳にゴミのような情報を流すんじゃなぁい！！！","\n<Chocolat>Don't fill my brain with all this garbage!!!"
 "\n<チョコレ>今後は必要だと思ったことのみ報告してくらさい。
 時間の無駄なのれ。
-いいれすね。"
-"\n<チョコレ>ケーキは後でオークに回収させておくように。"
+いいれすね。","\n<Chocolat>From now on, please only report what you feel is important.
+Don't waste everybody's time.
+Understand?"
+"\n<チョコレ>ケーキは後でオークに回収させておくように。","\n<Chocolat>Send an orc to pick up that cake later."
 "\n<チョコレ>お仕事頑張ってますか？
-研究員さん。"
-"\n<研究員1>Dr.チョコレ。休憩中ですか？"
-"\n<チョコレ>うん。"
+研究員さん。","\n<Chocolat>Mr. Researcher.
+Working hard?"
+"\n<研究員1>Dr.チョコレ。休憩中ですか？","\n<Researcher 1>Dr. Chocolat. Are you taking a break?"
+"\n<チョコレ>うん。","\n<Chocolat>Yup."
 "\n<研究員1>今更お尋ねするのも変なのですが、
-一体この機械はどういう仕組みで動いているのですか？"
-"\n<チョコレ>知らないれす。"
+一体この機械はどういう仕組みで動いているのですか？","\n<Researcher 1>I know it might be strange to ask this now, but
+how in the world does this machine work?"
+"\n<チョコレ>知らないれす。","\n<Chocolat>I dunno."
 "\n<研究員1>えっ・・・？
-でも、これを設置したのってDr.チョコレでは？"
+でも、これを設置したのってDr.チョコレでは？","\n<Researcher 1>Eh...?
+But weren't you the one who installed them?"
 "\n<チョコレ>そうれすよ。でも仕組みは分からないれす。
 機械文明の遺産を
-勝手に持ってきて使ってるだけなのれ。"
-"\n<研究員1>よく分からないものをよく使えますね・・・"
+勝手に持ってきて使ってるだけなのれ。","\n<Chocolat>Yup. But I don't know how they work.
+These things were made by some advanced, ancient
+civilization. I just stole 'em and brought 'em here."
+"\n<研究員1>よく分からないものをよく使えますね・・・","\n<Researcher 1>You know how to use them, but not how they work..."
 "\n<チョコレ>例えば、このオイルランプの使い方は分かりますね。
-火を近づければ燃料に燃え移って、周りを照らせます。"
-"\n<チョコレ>じゃあ、これが何で出来ているか知っていますか？"
-"\n<研究員1>えっと・・・？"
+火を近づければ燃料に燃え移って、周りを照らせます。","\n<Chocolat>For example, you know how an oil lantern works.
+You ignite the fuel using a flame, and it lights up your surroundings."
+"\n<チョコレ>じゃあ、これが何で出来ているか知っていますか？","\n<Chocolat>So can you tell me what all this is made of?"
+"\n<研究員1>えっと・・・？","\n<Researcher 1>Ermm...?"
 "\n<チョコレ>このオイルは鯨油れす。クジラの油。
 分厚い皮下脂肪をぐちゃぐちゃにした後に窯で煮て抽出します。
-300kgの脂肪から60kgぐらい取れます。"
+300kgの脂肪から60kgぐらい取れます。","\n<Chocolat>This stuff is whale oil. The thick, subcutaneous fat
+is mashed up, and boiled in a kiln, then extracted.
+You obtain about 60kg of oil from 300kg of fat."
 "\n<チョコレ>ランプの材質は真鍮れす。
 黄銅とも呼ばれる、銅と亜鉛から作った金属れす。
-4:1ぐらいの割合で混ぜると出来ます。"
+4:1ぐらいの割合で混ぜると出来ます。","\n<Chocolat>The lamp is made of brass. Also called aurichalcum.
+This metal is a combination of copper and zinc.
+The two are mixed at a 4:1 ratio."
 "\n<チョコレ>芯はロープで出来ていて、
 毛細管現象によってオイルを吸い上げます。
-オイルが熱で気化されて燃焼するので芯はあまり焦げません。"
+オイルが熱で気化されて燃焼するので芯はあまり焦げません。","\n<Chocolat>The wick is made of rope, which sucks the oil up
+via capillary action. The rope doesn't burn, because the heat
+vaporizes the oil, and burns that instead."
 "\n<チョコレ>でも、そんなこと知らなくったって火を近づければ燃えます。
-道具を使うのに、道具のことを知る必要はないれす。"
+道具を使うのに、道具のことを知る必要はないれす。","\n<Chocolat>But even without knowing all that, you can still put a flame up
+to it, and it'll still burn. You don't need to know why."
 "\n<研究員1>ふーむ・・・
-そんなもんですかね？"
-"\n<ベルーチェ>随分と楽しそうですね。"
-"\n<研究員1>メイド長・・・！"
-"\n<ベルーチェ>淫魔に情でも湧いたのですか？"
-"\n<研究員1>いえ、そんなつもりは・・・"
+そんなもんですかね？","\n<Researcher 1>Hmm...
+Is that so?"
+"\n<ベルーチェ>随分と楽しそうですね。","\n<Velvet>Sounds like you're having fun."
+"\n<研究員1>メイド長・・・！","\n<Researcher 1>The head maid...!"
+"\n<ベルーチェ>淫魔に情でも湧いたのですか？","\n<Velvet>Are you getting attached to those succubi?"
+"\n<研究員1>いえ、そんなつもりは・・・","\n<Researcher 1>N-no, I didn't mean..."
 "\n<ベルーチェ>彼女達はディグニス様の仇だということをお忘れなきよう。
 いくら滑稽でも、人間の敵。
-人の形に近いだけの魔物に過ぎません。"
-"\n<研究員2>もちろん、分かっております。"
+人の形に近いだけの魔物に過ぎません。","\n<Velvet>Don't forget what these women did to Master Dignis.
+No matter how foolish they act, they are enemies of mankind.
+Even though they look like humans, they're monsters."
+"\n<研究員2>もちろん、分かっております。","\n<Researcher 2>Of course, I understand."
 "\n<ベルーチェ>いずれは捕獲して実験材料にするか、
 もしくは処分するのです。
-ブタに愛着を持てば、解体する時に手が止まってしまいますよ。"
+ブタに愛着を持てば、解体する時に手が止まってしまいますよ。","\n<Velvet>Eventually, we'll have to bring them in to experiment on,
+or otherwise dispose of them. If you get too attached to a pig,
+your hand will freeze up at the dissection table."
 "\n<研究員1>はい。大丈夫です。
-ご忠告ありがとうございます。"
+ご忠告ありがとうございます。","\n<Researcher 1>Yes, I'll be alright.
+Thank you for your advice."
 "\n<ベルーチェ>あぁ、良かったです♥
 お仕事が辛くなったらいつでも私にご相談くださいね。
-それでは、頑張ってください。"
-"ランプ"
-"ベルーチェ"
+それでは、頑張ってください。","\n<Velvet>Ahh, that's very good♥
+Please let me know any time you have difficulties
+with your work. Keep up the good work."
+"ランプ",""
+"ベルーチェ",""

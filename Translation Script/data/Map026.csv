@@ -1,116 +1,168 @@
-"自動実行"
-"EV002"
-"ミスト屋敷は崩壊している・・・"
-"アル/ロメ"
-"イベント実行"
-"\n<シィナ>・・・"
+"自動実行",""
+"EV002",""
+"ミスト屋敷は崩壊している・・・","The Misty Mansion is completely destroyed..."
+"アル/ロメ",""
+"イベント実行",""
+"\n<シィナ>・・・","\n<Shina>..."
 "\n<ライム>おうち・・・
-無くなっちゃった・・・"
-"\n<リリー>・・・"
-"\n<アーコ>でもさ、みんな無事でよかったよね！"
+無くなっちゃった・・・","\n<Lime>Our home...
+It's gone..."
+"\n<リリー>・・・","\n<Lily>..."
+"\n<アーコ>でもさ、みんな無事でよかったよね！","\n<Ako>But at least everyone got out safe!"
 "\n<ライム>・・・
-生き埋めよりはねー。"
-"\n<シィナ>得したのアーコだけにゃん。"
+生き埋めよりはねー。","\n<Lime>...
+It beats being buried alive-."
+"\n<シィナ>得したのアーコだけにゃん。","\n<Shina>Ako made out pretty well from all this, nyan."
 "\n<アルス>・・・
 魔物の研究か。
-ここまでして隠したいとは。"
+ここまでして隠したいとは。","\n<Alsto>...
+Monster research.
+They went this far to concel it."
 "\n<アルス>\n[1]、俺はギルドに戻って応援を呼んで来る。
-まだ何かやつらの手がかりが残っているはずだ。"
+まだ何かやつらの手がかりが残っているはずだ。","\n<Alsto>\n[1], I'll head back to the guild and call for support.
+They must have left some clues behind."
 "\n<アルス>それまでリリー達の見張りを頼むぞ。
 いいか？人が沢山来るからな。
-それまで、しっかり見張っているんだぞ。"
+それまで、しっかり見張っているんだぞ。","\n<Alsto>Keep an eye on Lily in the meantime, please.
+Understand? I'm coming back with a lot of people.
+Keep a close eye on them until then."
 "\n<アルス>もう一度言うぞ\n[1]。\.\.
-\{人が沢山来るからな。"
+\{人が沢山来るからな。","\n<Alsto>Let me repeat that once more, \n[1].\.\.
+\{I'm coming back with a LOT of people."
 "\n<ロメリア>魔物の研究・・・
-ここまでして隠さなきゃいけないことなの？"
+ここまでして隠さなきゃいけないことなの？","\n<Meria>Monster research...
+Did they really have to go this far to hide it?"
 "\n<ロメリア>うーん・・・
 ほとんど埋もれちゃったけど
-まだあいつらの手がかりが残ってるかもしれない。"
+まだあいつらの手がかりが残ってるかもしれない。","\n<Meria>Yeah...
+They nearly buried us all alive.
+They must have left some clues behind."
 "\n<ロメリア>あにき、私は先に帰ってギルドに報告してくる。
-人を集めて戻って来るから。"
+人を集めて戻って来るから。","\n<Meria>Brother, I'm going back to the guild to report this.
+I'll assemble a party and come back."
 "\n<ロメリア>それまでリリー達を見張ってて。
-私が戻って来るまで、油断しないでね。"
+私が戻って来るまで、油断しないでね。","\n<Meria>Keep an eye on Lily and the others for now.
+Don't let your guard down until I get back."
 "\n<ロメリア>分かった？\.\.
-\{人が沢山来るからね。"
+\{人が沢山来るからね。","\n<Meria>Did you hear me?\.\.
+\{I'm bringing a LOT of people back here."
 "\n<リリー>（それまでに逃げろってことね。
 はぁ・・・全く。
-兄妹そろって甘ちゃんなんだから。）"
+兄妹そろって甘ちゃんなんだから。）","\n<Lily>(So we need to get away from here before then.
+Hah... Honestly.
+Both you siblings are too soft for your own good.)"
 "\n<シィナ>聞いたにゃ？今の！
-人間食べ放題にゃ！"
-"\n<リリー>あんたはマジ空気読みなさいよ・・・"
+人間食べ放題にゃ！","\n<Shina>Did you hear that, nya? Just now!
+All-you-can-eat human buffet, nya!"
+"\n<リリー>あんたはマジ空気読みなさいよ・・・","\n<Lily>You've really gotta learn to read the room..."
 "\n<アーコ>じゃあ、私もついてく！
-サンタも待ってるだろうし。"
-"\n<アルス>じゃあ、またな。"
-"\n<ロメリア>じゃ、またね。"
-"\n<ライム>・・・"
+サンタも待ってるだろうし。","\n<Ako>I'll go with you then!
+Santa's probably waiting for me now."
+"\n<アルス>じゃあ、またな。","\n<Alsto>Alright, see you later."
+"\n<ロメリア>じゃ、またね。","\n<Meria>I'll see you soon."
+"\n<ライム>・・・","\n<Lime>..."
 "\n<シィナ>タバコ探して来るにゃ。
-潰れてなけりゃまだ吸えるし。"
+潰れてなけりゃまだ吸えるし。","\n<Shina>I'm gonna look for some cigarettes, nya.
+I can smoke it as long as it's not completely crushed."
 "\n<ライム>私もちょっと見て来るー。
-お砂糖だけでも残ってるといいなぁ。"
+お砂糖だけでも残ってるといいなぁ。","\n<Lime>I'll go have a look around too.
+Hopefully there's still a little sugar left."
 "\n<リリー>・・・
-\n[1]、こっち来て。"
-"主人公"
-"リリー"
-"アーコ"
-"ライム"
-"シィナ1"
+\n[1]、こっち来て。","\n<Lily>...
+\n[1], come over here."
+"主人公",""
+"リリー",""
+"アーコ",""
+"ライム",""
+"シィナ1",""
 "\n<リリー>えっと・・・
-その・・・"
-"\n<リリー>助けてもらったし、お礼ぐらいはさせて。"
+その・・・","\n<Lily>Errrm...
+Well..."
+"\n<リリー>助けてもらったし、お礼ぐらいはさせて。","\n<Lily>You helped us out, and I want to thank you for that."
 "\n<リリー>淫魔のお礼って言ったら、分かるでしょ。
-それぐらいしか今は返せないし、借りは作りたくないの。"
+それぐらいしか今は返せないし、借りは作りたくないの。","\n<Lily>You know how a succubus says thank you, right?
+That's all I have to offer you now. \nI don't want to owe you anything."
 "\n<リリー>溜まってるんでしょ。
-気持ちよくしてあげるから。"
+気持ちよくしてあげるから。","\n<Lily>You've been holding it all back.
+I can make you feel all better."
 "\n<\n[1]>いや、そんなのいいから
-ちんこ取って・・・"
+ちんこ取って・・・","\n<\n[1]>N-no, actually I'd prefer if you 
+made my penis go away..."
 "\n<リリー>分かった分かった。でもその前に。
 大丈夫。精気吸ったりはしないから。
-だから、ね。"
-"\n<\n[1]>いや、でも・・・"
+だから、ね。","\n<Lily>Alright, alright. But before that...
+Don't worry, I won't drain you.
+Promise."
+"\n<\n[1]>いや、でも・・・","\n<\n[1]>Wh-what? But..."
 "\n<リリー>大丈夫。
 精気吸ったりはしないから。
-だから、ね。"
+だから、ね。","\n<Lily>It's fine.
+I won't drain you.
+Promise."
 "\n<リリー>信じて。
 お願い。
-じゃないと、私の気持ちがおさまらない。"
+じゃないと、私の気持ちがおさまらない。","\n<Lily>Please.
+Trust me.
+Otherwise this feeling will never subside."
 "\n<リリー>・・・
 （最初から、騙して精気を奪うつもりだったけど・・・
-なんか、暴走してしまった。）"
+なんか、暴走してしまった。）","\n<Lily>...
+(I was planning to deceive you and drain your energy
+right from the start... But I took things too far.)"
 "\n<リリー>ふぅ・・・
 でも、これであいつらを元に戻せるわ。
-ありがと。"
-"\n<リリー>またね。\n[1]。"
-"・・・"
+ありがと。","\n<Lily>Phew...
+This should be enough to restore the others.
+Thanks."
+"\n<リリー>またね。\n[1]。","\n<Lily>See you later. \n[1]."
+"・・・","..."
 "\n<アルス>\n[1]！戻って来たぞ！
-\n[1]・・・"
-"\n<アルス>お、おい！大丈夫か！？"
+\n[1]・・・","\n<Alsto>\n[1]! I've returned!
+\n[1]..."
+"\n<アルス>お、おい！大丈夫か！？","\n<Alsto>H-hey! Are you ok!?"
 "\n<\n[1]>ち、\.ちんこ取ってくれるって・・・\.\.
-言ったのに・・・"
+言ったのに・・・","\n<\n[1]>She...\. Said she'd take away my penis...\.\.
+She promised..."
 "\n<アルス>く！あいつらめ・・・！
-次は見逃さないからな・・・！"
+次は見逃さないからな・・・！","\n<Alsto>Kuh! Those bitches...!
+They won't get away next time...!"
 "\n<ロメリア>あにきー！\.戻って来たよー！\.\.
-あに・・・"
-"\n<ロメリア>\{あにきー！！"
+あに・・・","\n<Meria>Brother-!\. I've come back-!\.\.
+Br..."
+"\n<ロメリア>\{あにきー！！","\n<Meria>\{BROTHER-!!"
 "\n<\n[1]>う、嘘つき・・・\.
 レベルは吸わないって・・・\.\.
-言ったのに・・・"
+言ったのに・・・","\n<\n[1]>Th-that liar...\.
+She said she...\.\.
+Wouldn't drain my energy..."
 "\n<ロメリア>あいつら・・・！！\.
-やっぱり退治しておくんだった・・・！！"
-"ティッキ"
-"<enemy:99>"
-"\n<メイド>ひぃ！！"
+やっぱり退治しておくんだった・・・！！","\n<Meria>Those jerks...!!\.
+I should've gotten them when I had the chance...!!"
+"ティッキ",""
+"<enemy:99>",""
+"\n<メイド>ひぃ！！","\n<Maid>Hiiiii!!"
 "\n<メイド>・・・！
 \n[1]様・・・！
-よくぞご無事で・・・"
+よくぞご無事で・・・","\n<Maid>...!
+Master \n[1]...!
+You're safe..."
 "\n<メイド>研究所・・・無くなっちゃいましたね。
 よかった・・・
-あんなもの、無い方がいいんです。"
+あんなもの、無い方がいいんです。","\n<Maid>The research lab... It's completely gone.
+It's better like this though... Something like
+that should have never existed."
 "\n<メイド>私はこれから冒険者ギルドに行って
 洗いざらい・・・今までのことを話すつもりです。
-この屋敷のことも・・・ベルーチェ様のことも・・・"
+この屋敷のことも・・・ベルーチェ様のことも・・・","\n<Maid>I'm heading to the adventurer's guild now.
+I'm going to tell them everything that's happened.
+About the mansion... About Velvet..."
 "\n<メイド>本当に・・・ありがとうございました・・・！
 やっと・・・解放されました。
-ここにはもう・・・戻りません。"
+ここにはもう・・・戻りません。","\n<Maid>Thank you so much... Truly...!
+I'm finally free..
+I'm never coming back here again."
 "\n<メイド>あ、私はティッキと申します。
 また・・・どこかでお会いできるといいですね。
-それでは・・・"
+それでは・・・","\n<Maid>Ah, my name is Tiki.
+I hope... We can meet again somewhere, someday.
+Until then..."
