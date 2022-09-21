@@ -31,6 +31,7 @@ You are free fork this translation using Github Desktop and edit it's contents t
 1. Please keep in mind that some lines are actually across two lines, so make sure to
 break them up accordiningly!
 2. Please add your translations to the right most **unused column** (in this case column D). This helps me import your contributions safely!
+**PLEASE DO NOT OVERWRITE ANY EXISTING TEXT IN THE .XLSX FILES, ONLY ADD!**
 3. Create a pull request with your fork. I will see it and merge it with the translation!
 
 
