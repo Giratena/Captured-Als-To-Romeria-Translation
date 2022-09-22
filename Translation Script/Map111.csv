@@ -1,12 +1,12 @@
 "自動実行","自動実行"
 "木材","Wood"
 " <enemy:149>"," <enemy:149>"
-"木材が通路を塞いでいる・・・","木材が通路を塞いでいる・・・"
+"木材が通路を塞いでいる・・・","A pile of wood blocks the passage..."
 "食糧庫ドア","食糧庫ドア"
 "シャンデリア","シャンデリア"
 "引っかけ場所","引っかけ場所"
 "<TE:立体起動>","<TE:立体起動>"
-"メイドの部屋の鍵を開けた！","メイドの部屋の鍵を開けた！"
+"メイドの部屋の鍵を開けた！","Unlocked the maid's room!"
 "メイドの部屋のようだ。
 鍵がかかっている・・・","This seems to be the Housemaid's room.
 It's locked tightly..."
@@ -15,86 +15,86 @@ It's locked tightly..."
 It seems to be closed shut by a magical power."
 "リリーを倒そう。
 最後の戦いになる。
-準備は出来ているだろうか・・・","リリーを倒そう。
-最後の戦いになる。
-準備は出来ているだろうか・・・"
+準備は出来ているだろうか・・・","Time to defeat Lily.
+This will be the final battle.
+Make sure you're completely prepared..."
 "はい","Yes"
 "いいえ","No"
-"\n<？？？>待って！","\n<？？？>待って！"
+"\n<？？？>待って！","\n<？？？>Wait!"
 "\n<アーコ>あたしは中立だよ。
 だから、どっちの味方でもないし、敵でもない。
-でもね。","\n<アーコ>あたしは中立だよ。
-だから、どっちの味方でもないし、敵でもない。
-でもね。"
+でもね。","\n<Ako>I'm a neutral party.
+So I'm not your ally, and I'm not your enemy.
+But..."
 "\n<アーコ>戦わないでほしい。
-って思ってる。","\n<アーコ>戦わないでほしい。
-って思ってる。"
+って思ってる。","\n<Ako>I don't want you to fight.
+Think about this."
 "\n<アーコ>勝手なことだって分かってる。
 リリーたちは人を襲う淫魔だし、悪いやつだよ。
-退治されてもしょうがない。","\n<アーコ>勝手なことだって分かってる。
-リリーたちは人を襲う淫魔だし、悪いやつだよ。
-退治されてもしょうがない。"
+退治されてもしょうがない。","\n<Ako>I know I’m being selfish.
+Lily and her succubi are bad guys that attack innocent people.
+I don't blame you for wanting to eliminate them."
 "\n<アーコ>でもね・・・
-あいつらが悪なら、あたしはどっち付かずの最悪なの。","\n<アーコ>でもね・・・
-あいつらが悪なら、あたしはどっち付かずの最悪なの。"
+あいつらが悪なら、あたしはどっち付かずの最悪なの。","\n<Ako>But...
+If those guys are bad, then I'm downright evil."
 "\n<アーコ>だから、あんたを襲う。今から。
 あたしに勝てないようならリリーには絶対勝てない。
-あたしが勝ったら、諦めて帰って。","\n<アーコ>だから、あんたを襲う。今から。
-あたしに勝てないようならリリーには絶対勝てない。
-あたしが勝ったら、諦めて帰って。"
+あたしが勝ったら、諦めて帰って。","\n<Ako>So I'm going to fight you. Right now.
+If you can't beat me, there's no way you'll defeat Lily.
+If I win, you'll go home right now."
 "\n<アーコ>というのは建前で、
 本当はムラムラしたから襲うんだけどね。
-お腹も空いたし。","\n<アーコ>というのは建前で、
-本当はムラムラしたから襲うんだけどね。
-お腹も空いたし。"
+お腹も空いたし。","\n<Ako>I really do mean what I said, but... I'm also
+attacking because I suddenly became incredibly horny.
+I'm hungry too."
 "\n<アーコ>あ、それとね！
 鍵、見つけちゃった。鉄格子の。
-あたしに勝ったらあげちゃう！おっけー？","\n<アーコ>あ、それとね！
-鍵、見つけちゃった。鉄格子の。
-あたしに勝ったらあげちゃう！おっけー？"
+あたしに勝ったらあげちゃう！おっけー？","\n<Ako>Oh, and something else!
+I found the keys. To the prison cells, I mean.
+You can have them if you win! Ok?"
 "\n<アーコ>じゃあ、えっちしよう！
-絶対負けないから！","\n<アーコ>じゃあ、えっちしよう！
-絶対負けないから！"
+絶対負けないから！","\n<Ako>Alright, let's fuck!
+I'm not gonna lose!"
 "\n<アーコ>あ・・・こ、腰が・・・♥
 力が入らない・・・♥
-くぅ・・・♥","\n<アーコ>あ・・・こ、腰が・・・♥
-力が入らない・・・♥
-くぅ・・・♥"
+くぅ・・・♥","\n<Ako>Ahhh... M-my hips...♥
+My power is fading...♥
+Kuuh...♥"
 "\n<アーコ>ごめん。
 もう邪魔しない。
-頑張って。気持ちよかった・・・","\n<アーコ>ごめん。
-もう邪魔しない。
-頑張って。気持ちよかった・・・"
+頑張って。気持ちよかった・・・","\n<Ako>I'm sorry.
+I won't interfere anymore.
+Good luck. You felt so good..."
 "\n<アーコ>ごちそーさま♥
 あー美味しかった。
-じゃ、帰ろう。","\n<アーコ>ごちそーさま♥
-あー美味しかった。
-じゃ、帰ろう。"
+じゃ、帰ろう。","\n<Ako>Thanks for that♥
+Ahh, that was tasty.
+Alright, time to go home."
 "\n<アーコ>大丈夫・・・？立てる？
 ちょっとやり過ぎちゃった♥
-ごめん。","\n<アーコ>大丈夫・・・？立てる？
-ちょっとやり過ぎちゃった♥
-ごめん。"
-"書庫の鍵を開けた！","書庫の鍵を開けた！"
+ごめん。","\n<Ako>Are you ok...? Can you stand?
+Guess I took things a little too far♥
+My bad."
+"書庫の鍵を開けた！","Unlocked the library!"
 "書庫のようだ。
 鍵がかかっている・・・","This seems to be the Library.
 It's locked tightly..."
 "豪華な鍵を使って
-館主の部屋を開けた！","豪華な鍵を使って
-館主の部屋を開けた！"
+館主の部屋を開けた！","Used the luxurious key.
+Unlocked the master's office!"
 "館主の部屋のようだ。
-鍵がかかっている・・・","This seems to be office of the household owner.
+鍵がかかっている・・・","This seems to be the master's office.
 It's locked tightly..."
-"バルコニーの鍵を開けた！","バルコニーの鍵を開けた！"
+"バルコニーの鍵を開けた！","Unlocked the balcony!"
 "この向こうはバルコニーのようだ。
 鍵がかかっている・・・
-外に出られればなんとかなるかもしれない。","この向こうはバルコニーのようだ。
-鍵がかかっている・・・
-外に出られればなんとかなるかもしれない。"
-"執事の部屋の鍵を開けた！","執事の部屋の鍵を開けた！"
+外に出られればなんとかなるかもしれない。","There seems to be a balcony on the other side.
+It's locked tightly...
+If you could get outside, you might be able to escape."
+"執事の部屋の鍵を開けた！","Unlocked the butler's room!"
 "執事の部屋のようだ。
-鍵がかかって開かない・・・","執事の部屋のようだ。
-鍵がかかって開かない・・・"
+鍵がかかって開かない・・・","This seems to be the butler's room.
+It's locked tightly..."
 "EV095","EV095"
 "EV096","EV096"
 "EV097","EV097"
@@ -103,15 +103,15 @@ It's locked tightly..."
 "イベント用アーコ","イベント用アーコ"
 "リリーの日記","リリーの日記"
 "リリーの日記
-知識VS直感","リリーの日記
-知識VS直感"
-"読んでみる","読んでみる"
-"やめておく","やめておく"
+知識VS直感","Lily's Diary
+Knowledge VS Instinct"
+"読んでみる","Read"
+"やめておく","Don't read"
 "報告書","報告書"
 "バルコニーの鍵を食糧庫内の倉庫で拾いました。
 近くの棚に置いておきます。
-誰が落としたのか知りませんが、鍵の管理には気を付けてください。","バルコニーの鍵を食糧庫内の倉庫で拾いました。
-近くの棚に置いておきます。
-誰が落としたのか知りませんが、鍵の管理には気を付けてください。"
-"EV103","EV103"
-"シャンデリアはフックショットがあれば渡れそうだ・・・","シャンデリアはフックショットがあれば渡れそうだ・・・"
+誰が落としたのか知りませんが、鍵の管理には気を付けてください。","I found the balcony key in the storeroom inside the pantry.
+I've placed it near the shelf. I don't know who dropped it,
+but please take better care of your keys."
+"EV103",
+"シャンデリアはフックショットがあれば渡れそうだ・・・","You could reach the chandelier if you had a hookshot..."

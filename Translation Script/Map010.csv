@@ -1,408 +1,594 @@
-"イベント実行",""
+"イベント実行",
 "没イベント没イベント没イベント没イベント没イベント没イベント
 没イベント没イベント没イベント没イベント没イベント没イベント
 没イベント没イベント没イベント没イベント没イベント没イベント
-没イベント没イベント没イベント没イベント没イベント没イベント",""
+没イベント没イベント没イベント没イベント没イベント没イベント",
 "\n<ライム>あうぅー・・・
-ここはどこ？",""
-"\n<シィナ>出せ！ぶっころすぞ！",""
-"\n<アルス>何なんだ一体・・・",""
-"\n<ロメリア>なんなの一体・・・",""
-"MP_SET_MOVIE e26_Ta",""
-"MP_SET_LOOP 20 on",""
+ここはどこ？","\n<Lime>Owwwww-...
+Where am I?"
+"\n<シィナ>出せ！ぶっころすぞ！","\n<Shina>Let me out! I'm gonna kill someone!"
+"\n<アルス>何なんだ一体・・・","\n<Alsto>What the hell..."
+"\n<ロメリア>なんなの一体・・・","\n<Meria>What in the world..."
+"MP_SET_MOVIE e26_Ta",
+"MP_SET_LOOP 20 on",
 "\n<ベルーチェ>手荒な真似をしてごめんなさい。
 わたくしはベルーチェと申します。
-当館のメイド長をしております。以後お見知りおきを。",""
+当館のメイド長をしております。以後お見知りおきを。","\n<Velvet>I apologize for your rough handling.
+My name is Velvet. I am the head maid of this manor.
+Pleased to meet you."
 "\n<ベルーチェ>単刀直入に申しますと、
 \n[1]様が越えてはいけない領域を越えてしまったので
-このような手段を取らせて頂きました。",""
+このような手段を取らせて頂きました。","\n<Velvet>Speaking bluntly, \n[1] has crossed
+a line that must not be crossed.
+We've taken these measures as a result."
 "\n<アルス>越えてはならない・・・
-どういうことだ？",""
+どういうことだ？","\n<Alsto>Must not be crossed...
+What does that mean?"
 "\n<ロメリア>あにきが・・・？
-言ってる意味が分からない。",""
+言ってる意味が分からない。","\n<Meria>Brother...?
+I don't understand what you mean."
 "\n<ベルーチェ>はぁ・・・・
 リリーを倒して素直に帰っていれば良かったものを・・・
-困ったことになりました。",""
-"\n<シィナ>アタシらをどうする気にゃ！",""
+困ったことになりました。","\n<Velvet>Sigh...
+It would have been better if they had defeated Lily and
+gone home. This is such a mess."
+"\n<シィナ>アタシらをどうする気にゃ！","\n<Shina>What are you gonna do to us, nya!"
 "\n<ベルーチェ>まぁまぁ、
-そんなに焦らないでくださいまし。",""
+そんなに焦らないでくださいまし。","\n<Velvet>Now now,
+Please don't be impatient."
 "\n<ベルーチェ>あなた方に紹介したい人がいます。
-入っていらっしゃい。",""
-"\n<？？？>・\.・\.・",""
-"\n<ライム>誰？",""
-"\n<？？？>・・・",""
+入っていらっしゃい。","\n<Velvet>There's someone I'd like to introduce you to.
+Come in now."
+"\n<？？？>・\.・\.・","\n<？？？>.\..\.."
+"\n<ライム>誰？","\n<Lime>Who are you?"
+"\n<？？？>・・・","\n<？？？>..."
 "\n<ライム>ねぇ？
-誰？",""
+誰？","\n<Lime>Well?
+Who are you?"
 "\n<ライム>誰なの？
-怖いよおッ！",""
+怖いよおッ！","\n<Lime>Who are you?
+You're scaring me!"
 "\n<ベルーチェ>誰だお前！
-あっちへ行け！",""
-"\n<ベルーチェ>チョコレ！おいでなさい。",""
-"MP_SET_MOVIE チョコレ立ち絵アニメ",""
+あっちへ行け！","\n<Velvet>Who are you!
+Get away!"
+"\n<ベルーチェ>チョコレ！おいでなさい。","\n<Velvet>Chocolat! Come in here."
+"MP_SET_MOVIE チョコレ立ち絵アニメ",
 "\n<チョコレ>天才美少女科学者のDr.チョコレれす。
-よろしくれす。",""
+よろしくれす。","\n<Chocolat>I'm Dr. Chocolat, the beautiful genius scientist.
+Nice to meet you."
 "\n<ライム>Dr.チョコレ？
-（淫魔・・・？）",""
-"\n<シィナ>バカみてぇな名前にゃ！",""
+（淫魔・・・？）","\n<Lime>Dr. Chocolat?
+(Is she a succubus...?)"
+"\n<シィナ>バカみてぇな名前にゃ！","\n<Shina>What a stupid name, nya!"
 "\n<ベルーチェ>チョコレ。
-皆さんに説明してあげて。",""
-"\n<チョコレ>はいママ。",""
-"\n<ベルーチェ>\}人前ではママって呼ばないで。",""
-"\n<チョコレ>れは、簡潔に説明します。",""
+皆さんに説明してあげて。","\n<Velvet>Chocolat.
+Tell everyone what's happening."
+"\n<チョコレ>はいママ。","\n<Chocolat>Yes, Mama."
+"\n<ベルーチェ>\}人前ではママって呼ばないで。","\n<Velvet>\}Don't call me Mama in public."
+"\n<チョコレ>れは、簡潔に説明します。","\n<Chocolat>Well then, I'll keep it brief."
 "\n<チョコレ>リリー達、そしてハンター兄妹。
 あなた達の行動は全て監視していました。
-もちろん、脱出ゲームのことも知っています。",""
+もちろん、脱出ゲームのことも知っています。","\n<Chocolat>Succubi, and hunter siblings.
+I've been monitoring your every move.
+Of course, I know all about the escape game."
 "\n<チョコレ>\n[1]が食べられようが、リリーが消滅しようが、
 私達にとっては、どちらでも良かったのれすが・・・
-ところがどっこい、ひとつ困ったことが起きたのれす。",""
+ところがどっこい、ひとつ困ったことが起きたのれす。","\n<Chocolat>If \n[1] was devoured, or if Lily was destroyed,
+either situation wouldn't have made a difference to us...
+However, a problem did arise."
 "\n<チョコレ>リリー達の日記を読んだ\n[1]が
-屋敷の秘密に気付いてしまった可能性がある。",""
-"\n<アルス>屋敷の秘密？",""
-"\n<ロメリア>屋敷の秘密？",""
+屋敷の秘密に気付いてしまった可能性がある。","\n<Chocolat>In reading Lily's diary, \n[1] is likely
+to have discovered this mansion's secret."
+"\n<アルス>屋敷の秘密？","\n<Alsto>The mansion's secret?"
+"\n<ロメリア>屋敷の秘密？","\n<Meria>The mansion's secret?"
 "\n<チョコレ>ここは魔物を研究するための施設。
-表の屋敷は、それを隠すためのカモフラージュだということ。",""
+表の屋敷は、それを隠すためのカモフラージュだということ。","\n<Chocolat>This is an institute for researching monsters.
+The mansion on the surface is merely a front to camoflauge it."
 "\n<チョコレ>よって、このまま帰すわけにはいかなくなったのれす。
 つまり、あなた達は\n[1]とリリーをおびき寄せる為の人質。
-というワケれすね。",""
+というワケれすね。","\n<Chocolat>Therefore, I couldn't allow you to return home.
+So I've taken you hostage to lure \n[1] and Lily here.
+That's about it."
 "\n<チョコレ>分かりました？
 分からなくても二度は説明しませんよ。
-時間の無駄なのれ。",""
+時間の無駄なのれ。","\n<Chocolat>Do you understand?
+If you don't, I'm not explaining a second time.
+I've already wasted enough time."
 "\n<アルス>魔物の研究・・・？
-何のために。",""
+何のために。","\n<Alsto>Monster research...?
+But what for?"
 "\n<ロメリア>魔物の研究？
-なんでそんなこと。",""
+なんでそんなこと。","\n<Meria>Monster research?
+Why would you do that?"
 "\n<チョコレ>それは私が考えることれはありません。
 私はただ研究するだけ。
-何をするかは私より頭の悪い人が考えること。",""
+何をするかは私より頭の悪い人が考えること。","\n<Chocolat>That's not my concern.
+I'm here to research. Someone dumber
+than me can make use of my findings."
 "\n<チョコレ>好奇心は何よりも尊い感情れす。
-情報は空気よりありふれて、ダイヤモンドより価値がある。",""
+情報は空気よりありふれて、ダイヤモンドより価値がある。","\n<Chocolat>Curiosity is the most precious emotion.
+Information is more abundant than air, \nand more valuable than diamonds."
 "\n<ライム>監視してたって・・・
-今までずっと私たちのこと見てたのー？",""
+今までずっと私たちのこと見てたのー？","\n<Lime>Monitoring us...
+Have you been watching us this entire time?"
 "\n<ベルーチェ>ええ。見てましたよ。
 あなた達の仲良しごっこも。
-くすくす♥",""
+くすくす♥","\n<Velvet>Yes. We've seen it all.
+You act like such good friends.
+Tee hee♥"
 "\n<チョコレ>ちなみに魔力も集めさせて貰ってました。
 気付かれないように毎日少しずつ。
-研究に大いに役立ちました。",""
-"\n<アルス>プライベートを覗き見るとは悪趣味なやつらだな。",""
+研究に大いに役立ちました。","\n<Chocolat>By the way, I've been gathering your magic power.
+Little by little every day so you wouldn't notice.
+It's been a magnificent help for my research."
+"\n<アルス>プライベートを覗き見るとは悪趣味なやつらだな。","\n<Alsto>You're all awful for peering into their private lives."
 "\n<ロメリア>全部あんた達の計画のうちだったってコト？
-ムカツク・・・",""
-"\n<シィナ>お前ら覚悟してろにゃ・・・",""
+ムカツク・・・","\n<Meria>So this is all going according to your plan?
+I feel sick..."
+"\n<シィナ>お前ら覚悟してろにゃ・・・","\n<Shina>You guys better watch your backs, nya..."
 "\n<チョコレ>さてと、\n[1]とリリーがここに来るまで
 実験に付き合って貰います。
-死にはしないので安心してくらさい。",""
+死にはしないので安心してくらさい。","\n<Chocolat>Now, while we wait for \n[1] and Lily to get here,
+we'll run some experiments.
+Don't worry, nobody is going to die."
 "\n<チョコレ>ビリっと来たら教えてくらさい。
-じゃぁ、流しますね。",""
+じゃぁ、流しますね。","\n<Chocolat>Please let me know if you feel a shock.
+Here we go."
 "\n<シィナ>はっ！
 そんなの淫魔に効くわけないにゃん。
-バカにゃ。",""
+バカにゃ。","\n<Shina>Ha!
+There's no way that would work on a succubus, nyan.
+Moron, nya."
 "\n<チョコレ>ほぇ～・・・
 やっぱり猫ちゃんの姿になっても淫魔のままなんれすね。
-元の動物に戻ったわけではないと。",""
+元の動物に戻ったわけではないと。","\n<Chocolat>Ho ho～...
+Even though you appear to be a cat, you are indeed still a succubus.
+You didn't revert back into a wild animal."
 "\n<シィナ>痛くも痒くもないし。
-舐めんにゃ。",""
-"\n<チョコレ>じゃあ今度はちょっと弱くして流します。",""
-"\n<シィナ>はにゃぁん！",""
+舐めんにゃ。","\n<Shina>I didn't feel a thing.
+Don't look down on me, nya."
+"\n<チョコレ>じゃあ今度はちょっと弱くして流します。","\n<Chocolat>Then we'll turn it down just a pinch this time."
+"\n<シィナ>はにゃぁん！","\n<Shina>Nyaaaaahhh!"
 "\n<シィナ>な、何をしたし・・・
-はぁ・・・はぁ・・・",""
+はぁ・・・はぁ・・・","\n<Shina>Wh-what just...
+Hah... Hah..."
 "\n<チョコレ>性的に気持ちいいところに弱い電気を流しました。
-なるほど、これなら淫魔にも効果がありそうですね。",""
-"\n<シィナ>んにゃぁぁぁ！",""
-"\n<アルス>おい！やめろ！",""
+なるほど、これなら淫魔にも効果がありそうですね。","\n<Chocolat>I sent a weak electric impulse to one of your sensitive spots.
+Interesting, so this does affect succubi as well."
+"\n<シィナ>んにゃぁぁぁ！","\n<Shina>Nyaaaah!"
+"\n<アルス>おい！やめろ！","\n<Alsto>Hey! Stop this!"
 "\n<ロメリア>ちょっと！やめなよ！
-この人でなし！",""
+この人でなし！","\n<Meria>Wait! Please stop!
+This is too cruel!"
 "\n<ライム>シィナ！
-シィナ大丈夫！？",""
+シィナ大丈夫！？","\n<Lime>Shina!
+Shina, are you alright!?"
 "\n<ベルーチェ>あらあら。
 あなた達も後で遊んであげますからね。
-お静かになさって♥",""
-"\n<シィナ>ぶっ殺す！",""
-"\n<シィナ>にゃひっ！",""
+お静かになさって♥","\n<Velvet>Ara ara.
+We'll play with you two a little later.
+Please keep quiet until then♥"
+"\n<シィナ>ぶっ殺す！","\n<Shina>You're fucking dead!"
+"\n<シィナ>にゃひっ！","\n<Shina>Nyahaaaa!"
 "\n<チョコレ>ふむふむ・・・
-実に興味深い。",""
-"\n<シィナ>んにゃぁぁぁぁ！",""
+実に興味深い。","\n<Chocolat>Hmmm...
+How fascinating."
+"\n<シィナ>んにゃぁぁぁぁ！","\n<Shina>Nyaaaaaahh!"
 "\n<チョコレ>それでは、スラミーさん。
 どれだけ身体を分割できるか
-ちぎって確かめてみましょう。",""
+ちぎって確かめてみましょう。","\n<Chocolat>Now then, Ms. Slimy.
+How many times can your body divide?
+We're going to tear you to pieces and find out."
 "\n<ライム>えっ！！
-やだやだ！やめて！",""
+やだやだ！やめて！","\n<Lime>What!!
+No, no! Please don't!"
 "\n<シィナ>やめろ！！
 ライムに手を出すにゃ！！
-殺すぞ！！！",""
+殺すぞ！！！","\n<Shina>Stop it!!
+Get your hands off of Lime, nya!!
+I'm gonna kill you!!!"
 "\n<チョコレ>ふーむ。
 普通のスラミーと同じであれば
-恐らく核のようなものがあると思うのれすが・・・",""
+恐らく核のようなものがあると思うのれすが・・・","\n<Chocolat>Hmmm.
+If you're anything like a normal slimy, you've probably got
+a nucleus somewhere..."
 "\n<チョコレ>あ、普通のスラミーは核を傷付けると死にますが
 あなたは淫魔なのれ大丈夫だと思います。
-安心してくらさい。",""
+安心してくらさい。","\n<Chocolat>Ah, but if a normal slimy's nucleus is damaged,
+then they die. You'll probably be fine since you're a succubus.
+Don't worry about a thing."
 "\n<ライム>怖いよぉ～！！
-ふぇぇぇぇ・・・",""
-"\n<シィナ>やめろ！",""
-"\n<アルス>この人でなし共が・・・",""
-"\n<ロメリア>最低・・・！",""
-"\n<アルス>うっ・・・！",""
-"\n<ロメリア>はっ・・・！ぁ・・・！！",""
+ふぇぇぇぇ・・・","\n<Lime>I'm scared～!!
+Eeeeeeeek..."
+"\n<シィナ>やめろ！","\n<Shina>Stop that!"
+"\n<アルス>この人でなし共が・・・","\n<Alsto>You've got no morals..."
+"\n<ロメリア>最低・・・！","\n<Meria>How horrible...!"
+"\n<アルス>うっ・・・！","\n<Alsto>Uhhnn...!"
+"\n<ロメリア>はっ・・・！ぁ・・・！！","\n<Meria>Hah...! Aaah...!!"
 "\n<ベルーチェ>うふふ♥
 催淫ガスが効いてきたみたいですね。
-立っているのがやっとのよう。",""
+立っているのがやっとのよう。","\n<Velvet>Ufufu♥
+It seems the aphrodisiac gas is working.
+You can barely remain standing."
 "\n<チョコレ>実験終わりれす。
-お疲れ様れした。",""
+お疲れ様れした。","\n<Chocolat>The experiment is now over.
+Thanks for your cooperation."
 "\n<ライム>ふぇぇぇ～・・・
-何ともなかったぁ～・・・",""
-"\n<チョコレ>次は塩分濃度を高める実験れす。",""
-"\n<ライム>えっ！？",""
+何ともなかったぁ～・・・","\n<Lime>Fweeeehh～...
+That was nothing～..."
+"\n<チョコレ>次は塩分濃度を高める実験れす。","\n<Chocolat>In this next experiment, \nwe'll increase your salt content."
+"\n<ライム>えっ！？","\n<Lime>Ehh!?"
 "\n<ライム>あぁぁぁ～！
-しょっぱい～～～～！！",""
-"\n<シィナ>遅いにゃ！",""
+しょっぱい～～～～！！","\n<Lime>Aaaaahhh～!
+So salty～～～～!!"
+"\n<シィナ>遅いにゃ！","\n<Shina>You're late, nya!"
 "\n<ライム>リリー！
 \n[1]～・・・・！
-ふえぇぇぇぇ・・・",""
+ふえぇぇぇぇ・・・","\n<Lime>Lily-!
+\n[1]～...!
+Heeeeeeeehhh..."
 "\n<リリー>助けに来たわよ！
-全く、世話が焼けるわね。",""
+全く、世話が焼けるわね。","\n<Lily>We're here to save you!
+We just have to quickly take care of something."
 "\n<\n[1]>あにき・・・！
-大丈夫！？",""
+大丈夫！？","\n<\n[1]>Alsy...!
+Are you ok!?"
 "\n<\n[1]>ロメリア・・・！
-無事か！？",""
+無事か！？","\n<\n[1]>Meria...!
+Are you hurt!?"
 "\n<アルス>はぁ・・・\.はぁ・・・\.
-\n[1]・・・",""
+\n[1]・・・","\n<Alsto>Hah...\. Hah...\.
+\n[1]..."
 "\n<ロメリア>はぁ・・・\.はぁ・・・\.
 あにき・・・\.
-やっぱり来てくれた・・・",""
+やっぱり来てくれた・・・","\n<Meria>Hah...\. Hah...\.
+Brother...\.
+I knew you'd come..."
 "\n<ベルーチェ>お待ちしておりました。\n[1]様。リリー様。
 わたくしはベルーチェ。
-屋敷のメイド長をしております。",""
+屋敷のメイド長をしております。","\n<Velvet>I've been expecting you. Ms. Lily. \n[1].
+My name is Velvet.
+I am the head maid of this estate."
 "\n<チョコレ>Dr.チョコレれす。
-ここで魔物の研究をしてます。",""
+ここで魔物の研究をしてます。","\n<Chocolat>I'm Dr. Chocolat.
+I research monsters here."
 "\n<リリー>チョコレ？
 バカみたいな名前ね。
-（淫魔・・・？）",""
+（淫魔・・・？）","\n<Lily>Chocolat?
+What a stupid name.
+(Is she a succubus...?)"
 "\n<リリー>こっちの自己紹介は要らないわよね。
 良く知っているでしょ。
-覗きが趣味の変態だもの。",""
+覗きが趣味の変態だもの。","\n<Lily>You don't need to introduce yourselves.
+I know exactly who you are.
+You're the creeps who have been spying on us."
 "\n<ベルーチェ>ええ、よく存じ上げております。
-想定通りのお返事ですね。",""
+想定通りのお返事ですね。","\n<Velvet>Mm, I know you well.
+I expected you to say something like that."
 "\n<チョコレ>わぁ！画面越しではなく
 直接見るのは初めてなので、何だか不思議れす。
-まるで本の登場人物に会ったよう。",""
+まるで本の登場人物に会ったよう。","\n<Chocolat>Woah! This is weird. It's the first time
+I'm seeing you outside of a TV screen.
+It's like I'm meeting a storybook character."
 "\n<リリー>一方的に知られているのはいい気しないわ。
-気持ち悪い。",""
+気持ち悪い。","\n<Lily>I don't appreciate this one-sided relationship.
+It's so creepy."
 "\n<チョコレ>始めましてリリーさん。
 改めてお伝えしますが、
-あなた達の生活はずっと監視させて貰っていました。",""
+あなた達の生活はずっと監視させて貰っていました。","\n<Chocolat>It's so nice to meet you, Ms. Lily.
+Like we said before, we've been observing your entire life
+for a very long time now."
 "\n<チョコレ>淫魔の生態や秘密が
-何か分かるかもしれないと思っていたのれすが・・・",""
+何か分かるかもしれないと思っていたのれすが・・・","\n<Chocolat>I thought that I would learn all sorts of secrets
+and things about succubus ecology, but..."
 "\n<チョコレ>毎日毎日、だらだらだらだらと過ごすだけ。
 寝て、食べて、遊んで、ケンカして、お風呂に入って寝る。
-はっきり言って時間の無駄れした。",""
+はっきり言って時間の無駄れした。","\n<Chocolat>Day in and day out, I just watched you loaf around.
+You sleep, eat, play, argue, take baths, and go back to sleep.
+Frankly, it felt like a massive waste of time."
 "\n<リリー>・・・","\n<Lily>..."
 "\n<ベルーチェ>淫魔の仲良しごっこなんて
 見物しても、得るものはありませんでしたね。
-何の価値もない。",""
+何の価値もない。","\n<Velvet>We gained nothing from watching you
+three little succubi fooling around.
+You were utterly worthless."
 "\n<ベルーチェ>いえ、人のふりをした魔物に不快感すら覚えます。
-ゴミ箱の中を覗き込んでいるのと同じでした。",""
+ゴミ箱の中を覗き込んでいるのと同じでした。","\n<Velvet>No, it was actually quite disturbing watching three monsters
+pretending that they were human. It felt like staring into a dumpster."
 "\n<リリー>・・・！
-私達の生活を勝手に覗き見て、ゴミ扱いするの・・・！",""
+私達の生活を勝手に覗き見て、ゴミ扱いするの・・・！","\n<Lily>...!
+You spied on our lives, and you dare to compare us to trash...!"
 "\n<ベルーチェ>ゴミ扱いしているのではありません。\.\.
-ゴミだと申し上げているのです。",""
-"\n<リリー>\{ゴ\.ミ\.じ\.ゃ\.な\.いーーー！！",""
+ゴミだと申し上げているのです。","\n<Velvet>Oh, I'm not comparing you to garbage.\.\.
+I'm telling you that you're garbage."
+"\n<リリー>\{ゴ\.ミ\.じ\.ゃ\.な\.いーーー！！","\n<Lily>\{WE\. ARE\. NOT\. GAR\.-BA\.-GE---!!"
 "\n<ベルーチェ>そう。
 あと一歩、前に出てきてほしかったのです。
-ありがとうございます。",""
+ありがとうございます。","\n<Velvet>There.
+I just needed you to take one more step forward.
+Thank you for cooperating."
 "\n<リリー>くそ！！！
-卑怯者！！！",""
+卑怯者！！！","\n<Lily>Shit!!!
+You coward!!!"
 "\n<シィナ>何あっさり捕まってるにゃ！
-アホ！",""
-"\n<ライム>リリー！！",""
+アホ！","\n<Shina>How'd you get yourself caught so easily, nya!
+You dumbass!"
+"\n<ライム>リリー！！","\n<Lime>Lily-!!"
 "\n<チョコレ>さて、あとは\n[1]だけれす。
-でもまだチャンスはありますよ。",""
+でもまだチャンスはありますよ。","\n<Chocolat>Now, that just leaves \n[1].
+But you've still got a chance."
 "\n<チョコレ>ここまで淫魔を沢山倒してきたハンターさん♥
 唯一淫魔にダメージを与えられる攻撃・・・
-快楽を私に教えてくらさい。",""
+快楽を私に教えてくらさい。","\n<Chocolat>The little hunter who's defeated so many succubi♥
+There's only one thing that can harm a succubus...
+Teach me all of your pleasure attacks."
 "\n<チョコレ>さぁ、あなたに私を絶頂させることが出来ますか？
-くすくす♥",""
+くすくす♥","\n<Chocolat>Can you bring me to orgasm?
+Tee hee♥"
 "\n<\n[1]>大丈夫。後は任せて、リリー。
-私がコイツを倒す。",""
+私がコイツを倒す。","\n<\n[1]>Fine then. Leave this to me, Lily.
+I'll take care of her."
 "\n<\n[1]>リリー、後は任せろ。
-俺が何とかする。",""
-"\n<リリー>でも・・・！",""
+俺が何とかする。","\n<\n[1]>Lily, leave it to me.
+I'll handle this one."
+"\n<リリー>でも・・・！","\n<Lily>But...!"
 "\n<\n[1]>ゴミじゃないのは日記を読んだ私が知ってる。
-絶対、みんなを助けるから。",""
+絶対、みんなを助けるから。","\n<\n[1]>I read your diaries. I know you're not garbage.
+I will absolutely save you all."
 "\n<\n[1]>ゴミじゃないことは日記を読んだ俺が分かってる。
-後は任せろ。",""
+後は任せろ。","\n<\n[1]>I've read your diaries, and I know you're not garbage.
+Leave everything to me."
 "\n<リリー>・・・
 覗き魔ばっかりじゃない。
-プライバシーはどこに行ったのよ。プライバシーは。",""
-"\n<リリー>はぁ・・・",""
+プライバシーはどこに行ったのよ。プライバシーは。","\n<Lily>...
+I'm surrounded by peeping toms.
+You ever heard of privacy, huh? Privacy?"
+"\n<リリー>はぁ・・・","\n<Lily>Hahh..."
 "\n<リリー>まぁいいわ。
-\n[1]。頼んだわよ。",""
+\n[1]。頼んだわよ。","\n<Lily>I'll let you off this time.
+\n[1]. I'm counting on you."
 "\n<シィナ>\n[1]！
 お前の事は嫌いにゃ！
-でも後でご褒美あげるにゃん！",""
+でも後でご褒美あげるにゃん！","\n<Shina>\n[1]!
+I hate you, nya!
+But I'll give you a reward later, nyan!"
 "\n<ライム>\n[1]・・・！
-頑張ってー！！",""
+頑張ってー！！","\n<Lime>\n[1]...!
+You can do it-!!"
 "\n<ロメリア>ばーか！ちーび！
-あにきに負けてアヘ顔晒せ！",""
+あにきに負けてアヘ顔晒せ！","\n<Meria>Dummy! Shortstack!
+Show my brother your O face!"
 "\n<リリー>さぁ！やっておしまい！
-精奴隷の力を見せつけるのよ！",""
-"戦う",""
-"準備をする",""
-"\n<チョコレ>では、邪魔が入らないようにしましょう。",""
+精奴隷の力を見せつけるのよ！","\n<Lily>Now! Finish her!
+Show her the power of my semen slave!"
+"戦う","Battle"
+"準備をする","Prepare"
+"\n<チョコレ>では、邪魔が入らないようにしましょう。","\n<Chocolat>Now, let's give ourselves some privacy."
 "\n<チョコレ>わぁ♥
 私、これからどんなえっちなことされるんれしょうか♥
-わくわくします♥ごくり・・・♥",""
+わくわくします♥ごくり・・・♥","\n<Chocolat>Wowww♥
+What kinda sexy things are about to happen to me♥
+I’m simply trembling♥ Gulp...♥"
 "\n<チョコレ>それとも、\n[1]さんが
-一方的に私にいじめられるだけになるかもしれませんが・・・",""
+一方的に私にいじめられるだけになるかもしれませんが・・・","\n<Chocolat>Or perhaps I'll end up being the one
+bullying \n[1]..."
 "\n<チョコレ>情けなくぴゅっぴゅしちゃうところ、
 見られないように頑張らなきゃれすね。
-くすくす♥",""
+くすくす♥","\n<Chocolat>You'd better try your hardest. Don't let all
+these ladies see you squirting pathetically.
+Tee hee♥"
 "\n<チョコレ>あっ♥あっ♥あっ♥
 凄いれす・・・♥
-はぁ・・・はぁ・・・♥",""
+はぁ・・・はぁ・・・♥","\n<Chocolat>Ahn♥ Ahn♥ Ahn♥
+Incredible...♥
+Hah... Hah...♥"
 "\n<チョコレ>もっと・・・♥
 もっとして欲しいれす・・・♥
-うひひひ♥",""
+うひひひ♥","\n<Chocolat>More...♥
+I want some more...♥
+Uheeheehee♥"
 "\n<チョコレ>もっかい・・・♥
 もっかいしてくらさい♥
-勝負♥勝負♥えへへへ♥",""
+勝負♥勝負♥えへへへ♥","\n<Chocolat>One more...♥
+Please, one more time♥
+Let's fight♥ Let's fight♥ Eheeheehee♥"
 "\n<ベルーチェ>く・・・
 なんてやつ・・・！
-このわたくしが負けるなんて・・・",""
+このわたくしが負けるなんて・・・","\n<Velvet>Kuh...
+How dare you...!
+How could I lose..."
 "\n<チョコレ>もう無理れす・・・
-あうぅ・・・",""
+あうぅ・・・","\n<Chocolat>No more...
+Owwww..."
 "\n<ベルーチェ>はっ！
 でもこちらにはまだ人質がいるのよ。
-\n[1]、立場を分かっているのかしら。",""
+\n[1]、立場を分かっているのかしら。","\n<Velvet>Ha!
+We've still got our hostages though.
+\n[1], surely you realize the situation you're in."
 "\n<リリー>往生際が悪いわね！
-素直に負けを認めなさいよ！",""
+素直に負けを認めなさいよ！","\n<Lily>You just don't know when to quit!
+Accept your defeat!"
 "\n<ベルーチェ>見なさい。
 このスイッチで実験室の設備をコントロールできるの。
-扉を開けて解放することもできるし・・・",""
-"\n<ベルーチェ>爆破して生き埋めにすることもできる。",""
-"\n<アルス>この卑怯者・・・！！",""
-"\n<ロメリア>なんてやつ・・・！！",""
+扉を開けて解放することもできるし・・・","\n<Velvet>Look here.
+This switch controls all the equipment in this lab.
+You could open the doors and release everyone..."
+"\n<ベルーチェ>爆破して生き埋めにすることもできる。","\n<Velvet>You could also blow it all up, burying us all alive."
+"\n<アルス>この卑怯者・・・！！","\n<Alsto>You bastard...!!"
+"\n<ロメリア>なんてやつ・・・！！","\n<Meria>How could you...!!"
 "\n<ベルーチェ>さぁ、大人しく私達に捕まりなさい。
-初めからアナタの勝ちは無かったのです。",""
+初めからアナタの勝ちは無かったのです。","\n<Velvet>Now, be good and submit to us.
+You never stood a chance in the first place."
 "\n<チョコレ>そ、そうれした。
 最後の手段はとっておき。最後にとっておくもの。
-初めから手のひらでコロコロしてたのれす。",""
-"\n<ベルーチェ>おほほほほほ！！",""
-"\n<チョコレ>くひひひひひ！！",""
-"\n<ベルーチェ＆チョコレ>おほほほほほほほほ！！",""
+初めから手のひらでコロコロしてたのれす。","\n<Chocolat>Th-That's right. This is our trump card.
+Something we saved until the end.
+We've been holding onto this right from the start."
+"\n<ベルーチェ>おほほほほほ！！","\n<Velvet>Ohohohohoho!!"
+"\n<チョコレ>くひひひひひ！！","\n<Chocolat>Kuhihihihihi!!"
+"\n<ベルーチェ＆チョコレ>おほほほほほほほほ！！","\n<Velvet & Chocolat>Ohohohohohohoho!!"
 "\n<アーコ>悪いヤツはすぐ爆破したがるって
-お父さんが言ってた！本当だ！",""
-"\n<シィナ>アーコ！！",""
+お父さんが言ってた！本当だ！","\n<Ako>Father warned me some bad guys were gonna
+blow up the lab! It was true!"
+"\n<シィナ>アーコ！！","\n<Shina>Ako!!"
 "\n<チョコレ>しまった！
-すっかり忘れてました！",""
+すっかり忘れてました！","\n<Chocolat>Oh no!
+I completely forget about her!"
 "\n<アーコ>こんな機械で色々出来るのか。
-ふーん・・・凄いなぁ。",""
-"\n<ベルーチェ>そ、それを返しなさい・・・！",""
+ふーん・・・凄いなぁ。","\n<Ako>What can this machine do.
+Hmmm... Amazing."
+"\n<ベルーチェ>そ、それを返しなさい・・・！","\n<Velvet>Y-You give that back...!"
 "\n<ベルーチェ>あなたは確か、アーコちゃんね！
-お金が大好き！そうでしょ？",""
+お金が大好き！そうでしょ？","\n<Velvet>You must be Ako!
+You love money! Isn't that right?"
 "\n<ベルーチェ>ほら！
 そのスイッチを買い取るわ！
-それを返しなさい！",""
+それを返しなさい！","\n<Velvet>Hey!
+Allow me to buy the switch!
+Give it here!"
 "\n<アーコ>えっ！？お金くれるの！？
-やったー！！",""
-"\n<アルス>おい！！",""
-"\n<ロメリア>ちょっと！？",""
-"\n<アーコ>すごい！いっぱいある！！",""
-"\n<アーコ>ひー・・・ふー・・・みー・・・",""
+やったー！！","\n<Ako>Eh!? You'll give me money!?
+I like the sound of that-!!"
+"\n<アルス>おい！！","\n<Alsto>Hey!!"
+"\n<ロメリア>ちょっと！？","\n<Meria>Seriously!?"
+"\n<アーコ>すごい！いっぱいある！！","\n<Ako>Woah! There's so much here!!"
+"\n<アーコ>ひー・・・ふー・・・みー・・・","\n<Ako>One-... Two-... Three-..."
 "\n<ベルーチェ>50万Gよ！
 贅沢もせずにコツコツ貯めてきたわたくしの貯金・・・！
-その全て！",""
-"\n<アーコ>ごごごごじゅうまん！？",""
+その全て！","\n<Velvet>That's 500 thousand G!
+I've been hoarding my savings without ever spending it...!
+That's all of it!"
+"\n<アーコ>ごごごごじゅうまん！？","\n<Ako>Fu-fu-fu-fu-five hundred thousand!?"
 "\n<ベルーチェ>さ、さぁ！
 お金は渡したわよ！
-早く！そのスイッチを返しなさい・・・！",""
-"\n<アーコ>なんで？",""
-"\n<ベルーチェ>え・・・",""
+早く！そのスイッチを返しなさい・・・！","\n<Velvet>Y-yes!
+Now I gave you the money!
+Hurry up! Hand over the switch..."
+"\n<アーコ>なんで？","\n<Ako>Why?"
+"\n<ベルーチェ>え・・・","\n<Velvet>Ehh..."
 "\n<ベルーチェ>なんでって・・・
-お金を渡したじゃない。",""
+お金を渡したじゃない。","\n<Velvet>What do you mean, why...
+I gave you the money, didn't I?"
 "\n<アーコ>お金よりみんなの方が大事だもん。
-当たり前じゃん。",""
-"\n<ベルーチェ>じゃあお金返しなさいよ！",""
+当たり前じゃん。","\n<Ako>My friends are more important than money.
+That should be obvious."
+"\n<ベルーチェ>じゃあお金返しなさいよ！","\n<Velvet>Then give me my money back!"
 "\n<ベルーチェ>商売の基本よ！！
 お金を受け取ったのなら品物を渡しなさい！！
-それが大前提！イロハのイ！",""
-"\n<アーコ>商売の基本は信用だよ。",""
+それが大前提！イロハのイ！","\n<Velvet>That's just basic commerce!!
+I gave you my money, so hand over the goods!!
+That's the whole premise! Business 101!"
+"\n<アーコ>商売の基本は信用だよ。","\n<Ako>Reputation is the basic premise of business."
 "\n<アルス>信用がないならそもそも取引じゃないってことか。
-基本を知らなかったのはお前のようだな。",""
+基本を知らなかったのはお前のようだな。","\n<Alsto>With no reputation, you shouldn't have made a \ndeal in the first place.
+I guess you didn't know the basics of business after all."
 "\n<ロメリア>信用がないなら取引じゃないね。
-寄付かな？",""
-"\n<ベルーチェ>\{このクソガキ共がぁーッ！！！",""
-"\n<ベルーチェ>はぁ・・・\.はぁ・・・",""
+寄付かな？","\n<Meria>Without a reputation, you shouldn't make a deal.
+I suppose that was more of a donation?"
+"\n<ベルーチェ>\{このクソガキ共がぁーッ！！！","\n<Velvet>\{YOU FUCKING BRATS!!!"
+"\n<ベルーチェ>はぁ・・・\.はぁ・・・","\n<Velvet>Hah...\. Hah..."
 "\n<チョコレ>\}ママ・・・
-もっと時間を稼いでくらさい。",""
-"\n<ベルーチェ>・・・！",""
+もっと時間を稼いでくらさい。","\n<Chocolat>\}Mama...
+Buy me a little time..."
+"\n<ベルーチェ>・・・！","\n<Velvet>...!"
 "\n<ベルーチェ>わたくしとしたことが取り乱してしまいました。
 はしたないところをお見せしましたわ。
-申し訳ありません。",""
+申し訳ありません。","\n<Velvet>I lost my temper there. How unlike me.
+I wish you hadn't seen that.
+Please accept my apologies."
 "\n<ベルーチェ>わたくし達の負けです。
 素直に認めましょう。
-完全に想定外でした。",""
+完全に想定外でした。","\n<Velvet>You won fair and square.
+I admit it.
+You took us completely by surprise."
 "\n<ベルーチェ>リリー様、最後に御聞かせ願えますか？\.\.
 わたくしは、淫魔はプライドが高く
-単独で行動する生き物だとばかり思っていました。",""
+単独で行動する生き物だとばかり思っていました。","\n<Velvet>Lily, may I ask you one last question?\.\.
+I had always believed that succubi were
+prideful, solitary creatures."
 "\n<ベルーチェ>それが、淫魔の分際で仲間想いだなんて。
-仲間の為に人間に助けを求めるなんて。",""
+仲間の為に人間に助けを求めるなんて。","\n<Velvet>I thought it was beneath a succubus to care about others.
+And yet you've asked a human for help to rescue your friends."
 "\n<ベルーチェ>何故あなたはそこまで落ちぶれたのでしょう。
-凄く無様だとは思いませんか？",""
+凄く無様だとは思いませんか？","\n<Velvet>How could you sink so low?
+Don't you feel filthy right now?"
 "\n<リリー>そうね。淫魔はプライドが高く、孤高で、
 何にも縛られない自由な生き物よ。
-それが普通でそれが正しい。",""
+それが普通でそれが正しい。","\n<Lily>You are correct. Succubi are proud,
+independant beings, who keep to themselves.
+Normally, you'd be correct to say that."
 "\n<リリー>・・・
-私、これでも結構上級の淫魔なんだけど。",""
+私、これでも結構上級の淫魔なんだけど。","\n<Lily>...
+Despite how it looks, I'm a high ranking succubus."
 "\n<リリー>なのに獲物を3等分するわ、
 搾り尽くさずに精奴隷にするわ・・・
-おかげで魔力も減ってこの様よ。",""
+おかげで魔力も減ってこの様よ。","\n<Lily>But since I share my prey 3 ways, and I refrain from
+draining my semen slaves to death...
+My magic power has decreased quite a bit."
 "\n<リリー>でも最悪なことに
 ちっとも後悔してないのよね。
-あんたの言う通りよ。無様だわ。これで満足？",""
+あんたの言う通りよ。無様だわ。これで満足？","\n<Lily>Despite all that, I don't
+regret anything in the slightest.
+So it's as you say. I am filthy. Are you satisfied?"
 "\n<ベルーチェ>そうですか。
 素敵な返答、ありがとうございます。
-最後に聞けてすっきりしました。",""
-"\n<チョコレ>\}マグネシウムに硝酸ナトリウムを混ぜて・・・",""
+最後に聞けてすっきりしました。","\n<Velvet>So that's how it is.
+What a lovely answer. Thank you very much.
+It's refreshing to finally hear it out loud."
+"\n<チョコレ>\}マグネシウムに硝酸ナトリウムを混ぜて・・・","\n<Chocolat>\}Mix magnesium with sodium nitrate..."
 "\n<チョコレ>ママ・・・！
-目を瞑ってくらさい！",""
-"\n<シィナ>にゃぉ！？眩し・・・！！",""
-"\n<リリー>何！？何の光！？",""
-"\n<ライム>目が・・・目がぁ～～！！",""
+目を瞑ってくらさい！","\n<Chocolat>Mama...!
+Cover your eyes!"
+"\n<シィナ>にゃぉ！？眩し・・・！！","\n<Shina>Nyaaa!? Too bright...!!"
+"\n<リリー>何！？何の光！？","\n<Lily>What the!? What is this light!?"
+"\n<ライム>目が・・・目がぁ～～！！","\n<Lime>My eyes... My eyes～～!!"
 "\n<アルス>いないぞ！
-逃げられた・・・！",""
+逃げられた・・・！","\n<Alsto>Oh no!
+They've escaped...!"
 "\n<ロメリア>いない・・・！
-逃げられた・・・！？",""
-"\n<リリー>あと少しのところだったのに・・・！",""
-"\n<ライム>びっくりしたー・・・",""
+逃げられた・・・！？","\n<Meria>Oh no...!
+Did they escape...!?"
+"\n<リリー>あと少しのところだったのに・・・！","\n<Lily>But we were so close...!"
+"\n<ライム>びっくりしたー・・・","\n<Lime>Oh my goodness..."
 "\n<アーコ>あぁ目が痛い・・・
 ちっくしょー。
-ひとまず、みんなを出してあげないと・・・",""
+ひとまず、みんなを出してあげないと・・・","\n<Ako>My eyes hurt...
+Dammit.
+I've got to get everyone out for now..."
 "\n<アーコ>・・・？
-どのスイッチだろ。",""
-"\n<シィナ>爆破するなよ！",""
+どのスイッチだろ。","\n<Ako>...?
+Now which button is it..."
+"\n<シィナ>爆破するなよ！","\n<Shina>Don't blow us up!"
 "\n<シィナ>爆破するなって言ったにゃん！！
-アホ！！",""
-"\n<アーコ>違うよ！まだ何もしてない！",""
+アホ！！","\n<Shina>I said don't blow us up, nyan!!
+Dumbass!!"
+"\n<アーコ>違うよ！まだ何もしてない！","\n<Ako>Don't look at me! I haven't touched anything yet!"
 "\n<アルス>何かやばいぞ・・・！！
-あいつら研究所ごと爆破して証拠隠滅するつもりか！？",""
+あいつら研究所ごと爆破して証拠隠滅するつもりか！？","\n<Alsto>Something's wrong...!!
+Are they blowing up the lab to bury their evidence!?"
 "\n<ロメリア>何かやばいよ・・・！！
-あいつら、研究所ごと爆破して証拠隠滅するつもりじゃ・・・！",""
+あいつら、研究所ごと爆破して証拠隠滅するつもりじゃ・・・！","\n<Meria>Something is wrong...!!
+I think they're blowing up the lab to cover their tracks...!"
 "\n<シィナ>早く開けるにゃ！
-どれでもいいから押せ！！",""
-"\n<アーコ>えーい！なむさん！",""
+どれでもいいから押せ！！","\n<Shina>Hurry and open us up, nya!
+Just press any button!!"
+"\n<アーコ>えーい！なむさん！","\n<Ako>Ok! Eenie meenie miney... Mo!"
 "\n<リリー>開いた・・・！！
 逃げるわよ！！
-ライム！捕まって！！",""
-"ライム","Lime"
-"シィナ1",""
-"ロメリア/アルス",""
-"てかせ",""
-"ベルーチェ","Velvet"
-"誰か",""
-"チョコレ","Chocolat"
-"主人公",""
-"リリー","Lily"
-"檻",""
-"スイッチ",""
-"りもこん",""
-"アーコ","アーコ"
-"お金",""
+ライム！捕まって！！","\n<Lily>It opened...!
+Get out of here!!
+I've got you, Lime!!"
+"ライム",
+"シィナ1",
+"ロメリア/アルス",
+"てかせ",
+"ベルーチェ",
+"誰か",
+"チョコレ",
+"主人公",
+"リリー",
+"檻",
+"スイッチ",
+"りもこん",
+"アーコ",
+"お金",

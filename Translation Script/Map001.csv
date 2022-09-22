@@ -674,45 +674,65 @@ PageDown：キャラクターID -1
 音は再生速度によって速さが自動で変更されます。"
 "アーコアイテム",
 "\n<アーコ>\n[1]、これ持って行って。
-早くみんなを助けよう！",
+早くみんなを助けよう！","\n<Ako>\n[1], take this.
+Let's hurry and save everybody!"
 "\n<アーコ>リリーと\n[1]が一緒に行動してるのって
-なんか変だね。",
+なんか変だね。","\n<Ako>It's so strange seeing Lily and \n[1]
+working together."
 "\n<リリー>今だけよ。
-敵の敵は味方。",
+敵の敵は味方。","\n<Lily>This is only temporary.
+The enemy of my enemy is my friend."
 "\n<アーコ>うーん、この研究所は何なんだろう。
-何のために・・・",
+何のために・・・","\n<Ako>Hmm, what's the lab here for?
+What purpose could it have..."
 "\n<アーコ>使えるもの見つけたよ！
 持って行って！お金は取らないから。
-今はね。",
+今はね。","\n<Ako>I found something useful!
+Here, take it! I'm not going to charge you.
+Not right now."
 "\n<アーコ>リリー、\n[1]とケンカしちゃだめだよ。
-仲良くね。",
-"\n<リリー>煽ってんの？",
+仲良くね。","\n<Ako>Lily, don't fight with \n[1].
+Play nicely."
+"\n<リリー>煽ってんの？","\n<Lily>Are you mocking me?"
 "\n<アーコ>こういうとこって多分、
 非常口とかあると思うんだよね。
-私、探してみとく。",
+私、探してみとく。","\n<Ako>This sort of place almost always
+has an emergency exit.
+I'll try to hunt it down."
 "\n<アーコ>こんな場所があるなんて全然分からなかったなぁ。
 森の中の、霧の中の、地面の下なんて。
-よっぽど隠したかったんだろうね。",
+よっぽど隠したかったんだろうね。","\n<Ako>I seriously had no idea this place existed.
+Deep in the woods, shrouded in mist, buried underground.
+They really wanted to keep it hidden."
 "\n<アーコ>地下の研究所なんて絶対悪いこと考えてるじゃん。
-シィナ達が心配だよ・・・",
+シィナ達が心配だよ・・・","\n<Ako>Nothing good ever happens in an underground lab.
+I'm worried about Shina and the others..."
 "\n<アーコ>草が邪魔な時は斬るか燃やせばいいよ。
-何か隠れてるかもしれないし。",
+何か隠れてるかもしれないし。","\n<Ako>If there's grass blocking you, cut it or burn it.
+You might find something hidden inside."
 "\n<アーコ>沢山人間が住んでる場所の上で暮らしてたなんて
-リリー鈍すぎない？",
-"\n<リリー>オークとかシィナとかうるさいのがいたから・・・",
-"\n<アーコ>また何か見つけたらあげるね！",
+リリー鈍すぎない？","\n<Ako>Imagine living on top of all these humans all this time.
+You'd have to be pretty dense, huh, Lily?"
+"\n<リリー>オークとかシィナとかうるさいのがいたから・・・","\n<Lily>I spent all that time dealing with Shina and those orcs..."
+"\n<アーコ>また何か見つけたらあげるね！","\n<Ako>If I find anything else, it's all yours!"
 "手がかり",
 "ERS_テンプレートランダム生成 70 1 2 3 0 0",
 "\n<アーコ>\n[1]・・・！？
-こっちこっち・・・！",
+こっちこっち・・・！","\n<Ako>\n[1]...!?
+Over here! Over here...!"
 "・・・！
-アーコ！",
+アーコ！","...!
+Ako!"
 "\n<アーコ>うわぁ、随分小さくなったね。
-淫魔が集まってるから、何かと思ったら・・・",
+淫魔が集まってるから、何かと思ったら・・・","\n<Ako>Woah, you got so tiny. The succubi were all
+gathered here, so I wondered what was up..."
 "\n<アーコ>お薬お薬・・・
-確か状態異常のお薬が・・・",
+確か状態異常のお薬が・・・","\n<Ako>Where's that medicine...
+I'm sure I've got a shrink-cure in here..."
 "\n<アーコ>戻った。
-よしよし。",
+よしよし。","\n<Ako>Welcome back.
+Good stuff. Good stuff."
 "\n<リリー>ふぅ。助かったわ。
-ありがとう。",
-"\n<アーコ>ほいほい。",
+ありがとう。","\n<Lily>Phew. You really saved us.
+Thank you so much."
+"\n<アーコ>ほいほい。","\n<Ako>Sure sure."

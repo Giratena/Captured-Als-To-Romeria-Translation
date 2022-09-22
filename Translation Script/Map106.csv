@@ -4,150 +4,150 @@
 "燭台","燭台"
 " <enemy:99>"," <enemy:99>"
 "燭台だ。
-固定されて動かせないが灯りに使えるかもしれない。","燭台だ。
-固定されて動かせないが灯りに使えるかもしれない。"
+固定されて動かせないが灯りに使えるかもしれない。","A candlestick. It is fixed in place, and won't move.
+It can be used to illuminate your surroundings."
 "変数203（ARGP攻撃種類）
 1斬　2打撃　3水　4火　5雷
 6誘惑　7食べ物
 特殊206（個別攻撃種類）
-1リンゴ　2皿　3卵",""
-"灯り 6 1 200 0.1",""
-"捕まえリリー","捕まえリリー"
+1リンゴ　2皿　3卵",
+"灯り 6 1 200 0.1",
+"捕まえリリー",
 "\n<シィナ>カワバンガにゃ！
-待ち伏せ成功にゃ！","\n<シィナ>カワバンガにゃ！
-待ち伏せ成功にゃ！"
+待ち伏せ成功にゃ！","\n<Shina>Cowabunga, nya!
+Ambush successful, nya!"
 "\n<シィナ>もう逃がさんにゃぁ♥
-じゅるり♥","\n<シィナ>もう逃がさんにゃぁ♥
-じゅるり♥"
+じゅるり♥","\n<Shina>You're not getting away now, nyaa♥
+Sluuurp♥"
 "\n<シィナ>アタシに搾って欲しいのにゃ？
-しょうがないにゃぁ・・・","\n<シィナ>アタシに搾って欲しいのにゃ？
-しょうがないにゃぁ・・・"
-" <enemy:99><cw:1.5>"," <enemy:99><cw:1.5>"
-"ビン","ビン"
-"割れたビンを踏んでしまった・・・！","割れたビンを踏んでしまった・・・！"
+しょうがないにゃぁ・・・","\n<Shina>You want me to squeeze you dry, nya?
+Guess I've got no choice, nyaa…"
+" <enemy:99><cw:1.5>",
+"ビン",
+"割れたビンを踏んでしまった・・・！","You stepped on a broken bottle…!"
 "\n<シィナ>ん？
-にゃるほど。そこにいたにゃ。","\n<シィナ>ん？
-にゃるほど。そこにいたにゃ。"
-"MP_SET_MOVIE e14_Ta","MP_SET_MOVIE e14_Ta"
-"MP_SET_LOOP 80 on","MP_SET_LOOP 80 on"
+にゃるほど。そこにいたにゃ。","\n<Shina>Hmm?
+I see. So that's where you're hiding, nya."
+"MP_SET_MOVIE e14_Ta",
+"MP_SET_LOOP 80 on",
 "\n<シィナ>袋小路だし♥
 もう絶対逃げられんにゃ。
-ほーら。食ってやるにゃん♥","\n<シィナ>袋小路だし♥
-もう絶対逃げられんにゃ。
-ほーら。食ってやるにゃん♥"
-"ビン踏みシィナ","ビン踏みシィナ"
-"灯り 2 1 120 0.1",""
+ほーら。食ってやるにゃん♥","\n<Shina>It's a dead end♥
+There's nowhere to run, nya.
+Hoora. Time to eat, nyaan♥"
+"ビン踏みシィナ",
+"灯り 2 1 120 0.1",
 "\n<シィナ>追い込んだにゃ♥
-ほーら捕まえた♥","\n<シィナ>追い込んだにゃ♥
-ほーら捕まえた♥"
-"EV021","EV021"
-"水たまりを踏んでしまった・・・","水たまりを踏んでしまった・・・"
+ほーら捕まえた♥","\n<Shina>Got you cornered now, nya♥
+I gotchaaa♥"
+"EV021",
+"水たまりを踏んでしまった・・・","You stepped in a puddle of water…"
 "\n<ライム>私だよー！
-待ち伏せ成功ー♪","\n<ライム>私だよー！
-待ち伏せ成功ー♪"
-"EV022","EV022"
-"\n<リリー>うわぁ！！びっくりしたぁ！！","\n<リリー>うわぁ！！びっくりしたぁ！！"
+待ち伏せ成功ー♪","\n<Lime>It's me-!
+Ambush successful♪"
+"EV022",
+"\n<リリー>うわぁ！！びっくりしたぁ！！","\n<Lily>Omigod!! Something touched me!!"
 "\n<リリー>あ、あんたか・・・
 ま、待ち伏せ成功ね！
-おほほほほ♥（心臓止まるかと思った・・・）","\n<リリー>あ、あんたか・・・
-ま、待ち伏せ成功ね！
-おほほほほ♥（心臓止まるかと思った・・・）"
+おほほほほ♥（心臓止まるかと思った・・・）","\n<Lily>O-oh, it's you...
+A-ambush successful! Ohohohoho♥
+(I thought my heart was about to stop…)"
 "\n<リリー>さぁ、捕まえたわよ♥
-もう逃がさないから。","\n<リリー>さぁ、捕まえたわよ♥
-もう逃がさないから。"
+もう逃がさないから。","\n<Lily>Now, you're all mine♥
+There's no getting away now."
 "\n<リリー>見えてるのに。
 自分から搾られに来たの？
-くす♥","\n<リリー>見えてるのに。
-自分から搾られに来たの？
-くす♥"
-"捕まえライム","捕まえライム"
+くす♥","\n<Lily>You could totally see me.
+Did you come here to be squeezed dry?
+Hee♥"
+"捕まえライム",
 "\n<ライム>待ち伏せ成功ー♥
-にゅるりぃー♥","\n<ライム>待ち伏せ成功ー♥
-にゅるりぃー♥"
+にゅるりぃー♥","\n<Lime>Ambush successful-♥
+Squirrrm-♥"
 "\n<ライム>真っ暗の中で待ってた甲斐があったよー♥
 もう逃げられないからねー♥
-えーい♥","\n<ライム>真っ暗の中で待ってた甲斐があったよー♥
-もう逃げられないからねー♥
-えーい♥"
+えーい♥","\n<Lime>It was totally worth it hiding in the pitch black-♥
+Now there's no escape-♥
+Haaaah♥"
 "\n<ライム>あっ♥自分から捕まりに来た♥
 えへへー♥
-そっかそっかー♥","\n<ライム>あっ♥自分から捕まりに来た♥
-えへへー♥
-そっかそっかー♥"
+そっかそっかー♥","\n<Lime>Ahhh♥ You came to let me catch you♥
+Eheehee♥
+I think I get it-♥"
 "\n<ライム>パイズリして欲しくなったんでしょー。
 分かったよー♥
-ほら、おちんちんちょーだい♥","\n<ライム>パイズリして欲しくなったんでしょー。
-分かったよー♥
-ほら、おちんちんちょーだい♥"
-"EV025","EV025"
-"食糧庫ドア","食糧庫ドア"
+ほら、おちんちんちょーだい♥","\n<Lime>You were in the mood for a boob job, weren't you-.
+I totally get it-♥
+Hoora, look at that big dick♥"
+"EV025",
+"食糧庫ドア",
 "\n<シィナ>・・・
-あいつ全然来んにゃぁ。","\n<シィナ>・・・
-あいつ全然来んにゃぁ。"
+あいつ全然来んにゃぁ。","\n<Shina>...
+They never came, nyaa."
 "\n<ライム>倉庫に隠れてたらロープ目当てに来ると
-思ってたんだけどなー。","\n<ライム>倉庫に隠れてたらロープ目当てに来ると
-思ってたんだけどなー。"
+思ってたんだけどなー。","\n<Lime>I figured they'd need the rope here in the warehouse,
+so we'd hide and wait them out."
 "\n<リリー>ぐぬぬ・・・
 こんな暗闇で息潜めてバカみたいじゃない。
-早く来なさいよ。","\n<リリー>ぐぬぬ・・・
-こんな暗闇で息潜めてバカみたいじゃない。
-早く来なさいよ。"
+早く来なさいよ。","\n<Lily>Dammit...
+I feel like an idiot, holding my breath, sitting in the dark
+like this. Hurry up already."
 "\n<シィナ>にゃ！
-ロープが無くなってるにゃん！","\n<シィナ>にゃ！
-ロープが無くなってるにゃん！"
+ロープが無くなってるにゃん！","\n<Shina>Nyaaaah!
+The rope is gone, nyaan!"
 "\n<ライム>ウソ！
-こんなに暗いのにどうやってー？","\n<ライム>ウソ！
-こんなに暗いのにどうやってー？"
+こんなに暗いのにどうやってー？","\n<Lime>No way!
+How'd they manage that in the darkness?"
 "\n<リリー>す、凄みよ・・・！
 あ・・・あいつ凄みで！
-倉庫のロープを探知したんだわ・・・！","\n<リリー>す、凄みよ・・・！
-あ・・・あいつ凄みで！
-倉庫のロープを探知したんだわ・・・！"
-"\n<ライム>凄み！？","\n<ライム>凄み！？"
+倉庫のロープを探知したんだわ・・・！","\n<Lily>A-amazing…!
+Th-they're so amazing!
+They tracked down the rope in pitch black…!"
+"\n<ライム>凄み！？","\n<Lime>Really, that makes them amazing!?"
 "\n<シィナ>にゃぁぁ・・・
-凄みかぁ・・・","\n<シィナ>にゃぁぁ・・・
-凄みかぁ・・・"
-"\n[1]は\C[3]『凄み』\C[0]を覚えた！","\n[1]は\C[3]『凄み』\C[0]を覚えた！"
-"ロープ","Rope"
+凄みかぁ・・・","\n<Shina>Nyaaa...
+Yeah, that's pretty amazing…"
+"\n[1]は\C[3]『凄み』\C[0]を覚えた！","\n[1] learned \C[3]『Amazing』\C[0]!"
+"ロープ",
 "ロープ・・・！
-これは何かの役に立ちそうだ・・・！","ロープ・・・！
-これは何かの役に立ちそうだ・・・！"
-"EV031","EV031"
+これは何かの役に立ちそうだ・・・！","Found some rope…!
+This will definitely come in handy somewhere…!"
+"EV031",
 "罠を踏んでしまった！！
-身体が痺れて動かない・・・！","罠を踏んでしまった！！
-身体が痺れて動かない・・・！"
+身体が痺れて動かない・・・！","You've stepped on a trap!!
+Your body has gone numb, and you can't move…!"
 "\n<リリー>捕獲成功～♪
 こんな暗い中、足元をよく見ずに歩いてるからよ。
-ばーか♥","\n<リリー>捕獲成功～♪
-こんな暗い中、足元をよく見ずに歩いてるからよ。
-ばーか♥"
+ばーか♥","\n<Lily>Capture successful～♪
+That's what you get for stumbling around in the dark
+without checking where you place your feet. Dummy♥"
 "\n<リリー>灯り付けてたのに。
 罠が見えなかったの？
-くす♥","\n<リリー>灯り付けてたのに。
-罠が見えなかったの？
-くす♥"
-"EV032","EV032"
-"立体起動","立体起動"
-"<enemy:99><cw:1.3><ch:1.5>","<enemy:99><cw:1.3><ch:1.5>"
+くす♥","\n<Lily>The lights were on and everything.
+Couldn't you see the trap?
+Hee♥"
+"EV032",
+"立体起動",
+"<enemy:99><cw:1.3><ch:1.5>",
 "箱のようなものがあるが
-高くて手が届かない・・・","箱のようなものがあるが
-高くて手が届かない・・・"
-"リリーの日記","リリーの日記"
+高くて手が届かない・・・","There's some kind of chest above,
+but it's too high up to reach…"
+"リリーの日記","Lily's Diary"
 "ライムの日記
-見られているような・・・","ライムの日記
-見られているような・・・"
-"読んでみる","読んでみる"
-"やめておく","やめておく"
-"何かあるが暗くてよく見えない・・・","何かあるが暗くてよく見えない・・・"
+見られているような・・・","Lily's Diary
+Being Watched..."
+"読んでみる","Read"
+"やめておく","Don't read"
+"何かあるが暗くてよく見えない・・・","There's something here, but it's too dark to see…"
 "リリーの日記
-オークはどこから","リリーの日記
-オークはどこから"
-"EV037","EV037"
-"EV038","EV038"
-"EV039","EV039"
-"EV040","EV040"
-"EV041","EV041"
-"灯りを付けるには・・・","灯りを付けるには・・・"
-"答えを見る","答えを見る"
-"見ない","見ない"
-"炎系の攻撃で燭台に火を着けてください。","炎系の攻撃で燭台に火を着けてください。"
+オークはどこから","Lily's Diary
+Where did these orcs come from?"
+"EV037",
+"EV038",
+"EV039",
+"EV040",
+"EV041",
+"灯りを付けるには・・・","How to turn on the lights…"
+"答えを見る","See answer"
+"見ない","Don't look"
+"炎系の攻撃で燭台に火を着けてください。","Light the candlesticks with a fire attack."
