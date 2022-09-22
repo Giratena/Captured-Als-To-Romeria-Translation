@@ -3,120 +3,120 @@
 "シィナ","Shina"
 "ライム","Lime"
 "イベント実行","イベント実行"
-"\n<リリー>・・・！？","\n<リリー>・・・！？"
-"MP_SET_MOVIE シィナ猫おこ","MP_SET_MOVIE シィナ猫おこ"
-"MP_SET_LOOP 20 on","MP_SET_LOOP 20 on"
+"\n<リリー>・・・！？","\n<Lily>...!?"
+"MP_SET_MOVIE シィナ猫おこ",
+"MP_SET_LOOP 20 on",
 "\n<シィナ>ちくしょー・・・
-やられたにゃん。","\n<シィナ>ちくしょー・・・
-やられたにゃん。"
-"\n<リリー>シィナ！？どうしたのそれ！","\n<リリー>シィナ！？どうしたのそれ！"
-"\n<リリー>なんでそんな・・・","\n<リリー>なんでそんな・・・"
+やられたにゃん。","\n<Shina>Shit...
+I got beat, nyan."
+"\n<リリー>シィナ！？どうしたのそれ！","\n<Lily>Shina!? What happened to you!"
+"\n<リリー>なんでそんな・・・","\n<Lily>What do you think..."
 "\n<リリー>そんな姿に・・・
-ぷくくく♥","\n<リリー>そんな姿に・・・
-ぷくくく♥"
-"\n<シィナ>笑ってんじゃねー！！","\n<シィナ>笑ってんじゃねー！！"
+ぷくくく♥","\n<Lily>That form...
+Keheheheh♥"
+"\n<シィナ>笑ってんじゃねー！！","\n<Shina>Don't you laugh at me!!"
 "\n<リリー>おーよちよち♥
-可哀想に。","\n<リリー>おーよちよち♥
-可哀想に。"
-"\n<シィナ>コロスゾ！！","\n<シィナ>コロスゾ！！"
+可哀想に。","\n<Lily>Aw, kitty kitty♥
+Poor little thing."
+"\n<シィナ>コロスゾ！！","\n<Shina>I'll fucking kill you!!"
 "\n<リリー>いたいいたい！
-ごめんって。分かった分かった！","\n<リリー>いたいいたい！
-ごめんって。分かった分かった！"
-"\n<シィナ>・・・","\n<シィナ>・・・"
+ごめんって。分かった分かった！","\n<Lily>Ow ow ow ow!
+I'm sorry, I'll stop, I'll stop!"
+"\n<シィナ>・・・","\n<Shina>..."
 "\n<シィナ>\n[1]にイカされたにゃ・・・
-くそぅ。","\n<シィナ>\n[1]にイカされたにゃ・・・
-くそぅ。"
+くそぅ。","\n<Shina>\n[1] made me cum, nya...
+Shit."
 "\n<リリー>\n[1]・・・
-思ったよりやるみたいね。","\n<リリー>\n[1]・・・
-思ったよりやるみたいね。"
+思ったよりやるみたいね。","\n<Lily>\n[1]...
+I didn't give you enough credit."
 "\n<リリー>とりあえずあいつをなんとかしてから
 元に戻してあげる。
-しばらくそれで我慢してて。","\n<リリー>とりあえずあいつをなんとかしてから
-元に戻してあげる。
-しばらくそれで我慢してて。"
-"\n<シィナ>今戻せにゃ。","\n<シィナ>今戻せにゃ。"
+しばらくそれで我慢してて。","\n<Lily>First of all, I'm going to take care of that one.
+Then I'll put you back to normal.
+Just hold out for a little while, Ok?"
+"\n<シィナ>今戻せにゃ。","\n<Shina>Put me back now, nya."
 "\n<リリー>私だって魔力が必要だもの。
-少しだけ待ってて。","\n<リリー>私だって魔力が必要だもの。
-少しだけ待ってて。"
+少しだけ待ってて。","\n<Lily>I need to conserve my magic right now.
+Just wait a little while."
 "\n<シィナ>ちっ・・・
-早くするにゃ。","\n<シィナ>ちっ・・・
-早くするにゃ。"
+早くするにゃ。","\n<Shina>Tsk...
+Make it quick then, nya."
 "\n<シィナ>油断したにゃ。
 本当ならアタシが勝ってたし。
-ムカツクにゃ。","\n<シィナ>油断したにゃ。
-本当ならアタシが勝ってたし。
-ムカツクにゃ。"
+ムカツクにゃ。","\n<Shina>I let my guard down, nya.
+If this was for real, I would've won.
+I'm so pissed, nya."
 "\n<リリー>そうよね・・・
-あんたがあんなやつに負けるわけないわ。","\n<リリー>そうよね・・・
-あんたがあんなやつに負けるわけないわ。"
-"\n<シィナ>リリー、油断するにゃよ。","\n<シィナ>リリー、油断するにゃよ。"
+あんたがあんなやつに負けるわけないわ。","\n<Lily>Of course not...
+You would never lose to someone like that."
+"\n<シィナ>リリー、油断するにゃよ。","\n<Shina>Lily, don't let your guard down too, nya."
 "\n<リリー>ええ。
-もう遊んでいる場合じゃない。","\n<リリー>ええ。
-もう遊んでいる場合じゃない。"
+もう遊んでいる場合じゃない。","\n<Lily>Right.
+We're not playing around anymore."
 "\n<リリー>全て搾り尽くして魔力に変えてやるわ。
 私が\n[1]を倒してあんたの仇を取る。
-任せなさい。","\n<リリー>全て搾り尽くして魔力に変えてやるわ。
-私が\n[1]を倒してあんたの仇を取る。
-任せなさい。"
+任せなさい。","\n<Lily>I'll squeeze them dry, and turn it into magical power.
+I'll destroy \n[1] and avenge you.
+Leave it all to me."
 "\n<リリー>ゆ、油断しないように気を付けるわ・・・
-ぷくく♥","\n<リリー>ゆ、油断しないように気を付けるわ・・・
-ぷくく♥"
-"MP_SET_MOVIE ライム溶ける2","MP_SET_MOVIE ライム溶ける2"
-"\n<ライム>あーうー・・・","\n<ライム>あーうー・・・"
+ぷくく♥","\n<Lily>I won't let my guard down... Unlike you...
+Heh heh heh♥"
+"MP_SET_MOVIE ライム溶ける2",
+"\n<ライム>あーうー・・・","\n<Lime>Awaaaahhh..."
 "\n<リリー>ら、ライム！？
 どうしたの！？
-溶けすぎ！！","\n<リリー>ら、ライム！？
-どうしたの！？
-溶けすぎ！！"
-"\n<ライム>負けちゃった・・・","\n<ライム>負けちゃった・・・"
+溶けすぎ！！","\n<Lily>L-Lime!?
+What happened!?
+You're melting!!"
+"\n<ライム>負けちゃった・・・","\n<Lime>I was beaten..."
 "\n<リリー>\n[1]にやられたの・・・！？
-なんてことを・・・","\n<リリー>\n[1]にやられたの・・・！？
-なんてことを・・・"
+なんてことを・・・","\n<Lily>\n[1] had sex with you...!?
+What in the world..."
 "\n<ライム>でもね、
 き・・・
-気持ちよかったよー・・・♥","\n<ライム>でもね、
-き・・・
-気持ちよかったよー・・・♥"
+気持ちよかったよー・・・♥","\n<Lime>But...
+It...
+It felt so good...♥"
 "\n<リリー>あんたねぇ・・・
 大丈夫？
-水分取る？","\n<リリー>あんたねぇ・・・
-大丈夫？
-水分取る？"
+水分取る？","\n<Lily>Are you...
+Are you alright?
+Do you need some water?"
 "\n<ライム>大丈夫ー♥
 これ以上は溶ける感じないよ。
-でも今は上手く人の形になれないかも。","\n<ライム>大丈夫ー♥
-これ以上は溶ける感じないよ。
-でも今は上手く人の形になれないかも。"
+でも今は上手く人の形になれないかも。","\n<Lime>I'm OK-♥
+It doesn't feel like I'll melt anymore.
+I can't take my succubus form right now though."
 "\n<リリー>あー・・・
-魔力がすっかり減っちゃってるわね・・・","\n<リリー>あー・・・
-魔力がすっかり減っちゃってるわね・・・"
-"\n<ライム>魔力が減ると形が保てなくなるのー？","\n<ライム>魔力が減ると形が保てなくなるのー？"
+魔力がすっかり減っちゃってるわね・・・","\n<Lily>Ah...
+Your magical energy has been completely sapped away..."
+"\n<ライム>魔力が減ると形が保てなくなるのー？","\n<Lime>I lose my shape if I lose my magical power?"
 "\n<リリー>そうよ。
 普段は魔力で身体の形をコーティングしてるようなものなの。
-崩れないようにね。","\n<リリー>そうよ。
-普段は魔力で身体の形をコーティングしてるようなものなの。
-崩れないようにね。"
+崩れないようにね。","\n<Lily>That's right.
+Your magic coats your body, holding you in that shape.
+Without that power, you'll fall apart."
 "\n<リリー>分かりやすく言うと人型に魔力の器を作って
 その中に身体を注ぎ込むイメージかしら。
-厳密には違うけれど・・・","\n<リリー>分かりやすく言うと人型に魔力の器を作って
-その中に身体を注ぎ込むイメージかしら。
-厳密には違うけれど・・・"
-"\n<ライム>そっかー。","\n<ライム>そっかー。"
+厳密には違うけれど・・・","\n<Lily>Simply put, you create a magical, humanoid vessel, and
+your body is sort of poured into that image.
+That's not completely accurate, but..."
+"\n<ライム>そっかー。","\n<Lime>I get it."
 "\n<リリー>みんなそれぞれの器の形を持っていて、
 あんたの場合は基本の形がスライムなの。
-私の魔力で人の形に器を変えていただけ。","\n<リリー>みんなそれぞれの器の形を持っていて、
-あんたの場合は基本の形がスライムなの。
-私の魔力で人の形に器を変えていただけ。"
+私の魔力で人の形に器を変えていただけ。","\n<Lily>Everybody's vessel takes a different shape.
+Your natural shape is that of a slime.
+My power transforms your vessel into a humanoid form."
 "\n<リリー>またすぐ元に戻してあげるから、
-もう少しそれで我慢できる？","\n<リリー>またすぐ元に戻してあげるから、
-もう少しそれで我慢できる？"
+もう少しそれで我慢できる？","\n<Lily>I'll get you back to normal in a little while.
+Can you hold on for now?"
 "\n<ライム>うん。
 たまにはこのままでもいいかもー。
-視点が低くて面白ーい♥","\n<ライム>うん。
-たまにはこのままでもいいかもー。
-視点が低くて面白ーい♥"
+視点が低くて面白ーい♥","\n<Lime>Sure.
+I don't mind taking this shape every once in a while.
+The low viewpoint is quite interesting-♥"
 "\n<リリー>\n[1]・・・
 もう泣いてもわめいても、
-イっても喘いでも許してやらないわ。","\n<リリー>\n[1]・・・
-もう泣いてもわめいても、
-イっても喘いでも許してやらないわ。"
+イっても喘いでも許してやらないわ。","\n<Lily>\n[1]...
+No matter how much you beg, or cry,
+or scream and cum... I'll never forgive you."

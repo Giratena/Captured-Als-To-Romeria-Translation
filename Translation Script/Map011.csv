@@ -1,119 +1,165 @@
-"扉",""
-" <enemy:99><cw:1.5><ch:1.5>",""
+"扉",
+" <enemy:99><cw:1.5><ch:1.5>",
 "機械仕掛けの扉だ。
-電気を流せば開くかも・・・？",""
+電気を流せば開くかも・・・？","A mechanical door.
+Will it open if you turn on the power...?"
 "・・・
 電気を流してもダメみたいだ。
-何か開ける方法を探そう。",""
-"扉はびくともしない・・・",""
-"報告書",""
+何か開ける方法を探そう。","...
+It doesn't seem to open if you run electricity through it.
+There must be another way to open it."
+"扉はびくともしない・・・","The door doesn't budge..."
+"報告書",
 "リリー達の行動は定期的に監視すること。
-特に変わった行動があればDr.チョコレに報告。",""
+特に変わった行動があればDr.チョコレに報告。","Monitor Lily's behavior routinely.
+Report any unusual behavior to Dr. Chocolat."
 "淫魔は非常に危険な為、直接接触しないように。
-もし干渉したい場合はオークを介して行う。",""
+もし干渉したい場合はオークを介して行う。","Succubi are extremely dangerous. Do not interact directly.
+If you must interfere, do so using an orc."
 "映像投影機が故障した場合は
-エレクタワーにて代わりの物を入手するように。",""
-"EV003","EV003"
+エレクタワーにて代わりの物を入手するように。","If a video monitor malfunctions,
+pick up a replacement from Elec Tower."
+"EV003",
 "・シィナ、ライムの無力化を確認。
 ・牢の鍵を見つけやすい場所に設置。
-・アーコが拾ってしまったが問題ナシ。",""
+・アーコが拾ってしまったが問題ナシ。","・Confirmed Shina and Lime have been neutralized.
+・Placing the cell key in an easily visible location.
+・Ako has picked up the key. No issues."
 "・\n[1]、日記を読み何かを考えるそぶり。
-・\n[1]、脱出する気配なし。",""
+・\n[1]、脱出する気配なし。","・\n[1] is reading a diary. Appears to be thinking.
+・\n[1] is not attempting to escape."
 "※\n[1]が屋敷の秘密に気付いた可能性あり。
-プランCを実行。職員は直ちに避難。",""
-"EV004","EV004"
+プランCを実行。職員は直ちに避難。","※\n[1] has likely discovered the mansion's secret.
+Execute Plan C. All staff evacuate immediately."
+"EV004",
 "・PM2:00　リリー、小説を読み、時折笑みを浮かべる
 ・PM2:30　ライム、身体に付着したゴミを取り除く作業
-・PM3:00　シィナ、鼻くそをリリーの服に付ける",""
+・PM3:00　シィナ、鼻くそをリリーの服に付ける","・2:00PM - Lily reads a novel, occasionally smiling to herself
+・2:30PM - Lime struggles to remove trash attached to her body
+・3:00PM - Shina flicks a booger onto Lily's clothing"
 "・PM4:00　リリー、布団に顔を埋めじたばたする
 ・PM5:00　ライム、食事の下ごしらえを始める
-・PM6:00　シィナ、鼻くそをリリーの服に付ける",""
-"\n<リリー>鼻くそ付け過ぎだろ！",""
-"EV005","EV005"
+・PM6:00　シィナ、鼻くそをリリーの服に付ける","・4:00PM - Lily mashes her face into her futon
+・5:00PM - Lime begins preparing for dinner
+・6:00PM - Shina rubs another booger on Lily's clothes"
+"\n<リリー>鼻くそ付け過ぎだろ！","\n<Lily>What's with all the boogers!?"
+"EV005",
 "・AM7:00　ライム、精奴隷に朝食を持っていく
 ・AM8:30　リリー、メイド服を着て鏡を見ている
-・AM9:00　シィナ、爆睡中",""
+・AM9:00　シィナ、爆睡中","・7:00AM - Lime brings breakfast to the semen slaves
+・8:30AM - Lily looks at her reflection while wearing a maid dress
+・9:00AM - Shina is sound asleep"
 "・AM10:00　リリー、ライムと談笑中（内容不明）
 ・AM11:00　ライム、浴場の清掃
-・AM12:00　シィナ、起床",""
-"\n<リリー>私達の生活が盗み見られてたなんて・・・",""
-"酷いね",""
-"自業自得だよ",""
+・AM12:00　シィナ、起床","・10:00AM - Lily chats with Lime (Subject unknown)
+・11:00AM - Lime cleans the bathroom
+・12:00PM - Shina wakes up"
+"\n<リリー>私達の生活が盗み見られてたなんて・・・","\n<Lily>They were spying on every moment of our lives..."
+"酷いね","How awful"
+"自業自得だよ","You reap what you sow"
 "\n<リリー>・・・
 うん。
-でも、今は気にしてる場合じゃないわ。行きましょ。",""
+でも、今は気にしてる場合じゃないわ。行きましょ。","\n<Lily>...
+Right.
+But we don't have time to worry now. Let's keep going."
 "\n<リリー>うるさいわね。
 随分憎まれ口を叩くようになったじゃない。
-精奴隷の分際で。",""
-"\n<\n[1]>精奴隷にイカされる淫魔・・・",""
-"\n<リリー>は・・・？",""
-"悪趣味だな",""
-"自業自得",""
+精奴隷の分際で。","\n<Lily>You shut your mouth.
+I-I ought to slap you for saying that.
+Know your place, semen slave!"
+"\n<\n[1]>精奴隷にイカされる淫魔・・・","\n<\n[1]>A semen slave that made a succubus cum..."
+"\n<リリー>は・・・？","\n<Lily>What...?"
+"悪趣味だな","This is horrible"
+"自業自得","What goes around comes around"
 "\n<リリー>・・・
 凄く嫌な気分だわ。
-でも、今は気にしてる場合じゃない。行きましょ。",""
+でも、今は気にしてる場合じゃない。行きましょ。","\n<Lily>...
+I feel so violated.
+But I don't have time to worry now. We have to keep going."
 "\n<リリー>うるさいわね。
 憎まれ口を叩くようになったじゃない。
-精奴隷の癖に。",""
-"EV006","EV006"
-"三馬鹿の監視記録というファイルが並んでいる・・・",""
+精奴隷の癖に。","\n<Lily>You shut your mouth.
+I-I ought to slap you for saying that.
+Know your place, semen slave!"
+"EV006",
+"三馬鹿の監視記録というファイルが並んでいる・・・","Observation reports on three idiots line the shelf..."
 "\n<リリー>後で燃やすわ。
-これを書いたやつと一緒にね。",""
-"EV007","EV007"
+これを書いたやつと一緒にね。","\n<Lily>I'll be burning these later.
+Along with whoever wrote them."
+"EV007",
 "チャーム（魅了魔法）について。
 チャームは簡潔に言うと
-対象を魅了し言いなりにする魔法である。",""
+対象を魅了し言いなりにする魔法である。","About charms (Charm magic)
+Simply put, charm magic entices the subject
+to do the caster's bidding."
 "目を見つめる、言葉を囁く等の行為を介して行われる為、
 目を瞑る、耳を塞ぐ事で回避できる場合もある。
-相手の魔力を上回る強い精神力で抗うことも可能。",""
+相手の魔力を上回る強い精神力で抗うことも可能。","Charms are applied by gazes, or whispered words. As such, they
+can be resisted by shutting one's eyes and ears. They may also be
+resisted by a subject with an extremely strong will."
 "また、既にチャームを掛けられている対象に上書きは出来ない。
-これは淫魔同士で餌の取り合いを防ぐ為の制約であると思われる。",""
+これは淫魔同士で餌の取り合いを防ぐ為の制約であると思われる。","Also, a charmed subject cannot be re-charmed. This is thought to
+be a measure to reduce competition between succubi for food."
 "これを利用し、予めオークにチャームを掛けておくことで
 リリーに上書きされることを防ぎ
-スパイとして送り込むことが出来る。",""
+スパイとして送り込むことが出来る。","With this knowledge, we can charm the orcs in advance, then send
+them to the mansion to spy on Lily without worrying
+about their charms being overwritten."
 "\n<リリー>あの豚・・・
 よくも騙してくれたわね。
-（散々こき使ったけど。）",""
-"EV008","EV008"
-"EV009","EV009"
-"EV010","EV010"
-"機械製の箱のようなものに屋敷の部屋が映し出されている・・・",""
-"EV011",""
-"リリーの日記",""
+（散々こき使ったけど。）","\n<Lily>Those pigs...
+How dare they deceive me.
+(Although I did work them to the bone.)"
+"EV008",
+"EV009",
+"EV010",
+"機械製の箱のようなものに屋敷の部屋が映し出されている・・・","One of the mansion's rooms is displayed in a strange, mechanical box..."
+"EV011",
+"リリーの日記",
 "四角い箱のような機械に奇妙な部屋が映っている・・・
-これは一体・・・",""
+これは一体・・・","A strange, mechanical box displays an image of a room...
+What in the world is this..."
 "\n<リリー>シィナ・・・！
-アイツら・・・絶対許さない！！",""
-"隣の部屋から何かが動く音がした・・・",""
-"さわるな",""
-"触るな！と書かれている。",""
+アイツら・・・絶対許さない！！","\n<Lily>Shina...!
+Whoever you are... I'll never forgive you!!"
+"隣の部屋から何かが動く音がした・・・","You heard something move in the next room over..."
+"さわるな",
+"触るな！と書かれている。","Do not touch!' is written here."
 "チョコレの実験記録
-淫魔の生態",""
-"読んでみる",""
-"やめておく","Stop"
-"EV015",""
-"研究対象の3淫魔について",""
+淫魔の生態","Chocolat's Lab Report
+Succubus Ecology"
+"読んでみる","Read"
+"やめておく","Don't read"
+"EV015",
+"研究対象の3淫魔について","Concerning the 3 succubi"
 "シィナ
 おそらくノラネコが淫魔化したものと思われる。
-知能レベルが低いので猫言葉が抜けていない。ニコチン中毒。",""
+知能レベルが低いので猫言葉が抜けていない。ニコチン中毒。","Shina
+Likely a stray cat transformed into a succubus.
+Low intelligence level. Can still speak cat. Nicotine addiction."
 "ライム
 研究所から抜け出したスラミーが淫魔化したもの。
-元がスラミー故か、食に対する欲が強い。太りがち。",""
+元がスラミー故か、食に対する欲が強い。太りがち。","Lime
+A slime escaped from the lab, transformed into a succubus. Voracious
+appetite, likely due to her primal slime instincts. Overweight."
 "リリー
 純血種のサキュバス。
-煽り耐性が非常に低く、些細なことでも・・・",""
+煽り耐性が非常に低く、些細なことでも・・・","Lily
+Pure blooded succubus. Extremely short temper.
+Easily set off by trivial matters..."
 "\n<リリー>何なのよこの資料！
-ほぼ悪口じゃない！イラつくわ！",""
-"EV016",""
-"EV017",""
-"EV018",""
-"EV019",""
-"EV020",""
-"EV021",""
-"EV022",""
-"モニター",""
-"EV024",""
-"EV025",""
-"EV026",""
-"薬","Medicine"
-"もう使えそうなものはない。",""
+ほぼ悪口じゃない！イラつくわ！","\n<Lily>Who wrote this!?
+This is slander! I am so angry now!"
+"EV016",
+"EV017",
+"EV018",
+"EV019",
+"EV020",
+"EV021",
+"EV022",
+"モニター",
+"EV024",
+"EV025",
+"EV026",
+"薬",
+"もう使えそうなものはない。","Nothing else useful."

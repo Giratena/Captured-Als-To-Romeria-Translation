@@ -1,913 +1,1013 @@
-"自動実行","自動実行"
-"自分鉄格子","自分鉄格子"
-"鉄格子の扉だ・・・","It's an iron grill gate..."
-"開いてた・・・","It opened..."
-"ロメアル鉄格子","ロメアル鉄格子"
-"MP_SET_MOVIE ロメリア立ち絵アニメ基本2","MP_SET_MOVIE ロメリア立ち絵アニメ基本2"
-"MP_SET_LOOP 20 on","MP_SET_LOOP 20 on"
+"自動実行","自動実行",
+"自分鉄格子","自分鉄格子",
+"鉄格子の扉だ・・・","It's an iron grill gate...",
+"開いてた・・・","It opened...",
+"ロメアル鉄格子","ロメアル鉄格子",
+"MP_SET_MOVIE ロメリア立ち絵アニメ基本2","MP_SET_MOVIE ロメリア立ち絵アニメ基本2",
+"MP_SET_LOOP 20 on","MP_SET_LOOP 20 on",
 "\n<ロメリア>えっ！？
 あにき！？
 どうやって外に・・・鉄格子は！？","\n<Meria>Ehh!?
 Alsy!?
-That was an iron cell...how did you get out!?"
-"開いてた","It opened."
-"擦ったら摩擦で溶けた","I rubbed it really hard and it melted."
+That was an iron cell...how did you get out!?",
+"開いてた","It opened.",
+"擦ったら摩擦で溶けた","I rubbed it really hard and it melted.",
 "\n<ロメリア>嘘！
 それって・・・鍵を掛け忘れたってコト！？
 ラッキー・・・！","\n<Meria>You're joking!
 No way...they forgot to lock it!?
-What a stroke of luck...!"
+What a stroke of luck...!",
 "\n<ロメリア>いや、待って。怪しい・・・
 罠かもしれない。気を付けてあにき。
 あいつら、何か企んでるのかも。","\n<Meria>No, wait. That's too suspicious...
 It might be a trap. You should be careful Alsy,
-they could be plotting something."
+they could be plotting something.",
 "\n<ロメリア>あれだけ搾られた癖に冗談言うなんて余裕あるね。
 さすがあにき。
 死んどけ。","\n<Meria>They've been draining you so much, and yet
 you can still crack a joke huh? That's my big brother!
-Still standing!"
+Still standing!",
 "\n<ロメリア>でもこんなに簡単に出られるなんてなんか怪しくない？
 気を付けて。
 罠かもしれないよ。","\n<Meria>But don't you think it's weird you could just get out?
 Be careful.
-It might be some kind of trap."
-"MP_SET_MOVIE アルス立ち絵アニメ基本","MP_SET_MOVIE アルス立ち絵アニメ基本"
+It might be some kind of trap.",
+"MP_SET_MOVIE アルス立ち絵アニメ基本","MP_SET_MOVIE アルス立ち絵アニメ基本",
 "\n<アルス>お前・・・！
 どうやって出たんだ！？","\n<Alsto>Wha, you...!
-How did you get out!?"
-"鉄格子を引きちぎった","I broke the bars with my hands."
+How did you get out!?",
+"鉄格子を引きちぎった","I broke the bars with my hands.",
 "\n<アルス>鍵を掛け忘れたのか・・・？
 や、やった！
 これはチャンスだぞ！","\n<Alsto>Could they have forgotten to lock the cell...?
 T-This is it!
-This could be our big break!"
+This could be our big break!",
 "\n<アルス>いや待て。何か怪しいな・・・
 こんなに簡単に獲物を逃がすか？
 罠かもしれないぞ。気を付けろ。\n[1]。","\n<Alsto>Wait. Something is off...
 Could escaping really be that easy?
-This could be a trap. Be careful, \n[1]."
+This could be a trap. Be careful, \n[1].",
 "\n<アルス>まさか俺の妹がゴリラだったなんてな。
 すまん、この鉄格子も頼む。","\n<Alsto>I had no idea my littler sister was a gorilla!
-I hope you don't mind if I trouble you to do this cell too."
+I hope you don't mind if I trouble you to do this cell too.",
 "\n<アルス>どうやら俺の鉄格子はお前のところより固いようだな。
 サビていたのか・・・？","\n<Alsto>Ah, it seems like the bars of my cell are a bit
-tougher. Were yours rusty...?"
+tougher. Were yours rusty...?",
 "\n<アルス>こんなに簡単に出られるのは逆に怪しいな。
 罠かもしれない。
 気を付けろ。\n[1]。","\n<Alsto>Being able to get out so easily is suspicious indeed.
 It could be a trap.
-Be careful, \n[1]."
+Be careful, \n[1].",
 "\n<リリー>鍵を掛けたかどうか不安な時って結局
 ほとんどの場合はちゃんと鍵掛けてるのよね。
 無意識にっていうか。","\n<Lily>You know, when someone is concerned they forgot to shut a door,
 there's a 99% chance they closed it to begin with.
-It's like a subconscious thing."
-"\n<ライム>あるあるー。","\n<Lime>Such is the way of life-."
+It's like a subconscious thing.",
+"\n<ライム>あるあるー。","\n<Lime>Such is the way of life-.",
 "\n<アルス>まずい！あいつらだ！
 戻って来た！
 どこか隠れられる場所はないか！？","\n<Alsto>Not good! It's them!
 They've come back!
-Is there some place you can hide!?"
+Is there some place you can hide!?",
 "\n<ロメリア>あいつらの声・・・！！
 戻って来た！！
 どうしようあにき！隠れられる場所とか・・・！","\n<Meria>Those voices...!!
 They're coming back!!
-What do we do Alsy! There must be somewhere you can hide...!"
+What do we do Alsy! There must be somewhere you can hide...!",
 "\n<アルス>早く隠れろ！
 どこか・・・なんかあるだろ！","\n<Alsto>Hide, on the double!
-There must be somewhere around!"
+There must be somewhere around!",
 "\n<ロメリア>見つかる前に隠れて！
 早く！
 急いで！","\n<Meria>Hide before they spot you!
 Quickly!
-And hurry!"
+And hurry!",
 "\n<アルス>・・・
 聞こえてたか？
 なんか妙なことになったな。","\n<Alsto>...
 Did you hear that?
-Now that was weird."
+Now that was weird.",
 "\n<アルス>だけど、これはチャンスでもある。
 あいつらが調子に乗って油断しているうちに
 脱出経路を探すんだ。","\n<Alsto>But, this could be our big chance.
 It's the perfect time to search for an escape route
-while they're caught up in the moment."
+while they're caught up in the moment.",
 "\n<アルス>\n[1]。もし逃げられるようなら
 俺の事は気にせず逃げるんだぞ。
 分かったな？","\n<Alsto>\n[1]. If you are able to run away, 
 then do so. Do not worry about me.
-Do you understand?"
-"置いてはいけない","Don't say things like that."
-"うん","I understand."
+Do you understand?",
+"置いてはいけない","Don't say things like that.",
+"うん","I understand.",
 "\n<アルス>俺のことは大丈夫だ。
 お前さえ無事なら・・・","\n<Alsto>I will be just fine.
-As long as you are safe..."
+As long as you are safe...",
 "\n<アルス>少し距離はあるが、無事に逃げ延びたら
 ギルドに行って助けを呼んできてくれ。
 それまでの間くらい、耐えてみせるさ。","\n<Alsto>Although it is a little far from here, there is
 a nearby guild you can call on for help.
-Until then, I'll be waiting."
+Until then, I'll be waiting.",
 "\n<アルス>よし。
 気を付けて行けよ。\n[1]。
 あまり無茶はするな。","\n<Alsto>That's it.
 Be careful, \n[1].
-Don't do anything rash."
-"\n<アルス>ぐぅ～・・・・（腹の鳴る音）","\n<Alsto>*Gurgle...* (You can hear their belly rumble)"
+Don't do anything rash.",
+"\n<アルス>ぐぅ～・・・・（腹の鳴る音）","\n<Alsto>*Gurgle...* (You can hear their belly rumble)",
 "\n<\n[1]>あにき、お腹鳴ってるよ。
 何か食べ物があったら持ってくるね。","\n<\n[1]>Alsy, I can hear your stomach groaning.
-I'll bring back some food for you, okay?"
+I'll bring back some food for you, okay?",
 "\n<アルス>う・・・悪い。
 余裕があったらでいいぞ。","\n<Alsto>I'm...fine.
-There is no need to rush yourself for me."
+There is no need to rush yourself for me.",
 "\n<ロメリア>なんか変なことになったね。
 脱出ゲーム・・・
 まぁ、ある意味チャンスだけど。","\n<Meria>That was kind of weird wasn't it?
 An escape game...
-Well, this could be a big chance for us though."
+Well, this could be a big chance for us though.",
 "\n<ロメリア>あの三馬鹿が調子に乗っているうちに
 なんとかここを抜け出す方法を探そう！
 あにき、頑張れ！","\n<Meria>You might be able to look for some way out
 while those three idiots are distracted!
-Do your best, Alsy!"
-"\n<ロメリア>ぐぅ～・・・（お腹の鳴る音）","\n<Meria>*Groan...* (You can hear their stomach growling)"
+Do your best, Alsy!",
+"\n<ロメリア>ぐぅ～・・・（お腹の鳴る音）","\n<Meria>*Groan...* (You can hear their stomach growling)",
 "\n<ロメリア>あ、ごめん。
 何か食べるものあったらお願いできる？
 お、お腹空きすぎて・・・","\n<Meria>Ah, sorry about that.
 Could I ask you to get something to eat when you go?
-M-My stomach is killing me..."
+M-My stomach is killing me...",
 "\C[3]※SAN値（正気度）について
 \C[0]捕まって搾り取られたりすると正気を失って行きます。
 SAN値によって発生するイベントが変わります。","\C[3]※Sanity Level Explaination:
 \C[0]If you are caught and milked, your mind can become lost in
-pleasure. During these events, your sanity level will change."
+pleasure. During these events, your sanity level will change.",
 "SAN値はお菓子を見つけてアルスに渡すことで回復します。
 現在のSAN値はアイテムの手鏡で確認できます。（初期値10）","Find snacks and share them with Alsto to recover sanity.
 Check your current sanity by using the Hand Mirror in your
-items list. (Sanity is initially set to 10)"
+items list. (Sanity is initially set to 10)",
 "SAN値はお菓子を見つけてロメリアに渡すことで回復します。
 現在のSAN値はアイテムの手鏡で確認できます。（初期値10）","Find snacks and share them with Meria to recover sanity.
 Check your current sanity by using the Hand Mirror in your
-items list. (Sanity is initially set to 10)"
+items list. (Sanity is initially set to 10)",
 "\n<アルス>うーん。
 俺がゴリラだったらこんな檻ぐらい
 こじ開けるんだけどなぁ。","\n<Alsto>Hmm.
 If I were a gorilla, prying open a cage such as
-this would be easy."
-"\n<\n[1]>動物園のゴリラは檻に入れられてるから。","\n<\n[1]>Don't they keep gorillas in cages at the zoo...?"
+this would be easy.",
+"\n<\n[1]>動物園のゴリラは檻に入れられてるから。","\n<\n[1]>Don't they keep gorillas in cages at the zoo...?",
 "\n<アルス>見つからないように気を付けて行け。
 おそらく正面玄関は鍵がかけられて使えないだろう。
 脱出経路を探すんだ。","\n<Alsto>Take care that you aren't spotted.
 I'm guessing the front door will likely be locked and unusable.
-Search for another way out."
+Search for another way out.",
 "\n<アルス>いいか\n[1]。
 アルストロメリアの花言葉は『未来への憧れ』だ。
 俺たちは必ず生きてここを出る。そのヴィジョンを持て。","\n<Alsto>Listen up, \n[1].
 The flower Alstroemeria symbolizes, ""to look to the future.""
-We have to get out of here no matter what. Hold that belief dear."
+We have to get out of here no matter what. Hold that belief dear.",
 "\n<\n[1]>うん。ありがとあにき。
 でもそれ恥ずかしいから外で言わないでね。","\n<\n[1]>Yeah. Thanks, Alsy.
 But never say that in front of anyone,
-it's a bit embarrassing."
+it's a bit embarrassing.",
 "\n<ロメリア>あにき。頼りにしてる。
 頑張って。
 なるべく見つからないように、こっそりね。","\n<Meria>I'm counting on you, Alsy.
 Good luck.
-Sneak around carefully so you don't get spotted okay?"
+Sneak around carefully so you don't get spotted okay?",
 "\n<ロメリア>アルストロメリアの花言葉は『未来への憧れ』。
 私たちならきっと、上手く行くよ。
 あにきがいてくれて良かった。","\n<Meria>Alstroemeria means, ""to look to the future"" in the language of flowers.
 I'm sure both of us will end up just fine!
-I'm glad you're here with me."
+I'm glad you're here with me.",
 "\n<ロメリア>ふたりでひとつみたいな名前、
 今まで大分恥ずかしい思いしたけどね。
 でも嫌じゃなかったよ。","\n<Meria>I was really embarrassed that we got a name
 like that you know, but now...
-I don't think it's so bad."
+I don't think it's so bad.",
 "\n<ロメリア>しょうがないことかもしれないけど、
 あんまり淫魔相手にえっちなこと考えないでよ？
 魔物なんだからね。化け物だよ。","\n<Meria>I guess there's no way around this but...
 Try not to think too much about doing lewd things with those
-succubi, OK? They're demons after all right? Monsters!"
-"\C[3]戦わずに帰る","\C[3]Leave without fighting"
-"戦いに行く","Go and fight"
-"鉄格子の鍵を使った！","Used the Prison Key!"
+succubi, OK? They're demons after all right? Monsters!",
+"\C[3]戦わずに帰る","\C[3]Leave without fighting",
+"戦いに行く","Go and fight",
+"鉄格子の鍵を使った！","Used the Prison Key!",
 "\n<アルス>鍵・・・！！
 \n[1]！！よくやった！！","\n<Alsto>The key...!
-\n[1]!! You did it!!"
+\n[1]!! You did it!!",
 "\n<ロメリア>開いた！！
 あにき！ありがとう！","\n<Meria>It opened!!
-Alsy! Thank you!"
+Alsy! Thank you!",
 "\n<アーコ>\n[1]・・・！
 サンタがロープ持ってきてくれたよ！
 逃げよう！","\n<Ako>\n[1]...!
 Santa brought a rope!
-Lets get outta here!"
+Lets get outta here!",
 "\n<アルス>あと少しなんだな？
 分かった。信じて待つ。
 お前は強い女だな。兄として鼻が高いぜ。","\n<Alsto>Just a little further now right?
 Alright. I have faith in you.
-You're a grown lady now. I'm proud to be your brother."
+You're a grown lady now. I'm proud to be your brother.",
 "\n<ロメリア>戦って来るんだね。
 分かった。
 待ってる。あにき。大好きだよ。","\n<Meria>So you're going to fight huh?
 Got it. I'll be waiting for you.
-I love you Alsy!"
-"EV004","EV004"
-"鉄格子は硬く閉ざされている・・・","The iron bars have been securely fastened..."
-"EV005","EV005"
+I love you Alsy!",
+"EV004","EV004",
+"鉄格子は硬く閉ざされている・・・","The iron bars have been securely fastened...",
+"EV005","EV005",
 "中に屍が見える・・・
 あいつらにやられたのだろうか・・・","A corpse can be seen inside...
-Did those guys really...?"
-"ロメ/アル","ロメ/アル"
+Did those guys really...?",
+"ロメ/アル","ロメ/アル",
 "\n<ロメリア>ごめんね。
 兄貴までこんなことになって・・・","\n<Meria>I'm really sorry.
-I even got my brother dragged into this..."
-"気にするな","I was worried."
-"お前のせいだぞ","This is your fault."
+I even got my brother dragged into this...",
+"気にするな","I was worried.",
+"お前のせいだぞ","This is your fault.",
 "\n<ロメリア>だって三人組だって思わなかったんだもん。
 淫魔の癖に。","\n<ロメリア>だって三人組だって思わなかったんだもん。
-淫魔の癖に。"
+淫魔の癖に。","\n<Meria>I didn't think there would be 3 of them
+That's a bit odd for succubi."
 "\n<ロメリア>ぐぅぅ・・・
 あっ。お腹が・・・","\n<ロメリア>ぐぅぅ・・・
-あっ。お腹が・・・"
+あっ。お腹が・・・","\n<Meria>Guhhhh...
+Ahh, my stomach..."
 "\n<ロメリア>こんな時に悪いんだけど
 何か食べるものあったら持ってきてくれない？
 お腹ぺこぺこ。","\n<ロメリア>こんな時に悪いんだけど
-何か食べるものあったら持ってきてくれない？お腹ぺこぺこ。"
+何か食べるものあったら持ってきてくれない？お腹ぺこぺこ。","\n<Meria>I know now's a bad time, but can you bring me
+any food you find? I'm so hungry."
 "\n<アルス>すまん。
 まさか相手が3人組だとは・・・
 ミイラ取りがミイラになったな。","\n<アルス>すまん。
-まさか相手が3人組だとは・・・ミイラ取りがミイラになったな。"
+まさか相手が3人組だとは・・・ミイラ取りがミイラになったな。","\n<Alsto>I'm sorry.
+I never would have guessed there'd be 3 of them... \nThe hunters have become the hunted."
 "\n<アルス>もしこの館から逃げられるチャンスがあるなら
 お前ひとりでも迷わず逃げるんだぞ。
 いいな？","\n<アルス>もしこの館から逃げられるチャンスがあるなら
-お前ひとりでも迷わず逃げるんだぞ。いいな？"
+お前ひとりでも迷わず逃げるんだぞ。いいな？","\n<Alsto>If you get a chance to escape this mansion, don't
+hesitate to take it. Got it?"
 "\n<アルス>あとまぁ、悪いけど
 何か食い物があったら持ってきてくれないか？
 腹が減った・・・","\n<アルス>あとまぁ、悪いけど
-何か食い物があったら持ってきてくれないか？腹が減った・・・"
-"ポップアップ無効化","ポップアップ無効化"
-"ポップアップ有効化","ポップアップ有効化"
+何か食い物があったら持ってきてくれないか？腹が減った・・・","\n<Alsto>Oh, sorry, but if you find any food, could you please 
+bring it to me? I'm starving..."
+"ポップアップ無効化","ポップアップ無効化",
+"ポップアップ有効化","ポップアップ有効化",
 "0ﾌｨﾘ 1ﾏｰｶﾞﾚ 2ｻｷｭ 3ｱｲﾘ 4ﾕｲﾈ 5ｼｬﾙ 6ﾁｭｰ 7ﾏｵ8ﾘﾘｽ 9ﾌｪﾗ高 10ﾌｪﾗ中 
 11ﾌｪﾗ低 12ﾄﾙﾃ 13ｷﾙｼｭ 14ｼｰﾌﾟ15ｼｨﾅ 16ｴｲﾐｰ 17ｷｴﾘ 18ﾉﾉ 19ﾘﾘﾌｪﾗ
 20ﾅｰｽ 21ﾘｯﾌﾟｽ 22ﾎﾟﾘｰ 23ｻｷｭﾊﾞｽ 24ﾛｰｽﾞ 25ｳｨｯﾁ 26ﾋｭﾌﾟﾉ 27ｱﾘｽ
 28ｽﾗｲﾑ 29夢喰い 30ﾛﾘA 31ﾛﾘB 32ﾛﾘC 33ﾌﾟﾘｽﾞﾏ 34ﾘﾘに 35ﾉﾉｷｽ
 36ｼﾙｷ 37ｴﾙﾌ 38ﾀｺ 39ｴﾗｯﾀ　40普通A 41普通B 43普通C 44ｱﾆﾏ
-45ﾗﾐｱ 47ﾙﾅ 48猫 49ﾕｲﾈ 50ﾏｷｻ 51ｳｫﾙﾌ 52ｽﾗﾐｰ 53ﾗｲﾑ 54ｱｰｺ",""
-"55ﾘﾘｰ",""
+45ﾗﾐｱ 47ﾙﾅ 48猫 49ﾕｲﾈ 50ﾏｷｻ 51ｳｫﾙﾌ 52ｽﾗﾐｰ 53ﾗｲﾑ 54ｱｰｺ",,
+"55ﾘﾘｰ",,
 "\n<リリー>あはっ♥またイったわコイツ♥
 ほら雑魚ちんぽ。
 気持ちよくしてくれてありがとうございます、は？","\n<Lily>Aha♥ Look at that, they came again♥
 Look at this weak little penis~
-It really does love to be pleasured, doesn't it?"
+It really does love to be pleasured, doesn't it?",
 "\n<ライム>んー♥今ので6回目の射精だねー。
 ふたなりにしてもらって、よっぽど気に入ったのかなー？
 くすくす♥","\n<Lime>Mm♥ You've ejaculated 6 times now, haven't you?
 I bet you're really pleased with that new dick of yours-
-Teehee♥"
+Teehee♥",
 "\n<ライム>んー、今ので6回目の射精だねー。
 だいじょーぶ？
 死んじゃわないかな？","\n<Lime>Mm♥ You've ejaculated 6 times now, haven't you?
 Are you gonna be ok-ay?
-You're not going to die are you?"
+You're not going to die are you?",
 "\n<シィナ>出し過ぎにゃデカ乳女。
 アタシの分が残って無かったら殺すにゃ。
 リリー代われにゃ！次アタシにゃ！","\n<Shina>You're overdoing it big tits...
 By the time it's my turn they'll be dead-nya.
-Come on Lily-nya! My turn next-nya!"
+Come on Lily-nya! My turn next-nya!",
 "\n<リリー>ちょっと、次はライムの番よ。
 ライム、おいで。","\n<Lily>Not so fast, next is Lime's turn.
-Come on Lime."
+Come on Lime.",
 "\n<シィナ>はぁ？
 次はアタシの番にゃぁ。
 勝手に死んだら殺すにゃ。","\n<Shina>Huuh?
 I was next-nya...
-If you kill him, I'll kill you-nya."
+If you kill him, I'll kill you-nya.",
 "\n<リリー>ちょっと、次はライムの番よ。
 しれっと順番抜かしてるんじゃないわよ。
 ライム、おいで。","\n<Lily>Not so fast, next is Lime's turn.
 Order is very important you know.
-Come on Lime."
-"\n<ライム>んん・・・！！","\n<Lime>Mmm...!!"
+Come on Lime.",
+"\n<ライム>んん・・・！！","\n<Lime>Mmm...!!",
 "\n<シィナ>ちっ・・・
 早くイカせて代わるにゃ。","\n<Shina>Tch...
-Make them cum quickly then-nya."
-"\n<リリー>どーお？ライム、美味しい？","\n<Lily>Well- How is it Lime? Tasty?"
+Make them cum quickly then-nya.",
+"\n<リリー>どーお？ライム、美味しい？","\n<Lily>Well- How is it Lime? Tasty?",
 "\n<ライム>おいひい・・・♥
 じゅる♥
 リリーの味もする・・・♥","\n<Lime>Delishious...♥
 Slurp♥
-And it tasthes like Lily...♥"
+And it tasthes like Lily...♥",
 "\n<シィナ>超ぬるぬるだし。
 にゃはは。
 手がべっとべとにゃ。","\n<Shina>It feels all slimy too. Nyaha!
-My hand is all slippery-nya."
+My hand is all slippery-nya.",
 "\n<ライム>んぁっ♥
 ん・・・♥
 ごく・・・ごく・・・♥","\n<Lime>Mmmph♥
 Mm...♥
-Gulp...gulp...♥"
+Gulp...gulp...♥",
 "もう・・・だめだ・・・
 意識・・・が・・・","I can't...go on...
-My consciousness...is..."
+My consciousness...is...",
 "\n<リリー>あら、動かなくなっちゃった。
 もしもーし？","\n<Lily>Ara, they stopped moving.
-Hello? Anyone home?"
+Hello? Anyone home?",
 "\n<ライム>ぷはぁ・・・
 ごめん。吸い過ぎちゃったみたい。
 気絶しちゃった。","\n<Lime>Pahh...
 Sorry. I think I sucked too hard.
-And now they fainted."
+And now they fainted.",
 "\n<シィナ>にゃぁ！！
 次アタシにゃぁ！！
 アタシだったのにゃぁー！！","\n<Shina>Nyaa!!
 I was next-nya!!
-"
-"\n<ライム>痛い痛い！蹴らないでよー・・・","\n<Lime>Ow ow ow! Don't kick me-..."
-"\n<シィナ>にゃぁー！！","\n<Shina>Nya-!!"
-"・・・","..."
+",
+"\n<ライム>痛い痛い！蹴らないでよー・・・","\n<Lime>Ow ow ow! Don't kick me-...",
+"\n<シィナ>にゃぁー！！","\n<Shina>Nya-!!",
+"・・・","...",
 "じょ・・・ぶ・・・
 だい・・・うぶか・・・","Hey...you...
-are...okay..."
+are...okay...",
 "大丈夫か！？
 おい！！\n[1]！！","Are you okay!?
-Hey!! \n[1]!!"
+Hey!! \n[1]!!",
 "ねぇ・・・にき・・・
 だい・・・うぶ・・・","Alsto...Alsto...
-are...alright..."
+are...alright...",
 "あにき！！
 大丈夫！？生きてる！？","Alsy!!
-Are you alright!? Are you dead!?"
-"\n<アルス>こっちだ！","\n<Alsto>Over here!"
-"\n<ロメリア>こっちこっち！","\n<Meria>Over here!"
-"最初のイベ","最初のイベ"
+Are you alright!? Are you dead!?",
+"\n<アルス>こっちだ！","\n<Alsto>Over here!",
+"\n<ロメリア>こっちこっち！","\n<Meria>Over here!",
+"最初のイベ","最初のイベ",
 "\n<ロメリア>あにき！やっと起きた！
 大丈夫？
 随分と酷くヤラレチャッタみたいだけど・・・","\n<Meria>Alsy! You're finally up!
 Are you okay?
-You look like you've been beaten up pretty bad..."
+You look like you've been beaten up pretty bad...",
 "\n<ロメリア>何回呼んでも返事がないから
 死んじゃったのかと思ったよぉ・・・
 あぁ、良かった・・・","\n<Meria>I've been calling you so many times that
 I thought you were really dead...
-Oh, thank goodness..."
+Oh, thank goodness...",
 "\n<ロメリア>ごめんね。
 私を助けに来たばっかりに、
 あにきまで捕まっちゃうなんて・・・","\n<Meria>Really sorry-
 You came here to save me,
-but Alsy ended up getting caught instead..."
-"\n<ロメリア>ごめんって言ってんじゃん。","\n<Meria>I...I told you I was sorry!"
+but Alsy ended up getting caught instead...",
+"\n<ロメリア>ごめんって言ってんじゃん。","\n<Meria>I...I told you I was sorry!",
 "\n<ロメリア>気にするよ。
 はぁ・・・
 でも、ありがと。","\n<Meria>You were worried?
 Haah...
-But, thanks."
+But, thanks.",
 "\n<ロメリア>あぅぅ・・・
 私、初めての討伐依頼だったのに・・・
 こんなことになるなんて・・・","\n<Meria>Oogh...
 It was my subjugation request...
-But I never thought something like this would happen..."
+But I never thought something like this would happen...",
 "\n<ロメリア>あにきにまで迷惑かけて・・・
 淫魔に捕まっちゃうなんて、ハンター失格だよ。","\n<Meria>I've been nothing but trouble to you Alsy...
-And being captured by demons...I'm a failure as a hunter."
-"なんとかここを抜け出さないとな","We have to break out of here somehow."
-"生きてるだけで丸儲け","As long as you're alive, we'll be just fine."
+And being captured by demons...I'm a failure as a hunter.",
+"なんとかここを抜け出さないとな","We have to break out of here somehow.",
+"生きてるだけで丸儲け","As long as you're alive, we'll be just fine.",
 "\n<ロメリア>そうだね。
 ここを抜け出して、あいつらを倒して帰らないと。
 へこたれてちゃダメだよね。","\n<Meria>You're right.
 We have to get out of here, beat those guys up and return
-home. We can't sit idle and do nothing right?"
+home. We can't sit idle and do nothing right?",
 "\n<ロメリア>うーん・・・
 何か使えそうなものはないかな？
 檻を開けられそうなものとか・・・","\n<Meria>Yeah...
 Is there anything here we can use?
-Like something to open the cage..."
+Like something to open the cage...",
 "\n<ロメリア>・・・そうだね。
 淫魔に負けて吸い殺されなかっただけマシなのかも。","\n<Meria>...you're right.
-I guess it's just as well they didn't drain me to death."
+I guess it's just as well they didn't drain me to death.",
 "\n<ロメリア>うーん・・・
 檻を開けられる方法はないかな？
 なんとかしてここから出ないと・・・","\n<Meria>Yeah...
 Is there anything here we can use?
-We have to get out of here somehow..."
+We have to get out of here somehow...",
 "\n<アルス>大丈夫か？
 返事がないから心配したぞ。
 なんとか生きてるみたいだな。良かった・・・","\n<Alsto>Are you OK?
 You weren't replying and I was worried.
-You're somehow still alive. I'm so glad..."
+You're somehow still alive. I'm so glad...",
 "\n<アルス>あいつら・・・
 よくも妹を酷い目に・・・","\n<Alsto>Those guys...
-How dare they do such a thing to my sister..."
-"ちんこ付けられた","They gave me a penis."
-"あにきは大丈夫？","Are you okay Alsy?"
+How dare they do such a thing to my sister...",
+"ちんこ付けられた","They gave me a penis.",
+"あにきは大丈夫？","Are you okay Alsy?",
 "\n<アルス>そうか・・・
 まぁ、よくあることだ。
 お前もサキュバスハンターなら気にするな。","\n<Alsto>I see...
 Well, it happens. As long as you're a succubus hunter
-you've got nothing to fear."
+you've got nothing to fear.",
 "\n<アルス>淫魔の仲間にされるよりはマシだろ。
 ちんちんの一本で済んだと思えば安いもんさ。
 良かったな。","\n<Alsto>It's better than being converted to their side I'd say.
 Having something like a dick is nothing.
-I'm glad you're okay."
-"\n<\n[1]>ばかあにき。","Dammit Alsy..."
+I'm glad you're okay.",
+"\n<\n[1]>ばかあにき。","Dammit Alsy...",
 "\n<アルス>俺も今のところ平気だ。
 丈夫に産んでくれたおかんに感謝しなきゃな。","\n<Alsto>I'm fine so far as well.
-Mother did good job raising such a strong child."
+Mother did good job raising such a strong child.",
 "\n<アルス>しかしお前を助けに来たつもりが
 俺まで捕まってしまうとは・・・
 ミイラ取りがミイラとはまさにこのことだぜ。","\n<Alsto>I had come to save you but ended up
 getting caught myself...
-Those who plunder mummies become mummies eh?"
+Those who plunder mummies become mummies eh?",
 "\n<アルス>干乾びて本物のミイラになる前に
 なんとかここから抜け出さないと・・・
 \n[1]、何か使えるものはないか？","\n<Alsto>We've got to get out of here before we get dried up
 and really do become mummies though...
-\n[1], can you see anything we can use?"
-"鏡","鏡"
-"MP_SET_MOVIE ロメリア立ち絵アニメ基本3","MP_SET_MOVIE ロメリア立ち絵アニメ基本3"
+\n[1], can you see anything we can use?",
+"鏡","鏡",
+"MP_SET_MOVIE ロメリア立ち絵アニメ基本3","MP_SET_MOVIE ロメリア立ち絵アニメ基本3",
 "はぅぅ・・・頭がくらくらする・・・
 えっちなことしか考えられないよぉ・・・","Haah... I feel so light headed...
-My mind is swirling with sexy thoughts..."
-"MP_SET_MOVIE ロメリア立ち絵アニメ基本","MP_SET_MOVIE ロメリア立ち絵アニメ基本"
+My mind is swirling with sexy thoughts...",
+"MP_SET_MOVIE ロメリア立ち絵アニメ基本","MP_SET_MOVIE ロメリア立ち絵アニメ基本",
 "あぅ・・・ダメだ・・・
 えっちな気分にならないように・・・
 ふぅ・・・気を付けないと・・・","Ahh... Not good...
-If I don't...contain my sexual urges soon...haah..."
+If I don't...contain my sexual urges soon...haah...",
 "囚人服まで着せられるなんて・・・
 屈辱・・・！","To be forced to wear a prison uniform like this...
-How disgraceful...!"
-"MP_SET_MOVIE アルス立ち絵アニメ基本3","MP_SET_MOVIE アルス立ち絵アニメ基本3"
+How disgraceful...!",
+"MP_SET_MOVIE アルス立ち絵アニメ基本3","MP_SET_MOVIE アルス立ち絵アニメ基本3",
 "ああくそ・・・
 もっと・・・搾り取られたい・・・","Ahh...d-dammit...
-I-It would feel soo good to me milked...r-right now..."
+I-It would feel soo good to me milked...r-right now...",
 "ふぅ・・・落ち着け・・・
 惑わされるな・・・","Hah...I have to calm down...
-I won't be swayed..."
+I won't be swayed...",
 "囚人服を着せられるとは・・・
 屈辱だ・・・","Being forced to wear this prison uniform...
-How humiliating..."
+How humiliating...",
 "※イベント中の立ち絵アニメの表示を設定します。
 （オプションでいつでも変更可能です）","※Here, you can set if main character is seen during events.
-(You may also change this in the options menu at any time.)"
-"立ち絵アニメをON","Display the main character"
-"立ち絵アニメをOFF","Do not display the main character"
+(You may also change this in the options menu at any time.)",
+"立ち絵アニメをON","Display the main character",
+"立ち絵アニメをOFF","Do not display the main character",
 "立ち絵アニメを表示するようにしました。
 ※敵攻撃アニメと被る場合はオプションから位置を変更できます。
 ※一部の攻撃は立ち絵アニメが自動で非表示になります。","The main character will now be displayed during events.
 ※If it is hiding enemy attacks, change it in the options menu.
-※Some enemy attacks will hide the main character by default."
-"立ち絵アニメを非表示にしました。","The main character will not be displayed."
-"変更しませんでした。","No change was made."
-"今は鏡を見ている場合じゃない！","This is no time to watch yourself in the mirror!"
-"タル","タル"
-"中身は空っぽだ・・・","It's completely empty..."
+※Some enemy attacks will hide the main character by default.",
+"立ち絵アニメを非表示にしました。","The main character will not be displayed.",
+"変更しませんでした。","No change was made.",
+"今は鏡を見ている場合じゃない！","This is no time to watch yourself in the mirror!",
+"タル","タル",
+"中身は空っぽだ・・・","It's completely empty...",
 "・・・！
 よし、この中なら隠れられそうだ！","...!
-That's right, this would be the perfect hiding spot!"
-"\n<リリー>・・・","\n<Lily>..."
-"\n<ライム>・・・","\n<Lime>..."
-"\n<シィナ>逃げられてやんの。","\n<Shina>So they did escape."
+That's right, this would be the perfect hiding spot!",
+"\n<リリー>・・・","\n<Lily>...",
+"\n<ライム>・・・","\n<Lime>...",
+"\n<シィナ>逃げられてやんの。","\n<Shina>So they did escape.",
 "\n<リリー>ちょっとあんた！
 あいつどこ行ったのよ。
 何か知ってるんでしょ。","\n<Lily>Hey, you!
 Where did they go!
-Surely you know something."
+Surely you know something.",
 "\n<アルス>もうとっくに逃げたぜ。
 残念だったな。
 （無事に隠れられたようだな・・・）","\n<Alsto>You're too late.
 I'm afraid they're already far away from here now.
-(It seems they were able to hide safely...)"
+(It seems they were able to hide safely...)",
 "\n<ロメリア>知らなーい。
 私寝てたから。
 ひょっとして逃げられたのー？","\n<Meria>No clue what so ever.
 I was lying down over here.
-Did they escape or something-?"
+Did they escape or something-?",
 "\n<ロメリア>いいなー。
 私も出してよー。くす。
 （上手く隠れたみたい・・・良かった。）","\n<Meria>That's so good to hear-
 Soon I'll get out too- Teehee!
-(They must have hid really well...thank goodness.)"
+(They must have hid really well...thank goodness.)",
 "\n<ライム>うーん・・・
 ちょっと遅かったみたい。","\n<Lime>Oooh...
-I guess we were too slow."
+I guess we were too slow.",
 "\n<シィナ>どんまいにゃ。
 にゃはははは。","\n<Shina>Don't worry about it-nya.
-Nyahahaha~"
-"\n<リリー>ふふ・・・","\n<Lily>Fufu..."
-"\n<リリー>あはははは！","\n<Lily>Ahhahahaha!"
+Nyahahaha~",
+"\n<リリー>ふふ・・・","\n<Lily>Fufu...",
+"\n<リリー>あはははは！","\n<Lily>Ahhahahaha!",
 "\n<リリー>私の思惑通りだわ。
 こうも事が上手く運ぶなんてね。","\n<Lily>Just as I had expected-
-I can't believe things worked out so well~"
+I can't believe things worked out so well~",
 "\n<シィナ>どした？
 大丈夫にゃ？","\n<Shina>What?
-Are you okay-nya?"
-"\n<ライム>リリー？","\n<Lime>Lily?"
+Are you okay-nya?",
+"\n<ライム>リリー？","\n<Lime>Lily?",
 "\n<リリー>退屈だったからね。
 これはちょっとしたゲームよ。","\n<Lily>Things have been so dull lately you know.
-So I did this as part of a little game."
-"\n<ライム>ゲーム・・・？","\n<Lime>A game...?"
+So I did this as part of a little game.",
+"\n<ライム>ゲーム・・・？","\n<Lime>A game...?",
 "\n<リリー>あいつがこの館から脱出するのが先か、
 それとも私たちに捕まって弄ばれるのが先か。","\n<Lily>Will they escape the mansion?
-Or will we catch and play with them first?"
+Or will we catch and play with them first?",
 "\n<リリー>これは『暇つぶしの脱出ゲーム』に付き合ってもらう為の罠。
 そして、まんまと引っかかったわね。","\n<Lily>This was all just an elaborate ruse to get them
 to play my ""Timewasting Escape Game!""
-And they fell right for it-"
+And they fell right for it-",
 "\n<リリー>鍵はあえて掛けていなかったの。
 \.あ・\.え・\.て・\.ね。","\n<Lily>I didn't lock the door on purpose.
-\.ON・\.PUR-・\.POSE・\.!"
-"\n<ライム>（嘘が下手すぎる）","\n<Lime>(She's so bad at lying.)"
+\.ON・\.PUR-・\.POSE・\.!",
+"\n<ライム>（嘘が下手すぎる）","\n<Lime>(She's so bad at lying.)",
 "\n<シィナ>面白そうにゃ！！
 そんな事を考えていたとは、リリー！
 て、天才にゃ！！","\n<Shina>Ooh how interesting-nya!!
 Only you could think of such a thing Lily!
-Y-You're a genius-nya!!"
-"\n<アルス>なんだと！？","\n<Alsto>T-This was your plan all along!?"
-"\n<ライム>（なんで信じてるのー！）","\n<Lime>(...They're actually believing this!)"
+Y-You're a genius-nya!!",
+"\n<アルス>なんだと！？","\n<Alsto>T-This was your plan all along!?",
+"\n<ライム>（なんで信じてるのー！）","\n<Lime>(...They're actually believing this!)",
 "\n<ロメリア>鍵掛け忘れたんなら素直にそう言えば","\n<Meria>If you forgot to lock the door,
-you could just say so."
+you could just say so.",
 "\n<リリー>捕まえたら好きなだけ搾り取っていいわよ。
 さて、いつまで抗えるかしら。
 ふふふ♥","\n<Lily>When I catch them, I can squeeze them as much as I like.
 Now then, I wonder how long they will be able to resist?
-Ufufu♥"
+Ufufu♥",
 "\n<リリー>この館はそう簡単に出られないように出来てるの。
 快楽に負けて精奴隷に堕ちないよう、精々足掻くといいわ。
 あははははは！","\n<Lily>This mansion will not be so easy to escape from.
 Struggle and paw the ground as you try not to fall to the
-bliss of becoming our semen slave- Ahahaha!"
-"\n<シィナ>にゃはははは！","\n<Shina>Nyahahaha!"
-"\n<リリー>あははははははは！！","\n<Lily>Ahahahahahaha!!"
-"\n<シィナ>にゃははははははは！！！","\n<Shina>Nyahahahahahahaa!!!"
-"\n<リリー>おーっほっほっほっほ！！","\n<Lily>Oohohohohohoho!!"
-"\n<シィナ>にゃーはっはっはっ！！！","\n<Shina>Nya-ha ha ha ha!!!"
-"\n<リリー>行くわよ。","\n<Lily>Off we go."
-"\n<シィナ>仕切んな。","\n<Shina>Don't try to stop us."
-"\n<ライム>（楽しそうなことになってきたぞー・・・）","\n<Lime>(Fun idea, for a fun game...)"
-"水","水"
-"一応飲めそうな水・・・","Water suitable for drinking..."
-"この水を全部飲み干して桶を被れば・・・！！","Maybe if I drink all this water and put the bucket on my head...!!"
-"バカなことを考えてる場合じゃない！","...This is no time to joke around!"
+bliss of becoming our semen slave- Ahahaha!",
+"\n<シィナ>にゃはははは！","\n<Shina>Nyahahaha!",
+"\n<リリー>あははははははは！！","\n<Lily>Ahahahahahaha!!",
+"\n<シィナ>にゃははははははは！！！","\n<Shina>Nyahahahahahahaa!!!",
+"\n<リリー>おーっほっほっほっほ！！","\n<Lily>Oohohohohohoho!!",
+"\n<シィナ>にゃーはっはっはっ！！！","\n<Shina>Nya-ha ha ha ha!!!",
+"\n<リリー>行くわよ。","\n<Lily>Off we go.",
+"\n<シィナ>仕切んな。","\n<Shina>Don't try to stop us.",
+"\n<ライム>（楽しそうなことになってきたぞー・・・）","\n<Lime>(Fun idea, for a fun game...)",
+"水","水",
+"一応飲めそうな水・・・","Water suitable for drinking...",
+"この水を全部飲み干して桶を被れば・・・！！","Maybe if I drink all this water and put the bucket on my head...!!",
+"バカなことを考えてる場合じゃない！","...This is no time to joke around!",
 "平べったくて背中が痛い布団・・・
 低い枕・・・","The futon cushions here are quite thin...
-Lying flat on this would really hurt your back..."
+Lying flat on this would really hurt your back...",
 "布団の中に隠れる・・・？
 普通に寝てるだけだと思われて終わりだ！","Hide under the covers...?
-They'd just think I'm sleeping in there and I'd be finished!"
+They'd just think I'm sleeping in there and I'd be finished!",
 "少し休憩しようかな・・・
 （全回復　時間経過　+1）","Maybe I should rest for a bit...
-(Full recovery and increases the passage of time by 1)"
-"はい","Yes"
-"いいえ","No"
-"リリー","Lily"
-"シィナ","Shina"
-"ライム","Lime"
-"掃除道具入れ","掃除道具入れ"
+(Full recovery and increases the passage of time by 1)",
+"はい","Yes",
+"いいえ","No",
+"リリー","Lily",
+"シィナ","Shina",
+"ライム","Lime",
+"掃除道具入れ","掃除道具入れ",
 "報告書：魔物について（マンドラゴラ）","Record Log:
-About Demons (Mandragora)"
+About Demons (Mandragora)",
 "植物の分際で動きます。
 近づくと唾を吐きかけてくるので注意してください。
 肌に触れると火傷のような症状が出ます。何より臭い！","It's movements are limited from being a plant. Note they may
 spit saliva if they're approached. This will inflict
-burns if it touches the skin. Not to mention the smell!"
+burns if it touches the skin. Not to mention the smell!",
 "餌は何でもいいです。何でも喜んで食べます。
 （※腕も食べられるので手でやらないこと）
 骨は消化できないので注意。まとめて吐き出します。","Any food will do, and will happily eat just about anything.
 (※Do not give them your arm because they will eat it.)
-It cannot digest bones however, so they will spit it out."
+It cannot digest bones however, so they will spit it out.",
 "植物系の魔物の例に漏れず、
 炎属性の攻撃に極端に弱い模様。","As typical of plant-based demons, they seem to be
-highly vulnerable to fire based attacks."
+highly vulnerable to fire based attacks.",
 "追伸：
 食欲旺盛過ぎて、メイドが鍵を食べられてしまったそうです。
 予備はあるので殺して取り出す必要はありません。","PS: Due to the extreme appetite, they seem to have eaten the
 key from the housemaid. But because we have a spare, there
-is no need to kill them to take it out."
-"捕まえシィナ","Shina Capture"
+is no need to kill them to take it out.",
+"捕まえシィナ","Shina Capture",
 "\n<シィナ>に""ゃ""っ！！
 脱獄囚ゲットにゃ！！","\n<Shina>Gotcha!!
-Escaped prisoner capture complete-nya!!"
+Escaped prisoner capture complete-nya!!",
 "\n<リリー>やっぱり鍵忘れてたみたい。
 間に合って良かったー。","\n<Lily>I guess I forgot to lock it after all.
-I'm glad we made it in time-."
+I'm glad we made it in time-.",
 "\n<ライム>あいたたた・・・
 ハシゴにがてー・・・","\n<Lime>Ow ow ow...
-Ladders suck..."
+Ladders suck...",
 "\n<リリー>もうひとり捕まえてるし、そいつ好きなだけ搾っていいわよ。
 私たちから逃げようとしたらどうなるか、
 身体に教えてあげて。","\n<Lily>We've caught one more person, and we can squeeze them as much as
 we like. Let's teach their body exactly what happens if they try
-to run away from us."
+to run away from us.",
 "\n<シィナ>搾精処刑にゃぁー♥
 ほら早くちんぽ立たせろー♥","\n<Shina>Semen squeezing punishment time-nya♥
-Hora- Get hard quickly now-♥"
-"通行止め","通行止め"
-"まずはあにきに話しかけよう・・・","I should talk to Alsy first..."
-"まずはロメリアに話しかけよう・・・","I should speak with Meria first..."
-"EV022","EV022"
+Hora- Get hard quickly now-♥",
+"通行止め","通行止め",
+"まずはあにきに話しかけよう・・・","I should talk to Alsy first...",
+"まずはロメリアに話しかけよう・・・","I should speak with Meria first...",
+"EV022","EV022",
 "・・・
 随分と長い時間搾られていたようだ。","...
-It seems you were milked for quite a long time."
-"リリーの日記","Lily's Diary"
+It seems you were milked for quite a long time.",
+"リリーの日記","Lily's Diary",
 "ライムの日記
 誘惑して脱獄","Lime's Dairy
-Prison Outbreak"
-"読んでみる","Read a little"
-"やめておく","Stop reading"
-"報告書","Report"
-"もう何もない・・・","I've got no time for that..."
-"EV025","EV025"
+Prison Outbreak",
+"読んでみる","Read a little",
+"やめておく","Stop reading",
+"報告書","Report",
+"もう何もない・・・","I've got no time for that...",
+"EV025","EV025",
 "\n<ロメリア>あれで調子乗っちゃったよね。
 私だって淫魔に勝てるんだって。
 へへへ♥","\n<ロメリア>あれで調子乗っちゃったよね。
-私だって淫魔に勝てるんだって。へへへ♥"
+私だって淫魔に勝てるんだって。へへへ♥","\n<Meria>You managed to get into it after all.
+I'm even stronger than a succubus. Heheheh♥"
 "\n<ロメリア>あにき、私のおっぱいでイっちゃったけどさ。
 淫魔が自滅するぐらいのアレだから、
 その、落ち込まないでねっていう・・・","\n<ロメリア>あにき、私のおっぱいでイっちゃったけどさ。
-淫魔が自滅するぐらいのアレだから、その、落ち込まないでねっていう・・・"
+淫魔が自滅するぐらいのアレだから、その、落ち込まないでねっていう・・・","\n<Meria>I guest it must feel weird that you came on my boobs.
+But you know, we're only doing this so that those succubi \nwon't take advantage of you, so don't feel too bad..."
 "\n<ロメリア>いやマジなんの話だよ。
 ごめん。
 あにきが自信無くしちゃったらやだなって思っただけ。忘れて。","\n<ロメリア>いやマジなんの話だよ。
-ごめん。あにきが自信無くしちゃったらやだなって思っただけ。忘れて。"
-"EV027","EV027"
-"梯子","梯子"
-"手鏡","Hand Mirror"
+ごめん。あにきが自信無くしちゃったらやだなって思っただけ。忘れて。","\n<Meria>I'm really serious. Sorry.
+I just didn't want you to lose confidence. Just forget it..."
+"EV027","EV027",
+"梯子","梯子",
+"手鏡","Hand Mirror",
 "今日の探索は諦めようか・・・
 （全回復　時間経過　+1）
 \C[10]ライムの夜這い発生","Should I give up today's search...?
 (Full Recovery and Passage of Time +1)
-\C[10]Lime will sneak in tonight."
-"\C[10]諦める","\C[10]Give up"
-"まだ頑張る","Keep at it"
+\C[10]Lime will sneak in tonight.",
+"\C[10]諦める","\C[10]Give up",
+"まだ頑張る","Keep at it",
 "\n<ライム>しー！
 大きな声出さないで・・・！
 みんな起きちゃうよ・・・！","\n<ライム>しー！
 大きな声出さないで・・・！
-みんな起きちゃうよ・・・！"
+みんな起きちゃうよ・・・！","\n<Lime>Shhh-!
+Don't be so loud...!
+You'll wake everyone else up...!"
 "\n<ライム>お腹空いたからちょっとだけ・・・♥
 \n[1]・・・♥","\n<ライム>お腹空いたからちょっとだけ・・・♥
-\n[1]・・・♥"
-"\n<ライム>おねがい♥えっちしよ♥","\n<ライム>おねがい♥えっちしよ♥"
-"\n<ライム>おいで・・・♥\n[1]・・・♥","\n<ライム>おいで・・・♥\n[1]・・・♥"
+\n[1]・・・♥","\n<Lime>I got a bit hungry...♥
+\n[1]...♥"
+"\n<ライム>おねがい♥えっちしよ♥","\n<ライム>おねがい♥えっちしよ♥","\n<Lime>Let's have sex♥ Oh, please♥"
+"\n<ライム>おいで・・・♥\n[1]・・・♥","\n<ライム>おいで・・・♥\n[1]・・・♥",\n<Lime>Come here...♥ \n[1]...♥
 "\n<\n[1]>（はぁ・・・はぁ・・・♥
 だ、ダメ・・・♥
 が、我慢できない・・・）","\n<\n[1]>（はぁ・・・はぁ・・・♥
 だ、ダメ・・・♥
-が、我慢できない・・・）"
+が、我慢できない・・・）","\n<\n[1]>(Hah... Hah...♥
+O-oh no...♥
+I-I can't resist...)"
 "\n<\n[1]>（えっちしたいえっちしたいえっちしたい・・・♥
 あぁ・・・♥もう無理♥）","\n<\n[1]>（えっちしたいえっちしたいえっちしたい・・・♥
-あぁ・・・♥もう無理♥）"
+あぁ・・・♥もう無理♥）","\n<\n[1]>(I wanna fuck her... I wanna fuck her...♥
+Ahhh...♥ I can't hold back♥)"
 "\n<\n[1]>（はぁ・・・はぁ・・・♥
 が、我慢できない・・・）","\n<\n[1]>（はぁ・・・はぁ・・・♥
-が、我慢できない・・・）"
-"リリーイベ","リリーイベ"
-"ライムイベ","ライムイベ"
-"シィナイベ","シィナイベ"
-"EV034","EV034"
+が、我慢できない・・・）","\n<\n[1]>(Hah... Hah...♥
+I-I can't resist...)"
+"リリーイベ","リリーイベ",
+"ライムイベ","ライムイベ",
+"シィナイベ","シィナイベ",
+"EV034","EV034",
 "\n<リリー>よし。
 これでオッケーっと。","\n<Lily>よし。
-これでオッケーっと。"
+これでオッケーっと。","\n<Lily>There.
+That takes care of that."
 "\n<シィナ>んにゃ？
 なんで鍵閉めるにゃ？
 脱出ゲームにゃん。","\n<Shina>んにゃ？
-なんで鍵閉めるにゃ？脱出ゲームにゃん。"
-"\n<リリー>えっ・・・？","\n<Lily>えっ・・・？"
-"\n<シィナ>鍵閉めたら出られんにゃ。","\n<Shina>鍵閉めたら出られんにゃ。"
+なんで鍵閉めるにゃ？脱出ゲームにゃん。","\n<Shina>Nyaa?
+Why'd you lock the door? What about the escape game, nyaan?"
+"\n<リリー>えっ・・・？","\n<Lily>えっ・・・？",\n<Lily>Ehhh...?
+"\n<シィナ>鍵閉めたら出られんにゃ。","\n<Shina>鍵閉めたら出られんにゃ。","\n<Shina>If you lock the door, they can't get out, nya."
 "\n<リリー>そうね。
 私としたことがうっかりしていたわ。","\n<Lily>そうね。
-私としたことがうっかりしていたわ。"
-"\n<シィナ>リリーはおっちょこちょいにゃぁ。","\n<Shina>リリーはおっちょこちょいにゃぁ。"
-"\n<ライム>（引っ込みがつかないのね・・・）","\n<Lime>（引っ込みがつかないのね・・・）"
+私としたことがうっかりしていたわ。","\n<Lily>Of course.
+What was I thinking?"
+"\n<シィナ>リリーはおっちょこちょいにゃぁ。","\n<Shina>リリーはおっちょこちょいにゃぁ。","\n<Shina>You're such a scatterbrain, Lily, nyaa."
+"\n<ライム>（引っ込みがつかないのね・・・）","\n<Lime>（引っ込みがつかないのね・・・）",\n<Lime>(She just keeps digging herself deeper...)
 "\n<リリー>ゲームはまだまだこれからよ。
 さぁ、コイツの心を折りまくって
 身も心も精奴隷にしてやりましょ。","\n<Lily>ゲームはまだまだこれからよ。
-さぁ、コイツの心を折りまくって身も心も精奴隷にしてやりましょ。"
+さぁ、コイツの心を折りまくって身も心も精奴隷にしてやりましょ。","\n<Lily>The game is still far from over.
+Now, let's crush their spirit, and make them a semen slave in body and soul."
 "\n<シィナ>次はどーやって搾ってやろうかにゃぁ。
 楽しみだし。","\n<Shina>次はどーやって搾ってやろうかにゃぁ。
-楽しみだし。"
+楽しみだし。","\n<Shina>How shall I drain them next time, nyaa.
+I'm looking forward to it."
 "\n<リリー>ふふ♥
 抵抗する気力を全て搾り尽くしてやりましょ。
 あははは！","\n<Lily>ふふ♥
-抵抗する気力を全て搾り尽くしてやりましょ。あははは！"
-"\n<シィナ>にゃはははー♥","\n<Shina>にゃはははー♥"
-"\n<ライム>くすくす♥","\n<Lime>くすくす♥"
+抵抗する気力を全て搾り尽くしてやりましょ。あははは！","\n<Lily>Fufu♥
+We'll squeeze out every last drop of your willpower. Ahahaha!"
+"\n<シィナ>にゃはははー♥","\n<Shina>にゃはははー♥",\n<Shina>Nyahahaha♥
+"\n<ライム>くすくす♥","\n<Lime>くすくす♥",\n<Lime>Hee hee♥
 "※イージーモードの設定です。
 オプションからいつでも変更可能です。","※You can toggle settings here to make the game easier.
-You can change these in the options menu anytime."
-"アクションイージー","Easier Actions"
-"探索ヒントモード","Hint Mode"
+You can change these in the options menu anytime.",
+"アクションイージー","Easier Actions",
+"探索ヒントモード","Hint Mode",
 "アクション要素を簡単にします。
 ・被ダメージの軽減　・魔物からの経験値増加
 ・タイミングバー、時間制限の難易度低下　など","Use this to make any interactive elements easier. This includes-
 Increased EXP gain, decreased damage taken, more lenient reaction
-times, etc."
-"アクションイージーON","Easier Actions ON"
-"アクションイージーOFF","Easier Actions OFF"
-"そのまま","Keep as is"
-"アクションイージーをONにしました。","Easier Actions was turned ON."
-"アクションイージーをOFFにしました。","Easier Actions was turned OFF."
+times, etc.",
+"アクションイージーON","Easier Actions ON",
+"アクションイージーOFF","Easier Actions OFF",
+"そのまま","Keep as is",
+"アクションイージーをONにしました。","Easier Actions was turned ON.",
+"アクションイージーをOFFにしました。","Easier Actions was turned OFF.",
 "進行に必要なものを探索する時にヒントが出ます。
 ・進行に必要な物の前に青い〇が表示されます。
 ・詰まりやすい場所は答えが見られるモヤモヤが出ます。","Hints will appear to assist you if you get stuck. 
 - A blue circle will appear in front of important objects
-- Tricky to progress areas will have easily visible solutions."
-"探索ヒントモードON","Turn Hint Mode ON"
-"探索ヒントモードOFF","Turn Hint Mode OFF"
-"探索ヒントをONにしました。","Hint Mode was turned ON."
-"探索ヒントをOFFにしました。","Hint Mode was turned OFF."
-"引っかけ場所","引っかけ場所"
-"<TE:立体起動>","<TE:立体起動>"
-"ロメ/アルねころがり","ロメ/アルねころがり"
-"EV039","EV039"
+- Tricky to progress areas will have easily visible solutions.",
+"探索ヒントモードON","Turn Hint Mode ON",
+"探索ヒントモードOFF","Turn Hint Mode OFF",
+"探索ヒントをONにしました。","Hint Mode was turned ON.",
+"探索ヒントをOFFにしました。","Hint Mode was turned OFF.",
+"引っかけ場所","引っかけ場所",
+"<TE:立体起動>","<TE:立体起動>",
+"ロメ/アルねころがり","ロメ/アルねころがり",
+"EV039","EV039",
 "今日の探索は諦めようか・・・
 （全回復　時間経過　+1）
 \C[10]リリー、シィナの夜這い発生","今日の探索は諦めようか・・・
 （全回復　時間経過　+1）
-\C[10]リリー、シィナの夜這い発生"
+\C[10]リリー、シィナの夜這い発生","Should I give up today's search...?
+(Full recovery and passage of time +1)
+\C[10]Lily and Shina will sneak in tonight."
 "\n<シィナ>起きろマゾ豚。
 夜食にゃん。","\n<シィナ>起きろマゾ豚。
-夜食にゃん。"
+夜食にゃん。","\n<Shina>Wake up, you pig.
+It's time for a midnight snack."
 "\n<リリー>寝てるところごめんね♥
 でも、精奴隷は自由なんてないの♥
 そうでしょ？","\n<リリー>寝てるところごめんね♥
 でも、精奴隷は自由なんてないの♥
-そうでしょ？"
+そうでしょ？","\n<Lily>Sorry to barge into your bedroom♥
+But semen slaves don't get to have privacy♥
+Isn't that right?"
 "\n<シィナ>アタシらがチンポ起てろって言ったら
 夜中だろうとすぐチンポ起てるにゃ。
 分かったか？","\n<シィナ>アタシらがチンポ起てろって言ったら
 夜中だろうとすぐチンポ起てるにゃ。
-分かったか？"
+分かったか？","\n<Shina>If we tell your cock to get up in the middle of the night
+then your cock's gonna get up, nya.
+Understand?"
 "\n<リリー>ふ♥
 もう起ってるみたいだけど♥","\n<リリー>ふ♥
-もう起ってるみたいだけど♥"
+もう起ってるみたいだけど♥","\n<Lily>Fuu♥
+It looks like it's already gotten up♥"
 "\n<\n[1]>（はぁ・・・はぁ・・・♥
 なんでこんな時間に・・・♥）","\n<\n[1]>（はぁ・・・はぁ・・・♥
-なんでこんな時間に・・・♥）"
+なんでこんな時間に・・・♥）","\n<\n[1]>(Hah... Hah...♥
+Why does it have to be now...♥)"
 "\n<\n[1]>（くそ・・・
 起っちゃう・・・♥やだ・・・♥）","\n<\n[1]>（くそ・・・
-起っちゃう・・・♥やだ・・・♥）"
+起っちゃう・・・♥やだ・・・♥）","\n<\n[1]>(Dammit...
+Waking up to this...♥ Oh no...♥)"
 "\n<\n[1]>（はぁ・・・はぁ・・・♥
 に、逃げられない・・・）","\n<\n[1]>（はぁ・・・はぁ・・・♥
-に、逃げられない・・・）"
-"EV041","EV041"
+に、逃げられない・・・）","\n<\n[1]>(Hah... Hah...♥
+I-I can't get away...)"
+"EV041","EV041",
 "今日の探索は諦めようか・・・
 （全回復　時間経過　+1）
 \C[10]ロメリアの夜這い発生","今日の探索は諦めようか・・・
 （全回復　時間経過　+1）
-\C[10]ロメリアの夜這い発生"
+\C[10]ロメリアの夜這い発生","Should I give up today's search...?
+(Full recovery and passage of time +1)
+\C[10]Meria will sneak in tonight."
 "\n<ロメリア>ごめん。起こしちゃった。
 寝てる間に済ませようと思ったのに。","\n<ロメリア>ごめん。起こしちゃった。
-寝てる間に済ませようと思ったのに。"
+寝てる間に済ませようと思ったのに。","\n<Meria>I'm sorry I woke you.
+I thought I could finish while you were asleep."
 "\n<ロメリア>どうしてここにって・・・
 いいじゃんそんなこと。
 それよりもさ。","\n<ロメリア>どうしてここにって・・・
 いいじゃんそんなこと。
-それよりもさ。"
+それよりもさ。","\n<Meria>You're wondering why I'm here...?
+Never mind that.
+More importantly..."
 "\n<ロメリア>もう私限界なの。
 こんなところにいて。
 頭おかしくなりそうでさ。","\n<ロメリア>もう私限界なの。
 こんなところにいて。
-頭おかしくなりそうでさ。"
+頭おかしくなりそうでさ。","\n<Meria>I've hit my limit.
+It's driving me crazy,
+being stuck in a place like this."
 "\n<ロメリア>おちんちん貸してよ。
 あにき。
 えっちしたい。","\n<ロメリア>おちんちん貸してよ。
 あにき。
-えっちしたい。"
+えっちしたい。","\n<Meria>Let me borrow your dick.
+Big brother.
+I want to have sex."
 "\n<\n[1]>（ど、どういうことだ・・・
 ロメリア・・・）","\n<\n[1]>（ど、どういうことだ・・・
-ロメリア・・・）"
+ロメリア・・・）","\n<\n[1]>(Wh-what do you mean...
+Meria...)"
 "\n<ロメリア>しよ♥えっちしよ♥
 ほら入れてよ♥入れて♥
 入れて入れて♥","\n<ロメリア>しよ♥えっちしよ♥
 ほら入れてよ♥入れて♥
-入れて入れて♥"
+入れて入れて♥","\n<Meria>Give it♥ Let me have sex♥
+Put it in now♥ Put it in♥
+Put it in put it in♥"
 "\n<\n[1]>（はぁ・・・はぁ・・・♥
 何かおかしい・・・
 こんなのダメだ・・・）","\n<\n[1]>（はぁ・・・はぁ・・・♥
 何かおかしい・・・
-こんなのダメだ・・・）"
+こんなのダメだ・・・）","\n<\n[1]>(Hah... Hah...♥
+Something is wrong...
+This is really bad...)"
 "※捕食スキップの設定です。
 オプションからいつでも変更可能です。","※You can toggle the skipping of vore events here.
-This can be changed at any time in the options menu."
-"捕食描写を見る","View vore events."
-"捕食描写を見ない","Do not view vore events."
-"説明","More info"
-"捕食描写を見るようにしました。","Events with vore will be viewed."
-"捕食描写を見ないようにしました。","Events with vore will not be viewed."
+This can be changed at any time in the options menu.",
+"捕食描写を見る","View vore events.",
+"捕食描写を見ない","Do not view vore events.",
+"説明","More info",
+"捕食描写を見るようにしました。","Events with vore will be viewed.",
+"捕食描写を見ないようにしました。","Events with vore will not be viewed.",
 "丸飲みされたり消化されたりする描写をスキップできます。
 苦手な方はご利用ください。","You can decide to skip any events that involve being
 digested or swallowed.
-If these events are not your cup of tea, please use this."
+If these events are not your cup of tea, please use this.",
 "また、捕食でも快楽を伴うものとなっておりますので
 苦痛などの描写はありません。","Furthermore, acts of digestion are always accompanied by pleasure.
-There are no descriptions of pain or suffering."
+There are no descriptions of pain or suffering.",
 "未使用イベント未使用イベント未使用イベント未使用イベント
 未使用イベント未使用イベント未使用イベント未使用イベント
-未使用イベント未使用イベント未使用イベント未使用イベント",""
-"\n<\n[1]>（何か考えてみよう・・・）",""
-"リリー達の日記について",""
-"情報を整理する",""
+未使用イベント未使用イベント未使用イベント未使用イベント",,
+"\n<\n[1]>（何か考えてみよう・・・）",,\n<\n[1]>(Let me collect my thoughts...)
+"リリー達の日記について",,About Lily's diaries
+"情報を整理する",,Collect information
 "\n<\n[1]>（淫魔の癖に筆まめなやつらだ。
-何か脱出のヒントになることは無かっただろうか。）",""
+何か脱出のヒントになることは無かっただろうか。）",,"\n<\n[1]>(The succubi record their thoughts so diligently.
+Was there some kind of hint on how to escape?)"
 "・リリーはわざと捕まって地下牢に入っていた
-→脱獄してそのまま館を乗っ取った",""
+→脱獄してそのまま館を乗っ取った",,"・Lily allowed herself to be captured and thrown in the dungeon.
+→She escaped, and took control of the mansion."
 "・リリーは館を襲撃してシィナを淫魔化させた
-→襲撃時に数人吸い尽くした",""
+→襲撃時に数人吸い尽くした",,"・Lily turned Shina into a succubus while seizing the mansion.
+→Several people were drained during the attack."
 "・リリーはシィナの頼みで一緒に暮らすことにした
-→館主当ての手紙の紋章から名前を取った",""
+→館主当ての手紙の紋章から名前を取った",,"・At Shina's request, Lily agreed to live together with her.
+→She got her name off a crest she found on an envelope."
 "・シィナはこの館の人間に捕まって館主のペットにされた
-→館主は珍しい生き物が好き",""
+→館主は珍しい生き物が好き",,"・Shina was caught by a servant and made into a pet.
+→The master liked rare and unusual creatures."
 "・ライムは元スラミー
-→スラミーの生息地は本来ダンデリオ周辺",""
+→スラミーの生息地は本来ダンデリオ周辺",,"・Lime was originally a slime.
+→Slimes primarily live around the outskirts of Dandelion."
 "・シィナは精奴隷を解放したことがある
-→吸い尽くさないこともある？",""
+→吸い尽くさないこともある？",,"・Shina once released a semen slave.
+→Not all semen slaves are drained to death?"
 "・リリーたちがギルドに依頼を出した
-→人間をおびき寄せる為",""
+→人間をおびき寄せる為",,"・Lily and company sent a request to the guild.
+→They attempted to lure humans to them."
 "・シィナが囚人服を見つけた
-→何故か館に囚人服があった",""
+→何故か館に囚人服があった",,"・Shina found a prison uniform
+→For some reason, there were prison uniforms in the mansion."
 "・リリー達はたまに何かの視線を感じることがある
-→幽霊ではない？",""
+→幽霊ではない？",,"・Lily and the others sometimes feel like they're being watched.
+→Is it some kind of ghost?"
 "・ある日突然大量のオークが湧いた
-→リリーがチャームをしてオークを使役している",""
+→リリーがチャームをしてオークを使役している",,"・One day, a bunch of orcs suddenly appeared.
+→Lily charmed them, and put them all to work."
 "・アーコは商売をするために館に来た
-→シィナと再会した",""
+→シィナと再会した",,"・Ako came to the mansion to trade.
+→She reunited with Shina."
 "・精奴隷の食事はライムが作る
-→レシピはここで働いていた料理人のもの",""
+→レシピはここで働いていた料理人のもの",,"・Lime makes all the food for the semen slaves.
+→The recipes belonged to the cook that used to work here."
 "・過去に脱獄した精奴隷がいる
-→鍵を掛け忘れたわけではない",""
+→鍵を掛け忘れたわけではない",,"・A semen slave escaped in the past.
+→No one admitted they forgot to lock the door."
 "・ライムは食欲旺盛なようだ
-→太ると身体を分離する",""
+→太ると身体を分離する",,"・Lime has a healthy appetite.
+→When she gets too fat, she divides her body."
 "・リリーは本を読むのが趣味なようだ
-→知識欲が強い",""
+→知識欲が強い",,"・Lily seems to enjoy reading books.
+→She has a big appetite for knowledge."
 "・リリーたちは恋について考えることがある
 →少しは話が通じる可能性がある？
-→無さそう",""
+→無さそう",,"・Lily and the others sometimes think about love.
+→Do we have a little bit in common after all?
+→Probably not."
 "・お風呂はライムの部屋
-→ライムは水分が必要",""
+→ライムは水分が必要",,"・The bathroom is Lime's room.
+→Lime requires fluids to live."
 "・リリーとシィナはよくケンカをする
-→お互いに自分の方が上だと思っているようだ",""
+→お互いに自分の方が上だと思っているようだ",,"・Lily and Shina fight very frequently.
+→Each seems to think she's superior to the other."
 "・ライムは直射日光で溶ける
-→スラミーの性質が引き継がれている",""
+→スラミーの性質が引き継がれている",,"・Lime melts in direct sunlight.
+→Her body still possesses all the properties of a slime."
 "・シィナは直感が鋭い
-→ノラ猫時代に培った野生の感",""
+→ノラ猫時代に培った野生の感",,"・Shina has sharp instincts.
+→Her instincts are sharp from her life as a stray cat."
 "・リリーは恋愛小説にハマっている
-→淫魔の癖に乙女な部分もあるようだ",""
+→淫魔の癖に乙女な部分もあるようだ",,"・Lily has a thing for romance novels.
+→It seems even succubi have an innocent side."
 "・アーコは人間と淫魔の共存を願っている
-→根本的に人間＝食料なので難しい",""
+→根本的に人間＝食料なので難しい",,"・Ako wishes that humans and succubi could co-exist.
+→Ultimately, humans = food, so this is tricky."
 "\n<\n[1]>（リリーたちは長い間ここで生活しているみたいだ。
-少しは何を考えているのか分かった気がする・・・）",""
-"\n<\n[1]>（リリーたちについて考えるにはまだ情報が足りない・・・）",""
+少しは何を考えているのか分かった気がする・・・）",,"\n<\n[1]>(Lily and them have been living here for a long time, it seems.
+I feel like I understand them just a bit...)"
+"\n<\n[1]>（リリーたちについて考えるにはまだ情報が足りない・・・）",,\n<\n[1]>(I don't have enough information to think about Lily and them...)
 "\n<\n[1]>（ここはただのお金持ちが住んでいただけの館じゃない。
 秘密がある。
-きっと何か目的がある施設だ。）",""
-"\n<\n[1]>（館について考えるにはまだ情報が足りない・・・）",""
+きっと何か目的がある施設だ。）",,"\n<\n[1]>(This wasn't just a mansion for some rich person to live in.
+There's a secret here.
+This place is a facility made for some specific purpose.)"
+"\n<\n[1]>（館について考えるにはまだ情報が足りない・・・）",,\n<\n[1]>(There's not enough information to think about the mansion...)
 "\n<\n[1]>（館主は魔物や動物を集めていた。
-おそらく淫魔も・・・）",""
-"\n<\n[1]>（魔物について考えるにはまだ情報が足りない・・・）",""
+おそらく淫魔も・・・）",,"\n<\n[1]>(The master was collecting monsters and animals.
+Possibly succubi as well...)"
+"\n<\n[1]>（魔物について考えるにはまだ情報が足りない・・・）",,\n<\n[1]>(There's not enough information to think about the monsters...)
 "\n<\n[1]>（ここで暮らしていた人たちはどこへ・・・？
 全員吸い尽くされたとは考えられない。
-逃げ切れた人もいるはず。）",""
+逃げ切れた人もいるはず。）",,"\n<\n[1]>(Where are all the people that used to live here...?
+There's no way they were all drained.
+Some people must have escaped.)"
 "\n<\n[1]>（それならどうして・・・
 討伐依頼を出さなかったんだろう。
-出せない理由があった？）",""
-"\n<\n[1]>（犠牲者について考えるにはまだ情報が足りない・・・）",""
+出せない理由があった？）",,"\n<\n[1]>(But if that's the case...
+Why did no one submit a subjugation request?
+Was something keeping them from doing so?)"
+"\n<\n[1]>（犠牲者について考えるにはまだ情報が足りない・・・）",,\n<\n[1]>(There's not enough information to think about the victims...)
 "\n<\n[1]>（オークたちはどこから入って来たんだろう。
-ひょっとすると抜け穴が・・・？）",""
-"\n<\n[1]>（まだ見落としがありそうだ・・・）",""
-"日記について",""
+ひょっとすると抜け穴が・・・？）",,"\n<\n[1]>(Where did all the orcs come from?
+Some kind of secret passage...?)"
+"\n<\n[1]>（まだ見落としがありそうだ・・・）",,\n<\n[1]>(It still feels like I'm missing something...)
+"日記について",,About the diaries
 "・過去に脱獄した精奴隷がいる
-→脱走者はどこへ？",""
+→脱走者はどこへ？",,"・A semen slave has escaped in the past.
+→Where is this escapee?"
 "\n<\n[1]>（オークたちはどこから入って来たんだろう。
-ひょっとすると、どこかに隠し通路みたいなものが・・・？）",""
-"情報の整理（日記の確認）",""
-"しかばね",""
+ひょっとすると、どこかに隠し通路みたいなものが・・・？）",,"\n<\n[1]>(Where did all the orcs come from?
+Is there a hidden passage somewhere around here...?)"
+"情報の整理（日記の確認）",,Organize information (Check diary)
+"しかばね",,
 "返事がない・・・
-ただの屍のようだ・・・",""
+ただの屍のようだ・・・",,"No answer...
+It's just a corpse..."
 "屍だ・・・
 リリー達の犠牲者なのだろうか・・・
-・・・",""
+・・・",,"A corpse...
+One of Lily's victims, perhaps...
+..."
 "骨の中にレコシードがある・・・
 何かメッセージが録音されているかもしれない。
-聞いてみよう。",""
+聞いてみよう。",,"There's a recorder seed among the bones...
+They may have recorded a message.
+Let's hear it."
 "\n<？？？>畜生・・・
 こんなところに閉じ込めやがって。
-一体、俺をどうする気なんだ。",""
+一体、俺をどうする気なんだ。",,"\n<？？？>Those sons of bitches...
+How could they lock me up here.
+What the hell do they want with me?"
 "\n<？？？>今にして思えば、あのメイドが出してきた紅茶・・・
 あれに何か入っていたに違いない。
-急な眠気が襲ってきて、気が付いたら檻の中だ。",""
+急な眠気が襲ってきて、気が付いたら檻の中だ。",,"\n<？？？>Now that I think about it, that tea that the maid served...
+There must have been something in it.
+I suddenly got very drowsy, then I woke up in this cell."
 "\n<？？？>俺が冒険者だと聞いて、
 居なくなっても問題ないと思われたんだろう。
-クソ・・・余計なことを喋るんじゃなかった。",""
+クソ・・・余計なことを喋るんじゃなかった。",,"\n<？？？>I guess when I told them I was an adventurer,
+they figured that no one would notice that I went missing.
+Dammit... Sometimes I talk too much."
 "\n<？？？>隣の檻のヤツは正気を失っているのか、
 ひたすらに『もう実験は嫌だ』と繰り返している。
-さっきからゴツゴツと鳴る音は、壁に頭をぶつけているのか？",""
+さっきからゴツゴツと鳴る音は、壁に頭をぶつけているのか？",,"\n<？？？>I think the guy in the next cell over is losing it.
+He keeps saying, 'no more experiments' over and over.
+And that banging sound... Is he hitting his head on the wall?"
 "\n<？？？>俺もこれからあんな風になるのかもしれない。
 モルモットにされて正気を失う前に、
-このレコシードは飲み込んでおこう。",""
+このレコシードは飲み込んでおこう。",,"\n<？？？>That could be me pretty soon, too.
+Before I become a guinea pig and lose my head, I'm
+swallowing this recorder seed."
 "\n<？？？>万が一俺が死んで、そしてこれを聞いたのが善良な人間なら
 この館の悪事を暴き、しかるべき報いを受けさせてくれ。
-・・・",""
-"\n<？？？>ごくっ。",""
+・・・",,"\n<？？？>If I happen to die, and a good person manages to hear this
+seed, please expose the evil deeds in this mansion.
+Please avenge me..."
+"\n<？？？>ごくっ。",,\n<？？？>Gulp.
 "悪事・・・？
-この館は一体・・・",""
+この館は一体・・・",,"Evil deeds...?
+What went on in this mansion..."

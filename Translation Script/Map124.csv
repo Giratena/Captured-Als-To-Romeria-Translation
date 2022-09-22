@@ -1,9 +1,9 @@
-"自動実行","自動実行",""
-"食糧庫ドア","食糧庫ドア",""
-"館主","館主",""
-"猫シィナ","猫シィナ",""
-"リリー","Lily",""
-"イベント実行","イベント実行",""
+"自動実行","自動実行",
+"食糧庫ドア","食糧庫ドア",
+"館主","館主",
+"猫シィナ","猫シィナ",
+"リリー","Lily",
+"イベント実行","イベント実行",
 "\n<シィナ>マーオ！！
 （ぶっ殺してやるにゃ！！）","\n<シィナ>マーオ！！
 （ぶっ殺してやるにゃ！！）","\n<Shina>Meow!
@@ -143,117 +143,154 @@ M-my body feels hot...!!"
 U-unhand me...!!
 Stop...!!"
 "\n<館主>ぐああああああああぁぁぁぁぁぁあ！！！","\n<館主>ぐああああああああぁぁぁぁぁぁあ！！！","\n<Master>Gyaaaaaaaaaaaah!!!"
-"\n<シィナ>死ね！！死ね！！","\n<シィナ>死ね！！死ね！！",""
+"\n<シィナ>死ね！！死ね！！","\n<シィナ>死ね！！死ね！！","\n<Shina>Die!! Diiiiee!!"
 "\n<赤髪の淫魔>それ以上どうやって死ぬのよ。
 もうとっくに死んでるわ。","\n<赤髪の淫魔>それ以上どうやって死ぬのよ。
-もうとっくに死んでるわ。",""
-"\n<シィナ>はぁ・・・はぁ・・・","\n<シィナ>はぁ・・・はぁ・・・",""
+もうとっくに死んでるわ。","\n<Red Haired Succubus>How much more dead does he need to be?
+He died quite a while ago."
+"\n<シィナ>はぁ・・・はぁ・・・","\n<シィナ>はぁ・・・はぁ・・・","\n<Shina>Haah... Haah..."
 "\n<赤髪の淫魔>あらら・・・
 骨しか残ってないじゃない。
 \}服はどこ行ったのよ。","\n<赤髪の淫魔>あらら・・・
 骨しか残ってないじゃない。
-\}服はどこ行ったのよ。",""
+\}服はどこ行ったのよ。","\n<Red Haired Succubus>My my...
+Nothing but bones remain.
+\}Wonder where the clothes went."
 "\n<赤髪の淫魔>どうだった？
 初めて人間を搾り尽くした感想は？","\n<赤髪の淫魔>どうだった？
-初めて人間を搾り尽くした感想は？",""
-"\n<シィナ>最悪の気分にゃ。","\n<シィナ>最悪の気分にゃ。",""
+初めて人間を搾り尽くした感想は？","\n<Red Haired Succubus>How was it?
+How did it feel to drain a human for the first time?"
+"\n<シィナ>最悪の気分にゃ。","\n<シィナ>最悪の気分にゃ。","\n<Shina>That felt terrible, nya."
 "\n<シィナ>すぅ～・・・
 ・・・","\n<シィナ>すぅ～・・・
-・・・",""
-"\n<シィナ>はぁ～・・・","\n<シィナ>はぁ～・・・",""
+・・・","\n<Shina>Suck～...
+..."
+"\n<シィナ>はぁ～・・・","\n<シィナ>はぁ～・・・","\n<Shina>Haah～..."
 "\n<シィナ>なるほど。これがタバコにゃ。
 クソ野郎のクソキモい体臭に比べれば確かに・・・
 煙の方がずっとマシにゃぁ。","\n<シィナ>なるほどにゃ。これがタバコにゃ。
 クソ野郎のクソキモい体臭に比べれば確かに・・・
-煙の方がずっとマシにゃぁ。",""
+煙の方がずっとマシにゃぁ。","\n<Shina>Nyaaah, I see. So this is a cigarette.
+Compared to this piece of shit's body odor...
+This smoke smells like a bed of roses, nya."
 "\n<赤髪の淫魔>あんたが『可愛がられてるペット』で
 『大好きなご主人様を本能に逆らえず襲ってしまう』っていう
 悲劇的なシナリオを期待してたんだけど。","\n<赤髪の淫魔>あんたが『可愛がられてるペット』で
 『大好きなご主人様を本能に逆らえず襲ってしまう』っていう
-悲劇的なシナリオを期待してたんだけど。",""
+悲劇的なシナリオを期待してたんだけど。","\n<Red Haired Succubus>I was sort of hoping for a 'beloved pet' thing.
+Like, 'I can't go against my instincts, and attack my precious master',
+kind of a tragic screenplay, you know?"
 "\n<シィナ>捕まって
 無理やり閉じ込められてただけだし。
 思い出してもムカツクにゃ。","\n<シィナ>捕まえられて
 無理やり閉じ込められてただけだし。
-思い出してもムカツクにゃ。",""
+思い出してもムカツクにゃ。","\n<Shina>They captured me
+and forced me into a cage.
+Just thinking about it pisses me off, nya."
 "\n<赤髪の淫魔>ふふ♥
 ま、それはそれで面白いもの見られた。
 楽しませてもらったわ。","\n<赤髪の淫魔>ふふ♥
 ま、それはそれで面白いもの見られた。
-楽しませてもらったわ。",""
+楽しませてもらったわ。","\n<Red Haired Succubus>Fufu♥
+Well, that was quite interesting to watch.
+I had quite a lot of fun."
 "\n<赤髪の淫魔>じゃあ、そろそろ私は行くわね。
 いい暇つぶしになったわ。
 さようなら。猫ちゃん。","\n<赤髪の淫魔>じゃあ、そろそろ私は行くわね。
 いい暇つぶしになったわ。
-さようなら。猫ちゃん。",""
+さようなら。猫ちゃん。","\n<Red Haired Succubus>Well, I should be going soon.
+This has been a lovely diversion.
+See you later, kitty cat."
 "\n<シィナ>ちょ、ちょっと待つにゃ・・・！！
 こんな身体にされて、
 アタシはどうやって生きていけば・・・！！","\n<シィナ>ちょ、ちょっと待つにゃ・・・！！
 こんな身体にされて、
-アタシはどうやって生きていけば・・・！！",""
+アタシはどうやって生きていけば・・・！！","\n<Shina>H-hold on just a moment, nya...!
+You're just going to leave me with this body!?
+How am I supposed to live like this...!?"
 "\n<赤髪の淫魔>知らないわよ。
 淫魔なら思うように、好きなことをして過ごしなさい。
 みんなそうやって生きてるのよ。","\n<赤髪の淫魔>知らないわよ。
 淫魔なら思うように、好きなことをして過ごしなさい。
-みんなそうやって生きてるのよ。",""
+みんなそうやって生きてるのよ。","\n<Red Haired Succubus>I don't know.
+Just do whatever your heart desires. You're a succubus
+now. That's how our kind lives."
 "\n<シィナ>そんにゃ！
 お前が勝手にこんなにしたんにゃ！
 責任取るにゃ！！","\n<シィナ>そんにゃ！
 お前が勝手にこんなにしたんにゃ！
-責任取るにゃ！！",""
+責任取るにゃ！！","\n<Shina>Bullshit!
+You did this to me!
+Take some damn responsibility, nya!!"
 "\n<赤髪の淫魔>ちょっと！なんなのあんた。
 普通は淫魔になったら、ひとりで自由にするものなの！","\n<赤髪の淫魔>ちょっと！なんなのあんた。
-普通は淫魔になったらひとりで自由にするものなの！",""
-"\n<シィナ>責任取るにゃん！！責任取るにゃん！！","\n<シィナ>責任取るにゃん！！責任取るにゃん！！",""
+普通は淫魔になったらひとりで自由にするものなの！","\n<Red Haired Succubus>Now hold on! What do you think you're doing?
+Succubi do whatever they want, by themselves!"
+"\n<シィナ>責任取るにゃん！！責任取るにゃん！！","\n<シィナ>責任取るにゃん！！責任取るにゃん！！","\n<Shina>Take responsibility!! Take responsibility, nyan!!"
 "\n<赤髪の淫魔>いたたた・・・！
 は、離しなさいよ！このバカ猫・・・！！","\n<赤髪の淫魔>いたたた・・・！
-は、離しなさいよ！このバカ猫・・・！！",""
+は、離しなさいよ！このバカ猫・・・！！","\n<Red Haired Succubus>Ouuuuch...!!
+L-Let go of me! Stupid cat...!!"
 "\n<シィナ>だって！だってこんな・・・！
 にゃぁぁぁぁぁぁ！！！！","\n<シィナ>だって！だってこんな・・・！
-にゃぁぁぁぁぁぁ！！！！",""
+にゃぁぁぁぁぁぁ！！！！","\n<Shina>You did this! You made me like this...!
+Nyaaaaaaaaah!!!"
 "\n<赤髪の淫魔>の、乗るな！！
 うげっ！！","\n<赤髪の淫魔>の、乗るな！！
-うげっ！！",""
-"\n<シィナ>にゃぁぁぁぁぁぁぁぁぁぁ！！！","\n<シィナ>にゃぁぁぁぁぁぁぁぁぁぁ！！！",""
+うげっ！！","\n<Red Haired Succubus>G-get off!!
+Owwww!!"
+"\n<シィナ>にゃぁぁぁぁぁぁぁぁぁぁ！！！","\n<シィナ>にゃぁぁぁぁぁぁぁぁぁぁ！！！","\n<Shina>Meoooooooooww!!!"
 "\n<赤髪の淫魔>うっとおしいわね！
 いい加減にしないさいよ！
 ちっ・・・","\n<赤髪の淫魔>うっとおしいわね！
 いい加減にしないさいよ！
-ちっ・・・",""
-"\n<シィナ>にゃぁぁ・・・","\n<シィナ>にゃぁぁ・・・",""
-"\n<シィナ>しくしく・・・","\n<シィナ>しくしく・・・",""
+ちっ・・・","\n<Red Haired Succubus>Bothersome thing!
+Show some respect!
+Geez..."
+"\n<シィナ>にゃぁぁ・・・","\n<シィナ>にゃぁぁ・・・","\n<Shina>Nyoooww..."
+"\n<シィナ>しくしく・・・","\n<シィナ>しくしく・・・","\n<Shina>Sniff..."
 "\n<シィナ>こ・・・\.怖かったんにゃ・・・\.\.
 ずっとひとりで・・・","\n<シィナ>こ・・・\.怖かったんにゃ・・・\.\.
-ずっとひとりで・・・",""
+ずっとひとりで・・・","\n<Shina>I...\. I was so scared...\.\.
+I was always alone..."
 "\n<シィナ>置いて\.・\.・\.・\.\.
 置いて行かにゃいで\.・\.・\.・","\n<シィナ>置いて\.・\.・\.・\.\.
-置いて行かにゃいで\.・\.・\.・",""
-"\n<赤髪の淫魔>・・・","\n<赤髪の淫魔>・・・",""
+置いて行かにゃいで\.・\.・\.・","\n<Shina>Don't\..\..\..\.\.
+Don't leave me alone\..\..\.."
+"\n<赤髪の淫魔>・・・","\n<赤髪の淫魔>・・・","\n<Red Haired Succubus>..."
 "\n<赤髪の淫魔>はぁ・・・\.\.
 全く、しょうがないわね。\.
 少しだけよ。\.一緒に居てあげる。","\n<赤髪の淫魔>はぁ・・・\.\.
 全く、しょうがないわね。\.
-少しだけよ。\.一緒に居てあげる。",""
+少しだけよ。\.一緒に居てあげる。","\n<Red Haired Succubus>Sigh...\.\.
+I guess I've got no other choice.\.
+I'll stay with you.\. Just for a little while."
 "\n<シィナ>あ、アタシはシィナ！
 お前は？","\n<シィナ>あ、アタシはシィナ！
-お前は？",""
+お前は？","\n<Shina>M-my name's Shina!
+What's your name?"
 "\n<赤髪の淫魔>名前なんてないわ。
 サキュバスだもの。
 必要がない・・・","\n<赤髪の淫魔>名前なんてないわ。
 サキュバスだもの。
-必要がない・・・",""
-"\n<赤髪の淫魔>でも・・・そうね。","\n<赤髪の淫魔>でも・・・そうね。",""
+必要がない・・・","\n<Red Haired Succubus>I don't have a name.
+I'm a succubus.
+We don't need names..."
+"\n<赤髪の淫魔>でも・・・そうね。","\n<赤髪の淫魔>でも・・・そうね。","\n<Red Haired Succubus>But... I guess..."
 "\n<赤髪の淫魔>・・・
 （これは・・・黒いユリの紋章・・・）","\n<赤髪の淫魔>・・・
-（これは・・・黒いユリの紋章・・・）",""
-"\n<赤髪の淫魔>\.・\.・\.・","\n<赤髪の淫魔>\.・\.・\.・",""
+（これは・・・黒いユリの紋章・・・）","\n<Red Haired Succubus>...
+(This crest... It's a black lily...)"
+"\n<赤髪の淫魔>\.・\.・\.・","\n<赤髪の淫魔>\.・\.・\.・","\n<Red Haired Succubus>\..\..\.."
 "\n<赤髪の淫魔>リリー。\.\.
 リリーでいいわ。","\n<赤髪の淫魔>リリー。\.\.
-リリーでいいわ。",""
+リリーでいいわ。","\n<Red Haired Succubus>Lily.\.\.
+Lily will do."
 "\n<リリー>私はリリー。
 よろしく。シィナ。","\n<リリー>私はリリー。
-よろしくね。シィナ。",""
-"ケムリ","ケムリ",""
-"タバコ","タバコ",""
-"ケムリ２","ケムリ２",""
-"紙","紙",""
+よろしくね。シィナ。","\n<Lily>My name is Lily.
+Nice to meet you, Shina."
+"ケムリ","ケムリ",
+"タバコ","タバコ",
+"ケムリ２","ケムリ２",
+"紙","紙",

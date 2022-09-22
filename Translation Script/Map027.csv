@@ -1,96 +1,138 @@
-"自動実行",""
-"イベント実行",""
+"自動実行",
+"イベント実行",
 "\n<ライム>これからどーする？
-おうち無くなっちゃったけど。",""
+おうち無くなっちゃったけど。","\n<Lime>What are we going to do now?
+We're homeless."
 "\n<シィナ>アタシは元々ノラだし。
-別に屋根も床もいらんにゃ。",""
+別に屋根も床もいらんにゃ。","\n<Shina>I'm a stray at heart.
+I don't need a roof or a bed, nya."
 "\n<リリー>そう言われると私も別に・・・
-元々、私の家じゃないし。",""
+元々、私の家じゃないし。","\n<Lily>When you put it like that, I...
+I never had a house before now either."
 "\n<リリー>あーでもお風呂・・・
-お風呂は入りたいわ・・・",""
-"\n<シィナ>それにゃ。",""
+お風呂は入りたいわ・・・","\n<Lily>Ah, but that bath...
+I want to take a bath now..."
+"\n<シィナ>それにゃ。","\n<Shina>You said it, nya."
 "\n<ライム>あ、リリー。ごめんね。
 さっき、本探したけど見つからなかった。
-全部埋まっちゃってたみたい・・・",""
+全部埋まっちゃってたみたい・・・","\n<Lime>Ah, I'm sorry, Lily.
+I was searching for books back there.
+It seems like they're all buried away though..."
 "\n<リリー>本？探してくれたの？
 ありがと。
-でも、大丈夫。",""
-"\n<ライム>いいの？",""
+でも、大丈夫。","\n<Lily>Really? You were looking for books?
+Thank you.
+But, it's fine."
+"\n<ライム>いいの？","\n<Lime>It is?"
 "\n<リリー>もういいの。
-なんかちょっと、分かった気がするし。",""
-"\n<ライム>・・・？",""
+なんかちょっと、分かった気がするし。","\n<Lily>Yes, it's fine.
+Somehow, I feel like I understand a little better."
+"\n<ライム>・・・？","\n<Lime>...?"
 "\n<ライム>あ、そうだ。
-アーコちゃんのところに行くっていうのはどーお？",""
+アーコちゃんのところに行くっていうのはどーお？","\n<Lime>Oh yeah.
+What do you think about going to Ako's place?"
 "\n<シィナ>嫌にゃ。
-アイツにこれ以上借りを作りたくないにゃん。",""
+アイツにこれ以上借りを作りたくないにゃん。","\n<Shina>No way, nya.
+I don't want to owe her anything else, nyan."
 "\n<シィナ>なーんか・・・苦手にゃん。
-昔から、アーコには全部見透かされてる気がして。",""
+昔から、アーコには全部見透かされてる気がして。","\n<Shina>I was... Never good at it, nya.
+But Ako has always been able to see right through me."
 "\n<ライム>優しくていい子だと思うけどー。
-私は好きだよ。アーコちゃん。",""
-"\n<シィナ>お前の好きはピザと一緒にゃん。",""
+私は好きだよ。アーコちゃん。","\n<Lime>I think she's a sweet girl-.
+I really love that Ako."
+"\n<シィナ>お前の好きはピザと一緒にゃん。","\n<Shina>You love her like you love pizza."
 "\n<ライム>やめてよそれー。
-あの時はよく分かってなかっただけだもん。",""
-"\n<リリー>くくく・・・♥",""
+あの時はよく分かってなかっただけだもん。","\n<Lime>Knock it off.
+I didn't know what I was saying back then."
+"\n<リリー>くくく・・・♥","\n<Lily>Kukuku...♥"
 "\n<シィナ>おせっかい焼きにゃ。アイツは。
-優しいのが、悔しいにゃん。",""
+優しいのが、悔しいにゃん。","\n<Shina>She's such a busybody, nya.
+It's annoying how kind she is, nyan."
 "\n<リリー>あんたが素直じゃないだけでしょ。
-アーコがいなかったら私達まだ実験台よ。",""
+アーコがいなかったら私達まだ実験台よ。","\n<Lily>Let's be honest though.
+Without Ako, we'd still be lab experiments now."
 "\n<シィナ>・・・
-タバコが切れたらにゃ。",""
+タバコが切れたらにゃ。","\n<Shina>...
+I'm all out of cigarettes, nya."
 "\n<リリー>あーぁ。
-しばらく野宿になりそうね。",""
+しばらく野宿になりそうね。","\n<Lily>Ahh.
+Looks like we'll be sleeping outdoors for a while."
 "\n<ライム>野宿かぁー・・・
-なんだかわくわくするなー♥",""
+なんだかわくわくするなー♥","\n<Lime>Sleeping outside...
+I'm getting kind of excited-♥"
 "\n<ライム>私、おうちから遠くに行ったことないから
-みんなとどこかに行けるの、それだけで嬉しい！",""
+みんなとどこかに行けるの、それだけで嬉しい！","\n<Lime>I've never been this far away from home before.
+Getting to travel with you guys, I'm really happy!"
 "\n<シィナ>んー・・・
-ま、それもそうにゃ。",""
-"\n<ライム>キャンプファイヤーしようよ！",""
-"\n<リリー>芋もマシュマロもないけどいいの？",""
-"\n<ライム>いい！",""
-"\n<シィナ>久しぶりに星を見ながら寝るのも悪くないにゃん。",""
+ま、それもそうにゃ。","\n<Shina>Mm...
+I guess that's true."
+"\n<ライム>キャンプファイヤーしようよ！","\n<Lime>Let's have a campfire!"
+"\n<リリー>芋もマシュマロもないけどいいの？","\n<Lily>We don't have any potatoes or marshmallows, ok?"
+"\n<ライム>いい！","\n<Lime>That's ok!"
+"\n<シィナ>久しぶりに星を見ながら寝るのも悪くないにゃん。","\n<Shina>It's been a while since I slept under the stars too, nyan."
 "\n<リリー>（\n[1]・・・\.\.
 いつかリベンジして、\.絶対に精奴隷にしてやるから。\.\.
-覚悟してなさい。）",""
+覚悟してなさい。）","\n<Lily>(\n[1]...\.\.
+I'll have my revenge someday.\. I'll make you my semen slave
+once again.\.\. Be prepared.)"
 "\n<リリー>（でも今は\.・\.・\.・\.\.\.\.
-この時間を楽しみましょ。）",""
-"ED5　人と淫魔の違い",""
+この時間を楽しみましょ。）","\n<Lily>(But right now\..\..\..\.\.\.\.
+I'm gonna kick back for a while.)"
+"ED5　人と淫魔の違い","ED5　The difference between humans and succubi"
 "\n<シィナ>にゃぁぁぁぁぁぁ！！
 虫の声うるせーーーーーー！！！
-寝れねえぇぇぇぇぇーーー！！！",""
+寝れねえぇぇぇぇぇーーー！！！","\n<Shina>Nyaaaaaaahhh!!
+Loud ass bugs-----!!!
+I can't sleeeeeeeeeppp---!!!"
 "\n<リリー>か、痒いわ！！
-めっちゃ刺されてる！！蚊に！！",""
+めっちゃ刺されてる！！蚊に！！","\n<Lily>S-so itchy!!
+Mosquitos!! Poking me all over!!"
 "\n<シィナ>外ってこんなにうるさかったにゃぁ！？
 もう嫌にゃん！
-家！家が恋しいにゃ！！",""
+家！家が恋しいにゃ！！","\n<Shina>Was outside always this loud, nyaa!?
+This is the worst, nyan!
+Home! I miss home!!"
 "\n<リリー>やっぱり一度楽な生活を経験するとダメだわ・・・
-最悪・・・",""
-"\n<ライム>ぐごぉぉぉ・・・ｚｚZ",""
+最悪・・・","\n<Lily>Once you've gotten a taste for the good life...
+There's no going back..."
+"\n<ライム>ぐごぉぉぉ・・・ｚｚZ","\n<Lime>Snooooore... ZzzZzzZzzz"
 "\n<チョコレ>ママ・・・
-今なんか森の奥から嫌な声が聞こえたような気がします。",""
+今なんか森の奥から嫌な声が聞こえたような気がします。","\n<Chocolat>Mama... I think I just heard some
+nasty voices from deep in the forest."
 "\n<ベルーチェ>気のせいであることを願いましょう。
-はぁ・・・何故わたくしが野宿など・・・",""
+はぁ・・・何故わたくしが野宿など・・・","\n<Velvet>Let's hope it was just your imagination.
+Hahh... What am I doing sleeping outside..."
 "\n<チョコレ>研究所も無くなっちゃったし・・・
-これからどうすればいいんれすか？",""
+これからどうすればいいんれすか？","\n<Chocolat>The research lab is all gone...
+What should we do now?"
 "\n<ベルーチェ>今は耐え忍ぶのです。
 生きていればチャンスは必ず訪れます。
-研究員達と合流して、もう一度やり直しましょう。",""
+研究員達と合流して、もう一度やり直しましょう。","\n<Velvet>We'll grin and bear it.
+As long as we're alive, another chance will come by.
+Let's reunite with the researchers, and start over."
 "\n<ベルーチェ>崇高な目的の為にも、我々はこんなことで
-挫けるわけには行きませんわ。",""
-"\n<チョコレ>そう・・・れすね。",""
+挫けるわけには行きませんわ。","\n<Velvet>For the sake our noble cause,
+We must absolutely not give up hope."
+"\n<チョコレ>そう・・・れすね。","\n<Chocolat>Yeah... That's right."
 "\n<チョコレ>今回の件で学べた事も沢山ありました。
-マイナスの方が圧倒的に大きいれすが、無駄ではありません。",""
+マイナスの方が圧倒的に大きいれすが、無駄ではありません。","\n<Chocolat>I learned a lot from this incident. Our losses
+were overwhelmingly massive, but it wasn't a total waste."
 "\n<ベルーチェ>我々\C[14]『クロユリ団』\C[0]は不滅です。
-同志は世界各地にいるのです。",""
+同志は世界各地にいるのです。","\n<Velvet>\C[14]The Black Lily\C[0] is immortal.
+Our comrades exist all across the globe."
 "\n<ベルーチェ>『ラブ＆カース。世界に愛と呪いを。』
-さぁ、チョコレも一緒に！",""
+さぁ、チョコレも一緒に！","\n<Velvet>'Love and curses. Love and curses the world over.'
+Come, Chocolat, say it with me!"
 "\n<チョコレ>ら・・・ラブ＆カース。
-（だっさ！何回聞いてもダサいれす。）",""
+（だっさ！何回聞いてもダサいれす。）","\n<Chocolat>L... Love and curses.
+(Geez! It's so dumb no matter how many times I hear it.)"
 "\n<ベルーチェ>最後に笑うのは我々ですわ。
-おほほほほほほ！！",""
+おほほほほほほ！！","\n<Velvet>We shall have the last laugh.
+Ohohohohohoho!!"
 "\n<シィナ>んにゃぁ？
-なんか話し声が聞こえるにゃん。",""
-"\n<ベルーチェ>あっ・・・",""
-"リリー","Lily"
-"ライム","Lime"
-"シィナ1",""
+なんか話し声が聞こえるにゃん。","\n<Shina>Nyaah?
+I heard someone talking just now, nyan."
+"\n<ベルーチェ>あっ・・・","\n<Velvet>Ack..."
+"リリー",
+"ライム",
+"シィナ1",

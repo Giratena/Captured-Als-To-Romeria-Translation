@@ -2,297 +2,329 @@
 "食糧庫ドア","食糧庫ドア"
 "リリーの日記","リリーの日記"
 "リリーの日記
-恋ってなに？","リリーの日記
-恋ってなに？"
-"読んでみる","読んでみる"
-"やめておく","やめておく"
-"EV004","EV004"
-"--------キャラ指定-----座標設定------------",""
-"----------------------------------------",""
-"何か使えそうなものは・・・","何か使えそうなものは・・・"
+恋ってなに？","Lily's Diary
+What is love?"
+"読んでみる","Read"
+"やめておく","Don't read"
+"EV004",
+"--------キャラ指定-----座標設定------------",
+"----------------------------------------",
+"何か使えそうなものは・・・","Anything useful..."
 "氷の魔導書・・・
-何かを凍らせることが出来そうだ。","氷の魔導書・・・
-何かを凍らせることが出来そうだ。"
+何かを凍らせることが出来そうだ。","Found an ice tome...
+You could freeze things with this."
 "\n<リリー>ちょっと！
 人の本棚探らないでよ！！
-バカ！！","\n<リリー>ちょっと！
-人の本棚探らないでよ！！
-バカ！！"
-"\n<リリー>これはオシオキが必要みたいね。","\n<リリー>これはオシオキが必要みたいね。"
-"ーーーーー待機or攻撃アニメSE選択ーーーーー",""
-"--------ここから誘惑------------",""
+バカ！！","\n<Lily>Hey!
+You can't just look through someone's bookshelf!!
+Jerk!!"
+"\n<リリー>これはオシオキが必要みたいね。","\n<Lily>Looks like it's punishment time."
+"ーーーーー待機or攻撃アニメSE選択ーーーーー",
+"--------ここから誘惑------------",
 "\n<\n[3]>ほら！ごめんなさいは？
 人の本棚勝手に漁ってごめんなさいって
-言いなさいよ。","\n<\n[3]>ほら！ごめんなさいは？
-人の本棚勝手に漁ってごめんなさいって
-言いなさいよ。"
+言いなさいよ。","\n<\n[3]>Hora! Are you sorry?
+Let me hear you say you're sorry for looking through
+someone else's bookshelf."
 "\n<\n[3]>がっちがちに勃起させちゃって。何コレ。
 はーん。なるほどね♥
-こうされたくて、わざと私を怒らせたの。","\n<\n[3]>がっちがちに勃起させちゃって。何コレ。
-はーん。なるほどね♥
-こうされたくて、わざと私を怒らせたの。"
+こうされたくて、わざと私を怒らせたの。","\n<\n[3]>Oh, what's this? You've got an erection.
+Ahhh, I see how it is♥
+You got me angry on purpose so I would do this."
 "\n<\n[3]>ドマゾ。
 なに感じてんの気持ち悪い♥
-ほら♥嫌なら逃げてみなさいよ♥ほらほらほら♥","\n<\n[3]>ドマゾ。
-なに感じてんの気持ち悪い♥
-ほら♥嫌なら逃げてみなさいよ♥ほらほらほら♥"
-"--------ここから選択肢-------------",""
+ほら♥嫌なら逃げてみなさいよ♥ほらほらほら♥","\n<\n[3]>Masochist.
+Doesn't that feel bad♥
+Hora♥ Run away then, if it feels so bad♥ Hora hora hora♥"
+"--------ここから選択肢-------------",
 "\n<\n[3]>あっは♥
 チンポ気持ちよくて逃げられないの？
-踏まれてるのに♥","\n<\n[3]>あっは♥
-チンポ気持ちよくて逃げられないの？
-踏まれてるのに♥"
+踏まれてるのに♥","\n<\n[3]>Ahaaa♥
+You can't run away because your cock feels so nice?
+Even though I'm just stepping on it♥"
 "\n<\n[3]>ダメよ。逃がさない。
 ほら出してみなさいよ。
-あんたの精液、一匹残らず踏みつぶしてあげるから。","\n<\n[3]>ダメよ。逃がさない。
-ほら出してみなさいよ。
-あんたの精液、一匹残らず踏みつぶしてあげるから。"
-"\n<\n[3]>はぁ？もうイクの？","\n<\n[3]>はぁ？もうイクの？"
-"--------ここからクリア------------",""
+あんたの精液、一匹残らず踏みつぶしてあげるから。","\n<\n[3]>No. You won't escape.
+Cum for me now.
+I'll stomp on each and every bit of your semen."
+"\n<\n[3]>はぁ？もうイクの？","\n<\n[3]>Huh? Cumming already?"
+"--------ここからクリア------------",
 "\n<リリー>くくく♥
 おもしろ♥
-その馬鹿ヅラ見てたら満足したわ♥くすくす♥","\n<リリー>くくく♥
-おもしろ♥
-その馬鹿ヅラ見てたら満足したわ♥くすくす♥"
+その馬鹿ヅラ見てたら満足したわ♥くすくす♥","\n<Lily>Kukuku♥
+You're so funny♥
+Seeing your stupid face has made me feel better♥ Hee hee♥"
 "\n<リリー>次もし私の部屋を荒したら
 こんなものじゃ済まないわよ。
-使い物にならなくなるまで犯してやるから。","\n<リリー>次もし私の部屋を荒したら
-こんなものじゃ済まないわよ。
-使い物にならなくなるまで犯してやるから。"
-"小説","小説"
-"恋愛小説が並んでいる・・・","恋愛小説が並んでいる・・・"
+使い物にならなくなるまで犯してやるから。","\n<Lily>Next time you break into my room though,
+sorry just won't cut it.
+I'm going to fuck you senseless."
+"小説",
+"恋愛小説が並んでいる・・・","The shelves are lined with romance novels..."
 "\n<\n[1]>（あ、これ読んだことあるやつだ。
 最後にヒロイン死なせて安直に涙を誘うやつ・・・
-私こういうのきらい。）","\n<\n[1]>（あ、これ読んだことあるやつだ。
-最後にヒロイン死なせて安直に涙を誘うやつ・・・
-私こういうのきらい。）"
-"\n<\n[1]>（淫魔も恋愛小説を読んだりするのだろうか・・・）","\n<\n[1]>（淫魔も恋愛小説を読んだりするのだろうか・・・）"
+私こういうのきらい。）","\n<\n[1]>(Oh, I've read this one before. They kill off
+the heroine at the end for some cheap tears...
+I hate that kind of thing.)"
+"\n<\n[1]>（淫魔も恋愛小説を読んだりするのだろうか・・・）","\n<\n[1]>(I guess succubi read romance novels too...)"
 "\n<\n[1]>（あ、これ読んだことある・・・
 負けヒロインの方が魅力的で
-結末に納得いかなかったやつだ・・・）","\n<\n[1]>（あ、これ読んだことある・・・
-負けヒロインの方が魅力的で
-結末に納得いかなかったやつだ・・・）"
+結末に納得いかなかったやつだ・・・）","\n<\n[1]>(Oh, I've read this one. The more interesting
+heroine loses out in the end.
+It was such an unsatisfying ending.)"
 "\n<\n[1]>（あ、これ読んだことある・・・
 恋人が実は離婚したお父さんだったやつだ。
-誰得なんだろう。）","\n<\n[1]>（あ、これ読んだことある・・・
-恋人が実は離婚したお父さんだったやつだ。
-誰得なんだろう。）"
-"お人形だ・・・","お人形だ・・・"
+誰得なんだろう。）","\n<\n[1]>(Ah, I've read this one before.
+Her lover was actually her divorced father.
+Who is actually into that?)"
+"お人形だ・・・","A doll..."
 "\n<\n[1]>（成長したらこういうの興味なくなると思ってたけど
 やっぱりなんだか胸がときめくんだよな。
-人形って、好き。）","\n<\n[1]>（成長したらこういうの興味なくなると思ってたけど
-やっぱりなんだか胸がときめくんだよな。
-人形って、好き。）"
+人形って、好き。）","\n<\n[1]>(I always thought I'd outgrow dolls once I got older.
+And yet, my chest gets tight every time I see one.
+I love dolls.)"
 "\n<\n[1]>（女の子の部屋って感じだ。
-何だかそわそわしてくるな・・・）","\n<\n[1]>（女の子の部屋って感じだ。
-何だかそわそわしてくるな・・・）"
-"ぬいぐるみだ・・・","ぬいぐるみだ・・・"
-"\n<\n[1]>（なんで一個だけクマなんだろう。怪しい。）","\n<\n[1]>（なんで一個だけクマなんだろう。怪しい。）"
-"\n<\n[1]>（ひとつだけクマ・・・？何か怪しいな。）","\n<\n[1]>（ひとつだけクマ・・・？何か怪しいな。）"
+何だかそわそわしてくるな・・・）","\n<\n[1]>(It feels like I'm in a girl's room.
+I'm getting nervous all of a sudden...)"
+"ぬいぐるみだ・・・","A stuffed animal..."
+"\n<\n[1]>（なんで一個だけクマなんだろう。怪しい。）","\n<\n[1]>(Why is there only one bear? That's strange.)"
+"\n<\n[1]>（ひとつだけクマ・・・？何か怪しいな。）","\n<\n[1]>(Just one bear...? Something's strange here.)"
 "\n<\n[1]>（なんでぬいぐるみの定番ってクマなんだろう。
-犬の方が可愛いのに。）","\n<\n[1]>（なんでぬいぐるみの定番ってクマなんだろう。
-犬の方が可愛いのに。）"
+犬の方が可愛いのに。）","\n<\n[1]>(Why is a bear the standard stuffed animal?
+Dogs are way cuter.)"
 "\n<\n[1]>（クマ・・・強いよな。
-序盤、中盤、終盤、隙が無いと思う。）","\n<\n[1]>（クマ・・・強いよな。
-序盤、中盤、終盤、隙が無いと思う。）"
+序盤、中盤、終盤、隙が無いと思う。）","\n<\n[1]>(Bears are so strong...
+Toe to tip, they're pure killing machines.)"
 "\n<\n[1]>（クマは凶暴な生き物だからな。
-本物はこんなに可愛くない。）","\n<\n[1]>（クマは凶暴な生き物だからな。
-本物はこんなに可愛くない。）"
-"\n<\n[1]>（淫魔も寝る時にぬいぐるみを抱いたりするのか？）","\n<\n[1]>（淫魔も寝る時にぬいぐるみを抱いたりするのか？）"
-"クマの縫い目に何か挟まっていた・・・","クマの縫い目に何か挟まっていた・・・"
-"\n<\n[1]>（クマちゃん。）","\n<\n[1]>（クマちゃん。）"
-"\n<\n[1]>（クマとゴリラが戦ったらどっちが強いんだろう。）","\n<\n[1]>（クマとゴリラが戦ったらどっちが強いんだろう。）"
-"洗濯物だ・・・","洗濯物だ・・・"
+本物はこんなに可愛くない。）","\n<\n[1]>(Bears are so ferocious.
+The real thing isn't nearly this cute.)"
+"\n<\n[1]>（淫魔も寝る時にぬいぐるみを抱いたりするのか？）","\n<\n[1]>(Do succubi also hug stuffed animals while they sleep?)"
+"クマの縫い目に何か挟まっていた・・・","There was something stuck in the seams of the bear..."
+"\n<\n[1]>（クマちゃん。）","\n<\n[1]>(Little bear.)"
+"\n<\n[1]>（クマとゴリラが戦ったらどっちが強いんだろう。）","\n<\n[1]>(I wonder if a bear could take on a gorilla.)"
+"洗濯物だ・・・","Laundry..."
 "\n<\n[1]>（元々住んでいた人の服なのかな。
-メイド服みたい。）","\n<\n[1]>（元々住んでいた人の服なのかな。
-メイド服みたい。）"
-"\n<\n[1]>（淫魔の着た服なんて近寄らない方がいい・・・）","\n<\n[1]>（淫魔の着た服なんて近寄らない方がいい・・・）"
-"キレイなドレス。","キレイなドレス。"
+メイド服みたい。）","\n<\n[1]>(Perhaps these clothes belonged to the people who
+used to live here. This looks like a maid outfit.)"
+"\n<\n[1]>（淫魔の着た服なんて近寄らない方がいい・・・）","\n<\n[1]>(Best not to get too close to a succubus' clothing...)"
+"キレイなドレス。","A beautiful dress."
 "\n<\n[1]>（着たい。
 けど囚人服からドレスに変わってたら
-絶対笑われれるから着ない。）","\n<\n[1]>（着たい。
-けど囚人服からドレスに変わってたら
-絶対笑われれるから着ない。）"
-"重くてデカいネックレスだ・・・","重くてデカいネックレスだ・・・"
-"\n<\n[1]>（首が凝りそう。）","\n<\n[1]>（首が凝りそう。）"
-"\n<\n[1]>（首の筋肉が鍛えられそうだ・・・）","\n<\n[1]>（首の筋肉が鍛えられそうだ・・・）"
-"報告書","報告書"
-"書きかけの手紙が置いてある・・・","書きかけの手紙が置いてある・・・"
+絶対笑われれるから着ない。）","\n<\n[1]>(I wanna wear this.
+But they'd make fun of me if they caught me
+wearing this dress instead of my prison uniform.)"
+"重くてデカいネックレスだ・・・","A giant, heavy necklace..."
+"\n<\n[1]>（首が凝りそう。）","\n<\n[1]>(My neck already feels stiff.)"
+"\n<\n[1]>（首の筋肉が鍛えられそうだ・・・）","\n<\n[1]>(I could use this to train my neck muscles...)"
+"報告書",
+"書きかけの手紙が置いてある・・・","An unfinished letter sits on the table..."
 "たまには実家に帰って顔を見せたいところですが、
 素敵な人達に囲まれて私は元気にやっています。
-経験を積んで、立派なメイドにならなきゃ。","たまには実家に帰って顔を見せたいところですが、
-素敵な人達に囲まれて私は元気にやっています。
-経験を積んで、立派なメイドにならなきゃ。"
-"定期的に連絡をすることが出来なくてごめんなさい。","定期的に連絡をすることが出来なくてごめんなさい。"
-"\n<\n[1]>（これを書いた人は今どうしているんだろう・・・）","\n<\n[1]>（これを書いた人は今どうしているんだろう・・・）"
-"水が入った桶。","水が入った桶。"
+経験を積んで、立派なメイドにならなきゃ。","Sometimes I want to return home and show you how I'm doing.
+I'm healthy, and surrounded by wonderful people.
+I need to gain experience, and become a great maid."
+"定期的に連絡をすることが出来なくてごめんなさい。","I'm sorry I haven't written more frequently."
+"\n<\n[1]>（これを書いた人は今どうしているんだろう・・・）","\n<\n[1]>(I wonder how the person who wrote this is doing now...)"
+"水が入った桶。","A bucket of water."
 "修理依頼：自動開閉扉
 館主様の部屋に設置している自動開閉扉ですが、
-自動で開閉しなくなってしまいました。","修理依頼：自動開閉扉
-館主様の部屋に設置している自動開閉扉ですが、
-自動で開閉しなくなってしまいました。"
+自動で開閉しなくなってしまいました。","Repair request: Automatic sliding doors
+The sliding doors installed in the master's room are no longer
+opening and closing automatically."
 "結局鍵を使い、手動で開け閉めしています。
 これでは、ただ重たくて建付けが悪いだけの扉です。
-館主様は憤懣やるかたないご様子。","結局鍵を使い、手動で開け閉めしています。
-これでは、ただ重たくて建付けが悪いだけの扉です。
-館主様は憤懣やるかたないご様子。"
+館主様は憤懣やるかたないご様子。","As it is, you must use a key to open and close it.
+All it is now, is a heavy, poorly constructed door.
+The master is getting frustrated."
 "私は機械仕掛けには詳しくないのですが、
 おそらく動かすための力が不足しているのではないかと思います。
-至急、修理をお願い致します。","私は機械仕掛けには詳しくないのですが、
-おそらく動かすための力が不足しているのではないかと思います。
-至急、修理をお願い致します。"
-"決戦","決戦"
+至急、修理をお願い致します。","I'm not a mechanic, but it seems like the door
+isn't receiving enough power.
+Please repair it as soon as possible."
+"決戦",
 "\n<リリー>・・・
-来たわね。","\n<リリー>・・・
-来たわね。"
+来たわね。","\n<Lily>...
+So you're here."
 "\n<リリー>正直見くびってたわ。
 3人がかりで犯して、あっさり捕まえちゃったから
-てっきり雑魚ハンターなのかと思ってた。","\n<リリー>正直見くびってたわ。
-3人がかりで犯して、あっさり捕まえちゃったから
-てっきり雑魚ハンターなのかと思ってた。"
+てっきり雑魚ハンターなのかと思ってた。","\n<Lily>I must say, I underestimated you.
+Between the 3 of us, we captured you so easily.
+I was so sure you were some small-time hunter."
 "\n<リリー>ごめんなさい。
 私も本気で相手してあげないと失礼よね。
-くす♥","\n<リリー>ごめんなさい。
-私も本気で相手してあげないと失礼よね。
-くす♥"
+くす♥","\n<Lily>My apologies.
+It was rude of me not to face you as a true opponent.
+Hee♥"
 "\n<リリー>いいこと教えてあげる。
 玄関の鍵は私が持ってるわ。
-私を倒せれば外に出られるわよ。","\n<リリー>いいこと教えてあげる。
-玄関の鍵は私が持ってるわ。
-私を倒せれば外に出られるわよ。"
+私を倒せれば外に出られるわよ。","\n<Lily>Let me tell you something.
+I'm holding the keys to the front door right now.
+If you beat me, you get to go home."
 "\n<リリー>それと、悪いことも教えておいてあげるわ。
-そんなの不可能だってことをね♥","\n<リリー>それと、悪いことも教えておいてあげるわ。
-そんなの不可能だってことをね♥"
-"ポップアップ有効化","ポップアップ有効化"
+そんなの不可能だってことをね♥","\n<Lily>But let me tell you something else.
+That's never going to happen♥"
+"ポップアップ有効化",
 "\n<リリー>はぁ・・・♥はぁ・・・♥
 なん・・・でこん・・・な・・・♥
-くそ・・・♥","\n<リリー>はぁ・・・♥はぁ・・・♥
-なん・・・でこん・・・な・・・♥
-くそ・・・♥"
+くそ・・・♥","\n<Lily>Haah...♥ Haah...♥
+What... What's... Happening...♥
+Dammit...♥"
 "\n<リリー>シィナ・\.・\.・\.\.ライム・\.・\.・\.\.
 ・\.・\.・\.
-ごめん・\.・\.・","\n<リリー>シィナ・\.・\.・\.\.ライム・\.・\.・\.\.
-・\.・\.・\.
-ごめん・\.・\.・"
+ごめん・\.・\.・","\n<Lily>Shina.\..\..\.\.Lime.\..\..\.\.
+.\..\..\.\.
+I'm sorry.\..\..\.\."
 "\n<リリー>でも・\.・\.・\.\.マジで・\.・\.・♥\.\.
-気持ちよかった・\.・\.・\.♥","\n<リリー>でも・\.・\.・\.\.マジで・\.・\.・♥\.\.
-気持ちよかった・\.・\.・\.♥"
-"\n<リリー>最悪・・・♥","\n<リリー>最悪・・・♥"
-"リリーを退治した！","リリーを退治した！"
-"\C[1]助ける",""
-"助けない",""
-"\n<\n[1]>うにゃぁ～・・・！",""
-"\n<\n[1]>はぁ・・・はぁ・・・",""
+気持ちよかった・\.・\.・\.♥","\n<Lily>It.\..\..\.\.Feels.\..\..♥\.\.
+So good.\..\..\.♥"
+"\n<リリー>最悪・・・♥","\n<Lily>How could you...♥"
+"リリーを退治した！","Lily was defeated!"
+"\C[1]助ける","\C[1]Save her"
+"助けない","Don't save her"
+"\n<\n[1]>うにゃぁ～・・・！","\n<\n[1]>Hyaaah～...!"
+"\n<\n[1]>はぁ・・・はぁ・・・","\n<\n[1]>Hah... Hah..."
 "\n<リリー>ちょっと！？
-何シコってんの！？",""
-"\n<\n[1]>あうっ！！！！",""
-"\n<\n[1]>うっ！！！！",""
+何シコってんの！？","\n<Lily>What!?
+What are you doing!?"
+"\n<\n[1]>あうっ！！！！","\n<\n[1]>Aaaah!!!!"
+"\n<\n[1]>うっ！！！！","\n<\n[1]>Uwaah!!!!"
 "\n<リリー>・・・
-何やってんのあんた。",""
+何やってんのあんた。","\n<Lily>...
+What have you done."
 "\n<リリー>こんなことして・・・
-情けをかけたつもり？",""
+情けをかけたつもり？","\n<Lily>Does this mean...
+You're taking pity on me?"
 "\n<\n[1]>ううん。
 気持ちよすぎて我慢できなかっただけ。
-出ちゃった。",""
+出ちゃった。","\n<\n[1]>Not at all.
+I couldn't endure because it felt so good.
+I lost."
 "\n<\n[1]>いや、我慢できなかっただけだ。
-引き分けだな。",""
+引き分けだな。","\n<\n[1]>No. I wasn't able to endure.
+We'll call it a draw."
 "\n<リリー>・・・
-後悔しても知らないわよ。",""
+後悔しても知らないわよ。","\n<Lily>...
+You may live to regret this."
 "\n<アーコ>た、大変だよ！！
-リリー！！\n[1]！！",""
+リリー！！\n[1]！！","\n<Ako>S-something's happened!!
+Lily!! \n[1]!!"
 "\n<アーコ>にゃっ！？
 なんで顔射してんの！！どういう状況！？
-じゃない！そんなことはさておき！",""
+じゃない！そんなことはさておき！","\n<Ako>Nyaaah!? Why is there cum on your face!?
+What did I just walk in on!?
+Wait! Now's not the time for that!"
 "\n<アーコ>みんなが・\.・\.・\.\.
-みんながさらわれちゃったんだよ！",""
-"\n<リリー>は？",""
+みんながさらわれちゃったんだよ！","\n<Ako>Everyone's.\..\..\.\.
+Everyone's been kidnapped!"
+"\n<リリー>は？","\n<Lily>What?"
 "\n<アーコ>変な女とか、オークとかがバーって来て
 シィナもライムも連れて行っちゃったんだよ！
-\n[1]のお兄さんも！",""
+\n[1]のお兄さんも！","\n<Ako>A strange woman and an orc appeared from the balcony,
+and swiped Shina and Lime away from me!
+\n[1]'s brother too!"
 "\n<アーコ>変な女とか、オークとかがバーって来て
 シィナもライムも連れて行っちゃったんだよ！
-\n[1]の妹も！",""
-"\n<\n[1]>あにきも！？",""
-"\n<\n[1]>ロメリアも！？",""
+\n[1]の妹も！","\n<Ako>A strange woman and an orc appeared from the balcony,
+and swiped Shina and Lime away from me!
+\n[1]'s sister too!"
+"\n<\n[1]>あにきも！？","\n<\n[1]>Alsy!?"
+"\n<\n[1]>ロメリアも！？","\n<\n[1]>Meria!?"
 "\n<アーコ>止めようと思ったけど・・・！
 ごめん。
-無理だった！",""
+無理だった！","\n<Ako>I thought I could stop them...!
+I'm sorry.
+They were too strong!"
 "\n<リリー>どういうことなの？
-一体・・・",""
+一体・・・","\n<Lily>How could this happen?
+What in the world..."
 "\n<？？？>あー、あー。
 もしもし。\n[1]さん。リリーさん。
-聞こえますかー？",""
+聞こえますかー？","\n<？？？>Test, test.
+Hello. \n[1]. Lily.
+Can you hear me?"
 "\n<？？？>いきなりで悪いのれすが、
-猫さん達は私が預かってます。",""
+猫さん達は私が預かってます。","\n<？？？>I've got some bad news,
+I'm keeping your cats."
 "\n<？？？>人質を返して欲しくば、私の研究所まで来てくらさい。
-屋敷の裏の建物です。バルコニーから見えます。",""
+屋敷の裏の建物です。バルコニーから見えます。","\n<？？？>If you want my hostages back, come to my research center.
+It's the building behind the mansion. \nYou'll see it from the balcony."
 "\n<？？？>早く来ないと、人質がどうなっちゃうか分かりませんよ。
 なるべく壊さないように気を付けますが・・・
-待ってますね。",""
+待ってますね。","\n<？？？>You'd better hurry, I don't know what could happen to them.
+I'll do my best not to break them but...
+I'll be waiting."
 "\n<リリー>・・・
 誰？今の声。
-研究所？",""
-"\n<\n[1]>人質・・・？",""
+研究所？","\n<Lily>...
+Who was that? That voice just now...
+A research center?"
+"\n<\n[1]>人質・・・？","\n<\n[1]>Hostages...?"
 "\n<リリー>どうやら、本当にさらわれたみたいね。
 ・・・
-何なのよ、一体。",""
+何なのよ、一体。","\n<Lily>They really were kidnapped.
+...
+What the hell is going on."
 "\n<アーコ>取り返しに行かなきゃ！
-シィナ・・・",""
+シィナ・・・","\n<Ako>We need to go get them back!
+Shina..."
 "\n<リリー>\n[1]。
 よく分からないけれど、今はあんたと争ってる場合じゃないわ。
-一時休戦よ。",""
+一時休戦よ。","\n<Lily>\n[1].
+I don't really know what's going on, but now's not the time for us
+to be fighting. I'm calling a truce."
 "\n<リリー>研究所・・・
-ひとまず、バルコニーに向かいましょ。",""
+ひとまず、バルコニーに向かいましょ。","\n<Lily>A research center...
+Let's head to the balcony for now."
 "リリーの日記
-恋愛小説","リリーの日記
-恋愛小説"
-"立体起動","立体起動"
-"<enemy:99><cw:1.3><ch:1.5>","<enemy:99><cw:1.3><ch:1.5>"
+恋愛小説","Lily's Diary
+Romance Novels"
+"立体起動",
+"<enemy:99><cw:1.3><ch:1.5>",
 "箱のようなものがあるが
-高くて手が届かない・・・","箱のようなものがあるが
-高くて手が届かない・・・"
-"少女漫画が並んでいる・・・","少女漫画が並んでいる・・・"
+高くて手が届かない・・・","There's some kind of chest up there.
+It's too high up to reach..."
+"少女漫画が並んでいる・・・","Shoujo manga lines the shelf..."
 "\n<\n[1]>（あ、これ読んだことある・・・
 ヒロインと男の子の両親が交換して再婚するやつだ。
-改めて考えると滅茶苦茶だな。）","\n<\n[1]>（あ、これ読んだことある・・・
-ヒロインと男の子の両親が交換して再婚するやつだ。
-改めて考えると滅茶苦茶だな。）"
-"\n<\n[1]>（淫魔も少女漫画を読んだりするのだろうか・・・）","\n<\n[1]>（淫魔も少女漫画を読んだりするのだろうか・・・）"
+改めて考えると滅茶苦茶だな。）","\n<\n[1]>(Ah, I've read this one...
+The heroine's and the boy's parents divorce and remarry one another.
+It's kinda ridiculous now that I'm thinking about it again.)"
+"\n<\n[1]>（淫魔も少女漫画を読んだりするのだろうか・・・）","\n<\n[1]>(So even succubi read shoujo manga...)"
 "\n<\n[1]>（あ、これ読んだことある・・・
 うっかり髪に芋けんぴ付いてて・・・
-そこから恋が発展するんだよね。）","\n<\n[1]>（あ、これ読んだことある・・・
-うっかり髪に芋けんぴ付いてて・・・
-そこから恋が発展するんだよね。）"
-"クローゼットにはメイド服が掛けられている・・・","クローゼットにはメイド服が掛けられている・・・"
-"時計が時を刻んでいる・・・","時計が時を刻んでいる・・・"
-"\n<\n[1]>（どれだけの時間、ここにいるんだろう・・・）","\n<\n[1]>（どれだけの時間、ここにいるんだろう・・・）"
+そこから恋が発展するんだよね。）","\n<\n[1]>(Oh, I've read this one before...
+He spilled sweet potato fries in her hair...
+Their love blossomed from that moment.)"
+"クローゼットにはメイド服が掛けられている・・・","Maid outfits are hanging in the closet..."
+"時計が時を刻んでいる・・・","The clock keeps ticking..."
+"\n<\n[1]>（どれだけの時間、ここにいるんだろう・・・）","\n<\n[1]>(I wonder how long I'll be trapped here...)"
 "\n<\n[1]>（時間の感覚がおかしくなる・・・
-早くここから抜け出さないと・・・）","\n<\n[1]>（時間の感覚がおかしくなる・・・
-早くここから抜け出さないと・・・）"
-"もう何もない・・・","もう何もない・・・"
-"鏡に自分が映っている・・・","鏡に自分が映っている・・・"
+早くここから抜け出さないと・・・）","\n<\n[1]>(I've lost all sense of time...
+I need to get out of here soon...)"
+"もう何もない・・・","Nothing else useful..."
+"鏡に自分が映っている・・・","You see yourself in the mirror..."
 "\n<\n[1]>（メイド服・・・着てみたいな。
-似合うかな。）","\n<\n[1]>（メイド服・・・着てみたいな。
-似合うかな。）"
+似合うかな。）","\n<\n[1]>(A maid outfit... I want to try wearing one.
+I wonder if it would suit me.)"
 "\n<\n[1]>（なんだか女の子の部屋というのは
-落ち着かないな・・・）","\n<\n[1]>（なんだか女の子の部屋というのは
-落ち着かないな・・・）"
+落ち着かないな・・・）","\n<\n[1]>(This really feels like a girl's room...
+It's making me uncomfortable...)"
 "観葉植物・・・
-いい匂いがする。","観葉植物・・・
-いい匂いがする。"
+いい匂いがする。","A house plant...
+It smells nice."
 "\n<\n[1]>（甘くてふわふわしたいい匂い・・・
-それになんだか・・・少しムラムラする。）","\n<\n[1]>（甘くてふわふわしたいい匂い・・・
-それになんだか・・・少しムラムラする。）"
+それになんだか・・・少しムラムラする。）","\n<\n[1]>(What a soft, sweet scent...
+And... It's turning me on a bit.)"
 "\n<\n[1]>（いや、これは植物じゃなくて
 この部屋自体が・・・
-う、この匂いは・・・）","\n<\n[1]>（いや、これは植物じゃなくて
-この部屋自体が・・・
-う、この匂いは・・・）"
-"帽子だ・・・","帽子だ・・・"
+う、この匂いは・・・）","\n<\n[1]>(No, it's not the plant.
+It's this whole room...
+Ugh, this smell...)"
+"帽子だ・・・","A hat..."
 "\n<\n[1]>（私が被っても似合わないタイプの帽子。
-帽子に被られるタイプの。かなしい。）","\n<\n[1]>（私が被っても似合わないタイプの帽子。
-帽子に被られるタイプの。かなしい。）"
-"\n<\n[1]>（清楚な女性に似合いそうな帽子だ。）","\n<\n[1]>（清楚な女性に似合いそうな帽子だ。）"
+帽子に被られるタイプの。かなしい。）","\n<\n[1]>(This type of hat really doesn't suit me well.
+I'm not suited for hats. How sad.)"
+"\n<\n[1]>（清楚な女性に似合いそうな帽子だ。）","\n<\n[1]>(This kind of hat looks good on a classy lady.)"
 "EV041","EV041"
 "EV042","EV042"
 "EV043","EV043"
