@@ -7,7 +7,6 @@ and some item/skill translations to make the game more enjoyable to play.
 
 I know there are some MTL translations for this game, so feel free to mix this translation with
 your current one!
-
 **NOTE: This patch does not cause the Fire or Hookshot glitch, so be careful when altering it.**
 
 << How patch your game with the translation files >>
