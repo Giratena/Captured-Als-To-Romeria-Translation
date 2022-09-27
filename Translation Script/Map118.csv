@@ -45,7 +45,7 @@ Lily?",
 "\n<ライム>やっぱりね！","\n<Lime>I knew it!",
 "\n<ライム>逃げる時間そんなにないよなー、って思ってたの。
 どこかに隠れてたのかな？
-待ってたら来ると思ったよー！","\n<Lime>I was just thinking, ""there was no time to escape at all-"".
+待ってたら来ると思ったよー！","\n<Lime>I was just thinking, ""There was no time to escape at all-.""
 You hid somewhere, right? So I thought to wait here, just in case!",
 "ーーーーー基本変更点ーーーーー",,
 "\n<ライム>にへへへへー♥
@@ -104,7 +104,7 @@ If any of these values reach 0, it'll be game over-!",
 "\n<ライム>リリーもシィナも楽しそうだから。
 簡単に諦めたりしちゃダメだよー？
 いっぱい遊ばれてね。","\n<Lime>Lily and Shina seem to be happy after all.
-So you shouldn't give up so easily OK? Enjoy yourself
+So you shouldn't give up so easily, OK? Enjoy yourself
 as much as possible now-.",
 "\n<ライム>次は一回射精したぐらいじゃ
 許してあげないからねー？くすくす♥
@@ -112,7 +112,7 @@ as much as possible now-.",
 Teehee♥ Bye bye♥",
 "\n<ライム>じゃー頑張ってねー。
 次は私も本気でぴゅっぴゅさせにいっちゃうからねー。","\n<Lime>Now then, do your best okay?
-Next time I'll make you go pew pew for realsies-",
+Next time I'll make you go pew pew for realsies-.",
 "ドア","ドア",
 "玄関扉は固く閉ざされている・・・","The entrance door has been shut tight...",
 "\n<？？？>開かないよ。","\n<???>It won't open.",
@@ -127,7 +127,7 @@ Who are you?",
 I'm a neutral party. Neutral party. Not the natural party.
 Do you understand? I'm not related to anyone here. ",
 "\n<？？？>こんなところに人間が居るなんて珍しーね。
-リリーたちに捕まったのかな？","\n<???>It's rare to see humans in places like these you know.
+リリーたちに捕まったのかな？","\n<???>It's rare to see humans in places like these, you know.
 Did Lily and her gang capture you?",
 "\n<？？？>あたしアーコ。
 黒猫のアーコだよ。よろしく。
@@ -142,26 +142,26 @@ What's yours?",
 うん。覚えた。フツーだね。
 フツーにいい名前。フツー。","\n<Ako>\n[1].
 I see. I'll remember that. What an ordinary name.
-Ordinary ordinary.",
-"\n<シィナ>アーコ来てんのかー！？","\n<Shina>So did you bring them or not Ako-!?",
+Ordinary, ordinary.",
+"\n<シィナ>アーコ来てんのかー！？","\n<Shina>So did you bring them or not, Ako-!?",
 "\n<アーコ>隠れて！","\n<Ako>Hide!",
 "\n<シィナ>タバコにゃ。
 持ってきたにゃ？","\n<Shina>My cigarettes-nya.
-You brought them right-nya?",
+You brought them, right-nya?",
 "\n<アーコ>ほいほい。
 税金上がったから1箱540Gだよ。
 何個欲しいの？しぃにゃん。","\n<Ako>Right here.
-Due to increases in tax one box is 540G.
+Due to increases in tax, one box is 540G.
 How many do you want? Shin-nya?",
 "\n<シィナ>淫魔が税金納めてんじゃねー！
 カートンにゃ！
 あと次しぃにゃんって呼んだら殺す！","\n<Shina>Succubus don't pay taxes!!
-A whole carton! A-And call me Shi-nya again and
+A whole carton! A-And call me Shin-nya again and
 you'll really be in for it!",
 "\n<アーコ>5400G！まいどー♪
 あたし、しぃにゃんの怒った顔好き。","\n<Ako>And that comes to 5400G!
 Pleasure doing business with you♪
-I'll never get sick of seeing Shi-nyans flustered face.",
+I'll never get sick of seeing Shin-nyan's flustered face.",
 "\n<シィナ>アーココロス！","\n<Shina>I'll, I'll kill you!",
 "\n<アーコ>（可愛い・・・）","\n<Ako>(She's so cute...)",
 "\n<シィナ>あーお前と話してるとほんと調子狂うにゃ。
@@ -278,7 +278,7 @@ How interesting, I'll be sure to give him a visit later-.",
 "\n<アーコ>妹も捕まってるの？
 後で行ってみよー。
 仲良くなれるかな？","\n<Ako>So your sister has been captured as well?
-I'll go and visit her later-.I wonder if we would get along well?",
+I'll go and visit her later-. I wonder if we would get along well?",
 "買い物","Buy something",
 "用事はない","I don't need anything right now",
 "・・・","...",
@@ -816,7 +816,7 @@ balcony. It would be nice to visit someplace else."
 "食堂にネズミが出るわ！
 手癖の悪いネズミ！鍵を持って行かれたわ。
 一体何がしたいのかしら。","There's a mouse loose in the kitchen!
-The little theif nabbed a key!
+The little thief nabbed a key!
 What in the world would it need that for?",
 "シィナのバカに頼んで捕まえて貰おう。
 とりあえず、穴を塞いで逃げられなくしてやれば・・・","I've asked that moron Shina to catch it.
