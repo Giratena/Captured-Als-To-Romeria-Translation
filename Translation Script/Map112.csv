@@ -4,64 +4,63 @@
 "引っかけ場所","引っかけ場所"
 "<TE:立体起動>","<TE:立体起動>"
 "EV006","EV006"
-"ここだけ手すりが壊れている・・・","ここだけ手すりが壊れている・・・"
-"ロープを使う","ロープを使う"
-"やめておく","やめておく"
-"よし・・・ここからなら逃げられそうだ・・・","よし・・・ここからなら逃げられそうだ・・・"
-"飛び降りる","飛び降りる"
+"ここだけ手すりが壊れている・・・","The railing is broken here..."
+"ロープを使う","Use the rope"
+"やめておく","Do nothing"
+"よし・・・ここからなら逃げられそうだ・・・","Alright... You can escape from here..."
+"飛び降りる","Jump off"
 "いや、この高さは無理だ。
 絶対ケガするからやめておこう。
-何かロープのようなものがあれば・・・","いや、この高さは無理だ。
-絶対ケガするからやめておこう。
-何かロープのようなものがあれば・・・"
+何かロープのようなものがあれば・・・","No, it's way too high up.
+You would definitely injure yourself.
+If only you had a rope or something..."
 "しまった・・・
 ロープはフックショットを作るのに使ってしまった・・・
-フックショットでは長さが足りない・・・","しまった・・・
-ロープはフックショットを作るのに使ってしまった・・・
-フックショットでは長さが足りない・・・"
-"サンタ","サンタ"
+フックショットでは長さが足りない・・・","No good...
+You already used the rope to make a hookshot...
+The hookshot won't be able to reach..."
+"サンタ",
 "\n<サンタ>やぁこんにちは。
 ボク、白猫のサンタ。
-人間がここに居るなんて珍しいね。","\n<サンタ>やぁこんにちは。
-ボク、白猫のサンタ。
-人間がここに居るなんて珍しいね。"
+人間がここに居るなんて珍しいね。","\n<Santa>Good afternoon.
+I'm Santa, the white cat.
+It's unusual to see a human around here."
 "\n<サンタ>なんで驚いてんの？
-猫だって喋るさ。","\n<サンタ>なんで驚いてんの？
-猫だって喋るさ。"
+猫だって喋るさ。","\n<Santa>Why are you so surprised?
+Cats can talk too."
 "\n<サンタ>ところでアーコ知らない？
 帰りが遅いから心配して見に来たんだけど、
-どこも閉め切ってて入れなくてさ。","\n<サンタ>ところでアーコ知らない？
-帰りが遅いから心配して見に来たんだけど、
-どこも閉め切ってて入れなくてさ。"
+どこも閉め切ってて入れなくてさ。","\n<Santa>By the way, do you know Ako?
+She was late coming home, so I got worried and
+came to check on her. I found all the exits sealed off."
 "\n<サンタ>脱出ゲームかぁ。
 それで閉じ込められてたんだ。
-なんだか大変そうだね。","\n<サンタ>脱出ゲームかぁ。
-それで閉じ込められてたんだ。
-なんだか大変そうだね。"
+なんだか大変そうだね。","\n<Santa>Escape game, hmm.
+So you're both locked in here.
+That's a bit of a problem."
 "\n<サンタ>・・・そういえば。
 さっきそこの下で鍵拾ったからあげる。
-何の鍵か分からないけど。","\n<サンタ>・・・そういえば。
-さっきそこの下で鍵拾ったからあげる。
-何の鍵か分からないけど。"
+何の鍵か分からないけど。","\n<Santa>...That reminds me.
+I picked up a key down there a little while ago.
+I don't know what it's for."
 "\n<サンタ>じゃ、脱出頑張ってね。
 無事なら別に会わなくていいや。
-アーコによろしく言っておいてー。","\n<サンタ>じゃ、脱出頑張ってね。
-無事なら別に会わなくていいや。
-アーコによろしく言っておいてー。"
+アーコによろしく言っておいてー。","\n<Santa>Well, best of luck escaping.
+If you manage to get out safe, don't wait up for me.
+Please give Ako my regards."
 "\n<サンタ>あ、逃げたいからって、
 ここから飛び降りるのはやめておいた方がいいよ。
-ボクは猫だから平気だけど、キミはちゃんとカルシウム取ってる？","\n<サンタ>あ、逃げたいからって、
-ここから飛び降りるのはやめておいた方がいいよ。
-ボクは猫だから平気だけど、キミはちゃんとカルシウム取ってる？"
-"EV008","EV008"
+ボクは猫だから平気だけど、キミはちゃんとカルシウム取ってる？","\n<Santa>Ah, since you're trying to escape, I wouldn't advise
+jumping from here. I'm a cat, so I have no problem, but...
+Well... How is your calcium intake?"
+"EV008",
 "フタのようだ・・・
-重くて開かない。","フタのようだ・・・
-重くて開かない。"
-"リリーの日記","リリーの日記"
+重くて開かない。","Some kind of grate... It's too heavy to open."
+"リリーの日記",
 "リリーの日記
-しましまはマゾ","リリーの日記
-しましまはマゾ"
-"読んでみる","読んでみる"
+しましまはマゾ","Lily's Diary
+Stripes Make a Masochist"
+"読んでみる","Read"
 "EV010","EV010"
 "EV011","EV011"
 "EV012","EV012"

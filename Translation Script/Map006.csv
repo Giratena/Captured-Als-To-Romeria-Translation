@@ -1,151 +1,195 @@
-"アーコイベ",""
-"リリーイベ",""
-"イベント実行",""
+"アーコイベ",
+"リリーイベ",
+"イベント実行",
 "\n<アーコ>研究所って言ってたけど・・・
 ここに誰か住んでるってことだよね？
-今まで良く気付かなかったね。物音とか。",""
+今まで良く気付かなかったね。物音とか。","\n<Ako>They said this was a research center...
+But do you suppose someone lives here? I never even
+noticed this place. No noise or anything from here."
 "\n<リリー>オークとかいて結構うるさかったし・・・","\n<Lily>The orcs were plenty noisy..."
 "\n<アーコ>オーク！
 そういえば、みんなはオークに連れていかれたんだよ！
-変な女の命令に従ってるみたいだった！",""
+変な女の命令に従ってるみたいだった！","\n<Ako>Orcs!
+That's right, everyone got taken away by orcs!
+They were taking orders from that weird woman!"
 "\n<リリー>なるほど。あいつらチャームされたフリをして、
 ずっと私達を監視してたってわけ。
-急に湧いて出てきたから、オカシイと思ってたのよね。",""
+急に湧いて出てきたから、オカシイと思ってたのよね。","\n<Lily>I see. So they were only pretending to be charmed.
+They had been monitoring us this entire time.
+I thought it was odd that they all appeared from nowhere."
 "\n<アーコ>コバエじゃないんだからさぁ。
-もっと早く気付こうよ。",""
+もっと早く気付こうよ。","\n<Ako>It's not like they were flies.
+How did you not notice that sooner?"
 "\n<リリー>クソ豚共。
-チャーシューにしてやるわ。",""
+チャーシューにしてやるわ。","\n<Lily>Damn pigs.
+I'm gonna turn you all into pork chops."
 "\n<アーコ>目的は\n[1]とリリーみたいだし、
 私はひとりで動くよ。先に偵察してくるね。
-これ持って行って。",""
+これ持って行って。","\n<Ako>Since they're only after \n[1] and Lily,
+I'll scout ahead on my own.
+Here, take this."
 "\n<アーコ>後でお金取るからね。
-じゃ。",""
-"リリーがパーティに加わった！",""
+じゃ。","\n<Ako>I'll put it on your tab.
+Later!"
+"リリーがパーティに加わった！","Lily has joined your party!"
 "\n<リリー>私、あんたにヤラレてまだ本調子じゃないの。
-前を歩いて。",""
-"ERS_テンプレートランダム生成 8 1 2 3 0 0",""
-"EV004","EV004"
+前を歩いて。","\n<Lily>I'm still not ready to trust you, hunter.
+You can keep in front of me."
+"ERS_テンプレートランダム生成 8 1 2 3 0 0",
+"EV004",
 "\n<リリー>人間の骨・・・","\n<Lily>A human skeleton..."
-"EV005","EV005"
+"EV005",
 "\n<リリー>解剖図？
 人間の身体の中身って、こんな感じなのね。
 きも・・・","\n<Lily>An anatomy chart?
 So this is what the inside of a human looks like.
 So that's a liver..."
-"EV006","EV006"
-"\n<リリー>身体ちょんぱ。",""
-"EV007","EV007"
+"EV006",
+"\n<リリー>身体ちょんぱ。","\n<Lily>Decapitated."
+"EV007",
 "\n<リリー>何が書かれているか分からないし、興味もないわ。
-早く行きましょ。",""
-"EV008","EV008"
-"EV009","EV009"
-"\n<リリー>何が書かれているか分からないし、興味もないわ。",""
-"EV010","EV010"
+早く行きましょ。","\n<Lily>I don't know what's written here, and I don't care.
+We need to hurry on."
+"EV008",
+"EV009",
+"\n<リリー>何が書かれているか分からないし、興味もないわ。","\n<Lily>I don't know what this says, and I don't care."
+"EV010",
 "\n<リリー>今はそんなことしてる場合じゃないと思うけど。
-まぁ、したいなら、全部終わってからね。",""
-"EV011",""
-"EV012",""
+まぁ、したいなら、全部終わってからね。","\n<Lily>Now's really not the time for that.
+We'll come back once this is all over."
+"EV011",
+"EV012",
 "\n<リリー>この布団の数を見るに・・・
 結構、人住んでた感じね。
 嘘でしょ・・・","\n<Lily>Seeing so many futons here...
 There's no doubt people are living here.
 Unbelievable..."
-"EV013",""
-"EV014",""
-"EV015",""
-"EV016",""
-"EV017",""
-"EV018",""
-"EV019",""
-"EV020",""
+"EV013",
+"EV014",
+"EV015",
+"EV016",
+"EV017",
+"EV018",
+"EV019",
+"EV020",
 "\n<リリー>ちょっと！
-あいつらを置いて逃げるつもり？",""
-"EV021",""
-"\n<リリー>首ちょんぱ。",""
-"EV022",""
+あいつらを置いて逃げるつもり？","\n<Lily>Hold it!
+Are you really trying to abandon them?"
+"EV021",
+"\n<リリー>首ちょんぱ。","\n<Lily>Don't lose your head."
+"EV022",
 "魔物についての本が並べられている・・・
-『食べても大丈夫な魔物と調理法』",""
-"EV023",""
-"EV024",""
-"可愛らしいぬいぐるみだ。",""
+『食べても大丈夫な魔物と調理法』","Books about monsters line the shelf...
+'Cooking with edible monsters'"
+"EV023",
+"EV024",
+"可愛らしいぬいぐるみだ。","A cute plush character."
 "\n<リリー>これ私の部屋にあるやつと同じじゃない。
 あの部屋に住んでたのかしら。
 ・・・","\n<Lily>This plush is different from the ones in my room.
 I wonder if this person lived in my room.
 ..."
-"EV025",""
+"EV025",
 "2日間、餌を与えず空腹状態にした魔物に
 『鎖で繋いだ豚』と『人間』を与えてみたところ、
-豚を狙わず、逃げ惑う人間を執拗に追いかけまわした。",""
+豚を狙わず、逃げ惑う人間を執拗に追いかけまわした。","After starving the monsters for two days, I offered them
+chained-up pigs, and humans. Instead of picking the easy prey,
+they relentlessly chased after the fleeing humans."
 "しかし『死亡した豚』と『遺体』を与えると
 何故か高確率で豚の方を食べに行く。
-生きている場合は人間に、死んでいる場合は豚に向かうのだ。",""
+生きている場合は人間に、死んでいる場合は豚に向かうのだ。","However, when I offered them dead pigs, and human corpses,
+there was a high probability that they chose the dead pig.
+They prefer living humans, but dead pigs."
 "このことから推測されるのは・・・","From these facts, we may conclude that..."
 "\n<リリー>魔物の研究・・・？
-結構えげつないことやってんのね。",""
-"EV026",""
-"書きなぐったような文字がびっしり敷き詰められている。",""
+結構えげつないことやってんのね。","\n<Lily>Monster research...?
+These tests seem awful."
+"EV026",
+"書きなぐったような文字がびっしり敷き詰められている。","The table is densely packed with scribbled out writing."
 "\n<リリー>きたな・・・
-書いた本人も読め無さそう。",""
-"EV027",""
+書いた本人も読め無さそう。","\n<Lily>So dirty...
+It doesn't look like they knew how to write."
+"EV027",
 "魔物についての本が並べられている・・・
-『動物との違いとその関係性』",""
-"EV028",""
+『動物との違いとその関係性』","Books about monsters line the shelf...
+'Differences and similarities with animals'"
+"EV028",
 "絵本が並べられている・・・
-『あまいの　どっち』",""
+『あまいの　どっち』","Picture books line the shelf...
+'Which one is sweeter?'"
 "\n<\n[1]>甘い物同士を比べてどっちが甘いか選ぶ絵本。
 子供の頃読んでた。
-ミカンとモモ、どっちが甘い？",""
-"\n<リリー>品種によると思うけど。",""
+ミカンとモモ、どっちが甘い？","\n<\n[1]>I read this one as a kid. It shows you two pictures,
+and you have to pick which one is sweeter.
+Oranges or peaches: Which one is sweeter?"
+"\n<リリー>品種によると思うけど。","\n<Lily>Well I think that depends on the breed."
 "\n<\n[1]>飴とかグミとか出てきて
-最終的にチョコが勝ち残るんだよ。",""
-"\n<リリー>ほぼ主観じゃない。",""
+最終的にチョコが勝ち残るんだよ。","\n<\n[1]>In the final battle of sweets and gummies,
+chocolate reigns supreme."
+"\n<リリー>ほぼ主観じゃない。","\n<Lily>That's completely subjective."
 "\n<\n[1]>この絵本は小さい頃ロメリアがよく読んでたな。
-甘い物同士が、甘さを競い合うんだ。",""
+甘い物同士が、甘さを競い合うんだ。","\n<\n[1]>Meria read this one as a child.
+Sweet foods compete to see who's the sweetest."
 "\n<リリー>ふーん・・・","\n<Lily>Huh..."
-"\n<\n[1]>ラムネと水飴の殴り合いは熱かったな。",""
-"\n<リリー>バトルものなの・・・！？",""
-"EV029",""
+"\n<\n[1]>ラムネと水飴の殴り合いは熱かったな。","\n<\n[1]>The fight between soda and syrup was a bare-knuckle brawl."
+"\n<リリー>バトルものなの・・・！？","\n<Lily>Did they actually fight...!?"
+"EV029",
 "高級そうなワインが置かれている・・・","A high quality bottle of wine sits on the table..."
-"\n<\n[1]>リリーってお酒とか飲むの？",""
+"\n<\n[1]>リリーってお酒とか飲むの？","\n<\n[1]>Do you drink alcohol, Lily?"
 "\n<リリー>は？何？
 馴れ馴れしいわね。
-飲む時は飲むわよ。",""
-"\n<\n[1]>これはまた随分な生活をしていたようだ。",""
+飲む時は飲むわよ。","\n<Lily>Huh? What?
+Don't try to get to know me.
+I drink when I feel like drinking."
+"\n<\n[1]>これはまた随分な生活をしていたようだ。","\n<\n[1]>It seems like they lived pretty well in here."
 "\n<リリー>（こんなにすぐ近くに人が住んでたのに
-気付かなかったなんて・・・）",""
-"EV030",""
-"隠された手紙",""
+気付かなかったなんて・・・）","\n<Lily>(How could I never realize that these
+people lived so close to me...)"
+"EV030",
+"隠された手紙",
 "ベッドの下に黒い百合の紋章が描かれた封書を見つけた！
-何度も読み返したように古びている・・・",""
+何度も読み返したように古びている・・・","Found a letter with a black lily seal under the bed!
+It's tattered as if it has been read countless times..."
 "主な任務は2つ。
 1つはディグニスを篭絡し、組織への出資を促すこと。
-研究所の設立と維持だけでは不十分だ。",""
+研究所の設立と維持だけでは不十分だ。","Your mission is twofold. First, entice Dignus,
+and encourage him to invest in the organization.
+Establishing and maintaning the lab is not enough."
 "奴は莫大な資産を隠し持っている。
 可能であればその在処を聞き出し収奪しろ。
-用済みになった後の処遇は一任する。",""
+用済みになった後の処遇は一任する。","He hides a massive fortune. If you can, discern its location,
+and plunder it. Once he has outlived his usefulness,
+do with him what you will."
 "もう1つはチョコレの教育だ。
 彼女は天才だが善悪の基準がない。
-損か得か、興味の有無が全てだ。",""
+損か得か、興味の有無が全てだ。","The second mission it to educate Chocolat.
+She is a prodigy, but she lacks basic morals.
+She only cares to satisfy her curiosity."
 "それが素晴らしい。
 我々の理想とは似て非なる、いや寧ろ相反するものだが、
-利害が一致するならば利用価値は大いにある。",""
+利害が一致するならば利用価値は大いにある。","This is ideal. However, our ideals are dissimilar,
+if not contradictory. If our interests could align,
+it would be most advantageous."
 "天才とは常に不安定なもの。
 支えになることが出来れば必ず依存してくるだろう。
-お前がバランスを保つのだ。",""
+お前がバランスを保つのだ。","Geniuses are always unstable.
+If you can support her, she will come to depend on you.
+You must preserve this balance."
 "頼んだぞベルーチェ。
-ラブ＆カース。世界に愛と呪いを。",""
-"EV032",""
-"EV033",""
+ラブ＆カース。世界に愛と呪いを。","I entrust this to you, Velvet.
+Love and curses. Love and curses upon the world."
+"EV032",
+"EV033",
 "美味しそうなケーキに見えるが粘土で作ってあるようだ。
 何故か齧った跡がある・・・","On closer inspection, this delicious looking cake is
 made of clay. And yet, there are bite marks all over it..."
-"EV034",""
+"EV034",
 "魔物についての本が並べられている・・・
-『マリーティアの子供たち』",""
-"薬","Medicine"
-"もう使えそうなものはない。",""
-"EV040",""
+『マリーティアの子供たち』","Books about monsters line the shelf...
+'Children of Maritia'"
+"薬",
+"もう使えそうなものはない。","Nothing else useful."
+"EV040",
 "医療品が並べてある・・・","Medical supplies line the shelf..."
-"EV041",""
-"EV042",""
+"EV041",
+"EV042",

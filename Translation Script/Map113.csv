@@ -4,236 +4,252 @@
 " <enemy:99><cw:1.5><ch:1.5>"," <enemy:99><cw:1.5><ch:1.5>"
 "不思議な形のドアだ。
 おそらく機械仕掛けというやつだろう。
-開け方が分からない。","不思議な形のドアだ。
-おそらく機械仕掛けというやつだろう。
-開け方が分からない。"
+開け方が分からない。","A strangely shaped door.
+It's most likely mechanical.
+It's not clear how to open it."
 "変数203（ARGP攻撃種類）
 1斬　2打撃　3水　4火　5雷
 6誘惑　7食べ物
 特殊206（個別攻撃種類）
-1リンゴ　2皿　3卵",""
-"小説","小説"
+1リンゴ　2皿　3卵",
+"小説",
 "檻だ・・・
-格子には至る所に噛み跡が付いている・・・","檻だ・・・
-格子には至る所に噛み跡が付いている・・・"
+格子には至る所に噛み跡が付いている・・・","A cage...
+The lattice has bite marks all over..."
 "\n<\n[1]>（よっぽど出たかったんだね。
-私も・・・ここから逃げないと・・・）","\n<\n[1]>（よっぽど出たかったんだね。
-私も・・・ここから逃げないと・・・）"
+私も・・・ここから逃げないと・・・）","\n<\n[1]>(You really wanted to escape.
+Same as me... I need to get out of here...)"
 "\n<\n[1]>（猫のケージだろうか・・・
 猫・・・？
-いやまさかな。）","\n<\n[1]>（猫のケージだろうか・・・
-猫・・・？
-いやまさかな。）"
-"窓からは森が見える・・・","窓からは森が見える・・・"
+いやまさかな。）","\n<\n[1]>(It's some kind of cat cage...
+A cat...?
+It couldn't be...)"
+"窓からは森が見える・・・","You can see the forest from the window..."
 "\n<\n[1]>（開かない。
-開いても飛び降りられる高さじゃない・・・）","\n<\n[1]>（開かない。
-開いても飛び降りられる高さじゃない・・・）"
-"槍が立てかけてある・・・","槍が立てかけてある・・・"
+開いても飛び降りられる高さじゃない・・・）","\n<\n[1]>(It won't open.
+Even if it did, it's too high to jump...)"
+"槍が立てかけてある・・・","Some spears are propped up..."
 "\n<\n[1]>（使ったことはないけれど・・・
-持って行ってみようかな。）","\n<\n[1]>（使ったことはないけれど・・・
-持って行ってみようかな。）"
+持って行ってみようかな。）","\n<\n[1]>(I've never used one before, but...
+Maybe I should take one with me.)"
 "\n<\n[1]>（槍か・・・
 扱えないことはないけど、室内ではあまり役に立たないかも。
-一応持っていこう。）","\n<\n[1]>（槍か・・・
-扱えないことはないけど、室内ではあまり役に立たないかも。
-一応持っていこう。）"
-"先っぽが折れてしまった・・・","先っぽが折れてしまった・・・"
-"\n<\n[1]>（もう槍はいいや。）","\n<\n[1]>（もう槍はいいや。）"
-"\n<\n[1]>（先っぽだけ取れてしまった・・・）","\n<\n[1]>（先っぽだけ取れてしまった・・・）"
-"騎士の象・・・","騎士の象・・・"
-"\n<\n[1]>（こんなの部屋に置きたくないよ。）","\n<\n[1]>（こんなの部屋に置きたくないよ。）"
-"\n<\n[1]>（これはいいな。部屋に飾りたい・・・）","\n<\n[1]>（これはいいな。部屋に飾りたい・・・）"
+一応持っていこう。）","\n<\n[1]>(A spear...
+I can use them, but its use is limited indoors.
+I'll take one just in case.)"
+"先っぽが折れてしまった・・・","The tip broke off..."
+"\n<\n[1]>（もう槍はいいや。）","\n<\n[1]>(So much for that.)"
+"\n<\n[1]>（先っぽだけ取れてしまった・・・）","\n<\n[1]>(Only the tip came off...)"
+"騎士の象・・・","A knight statue..."
+"\n<\n[1]>（こんなの部屋に置きたくないよ。）","\n<\n[1]>(This doesn't really match the rest of the room.)"
+"\n<\n[1]>（これはいいな。部屋に飾りたい・・・）","\n<\n[1]>(How cool. I need to redecorate my room...)"
 "これは・・・！
 自分の装備一式だ！！
-こんなところに・・・！！","これは・・・！
-自分の装備一式だ！！
-こんなところに・・・！！"
+こんなところに・・・！！","This is...!
+All your equipment!!
+It's all right here...!!"
 "\n<リリー>忠告しておいてあげる。
 あんたがそれを取った瞬間、
-あんたは精奴隷じゃなくてサキュバスハンターになるわ。","\n<リリー>忠告しておいてあげる。
-あんたがそれを取った瞬間、
-あんたは精奴隷じゃなくてサキュバスハンターになるわ。"
+あんたは精奴隷じゃなくてサキュバスハンターになるわ。","\n<Lily>Let me give you a word of advice. The moment you
+pick up that gear, you won't be a semen slave any longer.
+You'll be a succubus hunter."
 "\n<リリー>本来の目的を果たすつもりならどうぞ。
 ただし、もう射精しても絶対に止めてあげないから。
-死ぬまで搾り取られても文句は言えないってこと。いいわね。","\n<リリー>本来の目的を果たすつもりならどうぞ。
-ただし、もう射精しても絶対に止めてあげないから。
-死ぬまで搾り取られても文句は言えないってこと。いいわね。"
+死ぬまで搾り取られても文句は言えないってこと。いいわね。","\n<Lily>If you want to fulfill your original goal, be my guest.
+However, I won't hold back when you ejaculate. I'll drain you
+until you die. I don't want to hear a word of complaint."
 "\n<リリー>ラストチャンスよ。
 精奴隷に戻りたいならそのまま閉めなさい。
-選ばせてあげる。","\n<リリー>ラストチャンスよ。
-精奴隷に戻りたいならそのまま閉めなさい。
-選ばせてあげる。"
-"装備を取る　↑SAN値6","装備を取る　↑SAN値6"
-"フタを閉める","フタを閉める"
+選ばせてあげる。","\n<Lily>This is your last chance. 
+If you want to go back and be a semen slave, just close 
+the chest. The choice is yours."
+"装備を取る　↑SAN値6","Take equipment ↑6 SAN"
+"フタを閉める","Close the lid"
 "だめだ・・・
 戦えない・・・
-\C[14]※SAN値が6以上必要です。（現在SAN値\v[270]）","だめだ・・・
-戦えない・・・"
+\C[14]※SAN値が6以上必要です。（現在SAN値\v[270]）","No...
+I can't fight...
+\C[14]※SAN 6 or higher is required. (Current SAN: \v[270])"
 "\n<リリー>あーぁ。
 あんたがそこまでバカだとは思わなかった。
-やれやれだわ。",""
+やれやれだわ。","\n<Lily>Ahhh.
+I didn't think you were this foolish.
+Oh dear."
 "\n<リリー>ま、仕方ないわね。
 正々堂々、搾り尽くしてあげる。
-じゃ、精々最後の悪あがきをすることね。",""
+じゃ、精々最後の悪あがきをすることね。","\n<Lily>Well, it couldn't be helped.
+I'll drain you dry, fair and square.
+Be sure to struggle in vain until the very end."
 "\n<リリー>賢明な判断よ。
 私も、あんたを吸い殺したくないもの。
-次の精奴隷を探すのが面倒だから。",""
+次の精奴隷を探すのが面倒だから。","\n<Lily>A wise decision.
+I didn't really want to have to kill you.
+Plus, it's a hassle to find a new semen slave."
 "\n<リリー>ふふ♥
-素直な人間は嫌いじゃないわ。",""
-"自分の装備一式がある・・・","自分の装備一式がある・・・"
+素直な人間は嫌いじゃないわ。","\n<Lily>Fufu♥
+I don't dislike weak little humans."
+"自分の装備一式がある・・・","You have all your equipment..."
 "\n<リリー>忠告はしたはずよね。
-あんた、それを取るってのがどういう意味か分かってるわよね。","\n<リリー>忠告はしたはずよね。
-あんた、それを取るってのがどういう意味か分かってるわよね。"
+あんた、それを取るってのがどういう意味か分かってるわよね。","\n<Lily>I should let you know.
+You don't realize what it means for you to take that."
 "\n<リリー>全く。
 そのまま閉めなさい。
-精奴隷は余計なこと、考えなくていいの。","\n<リリー>全く。
-そのまま閉めなさい。
-精奴隷は余計なこと、考えなくていいの。"
-"リリー","Lily"
-"EV011","EV011"
-"報告書","報告書"
-"封書には黒いユリの紋章が書かれている。","封書には黒いユリの紋章が書かれている。"
+精奴隷は余計なこと、考えなくていいの。","\n<Lily>There we go.
+Close that now.
+A semen slave doesn't need to be concerned with that."
+"リリー",
+"EV011",
+"報告書",
+"封書には黒いユリの紋章が書かれている。","The envelope is sealed with a black lily crest."
 "\C[3]※ハンターパートに移りました。
 \C[0]今後はリリー、シィナ、ライムに接触すると戦闘になります。
-負けると即ゲームオーバーです。","\C[3]※ハンターパートに移りました。
-\C[0]今後はリリー、シィナ、ライムに接触すると戦闘になります。
-負けると即ゲームオーバーです。"
-"淫魔との戦闘について","淫魔との戦闘について"
-"基本","基本"
-"スリップダメージ","スリップダメージ"
-"状態異常","状態異常"
-"ステータス","ステータス"
+負けると即ゲームオーバーです。","\C[3]※You've progressed to the Hunter Battle phase.
+\C[0]From now on, touching Lily, Shina or Lime will begin
+a battle. If you lose, it's game over."
+"淫魔との戦闘について","How to battle succubi"
+"基本","Basics"
+"スリップダメージ","Slip damage"
+"状態異常","Status effects"
+"ステータス","Stats"
 "自分の精力が0になると射精して敗北、
-相手の精力を0にすると絶頂させて勝利です。","自分の精力が0になると射精して敗北、
-相手の精力を0にすると絶頂させて勝利です。"
+相手の精力を0にすると絶頂させて勝利です。","If your energy reaches 0, you will ejaculate, and lose.
+If your opponent's energy reaches 0, she will orgasm, \nand you will win."
 "精力：0になると射精して敗北
 体力：スキルを使用するのに必要 ターン経過で微回復
-TP：スキルを使用するのに必要 ターン経過で増加","精力：0になると射精して敗北
-体力：スキルを使用するのに必要 ターン経過で微回復
-TP：スキルを使用するのに必要 ターン経過で増加"
+TP：スキルを使用するのに必要 ターン経過で増加","Energy: When it reaches 0, you will ejaculate, and lose.
+HP: Required to use skills. Will recover a little each turn.
+TP: Required to use some skills. Increases each turn."
 "愛撫：体力を使わない攻撃
-スキル：胸、尻、アソコなどを狙うことで弱点を突ける","愛撫：体力を使わない攻撃
-スキル：胸、尻、アソコなどを狙うことで弱点を突ける"
+スキル：胸、尻、アソコなどを狙うことで弱点を突ける","Caress: Attack without spending HP
+Skills: Target enemy weakpoints by attacking breasts, butt, pussy, etc."
 "スリップダメージによって
 コマンド入力待機中も徐々に精力が減っていきます。
-なるべく早く行動を決めましょう。","スリップダメージによって
-コマンド入力待機中も徐々に精力が減っていきます。
-なるべく早く行動を決めましょう。"
+なるべく早く行動を決めましょう。","Due to slip damage, your energy will slowly decrease
+while you are choosing a command.
+Choose how to act quickly."
 "スリップダメージでは精力が0にはなりません。
 スリップダメージは相手によって増減します。
-戦闘中にCTRLキーを長押しすると高速でダメージを受けます。","スリップダメージでは精力が0にはなりません。
-スリップダメージは相手によって増減します。
-戦闘中にCTRLキーを長押しすると高速でダメージを受けます。"
+戦闘中にCTRLキーを長押しすると高速でダメージを受けます。","Slip damage will never decrease your energy to 0.
+Slip damage will vary depending on your opponent.
+If you press CTRL, you will receive damage more quickly."
 "敏感：受けるダメージが増加
 脱力：与えるダメージが減少
-暗闇：命中率が半減 消費体力が1.5倍","敏感：受けるダメージが増加
-脱力：与えるダメージが減少
-暗闇：命中率が半減 消費体力が1.5倍"
+暗闇：命中率が半減 消費体力が1.5倍","Sensitive: Damage received is increased
+Weakness: Damage dealth is reduced
+Darkness: Accuracy is halved. Skills cost 1.5x HP"
 "興奮：防御不可
 発情：スリップダメージ2倍
-催淫毒：毎ターン精力減少","興奮：防御不可
-発情：スリップダメージ2倍
-催淫毒：毎ターン精力減少"
+催淫毒：毎ターン精力減少","Excited: Cannot defend
+Aroused: Slip damage is doubled
+Aphrodisiac: Lose energy each turn"
 "拘束：行動不能（1～3ターン）
 魅了：行動不能（1～3ターン）
-怯み：行動不能（1ターン）","拘束：行動不能（1～3ターン）
-魅了：行動不能（1～3ターン）
-怯み：行動不能（1ターン）"
+怯み：行動不能（1ターン）","Restrained: Unable to move (1～3 Turns)
+Charmed: Unable to move (1～3 Turns)
+Fear: Unable to move (1 Turn)"
 "攻撃力：愛撫のダメージ
-技巧：スキルのダメージ","攻撃力：愛撫のダメージ
-技巧：スキルのダメージ"
+技巧：スキルのダメージ","Attack: Affects caress damage
+Technique: Affects skill damage"
 "防御力：直接的な刺激に対する被ダメ軽減
-精神力：精神的な攻撃に対する被ダメ軽減 スリップダメージ低下","防御力：直接的な刺激に対する被ダメ軽減
-精神力：精神的な攻撃に対する被ダメ軽減 スリップダメージ低下"
+精神力：精神的な攻撃に対する被ダメ軽減 スリップダメージ低下","Defense: Reduces damage from direct stimulation
+Willpower: Reduces damage from mental attacks, and slip damage"
 "敏捷性：罠や必殺技の回避判定　逃走の成功率
-戦闘力：Aキーで魔物に与えるダメージ（淫魔戦では使用しない）","敏捷性：罠や必殺技の回避判定　逃走の成功率
-戦闘力：Aキーで魔物に与えるダメージ（淫魔戦では使用しない）"
-"リリーの日記","リリーの日記"
+戦闘力：Aキーで魔物に与えるダメージ（淫魔戦では使用しない）","Speed: Impacts your ability to avoid traps and special moves
+Combat power: Affects the damage of your A key attack \n(Not used in Succubus Battles)"
+"リリーの日記","Lily's Diary"
 "リリーの日記
-シィナとの出会い","リリーの日記
-シィナとの出会い"
-"読んでみる","読んでみる"
-"やめておく","やめておく"
-"小難しい本が並んでいる・・・","小難しい本が並んでいる・・・"
-"高級そうな服が掛けられている・・・","高級そうな服が掛けられている・・・"
-"もう何もない・・・","もう何もない・・・"
-"様々な装飾品が飾られている・・・","様々な装飾品が飾られている・・・"
-"魔物についての本が並んでいる・・・","魔物についての本が並んでいる・・・"
-"観葉植物が窓の外を恨めしそうに見ている・・・","観葉植物が窓の外を恨めしそうに見ている・・・"
-"観葉植物だ・・・","観葉植物だ・・・"
-"EV031","EV031"
-"--------キャラ指定-----座標設定------------",""
-"----------------------------------------",""
-"どいて","どいて"
+シィナとの出会い","Lily's Diary
+Meeting Shina"
+"読んでみる","Read"
+"やめておく","Don't read"
+"小難しい本が並んでいる・・・","Difficult looking books line the shelf..."
+"高級そうな服が掛けられている・・・","Fancy clothes are hung up..."
+"もう何もない・・・","Nothing else useful..."
+"様々な装飾品が飾られている・・・","Various decorations are displayed..."
+"魔物についての本が並んでいる・・・","Books on monsters line the shelf..."
+"観葉植物が窓の外を恨めしそうに見ている・・・","The plant gazes bitterly out the window..."
+"観葉植物だ・・・","A houseplant..."
+"EV031",
+"--------キャラ指定-----座標設定------------",
+"----------------------------------------",
+"どいて","Step aside"
 "・・・","..."
 "\n<\n[3]>どかないにゃん。
-どいて欲しいにゃん？","\n<\n[3]>どかないにゃん。
-どいて欲しいにゃん？"
+どいて欲しいにゃん？","\n<\n[3]>I ain't moving, nyan.
+Did you want me to step aside, nyaan?"
 "\n<\n[3]>なんにゃ？文句あるにゃん？
 ここを塞いだらお前は出られんにゃ。
-頭脳プレイにゃ。賢いだろ？","\n<\n[3]>なんにゃ？文句あるにゃん？
-ここを塞いだらお前は出られんにゃ。
-頭脳プレイにゃ。賢いだろ？"
-"\n<\n[3]>通りたかったら遊びに付き合うにゃ。","\n<\n[3]>通りたかったら遊びに付き合うにゃ。"
-"ーーーーー待機or攻撃アニメSE選択ーーーーー",""
-"--------ここから誘惑------------",""
+頭脳プレイにゃ。賢いだろ？","\n<\n[3]>What, you want to complain, nyan?
+If I just block this door, you can't go anywhere, nya.
+That's using my brain. Pretty smart, nyah?"
+"\n<\n[3]>通りたかったら遊びに付き合うにゃ。","\n<\n[3]>If you want to pass by, play with me, nya."
+"ーーーーー待機or攻撃アニメSE選択ーーーーー",
+"--------ここから誘惑------------",
 "\n<\n[3]>ちゅっ♥
-これどうにゃ？ちゅっ♥ちゅっ♥","\n<\n[3]>ちゅっ♥
-これどうにゃ？ちゅっ♥ちゅっ♥"
+これどうにゃ？ちゅっ♥ちゅっ♥","\n<\n[3]>Smooch♥
+How's this, nya? Smooch♥ Smooch♥"
 "\n<\n[3]>これぐらいの刺激で出すわけないにゃ？
 にゃぁ？
-ちゅぅっ♥","\n<\n[3]>これぐらいの刺激で出すわけないにゃ？
-にゃぁ？
-ちゅぅっ♥"
+ちゅぅっ♥","\n<\n[3]>There's no way you'll cum from just this, nya?
+Nyaaa?
+Chuuu♥"
 "\n<\n[3]>チンポにちゅーされるのってどんな感じにゃ？
 ちゅっ♥ちゅっ♥
-興奮して逃げたくなくなるにゃん？","\n<\n[3]>チンポにちゅーされるのってどんな感じにゃ？
-ちゅっ♥ちゅっ♥
-興奮して逃げたくなくなるにゃん？"
+興奮して逃げたくなくなるにゃん？","\n<\n[3]>How does it feel having your cock smooched, nya?
+Smooch♥ Smooch♥
+Are you so aroused you don't want to get away, nyan?"
 "\n<\n[3]>にゃは♥お前その顔やばいにゃ♥
 顔真っ赤にゃん♥
-ちゅっ♥チンポキスされて我慢できなくなってきたにゃ？","\n<\n[3]>にゃは♥お前その顔やばいにゃ♥
-顔真っ赤にゃん♥
-ちゅっ♥チンポキスされて我慢できなくなってきたにゃ？"
+ちゅっ♥チンポキスされて我慢できなくなってきたにゃ？","\n<\n[3]>Nyaha♥ That look on your face, nya♥
+You're bright red, nyaan♥
+Smooch♥ How can you ever endure these cock kisses, nya?"
 "\n<\n[3]>ダメにゃん。
 アタシのキスからは逃げられんにゃ♥
-ちゅっ♥ちゅっ♥",""
+ちゅっ♥ちゅっ♥","\n<\n[3]>No good, nyaan.
+There's no escaping my kisses, nya♥
+Smooch♥ Smooch♥"
 "\n<\n[3]>あー面白かった。
 もう行っていいにゃん。
-満足したし。",""
+満足したし。","\n<\n[3]>Ahh, now that was fun.
+You can go now, nyan.
+I'm all good."
 "\n<\n[1]>（はぁ・・・はぁ・・・♥
 うぅ・・・♥もう・・・出ちゃうよぉ・・・
-逃げ・・・ないと・・・♥）",""
+逃げ・・・ないと・・・♥）","\n<\n[1]>(Haah... Haah...♥
+Uuuuh...♥ I'm... About to cum...
+Gotta... Get away...♥)"
 "\n<\n[1]>（はぁ・・・はぁ・・・
 うぅ・・・♥く、くそ・・・♥
-逃げ・・・ないと・・・）",""
+逃げ・・・ないと・・・）","\n<\n[1]>(Haah... Haah...
+Uuuuh...♥ D-dammit...♥
+Gotta... Get away...)"
 "\n<\n[3]>なんにゃ？
-もう行っていいにゃん。","\n<\n[3]>なんにゃ？
-もう行っていいにゃん。"
-"\C[10]射精させて・・・","\C[10]射精させて・・・"
-"何でもない","何でもない"
-"\n<\n[3]>嫌にゃ。","\n<\n[3]>嫌にゃ。"
-"\C[10]射精させてください","\C[10]射精させてください"
-"もういい","もういい"
+もう行っていいにゃん。","\n<\n[3]>What is it, nya?
+I told you you could leave, nyan."
+"\C[10]射精させて・・・","\C[10]Let me cum..."
+"何でもない","Nothing"
+"\n<\n[3]>嫌にゃ。","\n<\n[3]>No, nya."
+"\C[10]射精させてください","\C[10]Please let me cum"
+"もういい","That's enough"
 "\n<\n[3]>アタシはお前の敵にゃん。
-なんで敵にお願いするにゃ？","\n<\n[3]>アタシはお前の敵にゃん。
-なんで敵にお願いするにゃ？"
-"\C[10]シィナ様射精させてください","\C[10]シィナ様射精させてください"
+なんで敵にお願いするにゃ？","\n<\n[3]>I'm your enemy, nyan.
+Why would you ask that of your enemy, nya?"
+"\C[10]シィナ様射精させてください","\C[10]Mistress Shina, please let me cum"
 "\n<\n[3]>しょうがないにゃぁ。
-じゃあ、トドメのちゅーしてやるか。","\n<\n[3]>しょうがないにゃぁ。
-じゃあ、トドメのちゅーしてやるか。"
+じゃあ、トドメのちゅーしてやるか。","\n<\n[3]>Can't be helped, nyaa.
+Then it's time for the kiss of death."
 "\n<\n[3]>射精させて欲しいって頼んできたこと、
 あとでリリーとライムに言ってやろ♥
-にゃははは♥","\n<\n[3]>射精させて欲しいって頼んできたこと、
-あとでリリーとライムに言ってやろ♥
-にゃははは♥"
-"\n<\n[3]>じゃ、脱出ゲームがんばれにゃ。","\n<\n[3]>じゃ、脱出ゲームがんばれにゃ。"
-"EV032","EV032"
-"機械式の扉を開けるには・・・","機械式の扉を開けるには・・・"
-"答えを見る","答えを見る"
-"電撃系の攻撃を当てると開きます。","電撃系の攻撃を当てると開きます。"
-"EV033","EV033"
-"ハンターモードを進めるには・・・","ハンターモードを進めるには・・・"
+にゃははは♥","\n<\n[3]>I'm telling Lily and Lime that you begged
+me to let you cum♥
+Nyahahahaha♥"
+"\n<\n[3]>じゃ、脱出ゲームがんばれにゃ。","\n<\n[3]>Let's get back to the escape game, nya."
+"EV032",
+"機械式の扉を開けるには・・・","How to open the mechanical door..."
+"答えを見る","See answer"
+"電撃系の攻撃を当てると開きます。","It will open when struck with an electrical attack."
+"EV033",
+"ハンターモードを進めるには・・・","How to complete the Hunter phase..."
 "徘徊しているリリー、シィナ、ライムを倒して、
-その後はそれぞれ自室にいるので更に倒すと・・・","徘徊しているリリー、シィナ、ライムを倒して、
-その後はそれぞれ自室にいるので更に倒すと・・・"
+その後はそれぞれ自室にいるので更に倒すと・・・","Defeat Lily, Shina and Lime as they wander around,
+then go to their rooms and defeat them once more..."

@@ -1,91 +1,132 @@
-"自動実行",""
-"食糧庫ドア",""
-"なんとか逃げ切った・・・",""
-"EV004","EV004"
-"今はそれどころではない！",""
-"扉",""
-" <enemy:152><cw:1.5><ch:1.5>",""
+"自動実行",
+"食糧庫ドア",
+"なんとか逃げ切った・・・","Managed to escape..."
+"EV004",
+"今はそれどころではない！","Now's not the time for that!"
+"扉",
+" <enemy:152><cw:1.5><ch:1.5>",
 "金網の扉だ！
-攻撃すれば壊すことが出来るかもしれない！",""
+攻撃すれば壊すことが出来るかもしれない！","A chainlink fence!
+You might be able to break it by attacking!"
 "変数203（ARGP攻撃種類）
 1斬　2打撃　3水　4火　5雷
 6誘惑　7食べ物
 特殊206（個別攻撃種類）
-1リンゴ　2皿　3卵",""
-"リリーチェイス",""
-"ーーーーー基本変更点ーーーーー",""
-"リリー","Lily"
+1リンゴ　2皿　3卵",
+"リリーチェイス",
+"ーーーーー基本変更点ーーーーー",
+"リリー",
 "\n<\n[3]>逃がさない♥
 諦めて射精しなさい♥
-ほら♥ほーら♥",""
+ほら♥ほーら♥","\n<\n[3]>I won't let you escape♥
+Just give up and ejaculate♥
+Hora♥ Hoora♥"
 "\n<\n[3]>ほぉら♥
 もう諦めなさい♥
-我慢しても無駄よ♥",""
+我慢しても無駄よ♥","\n<\n[3]>Hoora♥
+Just give up already♥
+You can't possibly endure this♥"
 "\n<\n[3]>みんなでまわしてあげようか？
-くすくす♥",""
+くすくす♥","\n<\n[3]>Shall we pass them around?
+Hee hee♥"
 "\n<\n[3]>捕まえた♥
 じっとしてなさい。
-吸い尽くしてあげる♥",""
+吸い尽くしてあげる♥","\n<\n[3]>Caught you♥
+Just sit still.
+I'll suck you right up♥"
 "\n<\n[3]>あははは！
-早いのね♥そーろーさん♥",""
+早いのね♥そーろーさん♥","\n<\n[3]>Ahahaha!
+That was quick♥ Premature ejaculator♥"
 "\n<\n[3]>んっ♥
 出た出た♥
-シィナ！ライム！おいで♥",""
-"シィナ",""
+シィナ！ライム！おいで♥","\n<\n[3]>Mmm♥
+You came, you came♥
+Shina! Lime! Come here♥"
+"シィナ",
 "\n<\n[3]>おらおらおらぁー♥
 無理矢理搾り取ってやるにゃん♥
-にゃはははは♥",""
+にゃはははは♥","\n<\n[3]>Ora ora ora-♥
+I'll drain you by force, nyan♥
+Nyahahahaha♥"
 "\n<\n[3]>逃げられるなら逃げてみろにゃ。
-全然力入ってないし♥",""
+全然力入ってないし♥","\n<\n[3]>Try to escape if you can, nya.
+I’m barely even trying♥"
 "\n<\n[3]>にゃは♥
 ほーらどうにゃ？
-アタシのマンコが一番気持ちいいにゃぁ？",""
+アタシのマンコが一番気持ちいいにゃぁ？","\n<\n[3]>Nyaha♥
+How's that, nya?
+Doesn't my pussy feel the best, nyaa?"
 "\n<\n[3]>入ったにゃ！
-精子出すまでもう抜けないにゃ♥",""
+精子出すまでもう抜けないにゃ♥","\n<\n[3]>You're in, nya!
+You're not getting out until you spill all that sperm, nya♥"
 "\n<\n[3]>リリー！見ろにゃ！
 アタシの勝ちにゃん♥
-見ろ見ろ見ろ！",""
-"\n<\n[3]>おらおらおらおらー♥",""
+見ろ見ろ見ろ！","\n<\n[3]>Lily! Come look, nya!
+I'm the winner, nyaan♥
+Look look look!"
+"\n<\n[3]>おらおらおらおらー♥","\n<\n[3]>Ora ora ora ora-♥"
 "\n<\n[3]>にゃははははー！
 どーにゃ？
-アタシにかかればイチコロにゃん♥",""
-"ライム","Lime"
-"寝パイズリ",""
+アタシにかかればイチコロにゃん♥","\n<\n[3]>Nyahahahaha-!
+How's that, nya?
+You're no match for me, nyan♥"
+"ライム",
+"寝パイズリ",
 "\n<\n[3]>あっあっあっ♥
 おっきぃの気持ちいいー♥
-あはははー♥",""
+あはははー♥","\n<\n[3]>Ahn, ahn, ahhn♥
+It feels so nice and big-♥
+Ahahaha-♥"
 "\n<\n[3]>入れちゃったぁ♥
 おねがーい♥
-精子ぴゅっぴゅしてほしいなー♥",""
+精子ぴゅっぴゅしてほしいなー♥","\n<\n[3]>I put it in♥
+I want you to shoot your sperm♥
+Please-♥"
 "\n<\n[3]>にゅるにゅるー♥
 私が精液搾っちゃうぞー♥
-ふたりには負けないもんねー♥",""
+ふたりには負けないもんねー♥","\n<\n[3]>Squish squish-♥
+I'll squeeze out all your semen-♥
+I won't lose to the others-♥"
 "\n<\n[3]>ぱん♥ぱん♥
 やーん♥\n[1]のえっちー♥
-おちんちんかったーい♥",""
+おちんちんかったーい♥","\n<\n[3]>Pump♥ Pump♥
+Wooow♥ Sex with \n[1]♥
+Your dick is sooo hard-♥"
 "\n<\n[3]>イっちゃえイっちゃえー♥
 みんな見てー♥
-\n[1]がぴゅっぴゅしちゃいそうだよー♥",""
+\n[1]がぴゅっぴゅしちゃいそうだよー♥","\n<\n[3]>Cum! Cum♥
+Everyone, look-♥
+\n[1] is going to go pew-pew♥"
 "\n<\n[3]>わーい♥
 イカせちゃったー♥
-私の勝ーち♥",""
-"ERS_テンプレートランダム生成 25 1 0 0 0 0",""
-"ERS_テンプレートランダム生成 25 1 0 3 0 0",""
+私の勝ーち♥","\n<\n[3]>Woooow♥
+I made you cum-♥
+I'm the winner♥"
+"ERS_テンプレートランダム生成 25 1 0 0 0 0",
+"ERS_テンプレートランダム生成 25 1 0 3 0 0",
 "\n<シィナ>にししし！
-閉じ込めたにゃん。",""
+閉じ込めたにゃん。","\n<Shina>Kehehehe!
+You're sealed in, nyan."
 "\n<ライム>ごめんねー♥
 そろそろちゃんと捕まえないといけないと思ってー。
-えへへへ♥",""
+えへへへ♥","\n<Lime>My apologies-♥
+I think it's about time we captured you.
+Eheeheehee♥"
 "\n<リリー>いくわよふたりとも！
 獅子搏兎。
-たとえウサギでも、全力で捕まえてやりましょ。",""
+たとえウサギでも、全力で捕まえてやりましょ。","\n<Lily>Let's go, you two!
+We're lions, and they're a rabbit.
+Now pull out all the stops to catch that rabbit."
 "\n<シィナ>袋のネズミにゃ！
-ネズミは猫に喰われるのが相場にゃん！",""
+ネズミは猫に喰われるのが相場にゃん！","\n<Shina>You're a mouse caught in a sack!
+And cats always catch their mouse, nyan!"
 "\n<ライム>まな板の上のコイだね！
-美味しく料理してあげるー♥",""
-"EV010","EV010"
-" <enemy:153><cw:1.5><ch:1.5>",""
+美味しく料理してあげるー♥","\n<Lime>You're a fish on the chopping block!
+I'll cook you into something delicious-♥"
+"EV010",
+" <enemy:153><cw:1.5><ch:1.5>",
 "硬くて丸い石だ！
-どうやってこんなものをここに！",""
-"痺れ罠",""
-"EV015",""
+どうやってこんなものをここに！","A hard, round stone!
+How did this get here!?"
+"痺れ罠",
+"EV015",

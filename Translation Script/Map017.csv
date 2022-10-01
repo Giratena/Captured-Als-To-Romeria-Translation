@@ -1,87 +1,122 @@
 "EV001","EV001"
-"耐熱実験室",""
+"耐熱実験室",
 "炎","Flame"
-" <enemy:99><cw:1.5><ch:1.5>",""
-"灯り 5 3 255 0.3",""
+" <enemy:99><cw:1.5><ch:1.5>",
+"灯り 5 3 255 0.3",
 "変数203（ARGP攻撃種類）
 1斬　2打撃　3水　4火　5雷
 6誘惑　7食べ物
 特殊206（個別攻撃種類）
-1リンゴ　2皿　3卵",""
-"置手紙",""
-"淫魔化オーク（♀）の記録",""
+1リンゴ　2皿　3卵",
+"置手紙",
+"淫魔化オーク（♀）の記録","Succubus Orc (♀) Lab Report"
 "トラの動物実験に続き、オークを淫魔化することに成功。
 人間に対して非常に強い敵意を持っているようだ。
-性格は乱暴で残酷。",""
+性格は乱暴で残酷。","Following our experimentation with the tiger, we successfully transformed
+an orc into a succubus. She exhibits extreme hostility toward humans.
+She has a violent and cruel personality."
 "誘惑に負けた研究員が自ら彼女と性交を行うという愚行を犯したが
 あっという間に吸い尽くされ骨と皮だけになってしまった。
-一切容赦のない、魔物が人間を襲う行為そのものだった。",""
+一切容赦のない、魔物が人間を襲う行為そのものだった。","One researcher succumbed to her temptation, and foolishly had sex with her.
+Almost instantly, he was entirely absorbed, leaving only skin and bone.
+This reflects the way a monster will attack a human without mercy."
 "助けに入った研究員も力づくで強姦され、
 結果2名もの死者を出すこととなった。
-元がオークだからと言って、決して甘く見てはいけない。",""
+元がオークだからと言って、決して甘く見てはいけない。","Another researcher entered to assist the first. He too was overpowered
+and raped, resulting in two deaths that day.
+She must not be taken lightly simply because she was originally an orc."
 "また、オークのオスは彼女に対して物凄く発情するようだ。
 2~3匹オークのオスを搾り殺すと大人しくなる為、
-暴れ始めた場合はオークを与えること。",""
+暴れ始めた場合はオークを与えること。","Also, male orcs grow extremely aroused when nearby her.
+She grows docile after draining 2-3 orcs. If she is growing too
+angry, leave her alone with some male orcs."
 "また、通常のオークは非常に繁殖力が高いが
-今のところ彼女が子供を産む気配はない。",""
-"EV005","EV005"
-"EV030",""
-"この部屋の仕掛けの説き方は・・・",""
+今のところ彼女が子供を産む気配はない。","Lastly, while normal orcs are incredibly fertile, there has been
+no indication that she will have any children."
+"EV005",
+"EV030",
+"この部屋の仕掛けの説き方は・・・","How to solve this room..."
 "答えを見る","See answer"
 "やめておく","Stop"
 "炎は踏んでしまうとダメージを受けます。
-氷で冷やしてから進みましょう。",""
-"とらちゃん",""
+氷で冷やしてから進みましょう。","You will take damage when stepping on flames.
+Cool it with some ice before advancing."
+"とらちゃん",
 "\n<オーク>何だオマエ。
-また来たのか。",""
+また来たのか。","\n<Orc>What are you doing.
+You've returned."
 "\n<オーク>さっきは射精できなかったもんな♥
-今度はナカでびゅーびゅー出させてやるから覚悟しろよ。",""
+今度はナカでびゅーびゅー出させてやるから覚悟しろよ。","\n<Orc>I couldn't make you cum last time♥
+This time though, I'm ready to make you spurt inside me."
 "\n<リリー>なんでまた戦いに来たのよ。
-ほっとけば焼き豚になるでしょ。",""
+ほっとけば焼き豚になるでしょ。","\n<Lily>Why did we come back to fight again?
+Just leave her here to spit roast."
 "\n<オーク>あん？
-オマエは何だ？",""
+オマエは何だ？","\n<Orc>Hmm?
+Who are you?"
 "\n<オーク>ま、何でもいいや。
 さっさとチンポ出しな。
-犯してやる。",""
+犯してやる。","\n<Orc>It doesn't matter.
+Take out your cock.
+I'll rape you."
 "\n<リリー>暑いわ・・・
-早く終わらせてよね・・・",""
+早く終わらせてよね・・・","\n<Lily>It's hot in here...
+Let's end this quickly..."
 "\n<リリー>あ～・・・
 暑くて頭がくらくらするわ。
-早くここから出ましょ。",""
-"ポップアップ有効化",""
-"箱",""
-" <enemy:145>",""
+早くここから出ましょ。","\n<Lily>Ahh～...
+The heat's making me dizzy.
+Let's hurry on out of here."
+"ポップアップ有効化",
+"箱",
+" <enemy:145>",
 "瓦礫の山だ。
-紙のようなものが挟まっている・・・",""
+紙のようなものが挟まっている・・・","A pile of rubble.
+There's a piece of paper stuck inside..."
 "チョコレの実験記録
-創作料理",""
-"読んでみる",""
-"研究員",""
-"\n<研究員>・・・",""
+創作料理","Chocolat's Lab Report
+Creative cuisine"
+"読んでみる","Read"
+"研究員",
+"\n<研究員>・・・","\n<Researcher>..."
 "男はとっくに息絶えているようだが
-ペニスからは止めどなく精液が流れ続けている・・・",""
+ペニスからは止めどなく精液が流れ続けている・・・","This man appears to have passed away long ago, but 
+semen still flows endlessly from his penis..."
 "時折痙攣して精液を噴き出しているが
-魂は既に逝ってしまったようだ・・・",""
-"EV035",""
+魂は既に逝ってしまったようだ・・・","He occasionally convulses as he ejaculates,
+but his soul left his body long ago..."
+"EV035",
 "屍だ・・・
-何かメモのようなものを持っている。",""
+何かメモのようなものを持っている。","A corpse...
+It's holding onto a memo."
 "3淫魔に檻に閉じ込められて数十日。
-やっと助けが来たと思ったら、もっとヤバイやつらだった。",""
+やっと助けが来たと思ったら、もっとヤバイやつらだった。","It has been countless days since those 3 succubi
+imprisoned me. When someone finally came to my
+rescue, things took a turn for the worse."
 "いきなりトラの餌にされたかと思えば
 今度は魔物と戦わされたり、変な薬を打たれたり・・・
-俺のことをネズミか何かだと思ってやがる。",""
+俺のことをネズミか何かだと思ってやがる。","Suddenly I think I'm being fed to a tiger, then I'm
+battling monsters, next I'm being given strange drugs...
+It feels like I'm some kind of lab rat."
 "何故こんなことが出来る。
 こんなに悪意を持った人間がいるなんて・・・
-これじゃ、魔物と同じじゃないか。",""
+これじゃ、魔物と同じじゃないか。","How can someone do this?
+How could a human do things so evil...
+This is worse than anything a monster could do."
 "リリー達の精奴隷の方がよっぽどマシだった。
-帰りたい。",""
+帰りたい。","Lily's semen slaves had it so much better off.
+I wish I could go back."
 "\n<リリー>たまに精奴隷がいなくなることがあったの。
 私はてっきり、シィナが鍵を掛け忘れて
-脱走されたとばかり・・・",""
+脱走されたとばかり・・・","\n<Lily>Semen slaves would go missing from time to time.
+I always chalked it up to Shina forgetting to lock the cage,
+and the prisoner escaping..."
 "\n<リリー>私達の獲物に手を出すなんて。
-絶対に許さないわ。",""
-"EV036",""
+絶対に許さないわ。","\n<Lily>You've robbed us of our prey.
+This is absolutely unforgiveable"
+"EV036",
 "屍だ・・・
-カラカラに干乾びている・・・",""
-"EV037",""
-"EV053",""
+カラカラに干乾びている・・・","A corpse...
+It's dry and shriveled up..."
+"EV037",
+"EV053",
