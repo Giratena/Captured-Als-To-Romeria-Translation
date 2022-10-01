@@ -1,42 +1,60 @@
-"アーコ","アーコ"
+"アーコ","Ako"
 "リリー","Lily"
-"イベント実行",""
+"イベント実行",
 "\n<リリー>妙な建物があるとは思っていたけど・・・
 こんなところから入るなんて。
-全然気が付かなかったわ。",""
+全然気が付かなかったわ。","\n<Lily>I knew there was a strange building, 
+but...I didn't know you could get in through here.
+I never noticed before."
 "\n<アーコ>もう少し興味持とうよ。
-ここの暮らし長いんだしさぁ。",""
+ここの暮らし長いんだしさぁ。","\n<Ako>Show a little more interest.
+You've lived here for a long time."
 "\n<リリー>淫魔は家に興味なんか持たないの。
-興味があったら、あんたに屋敷のお宝なんてあげてないけど。",""
+興味があったら、あんたに屋敷のお宝なんてあげてないけど。","\n<Lily>Succubi have no interest in houses.
+If we did, we wouldn't have given you all those treasures."
 "\n<アーコ>ん・・・重い！
-せーので開けるよ。",""
-"\n<アーコ>せーの！",""
+せーので開けるよ。","\n<Ako>Ah・・・heavy!
+Let's get it open。"
+"\n<アーコ>せーの！","\n<Ako>Let's go!"
 "
-　　　　　　　　　第2部\.\.　深層のアルストロメリア",""
+　　　　　　　　　第2部\.\.　深層のアルストロメリア",
 "サンタ","サンタ"
 "\n<サンタ>やぁこんにちは。
 ボク、白猫のサンタ。
-人間がここに居るなんて珍しいね。",""
+人間がここに居るなんて珍しいね。","\n<Santa>Hello there.
+I'm Santa, the white cat.
+It's a rare sight to see a human here."
 "\n<サンタ>なんで驚いてんの？
-猫だって喋るさ。",""
+猫だって喋るさ。","\n<Santa>Why are you surprised?
+Even cats can talk."
 "\n<サンタ>ところでアーコ知らない？
 帰りが遅いから心配して見に来たんだけど、
-どこも閉め切ってて入れなくてさ。",""
+どこも閉め切ってて入れなくてさ。","\n<Santa>By the way, do you know Ako?
+I came to check on you since you were late, but
+I couldn't get in with everything being locked."
 "\n<サンタ>脱出ゲームかぁ。
 それで閉じ込められてたんだ。
-なんだか大変そうだね。",""
+なんだか大変そうだね。","\n<Santa>The escape game.
+So that's how you got locked in.
+Sounds like a lot of work."
 "\n<サンタ>・・・そういえば。
 さっきそこの下で鍵拾ったからあげる。
-何の鍵か分からないけど。",""
+何の鍵か分からないけど。","\n<Santa>...speaking of which.
+I found a key earlier, so I'll give it you.
+I don't know which key it is."
 "\n<サンタ>じゃ、脱出頑張ってね。
 無事なら別に会わなくていいや。
-アーコによろしく言っておいてー。",""
+アーコによろしく言っておいてー。","\n<Santa>Well, good luck with your escape.
+If you're safe, I don't need to hang around.
+Say hello to Ako for me."
 "\n<サンタ>あ、逃げたいからって、
 ここから飛び降りるのはやめておいた方がいいよ。
-ボクは猫だから平気だけど、キミはちゃんとカルシウム取ってる？",""
-"リリーの日記",""
+ボクは猫だから平気だけど、キミはちゃんとカルシウム取ってる？","\n<Santa>Oh, you may want to escape,
+but don't jump from here. I can do it since
+ I'm a cat, but are you getting enough calcium?"
+"リリーの日記",
 "リリーの日記
-しましまはマゾ",""
-"読んでみる",""
+しましまはマゾ",
+"読んでみる",
 "やめておく","Stop"
-"EV011",""
+"EV011",
