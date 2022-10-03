@@ -24,7 +24,7 @@ It deals 8000 damage.",
 相手が4000回復する","A medicine that, when used, is refreshing for 4000 minutes.
 The other party will be healed for 4000 health.",
 "テスト毒薬","test drug",
-"敵用催淫毒をかける","Apply Enemy Aphrosdisiac Poison",
+"敵用催淫毒をかける","Apply Enemy Aphrodisiac Poison",
 "900000ダメージ薬","900,000 Damage Drug",
 "使用すると900000分気持ちよくなるお薬
 900000ダメージ与える","A medicine that makes you feel good for 90,0000 minutes when used.
@@ -147,7 +147,7 @@ Extra large increase to TP",
 "攻撃の薬","Combat Potion",
 "攻撃力と技巧が一時的にアップする薬
 攻撃力UP　技巧UP　TP増加小","A potion that temporarily increases attack power and technique.
-Attack power UP, Technique UP, small increase to TP",
+Attack power UP, Technique UP, small increase to TP.",
 "防御の薬","Safeguard Potion",
 "防御力と精神力が一時的にアップする薬
 防御力UP　精神力UP　TP増加小","A potion that temporarily increases defense and Willpower.
