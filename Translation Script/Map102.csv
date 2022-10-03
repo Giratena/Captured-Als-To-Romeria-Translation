@@ -8,7 +8,7 @@
 "\n<ロメリア>えっ！？
 あにき！？
 どうやって外に・・・鉄格子は！？","\n<Meria>Ehh!?
-Alsy!?
+Brother!?
 That was an iron cell...how did you get out!?"
 "開いてた","It opened."
 "擦ったら摩擦で溶けた","I rubbed it really hard and it melted."
@@ -20,7 +20,7 @@ What a stroke of luck...!"
 "\n<ロメリア>いや、待って。怪しい・・・
 罠かもしれない。気を付けてあにき。
 あいつら、何か企んでるのかも。","\n<Meria>No, wait. That's too suspicious...
-It might be a trap. You should be careful Alsy,
+It might be a trap. You should be careful brother,
 they could be plotting something."
 "\n<ロメリア>あれだけ搾られた癖に冗談言うなんて余裕あるね。
 さすがあにき。
@@ -73,7 +73,7 @@ Is there some place you can hide!?"
 戻って来た！！
 どうしようあにき！隠れられる場所とか・・・！","\n<Meria>Those voices...!!
 They're coming back!!
-What do we do Alsy! There must be somewhere you can hide...!"
+What do we do!? There must be somewhere you can hide...!"
 "\n<アルス>早く隠れろ！
 どこか・・・なんかあるだろ！","\n<Alsto>Hide, on the double!
 There must be somewhere around!"
@@ -112,7 +112,7 @@ Until then, I'll be waiting."
 あまり無茶はするな。","\n<Alsto>That's it.
 Be careful, \n[1].
 Don't do anything rash."
-"\n<アルス>ぐぅ～・・・・（腹の鳴る音）","\n<Alsto>*Gurgle...* (You can hear their belly rumble)"
+"\n<アルス>ぐぅ～・・・・（腹の鳴る音）","\n<Alsto>*Gurgle...* (You can hear his belly rumble)"
 "\n<\n[1]>あにき、お腹鳴ってるよ。
 何か食べ物があったら持ってくるね。","\n<\n[1]>Alsy, I can hear your stomach groaning.
 I'll bring back some food for you, okay?"
@@ -128,8 +128,8 @@ Well, this could be a big chance for us though."
 なんとかここを抜け出す方法を探そう！
 あにき、頑張れ！","\n<Meria>You might be able to look for some way out
 while those three idiots are distracted!
-Do your best, Alsy!"
-"\n<ロメリア>ぐぅ～・・・（お腹の鳴る音）","\n<Meria>*Groan...* (You can hear their stomach growling)"
+Do your best, brother!"
+"\n<ロメリア>ぐぅ～・・・（お腹の鳴る音）","\n<Meria>*Groan...* (You can hear her stomach growling)"
 "\n<ロメリア>あ、ごめん。
 何か食べるものあったらお願いできる？
 お、お腹空きすぎて・・・","\n<Meria>Ah, sorry about that.
@@ -170,7 +170,7 @@ But never say that in front of anyone,
 it's a bit embarrassing."
 "\n<ロメリア>あにき。頼りにしてる。
 頑張って。
-なるべく見つからないように、こっそりね。","\n<Meria>I'm counting on you, Alsy.
+なるべく見つからないように、こっそりね。","\n<Meria>I'm counting on you, brother.
 Good luck.
 Sneak around carefully so you don't get spotted okay?"
 "\n<ロメリア>アルストロメリアの花言葉は『未来への憧れ』。
@@ -185,8 +185,8 @@ like that you know, but now...
 I don't think it's so bad."
 "\n<ロメリア>しょうがないことかもしれないけど、
 あんまり淫魔相手にえっちなこと考えないでよ？
-魔物なんだからね。化け物だよ。","\n<Meria>I guess there's no way around this but...
-Try not to think too much about doing lewd things with those
+魔物なんだからね。化け物だよ。","\n<Meria>I guess there's no way around this but... Try not to think
+too much about doing lewd things with those
 succubi, OK? They're demons after all right? Monsters!"
 "\C[3]戦わずに帰る","\C[3]Leave without fighting"
 "戦いに行く","Go and fight"
@@ -327,35 +327,35 @@ I was next-nya!!
 "\n<シィナ>にゃぁー！！","\n<Shina>Nya-!!"
 "・・・","..."
 "じょ・・・ぶ・・・
-だい・・・うぶか・・・","Hey...you...
-are...okay..."
+だい・・・うぶか・・・","Hey... you...
+are... okay..."
 "大丈夫か！？
 おい！！\n[1]！！","Are you okay!?
 Hey!! \n[1]!!"
 "ねぇ・・・にき・・・
-だい・・・うぶ・・・","Alsto...Alsto...
-are...alright..."
+だい・・・うぶ・・・","Hey... -ther...
+Are... alright..."
 "あにき！！
-大丈夫！？生きてる！？","Alsy!!
+大丈夫！？生きてる！？","Brother!!
 Are you alright!? Are you dead!?"
 "\n<アルス>こっちだ！","\n<Alsto>Over here!"
 "\n<ロメリア>こっちこっち！","\n<Meria>Over here!"
 "最初のイベ","最初のイベ"
 "\n<ロメリア>あにき！やっと起きた！
 大丈夫？
-随分と酷くヤラレチャッタみたいだけど・・・","\n<Meria>Alsy! You're finally up!
+随分と酷くヤラレチャッタみたいだけど・・・","\n<Meria>Brother! You're finally up!
 Are you okay?
 You look like you've been beaten up pretty bad..."
 "\n<ロメリア>何回呼んでも返事がないから
 死んじゃったのかと思ったよぉ・・・
-あぁ、良かった・・・","\n<Meria>I've been calling you so many times that
+あぁ、良かった・・・","\n<Meria>I called out to you so many times.
 I thought you were really dead...
 Oh, thank goodness..."
 "\n<ロメリア>ごめんね。
 私を助けに来たばっかりに、
-あにきまで捕まっちゃうなんて・・・","\n<Meria>Really sorry-
+あにきまで捕まっちゃうなんて・・・","\n<Meria>I'm really sorry.
 You came here to save me,
-but Alsy ended up getting caught instead..."
+but you ended up getting caught instead..."
 "\n<ロメリア>ごめんって言ってんじゃん。","\n<Meria>I...I told you I was sorry!"
 "\n<ロメリア>気にするよ。
 はぁ・・・
@@ -368,8 +368,8 @@ But, thanks."
 It was my subjugation request...
 But I never thought something like this would happen..."
 "\n<ロメリア>あにきにまで迷惑かけて・・・
-淫魔に捕まっちゃうなんて、ハンター失格だよ。","\n<Meria>I've been nothing but trouble to you Alsy...
-And being captured by demons...I'm a failure as a hunter."
+淫魔に捕まっちゃうなんて、ハンター失格だよ。","\n<Meria>I've been nothing but trouble to you, brother...
+And being captured by succubi...I'm a failure as a hunter."
 "なんとかここを抜け出さないとな","We have to break out of here somehow."
 "生きてるだけで丸儲け","As long as you're alive, we'll be just fine."
 "\n<ロメリア>そうだね。
@@ -383,7 +383,7 @@ home. We can't sit idle and do nothing right?"
 Is there anything here we can use?
 Like something to open the cage..."
 "\n<ロメリア>・・・そうだね。
-淫魔に負けて吸い殺されなかっただけマシなのかも。","\n<Meria>...you're right.
+淫魔に負けて吸い殺されなかっただけマシなのかも。","\n<Meria>..You're right.
 I guess it's just as well they didn't drain me to death."
 "\n<ロメリア>うーん・・・
 檻を開けられる方法はないかな？
@@ -476,18 +476,18 @@ Surely you know something."
 "\n<アルス>もうとっくに逃げたぜ。
 残念だったな。
 （無事に隠れられたようだな・・・）","\n<Alsto>You're too late.
-I'm afraid they're already far away from here now.
-(It seems they were able to hide safely...)"
+I'm afraid she's already far away from here now.
+(It seems she was able to hide safely...)"
 "\n<ロメリア>知らなーい。
 私寝てたから。
 ひょっとして逃げられたのー？","\n<Meria>No clue what so ever.
 I was lying down over here.
-Did they escape or something-?"
+Did he escape or something-?"
 "\n<ロメリア>いいなー。
 私も出してよー。くす。
 （上手く隠れたみたい・・・良かった。）","\n<Meria>That's so good to hear-
 Soon I'll get out too- Teehee!
-(They must have hid really well...thank goodness.)"
+(He must have hid really well...thank goodness.)"
 "\n<ライム>うーん・・・
 ちょっと遅かったみたい。","\n<Lime>Oooh...
 I guess we were too slow."
@@ -516,7 +516,7 @@ to play my ""Timewasting Escape Game!""
 And they fell right for it-"
 "\n<リリー>鍵はあえて掛けていなかったの。
 \.あ・\.え・\.て・\.ね。","\n<Lily>I didn't lock the door on purpose.
-\.ON・\.PUR-・\.POSE・\.!"
+\.ON\. PUR-\.POSE\.!"
 "\n<ライム>（嘘が下手すぎる）","\n<Lime>(She's so bad at lying.)"
 "\n<シィナ>面白そうにゃ！！
 そんな事を考えていたとは、リリー！
@@ -565,25 +565,25 @@ They'd just think I'm sleeping in there and I'd be finished!"
 "ライム","Lime"
 "掃除道具入れ","掃除道具入れ"
 "報告書：魔物について（マンドラゴラ）","Record Log:
-About Demons (Mandragora)"
+About Monsters (Mandragora)"
 "植物の分際で動きます。
 近づくと唾を吐きかけてくるので注意してください。
-肌に触れると火傷のような症状が出ます。何より臭い！","It's movements are limited from being a plant. Note they may
-spit saliva if they're approached. This will inflict
+肌に触れると火傷のような症状が出ます。何より臭い！","As a plant, its mobility is limited. Note it may
+spit saliva if approached. This will inflict
 burns if it touches the skin. Not to mention the smell!"
 "餌は何でもいいです。何でも喜んで食べます。
 （※腕も食べられるので手でやらないこと）
-骨は消化できないので注意。まとめて吐き出します。","Any food will do, and will happily eat just about anything.
-(※Do not give them your arm because they will eat it.)
-It cannot digest bones however, so they will spit it out."
+骨は消化できないので注意。まとめて吐き出します。","Any food will do, it will happily eat just about anything.
+(※Do not feed by hand, or it may eat your arm as well.)
+It cannot digest bones however, so it will spit them out."
 "植物系の魔物の例に漏れず、
-炎属性の攻撃に極端に弱い模様。","As typical of plant-based demons, they seem to be
+炎属性の攻撃に極端に弱い模様。","As typical of plant-based monsters, it seems to be
 highly vulnerable to fire based attacks."
 "追伸：
 食欲旺盛過ぎて、メイドが鍵を食べられてしまったそうです。
-予備はあるので殺して取り出す必要はありません。","PS: Due to the extreme appetite, they seem to have eaten the
-key from the housemaid. But because we have a spare, there
-is no need to kill them to take it out."
+予備はあるので殺して取り出す必要はありません。","PS: Because of its heart appetite, it seems to have eaten the
+key to the maids' room. Because we have a spare, there
+is no need to kill it in order to extract it."
 "捕まえシィナ","Shina Capture"
 "\n<シィナ>に""ゃ""っ！！
 脱獄囚ゲットにゃ！！","\n<Shina>Gotcha!!
@@ -624,12 +624,14 @@ Prison Outbreak"
 I'm even stronger than a succubus. Heheheh♥"
 "\n<ロメリア>あにき、私のおっぱいでイっちゃったけどさ。
 淫魔が自滅するぐらいのアレだから、
-その、落ち込まないでねっていう・・・","\n<Meria>I guest it must feel weird that you came on my boobs.
-But you know, we're only doing this so that those succubi \nwon't take advantage of you, so don't feel too bad..."
+その、落ち込まないでねっていう・・・","\n<Meria>I guess it must feel weird that you came on my boobs.
+But you know, we're only doing this so that those succubi 
+won't take advantage of you, so don't feel too bad..."
 "\n<ロメリア>いやマジなんの話だよ。
 ごめん。
 あにきが自信無くしちゃったらやだなって思っただけ。忘れて。","\n<Meria>I'm really serious. Sorry.
-I just didn't want you to lose confidence. Just forget it..."
+I just didn't want you to lose confidence.
+Just forget it..."
 "EV027","EV027"
 "梯子","梯子"
 "手鏡","Hand Mirror"
