@@ -405,12 +405,12 @@
 "胸に挟む","胸に挟む"
 "はペニスを胸で挟み込んだ！"," inserts your penis between her breasts!"
 "アソコ擦り付け1素股","アソコ擦り付け1素股"
-"はペニスをアソコに擦り付けてきた・・・","はペニスをアソコに擦り付けてきた・・・"
+"はペニスをアソコに擦り付けてきた・・・"," rubs your penis against her pussy..."
 "アソコ擦り付け2素股","アソコ擦り付け2素股"
-"はアソコをぐちゅぐちゅと擦り付けてきた！","はアソコをぐちゅぐちゅと擦り付けてきた！"
+"はアソコをぐちゅぐちゅと擦り付けてきた！"," grinds her pussy against you!"
 "アソコ擦り付け3素股","アソコ擦り付け3素股"
-"はペニスに女性器を強く押し付け","はペニスに女性器を強く押し付け"
-"裏筋を激しく擦り上げた！","裏筋を激しく擦り上げた！"
+"はペニスに女性器を強く押し付け"," thrusts her pussy against your penis."
+"裏筋を激しく擦り上げた！","Your shaft is roughly stimulated!"
 "エナジードレイン膣","エナジードレイン膣"
 "ペニスから力を吸い取られる・・・！","You feel power being drained out of your penis...!"
 "にぎりつぶす","にぎりつぶす"
@@ -1062,12 +1062,12 @@ Lightning attribute, skill-dependent, sensitive grant"
 "竜の咆哮に聞こえる衝撃波を放つ
 斬撃属性　技巧依存","Emit a shock wave that sounds like a dragon roar
 Slashing attribute skill dependent"
-"は%1を放った！"," released %1!"
+"は%1を放った！"," cast %1!"
 "竜気法","Dragon spirit method"
 "竜の力を体力の回復に当てる
 敏捷性依存　体力回復","Apply the power of the dragon to the recovery of HP
 AGI-dependent recovery of HP"
-"は気を巡らせた！","Was distracted!"
+"は気を巡らせた！"," concentrated!"
 "降竜波","Falling dragon wave"
 "竜の咆哮に聞こえる衝撃波を放つ
 斬撃属性　技巧依存　怯み付与","Emit a shock wave that sounds like a dragon roar
@@ -1207,12 +1207,12 @@ Vaginal attribute ATK + skill dependent"
 Vaginal attribute ATK + skill-dependent frightening"
 "集中","concentration"
 "ステータス異常を治し数ターンの間耐性を得る
-ステータス異常解除　集中付与","HeAlsto stat abnormalities and gains resistance for several turns
+ステータス異常解除　集中付与","Heals stat abnormalities and gains resistance for several turns
 Status abnormality cancellation centralized grant"
 "は集中力を高めた・・・","has increased concentration..."
 "治療","Treatment"
 "ステータス異常を治しわずかに精力を回復する
-技巧依存　ステータス異常解除　精力回復小","HeAlsto status abnormalities and recovers a little energy
+技巧依存　ステータス異常解除　精力回復小","Heals status abnormalities and recovers a little energy
 Skill-dependent status abnormality cancellation Small energy recovery"
 "は治療した！"," was cured!"
 "払拭","wiping"
@@ -1245,12 +1245,12 @@ Full recovery of energy, cancellation of status abnormality"
 敵のステータス　弱点表示","Watch and observe the other person
 Enemy status weakness display"
 "は\n[3]をじっくりと観察した・・・","Carefully observed \n[3] ..."
-"警戒","caution"
+"警戒","Caution"
 "気を張って素早く対応できるようにする
 敏捷性2倍　2ターン","Be careful and be able to respond quickly
 Double AGI for 2 turns"
 "は気を張った！","Was careful!"
-"休憩","rest"
+"休憩","Rest"
 "ひとまず休んで体力を回復する
 敏捷性依存　体力回復小","Take a break and recover your strength
 AGI-dependent, small recovery of HP"
@@ -1265,7 +1265,7 @@ ATK dependent"
 攻撃力依存","Leave it to the momentum and caress it for 3 consecutive times.
 ATK dependent"
 "はがむしゃらに愛撫した！","I caressed it!"
-"くすぐる","tickle"
+"くすぐる","Tickle"
 "くすぐって怯ませる
 技巧依存","Tickle and scare
 Skill dependent"
