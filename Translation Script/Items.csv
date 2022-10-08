@@ -37,7 +37,7 @@ Restores 30% + 200 points of vitality.",
 "<mat1:I71*1>
 <matG:10>","<mat1:I71*1>
 <matG:10>",
-"精力剤α","Energizer α","Energizer a"
+"精力剤α","Energizer α",Energizer a
 "ミントの匂い
 精力50％+200回復","Smells like mint.
 Restores 50% + 200 points of vitality.",
@@ -237,8 +237,8 @@ All capacities UP, Large increase to TP",
 Attack power up, technique up, maximum vigor up.",
 "精力増強剤","Energy Booster",
 "一時的に精力の最大値を増やす薬　マカ配合
-精力20％回復 最大精力UP（8ターン 600歩）","Pill to temporarily increase maximum vigor, containing Maca.
-20% recovery of vigor, Maximum vigor increase (8 turns, 600 steps)",
+精力20％回復 最大精力UP（8ターン 600歩）","Pill that temporarily increases max energy, contains Maca.
+Restore 20% energy, increase max energy (8 turns/600 steps)",
 "ネクター","Ambrosia",
 "神が好むとされる桃ジュース
 防御力UP　精神力UP　最大精力UP","Peach juice, said to be favored by the gods.

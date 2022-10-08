@@ -287,7 +287,7 @@ I'll go and visit her later-. I wonder if we would get along well?",
 ふーん！","\n<Ako>Haah. Did you just come to window shop or something?
 Hmmph!",
 "\n<アーコ>まいどあり～！","\n<Ako>Thank you for your purchase-!",
-"\n<アーコ>ふーん。","\n<Ako>Hmm.","\n<Ako>Hmm."
+"\n<アーコ>ふーん。","\n<Ako>Hmm.",\n<Ako>Hmm.
 "\n<アーコ>戦うの・・・？
 そっか・・・","\n<Ako>Fighting...?
 I see...","\n<Ako>Fighting...?
@@ -314,23 +314,24 @@ Lily is really strong. \nI'd hate for \n[1] to be defeated, and devoured.",
 "\n<アーコ>何が欲しいのかな？","\n<Ako>What would you like?",
 "\n<アーコ>もう帰ろーよー。","\n<Ako>Come again-.",
 "\n<アーコ>そっか。","\n<Ako>I see.",
-"食糧庫ドア","Pantry door","Door to the Food Warehouse"
-"食糧庫の鍵を開けた！","Unlocked the pantry!","Used the key to the Food Warehouse!"
+"食糧庫ドア","Pantry door",Door to the Food Warehouse
+"食糧庫の鍵を開けた！","Unlocked the pantry!",Used the key to the Food Warehouse!
 "食糧庫のようだ。
 鍵がかかっている・・・","Looks like the pantry.
 It's locked…","It seems to lead to the Food Warehouse.
 It's locked..."
-"いわ",,"Boulder"
+"いわ",,Boulder
 " <enemy:145>",,
-"瓦礫を壊せば通れそうだ・・・",,
+"瓦礫を壊せば通れそうだ・・・","You could pass by if you broke this rubble...",
 "EV023",,
 "浴場の鍵を開けた！","Unlocked the bathroom!",
 "この先は浴場のようだ。
 鍵がかかっている・・・","Looks like the bathroom.
 It's locked…",
-"応接室の鍵を開けた！",,
+"応接室の鍵を開けた！","Unlocked the parlor!",
 "応接室の扉だ。
-鍵がかかっている・・・",,
+鍵がかかっている・・・","The parlor.
+It's locked...",
 "倉庫の鍵を開けた！","Unlocked the warehouse!",
 "倉庫の扉だ。
 鍵がかかっている・・・","The warehouse.
@@ -404,8 +405,8 @@ But hey, you won♥
 Fu... Hee hee hee♥","\n<\n[3]>Ahahaha! That desperate look on your face♥ So good♥
 But hey, you won♥
 Fu... Hee hee hee♥"
-"挿入","Insert","Insert"
-"やめる","Stop","Stop"
+"挿入","Insert",Insert
+"やめる","Stop",Stop
 "\n<\n[3]>あはっ。
 抜いたのに限界が来ちゃってたみたい♥
 お尻に熱いのがかかってるわ♥くすくす♥","\n<\n[3]>Ahaaa.
@@ -459,9 +460,9 @@ Well, come back if you want to try again.","\n<\n[3]>Weakling♥
 Can't even endure 3 pumps? Hee hee♥
 Well, come back if you want to try again."
 "ツタが入口を塞いでいる・・・
-武器があればなんとか出来るかもしれない。","Ivy is blocking the entrance… You might be able to do something if you had a weapon.","Ivy is blocking the entrance… You might be able to do something if you had a weapon."
-"障壁","Barrier","Barrier"
-"半透明な壁が階段を塞いでいる・・・","A translucent barrier blocks the stairway…","A translucent barrier blocks the stairway…"
+武器があればなんとか出来るかもしれない。","Ivy is blocking the entrance… You might be able to do something if you had a weapon.",Ivy is blocking the entrance… You might be able to do something if you had a weapon.
+"障壁","Barrier",Barrier
+"半透明な壁が階段を塞いでいる・・・","A translucent barrier blocks the stairway…",A translucent barrier blocks the stairway…
 "EV058",,
 "何か使えそうなものは・・・","Might find something useful here…",
 "\n<\n[3]>精奴隷みっけにゃ！
@@ -500,7 +501,7 @@ Such an impossibly fragile dick, nya. It's almost snack time, nya.",
 "\n<\n[3]>もう逃げる気無くなったし。
 よーわ。
 じゃあまず自分で扱いて見せろにゃ。","\n<\n[3]>You're not getting away now.
-Good.First things first, show me how you masturbate, nya.",
+Good. First things first, show me how you masturbate, nya.",
 "--------ここからクリア------------",,
 "\n<\n[3]>くんくん・・・
 にゃぁ・・・♥
@@ -744,10 +745,10 @@ as if that's the reason I'm angry.
 I'm telling you, it drives me crazy.","Then she says 「You can't do this, nya～」, to provoke me,
 as if that's the reason I'm angry.
 I'm telling you, it drives me crazy."
-"天使の像・・・","An angel statue…","An angel statue…"
+"天使の像・・・","An angel statue…",An angel statue…
 "もう何もない・・・","Nothing else…",
-"時計が時を刻んでいる・・・","The clock ticks away…","The clock ticks away…"
-"\n<\n[1]>（どれだけの時間、ここにいるんだろう・・・）","\n<\n[1]>(I wonder how long I'll be trapped here...)","\n<\n[1]>(I wonder how long I'll be trapped here...)"
+"時計が時を刻んでいる・・・","The clock ticks away…",The clock ticks away…
+"\n<\n[1]>（どれだけの時間、ここにいるんだろう・・・）","\n<\n[1]>(I wonder how long I'll be trapped here...)",\n<\n[1]>(I wonder how long I'll be trapped here...)
 "\n<\n[1]>（時間の感覚がおかしくなる・・・
 早くここから抜け出さないと・・・）","\n<\n[1]>(I'm losing my sense of time...
 I need to get out of here soon...)","\n<\n[1]>(I'm losing my sense of time...
