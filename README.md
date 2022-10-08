@@ -13,7 +13,7 @@ your current one!
 -------------------------------------------
 Simply download the latest public release from the right hand side of this page.
 1. Use EnigmaVBUnpacker.exe to unpatch your game
-2. Place the contents of the data folder in [your unpacked game folder] > www 
+2. Place the contents of the data folder in [your unpacked game folder]>www 
 or, open the translator++ file and use that if you know what you're doing
 
 The most up to date release can be found on my patreon!
