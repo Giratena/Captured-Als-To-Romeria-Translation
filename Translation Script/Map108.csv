@@ -1,248 +1,243 @@
-"自動実行","自動実行",
-"いわ","いわ",
-" <enemy:148>"," <enemy:148>",
-"錆びついた鉄格子だ・・・","A rusty iron grate...",
-"食糧庫ドア","Pantry door",
-"鍵が刺さったままになっている・・・","The key is in the lock…",
-"出現防止",,
-"EV025",,
-"リリーの日記",,
+"自動実行","自動実行"
+"いわ","いわ"
+" <enemy:148>"," <enemy:148>"
+"錆びついた鉄格子だ・・・","A rusty iron grate..."
+"食糧庫ドア","Pantry door"
+"鍵が刺さったままになっている・・・","The key is in the lock…"
+"出現防止",
+"EV025",
+"リリーの日記",
 "リリーの日記
 ライム式ダイエット","Lily's Diary
-Lime-Style Diet",
-"読んでみる","Read",
-"やめておく","Don't read",
-"EV054","EV054",
-"罠を踏んでしまった・・・！","Stepped on a trap...!",
-"なんと身体が小さくなってしまった・・・！","Your body has become tiny…!",
-"--------キャラ指定-----座標設定------------",,
-"----------------------------------------",,
+Lime-Style Diet"
+"読んでみる","Read"
+"やめておく","Don't read"
+"EV054","EV054"
+"罠を踏んでしまった・・・！","Stepped on a trap...!"
+"なんと身体が小さくなってしまった・・・！","Your body has become tiny…!"
+"--------キャラ指定-----座標設定------------",
+"----------------------------------------",
 "\n<リリー>なぁに？
 また食べられたいの？ヘンタイ♥
 わざと踏んだでしょそれ。","\n<Lily>What's this?
 Do you want to get eaten again? Pervert♥
-You stepped on it on purpose.",
+You stepped on it on purpose."
 "\n<リリー>違うの？
 本当に？ふーん。
 ま、どっちでもいいけど。","\n<Lily>Am I wrong?
 Really? Hmmmm.
-Well, no matter, either way.",
-"ミニマムバトル","Shrunken battle",
-"\C[10]小説","\C[10]Short story",
-"説明","Explanation",
+Well, no matter, either way."
+"ミニマムバトル","Shrunken battle"
+"\C[10]小説","\C[10]Short story"
+"説明","Explanation"
 "丸飲みサークルD-gateのCamelさんから頂いた
 小説を元にしたイベントが見られます。
 選択すると食べられてゲームオーバーになるので注意！","I received a short story from Camel of the vore group D-Gate.
 You can see an event based on the story. If you select it,
-you'll be eaten, and the game will be over. Be careful!",
-"ポップアップ有効化",,
+you'll be eaten, and the game will be over. Be careful!"
+"ポップアップ有効化",
 "\n<リリー>必死に抵抗しちゃって。
 そんなに食べられたくなかった？
 くすくす♥","\n<Lily>You fought as hard as you could.
 So you really didn't want to be eaten?
-Hee hee♥",
+Hee hee♥"
 "\n<リリー>そろそろ魔法が切れそうね。
 じゃ、私のお口が恋しくなったらいつでも言うのよ？
 また小さくして可愛がってあげる♥くすくす♥","\n<Lily>That spell will wear off soon. Well, if you ever
 miss my mouth, let me know, ok? I'll shrink you
-down and play with you again♥ Hee hee♥",
-"身体が元の大きさに戻った！","Your body returned to its normal size!",
-"報告書",,
+down and play with you again♥ Hee hee♥"
+"身体が元の大きさに戻った！","Your body returned to its normal size!"
+"報告書",
 "お風呂場のモップ、ダメになってきちゃった！
 根元がポキっと折れてただの『棒』になっちゃいそうなの。
 アーコちゃん、もしモップあったらお願いね！","The bathroom mop is broken!
 The head broke off, and now it's just a 『Stick』.
-Ako, please, we really need a mop!",
-"\n<\n[1]>（淫魔の癖になんて庶民的な買い物・・・）","\n<\n[1]>(Succubi have such ordinary shopping lists…)",
+Ako, please, we really need a mop!"
+"\n<\n[1]>（淫魔の癖になんて庶民的な買い物・・・）","\n<\n[1]>(Succubi have such ordinary shopping lists…)"
 "\n<\n[1]>（モップ・・・武器になるかな？
 こんな短い果物ナイフよりはマシだと思うけど・・・）","\n<\n[1]>(A mop… Could I use that as a weapon?
-The reach would be better than the little fruit knife…)",
+The reach would be better than the little fruit knife…)"
 "\n<\n[1]>（モップか・・・武器に出来るか？
 無いよりはましそうだけど・・・）","\n<\n[1]>(A mop… Could I use that as a weapon?
-I guess it would be better than nothing…)",
-"EV058",,
-"何か使えそうなものは・・・","Anything useful here…",
+I guess it would be better than nothing…)"
+"EV058",
+"何か使えそうなものは・・・","Anything useful here…"
 "豪華な装飾の付いた鍵だ・・・
 どこの鍵だろう。","A lavishly decorated key…
-What could it unlock?",
+What could it unlock?"
 "\n<\n[3]>ごそごそして何か探してるのかな？
 お腹空いたのー？","\n<\n[3]>What are you rummaging around for?
-Are you hungry-?",
+Are you hungry-?"
 "\n<\n[3]>お腹空いたのなら私が何か作ってあげるよー♥
 でもでもー、その前にー・・・","\n<\n[3]>If you're hungry, I can make you something to eat-♥
-But... Before that...",
+But... Before that..."
 "\n<\n[3]>ぎゅーっ♥
 私が先にご飯にするー♥","\n<\n[3]>Squish♥
-I get to eat first-♥",
-"ーーーーー待機or攻撃アニメSE選択ーーーーー",,
-"MP_SET_speed 5 50",,
-"--------ここから誘惑------------",,
+I get to eat first-♥"
+"ーーーーー待機or攻撃アニメSE選択ーーーーー",
+"MP_SET_speed 5 50",
+"--------ここから誘惑------------",
 "\n<\n[3]>わぁ♥
 抱き着いたら乳首におちんちん入っちゃった♥
 あははー♥","\n<\n[3]>Waah♥
 When we hugged, your dick got stuck in my nipple♥
-Ahaha-♥",
+Ahaha-♥"
 "\n<\n[3]>おっぱいで挟むのもいいけどー、
 おっぱいの中に入っちゃうのもいいよねー♥
 くすくす♥","\n<\n[3]>It's nice to be held in between my boobs, but...
 It's something completely different to be held inside them-♥
-Hee hee♥",
+Hee hee♥"
 "\n<\n[3]>ねーねー♥
 腰動いちゃってるよー？
 私の乳首でもぐもぐされるのどーお？気持ちいー？","\n<\n[3]>Hey, hey♥
 Are you pumping your hips-?
-Are you writhing there, inside my nipple-? Does it feel good?",
-"--------ここから選択肢-------------",,
+Are you writhing there, inside my nipple-? Does it feel good?"
+"--------ここから選択肢-------------",
 "\n<\n[3]>抜け出さなきゃなのに
 にゅるにゅるおちんちんに絡みついてきて
 逃げられないねー♥","\n<\n[3]>If you don't break free now, 
 my slimy body will coil around your dick,
-and then you'll never escape-♥",
-"MP_SET_speed 5 75",,
-"MP_SET_speed 5 100",,
+and then you'll never escape-♥"
+"MP_SET_speed 5 75",
+"MP_SET_speed 5 100",
 "\n<\n[3]>もう離れられると思ったー？
 ダメダメー♥
 ほーらぴゅっぴゅしちゃいなよー♥","\n<\n[3]>Did you think you'd be free by now?
 Not this time-♥
-I want you to let it all out inside me-♥",
-"\n<\n[3]>おいでおいでー♥","\n<\n[3]>Cum, cum-♥",
-"--------ここからクリア------------",,
+I want you to let it all out inside me-♥"
+"\n<\n[3]>おいでおいでー♥","\n<\n[3]>Cum, cum-♥"
+"--------ここからクリア------------",
 "\n<\n[3]>むー・・・
 カチカチにしてるのにまだ頑張るのー？そっかー。
 悲しいなぁー・・・","\n<\n[3]>Hmph...
 Are you really still resisting, even when you're so hard? Ahh.
-Such a shame...",
+Such a shame..."
 "\n<\n[3]>でも、またしてほしくなったら言ってね？
 いつでももぐもぐ食べてあげるから。
 じゃ、また後でねー♥","\n<\n[3]>But won't you let me know if you ever want to do it again?
 I'll eat you up any time you want.
-Well, see you again-♥",
-"アイテム",,
+Well, see you again-♥"
+"アイテム",
 "バルコニーの鍵を見つけた！
 これで外に出られる・・・！","You found the Balcony Key!
-Now you can get outside...!",
-"もう使えそうなものはない。","Nothing else useful.",
-"食材が並んでいる・・・","Ingredients line the shelf…",
+Now you can get outside...!"
+"もう使えそうなものはない。","Nothing else useful."
+"食材が並んでいる・・・","Ingredients line the shelf…"
 "\n<\n[1]>（淫魔も普通のご飯食べるのかな。
 じゃあそれだけ食べてればいいのに・・・）","\n<\n[1]>(I wonder if succubi eat normal food too.
-I wish I could eat this well…)",
-"\n<\n[1]>（食べるものには困らないな・・・）","\n<\n[1]>(Don't let your hunger distract you...)",
-"時計が時を刻んでいる・・・","The clock is ticking…",
-"\n<\n[1]>（どれだけの時間、ここにいるんだろう・・・）","\n<\n[1]>(I wonder how long I'll be trapped here…)",
+I wish I could eat this well…)"
+"\n<\n[1]>（食べるものには困らないな・・・）","\n<\n[1]>(Don't let your hunger distract you...)"
+"時計が時を刻んでいる・・・","The clock is ticking…"
+"\n<\n[1]>（どれだけの時間、ここにいるんだろう・・・）","\n<\n[1]>(I wonder how long I'll be trapped here…)"
 "\n<\n[1]>（時間の感覚がおかしくなる・・・
 早くここから抜け出さないと・・・）","\n<\n[1]>(My sense of time is all messed up…
-I need to get out of here right away…)",
+I need to get out of here right away…)"
 "リリーの日記
 手配書を出そう","Lily's Diary
-Calling the Search",
-"食料保管庫と書かれている・・・","It reads Food Storage…",
-"\n<\n[1]>（何か甘い物、ないかな？）","\n<\n[1]>(I wonder if they have anything sweet?)",
-"\n<\n[1]>（腐ってなければいいが・・・）","\n<\n[1]>(I hope nothing has gone rotten…)",
+Calling the Search"
+"食料保管庫と書かれている・・・","It reads Food Storage…"
+"\n<\n[1]>（何か甘い物、ないかな？）","\n<\n[1]>(I wonder if they have anything sweet?)"
+"\n<\n[1]>（腐ってなければいいが・・・）","\n<\n[1]>(I hope nothing has gone rotten…)"
 "来客に食事を提供する際の注意
 1：身だしなみを整える
 2：おもてなしの心をもつ","Notice when serving dinner guests
 1: Keep yourself well groomed
-2: Keep a hospitable spirit",
+2: Keep a hospitable spirit"
 "3：適温で提供する
 4：なるべくお酒を勧める（アルコール度数が高い物）
 5：無駄な話をしない","3: Ensure dishes are the right temperature
 4: Recommend alcohol as often as possible (high alcohol content)
-5: Keep your speaking brief",
+5: Keep your speaking brief"
 "6：態度が怪しい場合はガード、またはメイド長へ連絡
 7：問題ない場合は笑顔で帰ってもらう","6: Report unusual behavior to security, or contact head maid
-7: If no issues arise, send them home with a smile",
-"EV074",,
-"EV075",,
-"錆びた鉄格子を開けるには・・・","How to open the rusted gate…",
-"答えを見る","See answer",
-"見ない","Don't see",
-"武器で攻撃してください。","Attack the gate with an ice weapon.",
-"ビンにはピクルスが入っている。","The jars are full of pickles.",
-"\n<\n[1]>（ハンバーガーに挟むと美味しい。）","\n<\n[1]>(These would go nice with a hamburger.)",
+7: If no issues arise, send them home with a smile"
+"EV074",
+"EV075",
+"錆びた鉄格子を開けるには・・・","How to open the rusted gate…"
+"答えを見る","See answer"
+"見ない","Don't see"
+"武器で攻撃してください。","Attack the gate with an ice weapon."
+"ビンにはピクルスが入っている。","The jars are full of pickles."
+"\n<\n[1]>（ハンバーガーに挟むと美味しい。）","\n<\n[1]>(These would go nice with a hamburger.)"
 "\n<\n[1]>（こんな酸っぱいものは
 ハンバーガーに挟むべきではない。）","\n<\n[1]>(Vile, sour things.
-No hamburger should be disgraced by your presence.)",
-"様々な種類のビネガーが置かれている。","Various types are vinegar sit on the shelf.",
+No hamburger should be disgraced by your presence.)"
+"様々な種類のビネガーが置かれている。","Various types are vinegar sit on the shelf."
 "\n<\n[1]>（お酢を飲むと体が柔らかくなるってお母さんが言ってた。
 多分気のせい。）","\n<\n[1]>(Mother used to say that drinking vinegar would make your
-skin softer. She probably made that up.)",
-"\n<\n[1]>（これが扱える人は自炊のレベルが高いと思う。）","\n<\n[1]>(People who can make this stuff are next-level cooks.)",
-"料理酒が並んでいる。","Cooking sake lines the shelf.",
+skin softer. She probably made that up.)"
+"\n<\n[1]>（これが扱える人は自炊のレベルが高いと思う。）","\n<\n[1]>(People who can make this stuff are next-level cooks.)"
+"料理酒が並んでいる。","Cooking sake lines the shelf."
 "\n<\n[1]>（お肉の臭みを取ったり柔らかくしたり出来る。
 今要るかと言われると要らない。）","\n<\n[1]>(You can soften meat, and remove unpleasant odors.
-I don't need any right now though.)",
-"\n<\n[1]>（何のために料理に入れるのかさっぱり分からない。）","\n<\n[1]>(I've got no idea how to cook with this.)",
-"まな板。","A cutting board.",
+I don't need any right now though.)"
+"\n<\n[1]>（何のために料理に入れるのかさっぱり分からない。）","\n<\n[1]>(I've got no idea how to cook with this.)"
+"まな板。","A cutting board."
 "\n<\n[1]>（淫魔の出してくる食べ物なんてと思っていたけど
 無駄に美味しいんだよなぁ・・・
 逆になんかやだ。）","\n<\n[1]>(I never expected food served by succubi would be so
 incredibly delicious...
-It's really bizarre.)",
+It's really bizarre.)"
 "\n<\n[1]>（ここの食事が妙に美味しいのも
 何か逆に良くない気がする・・・）","\n<\n[1]>(The food here has all been weirdly delicious.
-It feels wrong somehow…)",
-"EV080",,
+It feels wrong somehow…)"
+"EV080",
 "バルコニーの鍵！
 これで外に出られそうだ・・・！","The balcony key!
-Now you can get outside…!",
-"身体が小さくなってしまった・・・！","Your body has become tiny…!",
+Now you can get outside…!"
+"身体が小さくなってしまった・・・！","Your body has become tiny…!"
 "\n<リリー>あはは！ひっかかった！
 可愛らしいサイズになったわねぇ♥くすくす♥","\n<Lily>Ahaha! Caught you!
-You're so tiny and cute♥ Hee hee♥","\n<Lily>Ahaha! Caught you!
 You're so tiny and cute♥ Hee hee♥"
 "\n<リリー>あんた食糧庫で何してたの？
 お腹空いた？","\n<Lily>What were you doing in the pantry?
-Were you hungry?","\n<Lily>What were you doing in the pantry?
 Were you hungry?"
 "\n<リリー>でもざーんねん。
 食事するのは私よ。","\n<Lily>That's toooo bad.
-It's my turn to eat.","\n<Lily>That's toooo bad.
 It's my turn to eat."
 "\n<リリー>そろそろ魔法が切れそうね。
 じゃ、私のお口が恋しくなったらいつでも言うのよ？
 また可愛がってあげる♥くすくす♥","\n<Lily>That spell will wear off soon. Well, if you ever
 miss my mouth, let me know, ok? I'll shrink you
-down and play with you again♥ Hee hee♥","\n<Lily>That spell will wear off soon. Well, if you ever
-miss my mouth, let me know, ok? I'll shrink you
 down and play with you again♥ Hee hee♥"
 "炎の魔導書・・・
 装備すれば何かを燃やすことが出来そうだ。","炎の魔導書・・・
-装備すれば何かを燃やすことが出来そうだ。",
+装備すれば何かを燃やすことが出来そうだ。"
 "\n<リリー>捕まえたっ♥
 ほらこっち向きなさい♥","\n<リリー>捕まえたっ♥
-ほらこっち向きなさい♥",
+ほらこっち向きなさい♥"
 "\n<\n[3]>ちゅー♥
 あっは♥いきなりキスしちゃった♥
 くすくす♥","\n<\n[3]>ちゅー♥
 あっは♥いきなりキスしちゃった♥
-くすくす♥",
+くすくす♥"
 "\n<\n[3]>あんたってマゾだからさー、
 こうやってキスされるとすぐスイッチ入っちゃうでしょ。
 ちゅっ♥ちゅっ♥","\n<\n[3]>あんたってマゾだからさー、
 こうやってキスされるとすぐスイッチ入っちゃうでしょ。
-ちゅっ♥ちゅっ♥",
+ちゅっ♥ちゅっ♥"
 "\n<\n[3]>ほらビンビンに勃起した。あーぁ。
 ここに挟まれたらもう逃げられないわね。","\n<\n[3]>ほらビンビンに勃起した。あーぁ。
-ここに挟まれたらもう逃げられないわね。",
+ここに挟まれたらもう逃げられないわね。"
 "\n<\n[3]>あら、振り払おうとしてるの？
 全然力が入ってないけど♥
 おちんちんは逃げたくないみたいよ？","\n<\n[3]>あら、振り払おうとしてるの？
 全然力が入ってないけど♥
-おちんちんは逃げたくないみたいよ？",
+おちんちんは逃げたくないみたいよ？"
 "\n<\n[3]>イキなさい。
 あんたの負けよ。
 くすくす♥","\n<\n[3]>イキなさい。
 あんたの負けよ。
-くすくす♥",
+くすくす♥"
 "\n<リリー>なにあんた。必死になっちゃって。
 分かったわよ。
 離れてあげる。","\n<リリー>なにあんた。必死になっちゃって。
 分かったわよ。
-離れてあげる。",
+離れてあげる。"
 "\n<リリー>あらあら大変。
 我慢汁だらだらじゃないの。
 床汚さないでよ。","\n<リリー>あらあら大変。
 我慢汁だらだらじゃないの。
-床汚さないでよ。",
-"EV081","EV081",
-"EV082","EV082",
+床汚さないでよ。"
+"EV081","EV081"
+"EV082","EV082"

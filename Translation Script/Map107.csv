@@ -1,9 +1,7 @@
-"自動実行","自動実行",
-"水噴出","水噴出",
-" <enemy:99>"," <enemy:99>",
+"自動実行",
+"水噴出",
+" <enemy:99>",
 "水漏れしている・・・
-びしょ濡れになりたくないから
-出来るなら通りたくない・・・","水漏れしている・・・
 びしょ濡れになりたくないから
 出来るなら通りたくない・・・","Water is gushing out...
 You'd be drenched if you passed through,
@@ -12,185 +10,149 @@ so you'd rather not if possible…"
 1斬　2打撃　3水　4火　5雷
 6誘惑　7食べ物
 特殊206（個別攻撃種類）
-1リンゴ　2皿　3卵",,
-"カチコチに凍っている・・・","カチコチに凍っている・・・",It's frozen solid…
-"食糧庫ドア","食糧庫ドア",Pantry door
-"食堂の鍵を開けた！","Unlocked the door with the Dining Room Key!",Unlocked the door with the Dining Room Key!
+1リンゴ　2皿　3卵",
+"カチコチに凍っている・・・","It's frozen solid…"
+"食糧庫ドア","Pantry door"
+"食堂の鍵を開けた！","Unlocked the door with the Dining Room Key!"
 "食堂に繋がっているようだ。
 鍵がかかっている・・・","This seems to be the door to the dinning room.
-It's locked...","This seems to be the door to the dinning room.
 It's locked..."
-"ゴミ捨て場の鍵を開けた！","ゴミ捨て場の鍵を開けた！",Unlocked the dump!
+"ゴミ捨て場の鍵を開けた！","Unlocked the dump!"
 "この先はゴミ捨て場のようだ・・・
-匂いが漏れてきている。","この先はゴミ捨て場のようだ・・・
 匂いが漏れてきている。","Looks like the garbage dump ahead...
 The stench is pouring out."
-"報告書","報告書",
+"報告書",
 "失敗した料理のような塊がある・・・
-新鮮な生ごみ。","失敗した料理のような塊がある・・・
 新鮮な生ごみ。","Looks like a failed recipe...
 These scraps are still fresh."
-"出現防止","出現防止",
-"EV011","EV011",
-"リラクゼーションの本だ・・・","リラクゼーションの本だ・・・",A book on relaxation...
-"\n[1]は\C[3]『休憩』\C[0]を覚えた！","\n[1]は\C[3]『休憩』\C[0]を覚えた！",\n[1] learned \C[3]『Rest』\C[0]!
-"イベント用キャラ","イベント用キャラ",イベント用キャラ
+"出現防止",
+"EV011",
+"リラクゼーションの本だ・・・","A book on relaxation..."
+"\n[1]は\C[3]『休憩』\C[0]を覚えた！","\n[1] learned \C[3]『Rest』\C[0]!"
+"イベント用キャラ","イベント用キャラ"
 "シィナに料理をさせないで！
 あんなの食べたら精奴隷さんが死んじゃうよ！
-食材も勿体ないから見つけたら止めてね！","シィナに料理をさせないで！
-あんなの食べたら精奴隷さんが死んじゃうよ！食材も勿体ないから見つけたら止めてね！","Do not let Shina do the cooking! The semen slaves will
+食材も勿体ないから見つけたら止めてね！","Do not let Shina do the cooking! The semen slaves will
 die if they are fed this! She's also wasting
 ingredients, so if you see her, stop her!"
-"EV014","EV014",
-"--------キャラ指定-----座標設定------------",,
-"----------------------------------------",,
+"EV014",
+"--------キャラ指定-----座標設定------------",
+"----------------------------------------",
 "果物ナイフか・・・
-一応武器として使えるかもしれない。","果物ナイフか・・・
 一応武器として使えるかもしれない。","A fruit knife...
 Perhaps this could be used as a weapon."
-"\n<リリー>みーつけた♥","\n<Lily>みーつけた♥",\n<Lily>Fo-ound you♥
+"\n<リリー>みーつけた♥","\n<Lily>Fo-ound you♥"
 "\n<リリー>あら・・・
 果物ナイフなんか持っちゃって。
-危ないわねー。","\n<Lily>あら・・・
-果物ナイフなんか持っちゃって。危ないわねー。","\n<Lily>Ara...
+危ないわねー。","\n<Lily>Ara...
 So you've found a fruit knife. Look out-."
 "\n<リリー>そんな物騒なもの置いて？
 ねぇ、私と気持ちいいことしましょう♥
 ほら見て♥","\n<Lily>Why don't you put down that dangerous little thing?
 Come on, just feel good with me instead♥ 
-Hora- Look♥","\n<Lily>Why don't you put down that dangerous little thing?
-Come on, just feel good with me instead♥ 
 Hora- Look♥"
-"ーーーーー待機or攻撃アニメ選択ーーーーー",,
-"--------ここから誘惑------------",,
+"ーーーーー待機or攻撃アニメ選択ーーーーー",
+"--------ここから誘惑------------",
 "\n<リリー>ふーり♥ふーり♥
-あはっ♥
-見ちゃったわね♥","\n<リリー>ふーり♥ふーり♥
 あはっ♥
 見ちゃったわね♥","\n<Lily>Shake♥ Shake♥
 Ahaha♥
 You looked♥"
 "\n<リリー>あんたのそのレベルじゃ
 こーんなあからさまな誘惑でも
-おちんちんにきちゃうでしょ♥","\n<リリー>あんたのそのレベルじゃ
-こーんなあからさまな誘惑でも
 おちんちんにきちゃうでしょ♥","\n<Lily>At your level, even a little simple tease
 like this will drive your dick insane♥"
 "\n<リリー>ねぇ♥気持ちいい事しましょ？
 そんな小さなナイフなんて置いて♥","\n<Lily>Hey, it feels good, right?
-You've got such a little knife♥","\n<Lily>Hey, it feels good, right?
 You've got such a little knife♥"
 "\n<リリー>ナイフなんかよりその股間についてる武器を握らないと♥
 サキュバスは倒せないわよ？
 くすくす♥","\n<Lily>But the weapon you should be holding is the one attached to your crotch♥
 That's the only way to defeat a succubus, right?
-Heehee♥","\n<Lily>But the weapon you should be holding is the one attached to your crotch♥
-That's the only way to defeat a succubus, right?
 Heehee♥"
-"--------ここから選択肢-------------",,
+"--------ここから選択肢-------------",
 "\n<リリー>いいのよ？
 サキュバスに搾られるのが怖いなら、自分で扱けば？
 ほら♥それなら大丈夫でしょ？くす♥","\n<Lily>Are you sure? If you're so scared of a
 succubus sucking you dry, why not just pleasure yourself?
-Hora♥ That would be fine, wouldn't it? Ufufu♥","\n<Lily>Are you sure? If you're so scared of a
-succubus sucking you dry, why not just pleasure yourself?
 Hora♥ That would be fine, wouldn't it? Ufufu♥"
 "\n<\n[3]>あはっ♥その気になってくれたぁ？
 じゃあ私のこと見ながらオナニーして見せて♥","\n<\n[3]>Aha♥ Does that sound like fun? Then look closely,
-and show me how you masturbate♥","\n<\n[3]>Aha♥ Does that sound like fun? Then look closely,
 and show me how you masturbate♥"
-"--------ここからクリア------------",,
+"--------ここからクリア------------",
 "\n<\n[3]>くすくす♥
 ちょっとアソコ見せただけでウブな反応しちゃって。
-あんたそれでもハンターなの？","\n<\n[3]>Heehee ♥ 
-Just a little teasing made you react like that?
-Can you even call yourself a hunter anymore?","\n<\n[3]> Heehee ♥ 
+あんたそれでもハンターなの？","\n<\n[3]> Heehee ♥ 
 Just a little teasing made you react like that?
 Can you even call yourself a hunter anymore?"
 "\n<\n[3]>ひとつ言っておくけど、
 『そんなもの』じゃ私たち淫魔は倒せないからね？
 武器は効かないの。もちろん知ってるわよね。","\n<\n[3]>Let me tell you something. 
 You can't defeat a succubus with something like that, right? 
-Weapons don't work. But you know that already.","\n<\n[3]>Let me tell you something. 
-You can't defeat a succubus with something like that, right? 
 Weapons don't work. But you know that already."
 "\n<\n[3]>ま、好きにしなさい。
 もっと抗ってみせてね♥
 雑魚ハンターさん♥","\n<\n[3]>Well, do as you please.
 Try and resist as much as you can, OK?♥
-My little succubus hunter♥","\n<\n[3]>Well, do as you please.
-Try and resist as much as you can, OK?♥
 My little succubus hunter♥"
 "果物ナイフが置いてある・・・
-一本あれば十分だ。","果物ナイフが置いてある・・・
 一本あれば十分だ。","Another fruit knife...
 Just one should be plenty."
 "さくらんぼとチョコレートのケーキのレシピだ・・・
-美味しそう。","さくらんぼとチョコレートのケーキのレシピだ・・・
 美味しそう。","This is a recipe for a cherry and chocolate cake...
 It looks delicious."
 "\n<\n[1]>（これ作ってくれるなら・・・
-もう一日くらい捕まっててもいいな。
-なんて・・・）","\n<\n[1]>（これ作ってくれるなら・・・
 もう一日くらい捕まっててもいいな。
 なんて・・・）","\n<\n[1]>(If they'd make this for me...
 I wouldn't mind staying locked up
 one more day. If only...)"
 "ビンが割れている。
-アルコールの匂いがする・・・","ビンが割れている。
 アルコールの匂いがする・・・","This bottle is smashed.
 It smells like alcohol…"
-"\n<\n[1]>（勿体ない・・・）","\n<\n[1]>（勿体ない・・・）",\n<\n[1]>(Such a waste...)
-"EV017","EV017",
-"リリーの日記","リリーの日記",
+"\n<\n[1]>（勿体ない・・・）","\n<\n[1]>(Such a waste...)"
+"EV017",
+"リリーの日記",
 "リリーの日記
-ミスト屋敷襲撃","リリーの日記
 ミスト屋敷襲撃","Lily's Diary
 Misty Mansion Attack"
-"読んでみる","読んでみる",Read
-"やめておく","やめておく",Don't read
-"EV019","EV019",
-"ニンニクとお肉。","ニンニクとお肉。",Meat and garlic.
-"\n<\n[1]>（料理をしている時間はないね。）","\n<\n[1]>（料理をしている時間はないね。）",\n<\n[1]>（This isn't the time to be cooking.）
+"読んでみる","Read"
+"やめておく","Don't read"
+"EV019",
+"ニンニクとお肉。","Meat and garlic."
+"\n<\n[1]>（料理をしている時間はないね。）","\n<\n[1]>（This isn't the time to be cooking.）"
 "\n<\n[1]>（塩コショウとニンニクで焼くだけ。
-肉料理はこれで完成されている。あとは蛇足だ。）","\n<\n[1]>（塩コショウとニンニクで焼くだけ。
 肉料理はこれで完成されている。あとは蛇足だ。）","\n<\n[1]>(Garlic, salt and pepper. Everything you need for a
 perfect meat dish. Anything else is just flashy nonsense.)"
-"調味料・・・","調味料・・・",Spices...
-"\n<\n[1]>（淫魔にコショウをかけてくしゃみをしている間に・・・）","\n<\n[1]>（淫魔にコショウをかけてくしゃみをしている間に・・・）",\n<\n[1]>（I'd probably sneeze while I sprinkle pepper\non the succubi...）
+"調味料・・・","Spices..."
+"\n<\n[1]>（淫魔にコショウをかけてくしゃみをしている間に・・・）","\n<\n[1]>（I'd probably sneeze while I sprinkle pepper\non the succubi...）"
 "\n<\n[1]>（・・・
-これは持っていく必要はないかな。）","\n<\n[1]>（・・・
 これは持っていく必要はないかな。）","\n<\n[1]>（...
 I'm not going to take anything.）"
 "\n<\n[1]>（料理は苦手だ・・・
-少々とか適量とか、それが分からないからレシピを見ているのに。）","\n<\n[1]>（料理は苦手だ・・・
 少々とか適量とか、それが分からないからレシピを見ているのに。）","\n<\n[1]>(I'm no good at cooking...
 I never know if I'm using too much or too little,
 and I always end up looking back at the recipe.）"
-"麦・・・","麦・・・",Flour...
-"\n<\n[1]>（焼きたてのパンが食べたい・・・）","\n<\n[1]>（焼きたてのパンが食べたい・・・）",\n<\n[1]>（I would love some fresh baked bread about now...）
-"お皿・・・","お皿・・・",Plates...
-"\n<\n[1]>（投げて武器にすることができるかも・・・）","\n<\n[1]>（投げて武器にすることができるかも・・・）",\n<\n[1]>（I might be able to use this as a throwing weapon...）
-"\n<\n[1]>（そんなアホな戦い方はしたくない。）","\n<\n[1]>（そんなアホな戦い方はしたくない。）",\n<\n[1]>（I'd feel foolish fighting like that.）
+"麦・・・","Flour..."
+"\n<\n[1]>（焼きたてのパンが食べたい・・・）","\n<\n[1]>（I would love some fresh baked bread about now...）"
+"お皿・・・","Plates..."
+"\n<\n[1]>（投げて武器にすることができるかも・・・）","\n<\n[1]>（I might be able to use this as a throwing weapon...）"
+"\n<\n[1]>（そんなアホな戦い方はしたくない。）","\n<\n[1]>（I'd feel foolish fighting like that.）"
 "\n<\n[1]>（これをフリスビーのように投げれば・・・
 ・・・
-いや、やめておこう。）","\n<\n[1]>(I could throw these like a frisbee...
-...
-Yeah, better not do that.）",
-"アイテム","アイテム",
-"もう使えそうなものはない。","もう使えそうなものはない。",Nothing else useful.
-"珍しい調味料が並んでいる・・・","珍しい調味料が並んでいる・・・",Rare and unusual spices line the shelves…
-"\n<\n[1]>（カルダモン・・・カレーに入れると美味しい。）","\n<\n[1]>（カルダモン・・・カレーに入れると美味しい。）",\n<\n[1]>（Cardamom... Delicious when added to curry.）
-"\n<\n[1]>（カルダモン・・・？ゆるキャラか？）","\n<\n[1]>（カルダモン・・・？ゆるキャラか？）",\n<\n[1]>（Cardamom...? Is that a mascot?）
-"\n<\n[1]>（バイマックル・・・カレーに入れると美味しい。）","\n<\n[1]>（バイマックル・・・カレーに入れると美味しい。）",\n<\n[1]>（Lime leaves... Amazing in curry.）
-"\n<\n[1]>（バイマックル・・・？攻撃力が上がりそうだ。）","\n<\n[1]>（バイマックル・・・？攻撃力が上がりそうだ。）",\n<\n[1]>（Lime leaves...? Bet that would increase my attack.）
-"立体起動","立体起動",
-"<enemy:99><cw:1.3><ch:1.5>","<enemy:99><cw:1.3><ch:1.5>",
+いや、やめておこう。）",
+"アイテム",
+"もう使えそうなものはない。","Nothing else useful."
+"珍しい調味料が並んでいる・・・","Rare and unusual spices line the shelves…"
+"\n<\n[1]>（カルダモン・・・カレーに入れると美味しい。）","\n<\n[1]>（Cardamom... Delicious when added to curry.）"
+"\n<\n[1]>（カルダモン・・・？ゆるキャラか？）","\n<\n[1]>（Cardamom...? Is that a mascot?）"
+"\n<\n[1]>（バイマックル・・・カレーに入れると美味しい。）","\n<\n[1]>（Lime leaves... Amazing in curry.）"
+"\n<\n[1]>（バイマックル・・・？攻撃力が上がりそうだ。）","\n<\n[1]>（Lime leaves...? Bet that would increase my attack.）"
+"立体起動",
+"<enemy:99><cw:1.3><ch:1.5>",
 "箱のようなものがあるが
-高くて手が届かない・・・","箱のようなものがあるが
 高くて手が届かない・・・","There's some kind of chest
 way up out of reach…"
-"もう何もない・・・","もう何もない・・・",Nothing else useful…
-"生ごみ・・・","生ごみ・・・",Food scarps…
-"\n<\n[1]>（う""ぇ""・・・）","\n<\n[1]>（う""ぇ""・・・）",\n<\n[1]>(Urrk...)
-"EV036","EV036",
+"もう何もない・・・","Nothing else useful…"
+"生ごみ・・・","Food scarps…"
+"\n<\n[1]>（う""ぇ""・・・）","\n<\n[1]>(Urrk...)"
+"EV036",
