@@ -11,8 +11,8 @@ It's not clear how to open it."
 1斬　2打撃　3水　4火　5雷
 6誘惑　7食べ物
 特殊206（個別攻撃種類）
-1リンゴ　2皿　3卵",
-"小説",
+1リンゴ　2皿　3卵",""
+"小説",""
 "檻だ・・・
 格子には至る所に噛み跡が付いている・・・","A cage...
 The lattice has bite marks all over..."
@@ -97,9 +97,9 @@ You don't realize what it means for you to take that."
 精奴隷は余計なこと、考えなくていいの。","\n<Lily>There we go.
 Close that now.
 A semen slave doesn't need to be concerned with that."
-"リリー",
-"EV011",
-"報告書",
+"リリー",""
+"EV011",""
+"報告書",""
 "封書には黒いユリの紋章が書かれている。","The envelope is sealed with a black lily crest."
 "\C[3]※ハンターパートに移りました。
 \C[0]今後はリリー、シィナ、ライムに接触すると戦闘になります。
@@ -169,9 +169,9 @@ Meeting Shina"
 "魔物についての本が並んでいる・・・","Books on monsters line the shelf..."
 "観葉植物が窓の外を恨めしそうに見ている・・・","The plant gazes bitterly out the window..."
 "観葉植物だ・・・","A houseplant..."
-"EV031",
-"--------キャラ指定-----座標設定------------",
-"----------------------------------------",
+"EV031",""
+"--------キャラ指定-----座標設定------------",""
+"----------------------------------------",""
 "どいて","Step aside"
 "・・・","..."
 "\n<\n[3]>どかないにゃん。
@@ -183,8 +183,8 @@ Did you want me to step aside, nyaan?"
 If I just block this door, you can't go anywhere, nya.
 That's using my brain. Pretty smart, nyah?"
 "\n<\n[3]>通りたかったら遊びに付き合うにゃ。","\n<\n[3]>If you want to pass by, play with me, nya."
-"ーーーーー待機or攻撃アニメSE選択ーーーーー",
-"--------ここから誘惑------------",
+"ーーーーー待機or攻撃アニメSE選択ーーーーー",""
+"--------ここから誘惑------------",""
 "\n<\n[3]>ちゅっ♥
 これどうにゃ？ちゅっ♥ちゅっ♥","\n<\n[3]>Smooch♥
 How's this, nya? Smooch♥ Smooch♥"
@@ -244,11 +244,11 @@ Then it's time for the kiss of death."
 me to let you cum♥
 Nyahahahaha♥"
 "\n<\n[3]>じゃ、脱出ゲームがんばれにゃ。","\n<\n[3]>Let's get back to the escape game, nya."
-"EV032",
+"EV032",""
 "機械式の扉を開けるには・・・","How to open the mechanical door..."
 "答えを見る","See answer"
 "電撃系の攻撃を当てると開きます。","It will open when struck with an electrical attack."
-"EV033",
+"EV033",""
 "ハンターモードを進めるには・・・","How to complete the Hunter phase..."
 "徘徊しているリリー、シィナ、ライムを倒して、
 その後はそれぞれ自室にいるので更に倒すと・・・","Defeat Lily, Shina and Lime as they wander around,

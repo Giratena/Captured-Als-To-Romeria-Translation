@@ -7,7 +7,7 @@ Help conserve water by closing the valve after each experiment."
 次にここで泳いでいる職員を見つけたら減給します。","※PS
 This is a waterproof lab, not a pool, and not a bathtub.
 The next employee found swimming here will have their pay docked."
-"EV002",
+"EV002","EV002"
 "この部屋の仕掛けの説き方は・・・","How to solve this room..."
 "答えを見る","See answer"
 "やめておく","Stop"
@@ -19,7 +19,7 @@ then cross the ice to the other side of the cliff."
 "凍らせたままではバルブを閉めても通ることが出来ません。
 間違えて凍らせてしまった場合は炎を当てて溶かすことが出来ます。","If it is frozen, the water won't go away even if the valve is closed.
 If you make a mistake, you can use fire to melt the ice."
-"とらちゃん",
+"とらちゃん",""
 "\n<マンティス>はぁ・・・
 喉がすごく乾くわ・・・
 気が付いたら水辺に行っちゃう。","\n<Mantis>Ahhh...
@@ -45,17 +45,17 @@ You'll be the one cumming today."
 よく我慢したわね。","\n<Lily>It was awfully amusing, seeing you sucking cock,
 gasping and moaning.
 You held out pretty well."
-"ポップアップ有効化",
-"炎",
-" <enemy:99><cw:1.5><ch:1.5>",
+"ポップアップ有効化",""
+"炎","Flame"
+" <enemy:99><cw:1.5><ch:1.5>"," <enemy:99><cw:1.5><ch:1.5>"
 "勢いよく水が噴き出している・・・","Water is gushing out..."
-"カチコチに凍っている・・・","It's frozen solid..."
+"カチコチに凍っている・・・","It's frozen solid…"
 "変数203（ARGP攻撃種類）
 1斬　2打撃　3水　4火　5雷
 6誘惑　7食べ物
 特殊206（個別攻撃種類）
-1リンゴ　2皿　3卵",
-"置手紙",
+1リンゴ　2皿　3卵",""
+"置手紙",""
 "マンティスの記録","Mantis Lab Report"
 "巨大なカマキリの魔物で、獲物を鎌で捕まえて捕食する。
 淫魔化実験の際、上半身のみ人の姿に変化した。","A massive praying mantis monster. Catches her prey using her
@@ -87,15 +87,15 @@ Please turn this OFF in the options if you need to."
 "バルブが閉まっている・・・","The valve is closed..."
 "開ける","Open"
 "閉める","Close"
-"EV008",
-"もう何も入っていない・・・","Nothing else useful..."
-"氷足場",
-"EV010",
-"いわ",
-" <enemy:145>",
+"EV008",""
+"もう何も入っていない・・・","There's nothing else here…"
+"氷足場",""
+"EV010",""
+"いわ",""
+" <enemy:145>"," <enemy:145>"
 "瓦礫だ。
 崩せるかもしれない。","Rubble.
 Looks like it could be broken."
-"EV012",
-"凍結シリーズ",
-"EV053",
+"EV012","EV012"
+"凍結シリーズ",""
+"EV053",""

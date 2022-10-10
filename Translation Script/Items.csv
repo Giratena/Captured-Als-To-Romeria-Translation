@@ -1,170 +1,170 @@
-"テスト回復","test recovery",
+"テスト回復","test recovery"
 "薄いミントの匂い
 精力を30％ + 200回復する","Smells lightly of mint.
-Restores 30% + 200 vigor.",
-"テスト体力回復","Test physical recovery",
+Restores 30% + 200 vigor."
+"テスト体力回復","Test physical recovery"
 "薄いオレンジの味
 体力を30％ + 20回復する","Tastes lightly of orange.
-Restores 30% + 20 of your HP.",
-"ディスペルハーブ","Dispelling Herb",
-"2000ダメージ薬","2000 Damage Drug",
+Restores 30% + 20 of your HP."
+"ディスペルハーブ","Dispelling Herb"
+"2000ダメージ薬","2000 Damage Drug"
 "使用すると2000分気持ちよくなるお薬
 2000ダメージ与える","A drug that makes you feel good for 2000 minutes when used.
-It deals 2000 damage.",
-"4000ダメージ薬","4000 Damage Drug",
+It deAlsto 2000 damage."
+"4000ダメージ薬","4000 Damage Drug"
 "使用すると4000分気持ちよくなるお薬
 4000ダメージ与える","A drug that makes you feel good for 4000 minutes when used.
-It deals 4000 damage.",
-"8000ダメージ薬","8000 Damage Drug",
+It deAlsto 4000 damage."
+"8000ダメージ薬","8000 Damage Drug"
 "使用すると8000分気持ちよくなるお薬
 8000ダメージ与える","A drug that makes you feel good for 8,000 minutes when used.
-It deals 8000 damage.",
-"敵4000回復薬","Enemy 4000 recovery Pill",
+It deAlsto 8000 damage."
+"敵4000回復薬","Enemy 4000 recovery Pill"
 "使用すると4000分すっきりするお薬
 相手が4000回復する","A medicine that, when used, is refreshing for 4000 minutes.
-The other party will be healed for 4000 health.",
-"テスト毒薬","test drug",
-"敵用催淫毒をかける","Apply Enemy Aphrodisiac Poison",
-"900000ダメージ薬","900,000 Damage Drug",
+The other party will be healed for 4000 health."
+"テスト毒薬","test drug"
+"敵用催淫毒をかける","Apply Enemy Aphrosdisiac Poison"
+"900000ダメージ薬","900,000 Damage Drug"
 "使用すると900000分気持ちよくなるお薬
 900000ダメージ与える","A medicine that makes you feel good for 90,0000 minutes when used.
-It deals 90,0000 damage.",
-"～回復アイテム～","~Recovery Items~",
-"精力剤","Tonic",
+It deAlsto 90,0000 damage."
+"～回復アイテム～","~Recovery Items~"
+"精力剤","Tonic"
 "薄いミントの匂い
 精力30％+200回復","Smells lightly of mint.
-Restores 30% + 200 points of vitality.",
+Restores 30% + 200 points of vitality."
 "<mat1:I71*1>
 <matG:10>","<mat1:I71*1>
-<matG:10>",
-"精力剤α","Energizer α",Energizer a
+<matG:10>"
+"精力剤α","Energizer a"
 "ミントの匂い
 精力50％+200回復","Smells like mint.
-Restores 50% + 200 points of vitality.",
+Restores 50% + 200 points of vitality."
 "<mat1:I71*2>
 <matG:10>","<mat1:I71*2>
-<matG:10>",
-"精力剤β","Energizer β",
+<matG:10>"
+"精力剤β","Energizer β"
 "濃いミントの匂い
 精力70％+200回復","Smells strongly of mint.
-Restores 70% +200 points of vitality.",
+Restores 70% +200 points of vitality."
 "<mat1:I71*3>
 <matG:10>","<mat1:I71*3>
-<matG:10>",
-"精力剤γ","Energizer γ",
+<matG:10>"
+"精力剤γ","Energizer γ"
 "ミントよりミントの匂い
 精力全回復","Smells even mintier than mint.
-Fully restores vitality.",
+Fully restores vitality."
 "<mat1:I71*3>
 <mat2:I73*1>
 <matG:10>","<mat1:I71*3>
 <mat2:I73*1>
-<matG:10>",
-"体力回復薬","Restorative",
+<matG:10>"
+"体力回復薬","Restorative"
 "薄いオレンジの味
 体力30％+5回復","Tastes mildly like oranges.
-Restores 30% +5 of HP.",
+Restores 30% +5 of HP."
 "<mat1:I72*1>
 <matG:10>","<mat1:I72*1>
-<matG:10>",
-"体力回復薬α","Restorative α",
+<matG:10>"
+"体力回復薬α","Restorative α"
 "オレンジの味
 体力50％+5回復","Tastes like oranges.
-Restores 50% +5 of HP.",
+Restores 50% +5 of HP."
 "<mat1:I72*2>
 <matG:10>","<mat1:I72*2>
-<matG:10>",
-"体力回復薬β","Restorative β",
+<matG:10>"
+"体力回復薬β","Restorative β"
 "濃いオレンジの味
 体力70％回復","Tastes strongly of oranges.
-Restores 70% of HP.",
+Restores 70% of HP."
 "<mat1:I72*3>
 <matG:10>","<mat1:I72*3>
-<matG:10>",
-"体力回復薬γ","Restorative γ",
+<matG:10>"
+"体力回復薬γ","Restorative γ"
 "わざとらしいオレンジの味
 体力全回復","Overwhelmingly orange flavored.
-Fully restores HP.",
+Fully restores HP."
 "<mat1:I72*3>
 <mat2:I73*1>
 <matG:10>","<mat1:I72*3>
 <mat2:I73*1>
-<matG:10>",
-"薬草ジュース","Herbal Juice",
+<matG:10>"
+"薬草ジュース","Herbal Juice"
 "薬草をすり潰して飲みやすく味付けしたもの
 精力体力30％回復","Ground and flavored medicinal herbs which are easy to drink.
-Restores 30% vitality and HP.",
+Restores 30% vitality and HP."
 "<mat1:I71*1>
 <mat2:I72*1>
 <matG:10>","<mat1:I71*1>
 <mat2:I72*1>
-<matG:10>",
-"ポーション","Potion",
+<matG:10>"
+"ポーション","Potion"
 "心身ともに元気になる冒険の友
 精力体力50％回復","An adventurer's best friend which energizes both body and soul.
-Restores 50% vitality and HP.",
+Restores 50% vitality and HP."
 "<mat1:I71*2>
 <mat2:I72*2>
 <matG:10>","<mat1:I71*2>
 <mat2:I72*2>
-<matG:10>",
-"エーテル","Ether",
+<matG:10>"
+"エーテル","Ether"
 "大気中の魔力を凝縮し液状化したしずく
 精力体力70％回復","Ambient magic which has been condensed into liquid form.
-70% recovery of vitality and HP.",
+70% recovery of vitality and HP."
 "<mat1:I71*3>
 <mat2:I72*3>
 <mat3:I73*1>
 <matG:10>","<mat1:I71*3>
 <mat2:I72*3>
 <mat3:I73*1>
-<matG:10>",
-"エリクサー","Elixer",
+<matG:10>"
+"エリクサー","Elixer"
 "製法が確立していない錬金の産物
 精力体力全回復　TP増加特大","An alchemical product created through unknown means.
-Full recovery of vitality and HP, and a large increase to TP",
+Full recovery of vitality and HP, and a large increase to TP"
 "<mat1:I71*3>
 <mat2:I72*3>
 <mat3:I73*3>
 <matG:10>","<mat1:I71*3>
 <mat2:I72*3>
 <mat3:I73*3>
-<matG:10>",
-"興奮剤","Stimulant",
+<matG:10>"
+"興奮剤","Stimulant"
 "アドレナリンが大量に出る薬
 TP増加大","A drug which produces copius amounts of adrenaline.
-Large increase to TP",
+Large increase to TP"
 "<mat1:I73*1>
 <matG:10>","<mat1:I73*1>
-<matG:10>",
-"覚醒薬","Psychoactive drug",
+<matG:10>"
+"覚醒薬","Psychoactive drug"
 "ギリギリ合法なお薬
 TP増加特大","Medicine which is barely even legal.
-Extra large increase to TP",
+Extra large increase to TP"
 "<mat1:I73*2>
 <matG:10>","<mat1:I73*2>
-<matG:10>",
-"攻撃の薬","Combat Potion",
+<matG:10>"
+"攻撃の薬","Combat Potion"
 "攻撃力と技巧が一時的にアップする薬
 攻撃力UP　技巧UP　TP増加小","A potion that temporarily increases attack power and technique.
-Attack power UP, Technique UP, small increase to TP.",
-"防御の薬","Safeguard Potion",
+Attack power UP, Technique UP, small increase to TP"
+"防御の薬","Safeguard Potion"
 "防御力と精神力が一時的にアップする薬
 防御力UP　精神力UP　TP増加小","A potion that temporarily increases defense and Willpower.
-Defensive power up, Mental power up, small increase to TP.",
-"耐久の薬","Steroid",
+Defensive power up, Mental power up, small increase to TP."
+"耐久の薬","Steroid"
 "最大精力が一時的にアップする薬
 最大精力UP(重ね掛け可)　TP増加小","A medicine that temporarily increases maximum vigor.
-Maximum vigor up (can be stacked), small increase to TP.",
+Maximum vigor up (can be stacked), small increase to TP."
 "<mat1:I71*2>
 <mat2:I73*1>
 <matG:10>","<mat1:I71*2>
 <mat2:I73*1>
-<matG:10>",
-"最後の切り札","Trump Card",
+<matG:10>"
+"最後の切り札","Trump Card"
 "運命を捻じ曲げる力を持ったカード
 精力体力全回復　全能力UP","A card with the power to twist fate.
-Full restoration of vigor and HP, and all abilities UP.",
+Full restoration of vigor and HP, and all abilities UP."
 "<mat1:I71*5>
 <mat2:I72*5>
 <mat3:I73*5>
@@ -173,11 +173,11 @@ Full restoration of vigor and HP, and all abilities UP.",
 <mat2:I72*5>
 <mat3:I73*5>
 <mat4:I74*2>
-<matG:10>",
-"鬼神の秘薬","The Elixer of Life ",
+<matG:10>"
+"鬼神の秘薬","The Elixer of Life "
 "鬼の力を身体に宿す幻の秘薬
 全ステータス1.5倍（戦闘中）","A phantasmal elixir that imbues one with the power of demons.
-All stats multiplied by 1.5 (in battle).",
+All stats multiplied by 1.5 (in battle)."
 "<mat1:I71*5>
 <mat2:I72*5>
 <mat3:I73*5>
@@ -186,461 +186,461 @@ All stats multiplied by 1.5 (in battle).",
 <mat2:I72*5>
 <mat3:I73*5>
 <mat4:I74*5>
-<matG:10000>",
-"シナピスの水","Water of Shinapis",
+<matG:10000>"
+"シナピスの水","Water of Shinapis"
 "万病に効く薬
 精力体力全回復　TP増加特大","A panacea for all that ails.
-Restores all vitality and HP, extra large increase to TP.",
-"アトテック8","Atotech 8",
+Restores all vitality and HP, extra large increase to TP."
+"アトテック8","Atotech 8"
 "世界に期待された新薬
 精力体力50％回復　副作用有","The world's most anticipated new drug.
-50% recovery of energy and stamina, with side effects.",
-"強靭大人液","Tough Guy Liquid",
+50% recovery of energy and stamina, with side effects."
+"強靭大人液","Tough Guy Liquid"
 "ぶっかけるとわからせることが出来る
 1000ダメージを与える","You can let them know you're going to spray it.
-It does 1,000 damage.",
-"レッドボトルコーヒー","Big Boss Coffee",
+It does 1,000 damage."
+"レッドボトルコーヒー","Big Boss Coffee"
 "いつもの味
 TP増加特大　暗闇解除","Smooth and clear taste.
-Extra large increase to TP, removes darkness.",
-"点眼薬","Eye Drops",
+Extra large increase to TP, removes darkness."
+"点眼薬","Eye Drops"
 "目で飲む回復薬
 精力回復15％　状態異常を解除　暗闇になる","Medicine for the eyes.
-15% restoration of vigor, removes status quo and darkness.",
-"栄養ドリンク","Yonker Energy Drink",
+15% restoration of vigor, removes status quo and darkness."
+"栄養ドリンク","Yonker Energy Drink"
 "栄養を補給し体力を回復する
 体力20回復　脱力解除","Nourishes the body and restores HP.
-Restores 20 HP, and removes weakness.",
-"アンプル","Ampoule",
+Restores 20 HP, and removes weakness."
+"アンプル","Ampoule"
 "痛みを鎮静化させ体力を全回復する
 体力全回復　脱力解除","Sedates pain and restores one to full HP.
-Full restoration of HP and removes weakness.",
-"漢方薬","Chinese herbal medicine",
+Full restoration of HP and removes weakness."
+"漢方薬","Chinese herbal medicine"
 "植物の根っこを粉にしたもの
 魔物戦の状態異常解除","Powdered plant roots.
-Removes ___ condition",
-"クマリ","Kumari",
+Removes ___ condition"
+"クマリ","Kumari"
 "遠慮するな！気付け薬が仕込んである！さぁ、殴れ！
 精力500回復　発情解除　消費無し","Don't be shy! I've got a smelling salve in there! Come on, hit me!
-500 energy recovery, removes excitement, removes prey.",
-"マクルード","Macleod",
+500 energy recovery, removes excitement, removes prey."
+"マクルード","Macleod"
 "デイツ餡のあまーいお菓子
 体力5回復","Sweet pastry made with date bean paste.
-Recovers 5 HP",
-"フェイゾンフレーク","Phason Flake",
+Recovers 5 HP"
+"フェイゾンフレーク","Phason Flake"
 "高純度の液状フェイゾンをフリーズドライで凝固した栄養食品
 全能力UP TP増加大","Nutritional food made from freeze-dried coagulated high-purity liquid phason.
-All capacities UP, Large increase to TP",
-"キュケオン","Kykeon",
+All capacities UP, Large increase to TP"
+"キュケオン","Kykeon"
 "水と大麦とペニーロイヤルミントを使った飲み物
 攻撃力UP　技巧UP　最大精力UP","An ancient Greek drink made with water, barley and pennyroyal mint.
-Attack power up, technique up, maximum vigor up.",
-"精力増強剤","Energy Booster",
+Attack power up, technique up, maximum vigor up."
+"精力増強剤","Energy Booster"
 "一時的に精力の最大値を増やす薬　マカ配合
-精力20％回復 最大精力UP（8ターン 600歩）","Pill that temporarily increases max energy, contains Maca.
-Restore 20% energy, increase max energy (8 turns/600 steps)",
-"ネクター","Ambrosia",
+精力20％回復 最大精力UP（8ターン 600歩）","Pill to temporarily increase maximum vigor, containing Maca.
+20% recovery of vigor, Maximum vigor increase (8 turns, 600 steps)"
+"ネクター","Ambrosia"
 "神が好むとされる桃ジュース
 防御力UP　精神力UP　最大精力UP","Peach juice, said to be favored by the gods.
-Defenses UP, Willpower UP, maximum vigor UP.",
-"3淫魔の魔力石",,
+Defenses UP, Willpower UP, maximum vigor UP."
+"3淫魔の魔力石",""
 "リリー達から集めた魔力が染み込んだ水晶
-レベルが3上がる",,
-"～ドーピングアイテム～","~Skill Increase items~",
-"アタクの実","Attack Berry",
+レベルが3上がる",""
+"～ドーピングアイテム～","~Skill Increase items~"
+"アタクの実","Attack Berry"
 "食べるとグイグイいきたい気持ちになる木の実
 攻撃力+1(永続)","A berry that makes you want to go gushy when you eat it.
-Attack +1 (permanent).",
-"デフの実","Defense Berry",
+Attack +1 (permanent)."
+"デフの実","Defense Berry"
 "食べると皮膚が少し硬くなる木の実
 防御力+1(永続)","A berry that hardens the skin slightly when eaten.
-Defense +1 (permanent).",
-"テクニの実","Technicolor Berry",
+Defense +1 (permanent)."
+"テクニの実","Technicolor Berry"
 "食べると手先が器用になる木の実
 技巧+1(永続)","A berry that makes you more dexterous when eaten.
-Skill +1 (permanent).",
-"マインの実","Mind Berry",
+Skill +1 (permanent)."
+"マインの実","Mind Berry"
 "食べると精神的に強くなる木の実
 精神力+1(永続)","A berry that makes you mentally strong when you eat it.
-Willpower +1 (permanent).",
-"アジリの実","Agility Berry",
+Willpower +1 (permanent)."
+"アジリの実","Agility Berry"
 "食べると瞬発力が良くなる木の実
 敏捷性+1(永続)","A berry that improves your speed when you eat it.
-Agility +1 (permanent).",
-"デストの実","Destro Berry",
+Agility +1 (permanent)."
+"デストの実","Destro Berry"
 "食べると破壊衝動が増す木の実
 戦闘力+1(永続)","A nut that increases the urge to destroy when eaten.
-Combat +1 (permanent).",
-"エネルの実","Energy Berry",
+Combat +1 (permanent)."
+"エネルの実","Energy Berry"
 "食べると精が付く木の実
 最大精力+20(永続)","Fruit that energizes when eaten.
-Maximum vigor +20 (permanent)",
-"マスルの実","Muscle Berry",
+Maximum vigor +20 (permanent)"
+"マスルの実","Muscle Berry"
 "食べると筋肉が付きやすくなる木の実
 最大体力+5(永続)","Berry that make it easier to gain muscle mass when eaten.
-Maximum HP +5 (permanent).",
-"クリーピーパスタ",,
+Maximum HP +5 (permanent)."
+"クリーピーパスタ",""
 "グロくて気味の悪いパスタ　でも美味しい
-最大体力+5(永続)",,
-"～素材系アイテム～","~Material Items~",
-"精力草","Herb",
+最大体力+5(永続)",""
+"～素材系アイテム～","~Material Items~"
+"精力草","Herb"
 "食べると精が付く草
 素材","Herb that perks you up when eaten.
-Material.",
-"体力草","HP herb",
+Material."
+"体力草","HP herb"
 "健康にいい成分が含まれている草
 素材","Nutritious herbs.
-Materials.",
-"強化草","Reinforcing herb",
+MateriAlsto."
+"強化草","Reinforcing herb"
 "混ぜると効果を強める力のある草
 素材","Herbs that intensify their effects when mixed with other items.
-Material.",
-"幸福草","Lucky Herb",
+Material."
+"幸福草","Lucky Herb"
 "人の幸せを吸って成長する草
 素材","Herb that grows by sucking in the happiness of others.
-Material.",
-"鉄鉱石","Iron Ore",
+Material."
+"鉄鉱石","Iron Ore"
 "鉄を多く含んだ鉱石
 素材","Iron-rich ore.
-Material.",
-"金鉱石","Gold Ore",
+Material."
+"金鉱石","Gold Ore"
 "金を多く含んだ鉱石
 素材","Gold-rich ore.
-Material.",
-"ルビー","Ruby",
+Material."
+"ルビー","Ruby"
 "燃える炎のような赤みを持つ宝石
 素材","A gemstone with a reddish hue like a burning flame.
-Material.",
-"アクアマリン","Aquamarine",
+Material."
+"アクアマリン","Aquamarine"
 "静かな海のような青さを持つ宝石
 素材","A gemstone as blue as the calm sea.
-Material.",
-"エメラルド","Emerald",
+Material."
+"エメラルド","Emerald"
 "葉を揺らす風のような緑色の宝石
 素材","A green gem like the wind shaking the leaves.
-Material.",
-"ダイヤモンド","Diamond",
+Material."
+"ダイヤモンド","Diamond"
 "大地を強く踏みしめた時に生まれる宝石
 素材","Jewelry created when you step hard on the earth.
-Material.",
-"淫石","Lust Stone",
+Material."
+"淫石","Lust Stone"
 "淫魔の魔力に反応して怪しく光る宝石
 素材","A jewel that glows suspiciously in response to the magic of a succubus.
-Material.",
-"魔獣の牙","Fangs of the Hexenbeast",
+Material."
+"魔獣の牙","Fangs of the Hexenbeast"
 "人や動物を美味しく頂くための歯
 素材","Fangs used to feast upon both animAlsto and people.
-Material.",
-"魔族の角","Devil Horns",
+Material."
+"魔族の角","Devil Horns"
 "見た者に恐怖を植え付けるための角
 素材","Horns which instill fear in the beholder.
-Material.",
-"木材","Wood",
+Material."
+"木材","Wood"
 "いい感じに硬く乾燥した木
 素材","Good quality, hard, dry wood.
-Material.",
-"風切りの羽","Feathers of Flight",
+Material."
+"風切りの羽","Feathers of Flight"
 "風の魔力を微かに感じる軽い羽
 素材","Lightweight feathers with a hint of wind magic.
-Material.",
-"蜘蛛の糸玉","Spider silk thread",
+Material."
+"蜘蛛の糸玉","Spider silk thread"
 "編み物が得意な手芸蜘蛛の丈夫な糸
 素材","Sturdy yarn from a handicraft spider that is good for knitting.
-Material.",
-"つやうろこ","Glistening scale",
+Material."
+"つやうろこ","Glistening scale"
 "独特の光沢があるうろこ
 素材","Unique shiny scaly
-Material.",
-"もこもこ","Mokomoko",
+Material."
+"もこもこ","Mokomoko"
 "もこもこふわふわした何か
 素材","Something fluffy and fuzzy.
-Material.",
-"ふさ毛皮","Tufted Fur",
+Material."
+"ふさ毛皮","Tufted Fur"
 "触り心地のいいふさふさな毛皮
 素材","Comfortable and bushy fur.
-material",
-"パピルス","Papyrus",
+material"
+"パピルス","Papyrus"
 "謎の言語が書かれたとても丈夫なスクロール
 素材","A very sturdy scroll with a mysterious language written on it.
-Material.",
-"グルーパウダー","Powdered Glue",
+Material."
+"グルーパウダー","Powdered Glue"
 "水を混ぜると引っ付いて取れなくなる粉
 素材","Powder that sticks permanently when mixed with water.
-Material.",
-"サンゴ","Coral",
+Material."
+"サンゴ","Coral"
 "植物のような石のような動物
 素材","A plant-like, stone-like animal.
-Material.",
-"ペレット","Pellet",
+Material."
+"ペレット","Pellet"
 "猛禽類などが吐き出した謎の塊
 素材","Mysterious lumps of fur spat out by birds of prey
-Material.",
-"捕光石","Light-catching stones",
+Material."
+"捕光石","Light-catching stones"
 "光を閉じ込める性質がある石　割ると光る
 素材","A stone that traps light and glows when broken.
-Material.",
-"燃料貝","Fuel Cockle",
+Material."
+"燃料貝","Fuel Cockle"
 "砕くと激しく燃える貝殻
 素材","A shell that burns fiercely when crushed.
-Material.",
-"六魂石","Six-spirit Stone",
+Material."
+"六魂石","Six-spirit Stone"
 "魔物の胃の中で6人分の命が圧縮された塊
 素材","A mass of six lives compressed in the stomach of a demon.
-Material.",
+Material."
 "
-素材","~Materials~",
-"心の結晶","Piece of mind",
+素材","~MateriAlsto~"
+"心の結晶","Piece of mind"
 "人属性の魔力が結晶化したもの
 素材","Crystallized magic of the human attribute.
-Material.",
-"悪の結晶","Crystal of evil",
+Material."
+"悪の結晶","Crystal of evil"
 "悪属性の魔力が結晶化したもの
 素材","Crystallized evil magic.
-Material.",
-"獣の結晶","Beast Crystal",
+Material."
+"獣の結晶","Beast Crystal"
 "獣属性の魔力が結晶化したもの
 素材","Crystallized beastly magic.
-Material.",
-"水の結晶","Water Crystal",
+Material."
+"水の結晶","Water Crystal"
 "水属性の魔力が結晶化したもの
 素材","Crystallized water-based magic
-Material.",
-"風の結晶","Wind Crystal",
+Material."
+"風の結晶","Wind Crystal"
 "風属性の魔力が結晶化したもの
 素材","Crystallized wind magic.
-Material.",
-"虫の結晶","Insect Crystal",
+Material."
+"虫の結晶","Insect Crystal"
 "虫属性の魔力が結晶化したもの
 素材","Crystallized magic of the insect attribute.
-Material.",
-"草の結晶","Grass Crystal",
+Material."
+"草の結晶","Grass Crystal"
 "草属性の魔力が結晶化したもの
 素材","Crystallized magic of the grass attribute.
-Material.",
-"機械の部品","Machine parts",
+Material."
+"機械の部品","Machine parts"
 "ポロっととれた何かのパーツ
 素材","Parts that came off of some machine
-Material.",
-"ロープ","Rope",
+Material."
+"ロープ","Rope"
 "丈夫なロープ
-","A sturdy length of rope",
-"尖ったもの","Sharp thing",
+","A sturdy length of rope"
+"尖ったもの","Sharp thing"
 "鋭く尖った槍の先っぽ
-","The sharp point of a spear",
-"棒","Stick",
+","The sharp point of a spear"
+"棒","Stick"
 "ただの木の棒
-","Just a plain wooden stick",
-"重くて硬いもの","Heavy, hard object",
-"重くて硬い金属のインゴット","A heavy, hard metal ingot",
-"またたび","Life of the Wanderer",
-"猫を狂わせる魔法の粉","Magic powder that drives cats crazy",
-"とらのまたたび","Tiger's Silver Vine",
-"デカい猫を狂わせる魔法の粉","Strong magic powder to drive a big cat crazy",
-"金目のもの","Valuable",
+","Just a plain wooden stick"
+"重くて硬いもの","Heavy, hard object"
+"重くて硬い金属のインゴット","A heavy, hard metal ingot"
+"またたび","Life of the Wanderer"
+"猫を狂わせる魔法の粉","Magic powder that drives cats crazy"
+"とらのまたたび","Tiger's Silver Vine"
+"デカい猫を狂わせる魔法の粉",""
+"金目のもの","Valuable"
 "使えない癖に価値のありそうな何か
 換金アイテム","Something that is unusable, but valuable.
-Cash item.",
-"もっと金目のもの","Glittering item",
+Cash item."
+"もっと金目のもの","Glittering item"
 "とりあえずよく光を反射するキラキラした何か
 換金アイテム","Something sparkly that reflects light.
-Redemption item.",
-"かなり金目のもの","Quite a Goldmine",
+Redemption item."
+"かなり金目のもの","Quite a Goldmine"
 "高級感はあるが置く以外に用途の無い何か
 換金アイテム","Something that looks luxurious but has no use other than showing off
-Cash item.",
-"素晴らしく金目のもの","Wonderful Golden Gewgaw",
+Cash item."
+"素晴らしく金目のもの","Wonderful Golden Gewgaw"
 "お金持ちがお金持ちアピールする為の何か
 換金アイテム","Something for the rich to show off their riches.
-Redemption item.",
-"圧倒的に金目のもの","Extremely expensive item",
+Redemption item."
+"圧倒的に金目のもの","Extremely expensive item"
 "素手で触ることに罪悪感を覚えるほどの何か
 換金アイテム","Something that I would feel guilty about touching with my bare hands.
-A cash item.",
-"菓子折り","Box of Cakes",
+A cash item."
+"菓子折り","Box of Cakes"
 "この世界の甘さをギュッと箱に詰めたもの
 正気度3回復　※檻に持っていき使用","A box full of the sweetness of this world.
-Restores 3 levels of Sanity.",
-"お菓子","Sweets",
+Restores 3 levels of Sanity."
+"お菓子","Sweets"
 "兄妹で励まし合いながら食べると元気が出るはず
 正気度1回復　※檻に持っていき使用","It should cheer you up to share it with your sibling.
-Restores 1 level of Sanity.",
-"～大切なもの～","~Key Items~",
-"帰還の翼","Wings of Return",
+Restores 1 level of Sanity."
+"～大切なもの～","~Key Items~"
+"帰還の翼","Wings of Return"
 "テレポートの魔力が込められた翼
 拠点に戻ることが出来る","Wings with the magic of teleportation.
-It allows you to return to your base.",
-"錬金道具","Alchemy Tools",
+It allows you to return to your base."
+"錬金道具","Alchemy Tools"
 "錬金術の道具一式
 どこでも錬金術が出来る","A set of alchemical tools.
-You can do alchemy anywhere.",
-"手鏡","Hand Mirror",
+You can do alchemy anywhere."
+"手鏡","Hand Mirror"
 "鏡の中の自分がこちらを見ている
 現在のSAN値\v[270]　名前変更/不具合の修正が出来る","A mirror you can see yourself in.
 Current Sanity \v[270]. Change name and fix bugs.
-",
-"依存度","Degree of Dependence ",
+"
+"依存度","Degree of Dependence "
 "まだやれるか自分の顔を見つめてみる
 現在のSAN値　\v[270]","I'm going to look at my face and see if I can still go on.
-Current SAN value \v[270]",
-"応接室の鍵","Reception Room Key",
+Current SAN value \v[270]"
+"応接室の鍵","Reception Room Key"
 "応接室とタグが付いた鍵
-","Drawing Room Key",
-"食糧庫の鍵","Pantry Key",
-"食糧庫とタグの付いた鍵","Key with tag that reads ""Pantry""",
-"書庫の鍵","Library Key",
+","Drawing Room Key"
+"食糧庫の鍵","Pantry Key"
+"食糧庫とタグの付いた鍵","Key with tag that reads ""Pantry"""
+"書庫の鍵","Library Key"
 "書庫とタグが付いた鍵
-","Storeroom Key",
-"倉庫の鍵","Warehouse Key",
+","Storeroom Key"
+"倉庫の鍵","Warehouse Key"
 "倉庫とタグが付いた鍵
-","Key with tag which reads ""Warehouse""",
-"調理場の鍵","Kitchen Key",
+","Key with tag which reads ""Warehouse"""
+"調理場の鍵","Kitchen Key"
 "調理場とタグが付いた鍵
-","Gallery Key",
-"浴場の鍵","Bathhouse Key",
+","Gallery Key"
+"浴場の鍵","Bathhouse Key"
 "浴場とタグが付いた鍵
-","Key with tag which reads ""Bathhouse""",
-"バルコニーの鍵","Balcony Key",
+","Key with tag which reads ""Bathhouse"""
+"バルコニーの鍵","Balcony Key"
 "バルコニーとタグが付いた鍵
-","Key tagged with ""Balcony""",
-"豪華な鍵","Luxurious Keys",
+","Key tagged with ""Balcony"""
+"豪華な鍵","Luxurious Keys"
 "ずっしりと重い高価そうな鍵
 ","Heavy, expensive-looking keys.
-",
-"執事の鍵","Butler's Key",
+"
+"執事の鍵","Butler's Key"
 "執事とタグが付いた鍵
-","Key with tag which reads ""Butler's room""",
-"メイドの鍵","Maid's Key",
+","Key with tag which reads ""Butler's room"""
+"メイドの鍵","Maid's Key"
 "メイドとタグが付いた鍵
-","Key with tag which reads ""Maid's room""",
-"立派な鍵","Fine Keys",
-"丈夫そうな太くて硬い鍵","Thick, hard keys which look sturdy.",
-"クマの小箱","The Bear's Little Box",
-"中に何か入っているようだが・・・","Looks like there's something inside...",
-"食堂の鍵","Cafeteria Key",
+","Key with tag which reads ""Maid's room"""
+"立派な鍵","Fine Keys"
+"丈夫そうな太くて硬い鍵","Thick, hard keys which look sturdy."
+"クマの小箱","The Bear's Little Box"
+"中に何か入っているようだが・・・","Looks like there's something inside..."
+"食堂の鍵","Cafeteria Key"
 "食堂とタグが付いた鍵
-","Key with tag which reads ""Cafeteria""",
-"ゴミ捨て場の鍵","Garbage Key",
+","Key with tag which reads ""Cafeteria"""
+"ゴミ捨て場の鍵","Garbage Key"
 "ゴミ捨て場とタグが付いた鍵
-","Key with tag which reads ""Garbage""",
-"鉄格子の鍵","Cell Key",
+","Key with tag which reads ""Garbage"""
+"鉄格子の鍵","Cell Key"
 "地下牢の鉄格子を開く鍵
-","The key that opens the cells in the dungeon",
-"レコシード",,
+","The key that opens the cells in the dungeon"
+"レコシード",""
 "音を蓄え発芽する時に放出する植物の種
-録音と再生が出来る",,
-"とらの鍵","Tiger key",
+録音と再生が出来る",""
+"とらの鍵","Tiger key"
 "研究所の扉を開くための鍵
-全部で4つ必要",,
-"マンティスの鍵","Mantis key",
-"ウィッチラミアの鍵","Witch lamia key",
-"オークの鍵","Orc key",
-"～夢のかけら～","～夢のかけら～",
-"夢のかけら","夢のかけら",
-"自分の記憶が詰まった夢のかけら","自分の記憶が詰まった夢のかけら",
-"ハンターのかけら","ハンターのかけら",
-"淫魔と戦うプロの夢のかけら","淫魔と戦うプロの夢のかけら",
-"商人のかけら","商人のかけら",
-"商売のノウハウが詰まった夢のかけら","商売のノウハウが詰まった夢のかけら",
-"シャーロットのかけら","シャーロットのかけら",
-"シャーロットの記憶が詰まった夢のかけら","シャーロットの記憶が詰まった夢のかけら",
-"アリスのかけら","アリスのかけら",
-"アリスの記憶が詰まった夢のかけら","アリスの記憶が詰まった夢のかけら",
-"リドルのかけら","リドルのかけら",
-"リドルの記憶が詰まった夢のかけら","リドルの記憶が詰まった夢のかけら",
-"親父のかけら","親父のかけら",
-"親父の記憶が詰まった夢のかけら","親父の記憶が詰まった夢のかけら",
-"お母様のかけら","お母様のかけら",
-"お母様の記憶が詰まった夢のかけら","お母様の記憶が詰まった夢のかけら",
-"小さなかけら","小さなかけら",
+全部で4つ必要",""
+"マンティスの鍵","Mantis key"
+"ウィッチラミアの鍵","Witch lamia key"
+"オークの鍵","Orc key"
+"～夢のかけら～","～夢のかけら～"
+"夢のかけら","夢のかけら"
+"自分の記憶が詰まった夢のかけら","自分の記憶が詰まった夢のかけら"
+"ハンターのかけら","ハンターのかけら"
+"淫魔と戦うプロの夢のかけら","淫魔と戦うプロの夢のかけら"
+"商人のかけら","商人のかけら"
+"商売のノウハウが詰まった夢のかけら","商売のノウハウが詰まった夢のかけら"
+"シャーロットのかけら","シャーロットのかけら"
+"シャーロットの記憶が詰まった夢のかけら","シャーロットの記憶が詰まった夢のかけら"
+"アリスのかけら","アリスのかけら"
+"アリスの記憶が詰まった夢のかけら","アリスの記憶が詰まった夢のかけら"
+"リドルのかけら","リドルのかけら"
+"リドルの記憶が詰まった夢のかけら","リドルの記憶が詰まった夢のかけら"
+"親父のかけら","親父のかけら"
+"親父の記憶が詰まった夢のかけら","親父の記憶が詰まった夢のかけら"
+"お母様のかけら","お母様のかけら"
+"お母様の記憶が詰まった夢のかけら","お母様の記憶が詰まった夢のかけら"
+"小さなかけら","小さなかけら"
 "誰かのささいな出来事の記憶が詰まった夢のかけら
 素材　","誰かのささいな出来事の記憶が詰まった夢のかけら
-素材　",
-"  <subCategory:esa>","  <subCategory:esa>",
-"歪なかけら","歪なかけら",
+素材　"
+"  <subCategory:esa>","  <subCategory:esa>"
+"歪なかけら","歪なかけら"
 "誰かの歪んだ記憶が詰まった夢のかけら
 素材　","誰かの歪んだ記憶が詰まった夢のかけら
-素材　",
-"羞恥のかけら","羞恥のかけら",
+素材　"
+"羞恥のかけら","羞恥のかけら"
 "誰かの恥ずかしい記憶が詰まった夢のかけら
 素材　催淫毒付与","誰かの恥ずかしい記憶が詰まった夢のかけら
-素材　催淫毒付与",
-"喜びのかけら","喜びのかけら",
+素材　催淫毒付与"
+"喜びのかけら","喜びのかけら"
 "誰かの嬉しかった記憶が詰まった夢のかけら
 素材　攻撃力UP　技巧UP　精力500回復","誰かの嬉しかった記憶が詰まった夢のかけら
-素材　攻撃力UP　技巧UP　精力500回復",
-"嘆きのかけら","嘆きのかけら",
+素材　攻撃力UP　技巧UP　精力500回復"
+"嘆きのかけら","嘆きのかけら"
 "誰かの悲しい記憶が詰まった夢のかけら
 素材　怯み付与　敏感付与","誰かの悲しい記憶が詰まった夢のかけら
-素材　怯み付与　敏感付与",
-"憤怒のかけら","憤怒のかけら",
+素材　怯み付与　敏感付与"
+"憤怒のかけら","憤怒のかけら"
 "誰かの怒りの記憶が詰まった夢のかけら
 素材　淫魔に500の固定ダメージ","誰かの怒りの記憶が詰まった夢のかけら
-素材　淫魔に500の固定ダメージ",
-"記憶：童貞","Memory: Virginity",
+素材　淫魔に500の固定ダメージ"
+"記憶：童貞","Memory: Virginity"
 "まだ未経験という記憶
 本番をすると喪失","The memory of not having experienced it yet.
-Lost when you do the real thing.",
-"～敗北の記憶～","~Memories of Defeat~",
-"敗北の記憶：リリー","Memories of Defeat: Lily",
+Lost when you do the real thing."
+"～敗北の記憶～","~Memories of Defeat~"
+"敗北の記憶：リリー","Memories of Defeat: Lily"
 "リリーに搾り尽くされた記憶
 所持数がどれだけ依存しているかを表す","Lily's memories of defeat.
-How many you've got shows how much you've been squeezed by them",
-"敗北の記憶：シィナ","Memories of Defeat: Shina",
+How many you've got shows how much you've been squeezed by them"
+"敗北の記憶：シィナ","Memories of Defeat: Shina"
 "シィナに搾り尽くされた記憶
 所持数がどれだけ依存しているかを表す","Shina's memories of defeat.
-How many you've got shows how much you've been squeezed by them",
-"敗北の記憶：ライム","Memories of Defeat: Lime",
+How many you've got shows how much you've been squeezed by them"
+"敗北の記憶：ライム","Memories of Defeat: Lime"
 "ライムに搾り尽くされた記憶
 所持数がどれだけ依存しているかを表す","Lime's memories of defeat.
-How many you've got shows how much you've been squeezed by them",
-"敗北の記憶：アーコ","Memories of Defeat: Arco",
+How many you've got shows how much you've been squeezed by them"
+"敗北の記憶：アーコ","Memories of Defeat: Arco"
 "アーコに搾り尽くされた記憶
 所持数がどれだけ依存しているかを表す","Arco's memories of defeat.
-How many you've got shows how much you've been squeezed by them",
-"敗北の記憶：ロメリア","Memories of Defeat: Meria",
+How many you've got shows how much you've been squeezed by them"
+"敗北の記憶：ロメリア","Memories of Defeat: Meria"
 "ロメリアに搾り尽くされた記憶
 所持数がどれだけ依存しているかを表す","Meria's memories of defeat.
-How many you've got shows how much you've been squeezed by them",
-"敗北の記憶：シャーロット","敗北の記憶：シャーロット",
-"シャーロットに搾り尽くされた記憶","シャーロットに搾り尽くされた記憶",
-"敗北の記憶：ローズ","敗北の記憶：ローズ",
-"ローズに搾り尽くされた記憶","ローズに搾り尽くされた記憶",
-"敗北の記憶：キエリ","敗北の記憶：キエリ",
-"キエリに搾り尽くされた記憶","キエリに搾り尽くされた記憶",
-"敗北の記憶：エイミー","敗北の記憶：エイミー",
-"エイミーに搾り尽くされた記憶","エイミーに搾り尽くされた記憶",
-"敗北の記憶：アリス","敗北の記憶：アリス",
-"アリスに搾り尽くされた記憶","アリスに搾り尽くされた記憶",
-"敗北の記憶：ノノ","敗北の記憶：ノノ",
-"ノノに搾り尽くされた記憶","ノノに搾り尽くされた記憶",
-"敗北の記憶：クラスタ","敗北の記憶：クラスタ",
-"クラスタに搾り尽くされた記憶","クラスタに搾り尽くされた記憶",
-"敗北の記憶：プリズマ","敗北の記憶：プリズマ",
-"プリズマに搾り尽くされた記憶","プリズマに搾り尽くされた記憶",
-"シィナに搾り尽くされた記憶","シィナに搾り尽くされた記憶",
-"敗北の記憶：夢喰い","敗北の記憶：夢喰い",
-"夢喰いに搾り尽くされた記憶","夢喰いに搾り尽くされた記憶",
-"敗北の記憶：ポリー","敗北の記憶：ポリー",
-"ポリーに搾り尽くされた記憶","ポリーに搾り尽くされた記憶",
-"敗北の記憶：ナース","敗北の記憶：ナース",
-"ナースに搾り尽くされた記憶","ナースに搾り尽くされた記憶",
-"敗北の記憶：リップ","敗北の記憶：リップ",
-"リップに搾り尽くされた記憶","リップに搾り尽くされた記憶",
-"敗北の記憶：ヒュプノ","敗北の記憶：ヒュプノ",
-"ヒュプノに搾り尽くされた記憶","ヒュプノに搾り尽くされた記憶",
-"敗北の記憶：スライム","敗北の記憶：スライム",
-"スライムに搾り尽くされた記憶","スライムに搾り尽くされた記憶",
-"敗北の記憶：シレーネ","敗北の記憶：シレーネ",
-"シレーネに搾り尽くされた記憶","シレーネに搾り尽くされた記憶",
-"敗北の記憶：ウィッチ","敗北の記憶：ウィッチ",
-"ウィッチに搾り尽くされた記憶","ウィッチに搾り尽くされた記憶",
-"敗北の記憶：エルフ","敗北の記憶：エルフ",
-"エルフに搾り尽くされた記憶","エルフに搾り尽くされた記憶",
-"敗北の記憶：たこちゃん","敗北の記憶：たこちゃん",
-"たこちゃんに搾り尽くされた記憶","たこちゃんに搾り尽くされた記憶",
-"敗北の記憶：ラミア","敗北の記憶：ラミア",
-"ラミアに搾り尽くされた記憶","ラミアに搾り尽くされた記憶",
-"敗北の記憶：エラッタ","敗北の記憶：エラッタ",
-"エラッタに搾り尽くされた記憶","エラッタに搾り尽くされた記憶",
-"敗北の記憶：シルキー","敗北の記憶：シルキー",
-"シルキーに搾り尽くされた記憶","シルキーに搾り尽くされた記憶",
+How many you've got shows how much you've been squeezed by them"
+"敗北の記憶：シャーロット","敗北の記憶：シャーロット"
+"シャーロットに搾り尽くされた記憶","シャーロットに搾り尽くされた記憶"
+"敗北の記憶：ローズ","敗北の記憶：ローズ"
+"ローズに搾り尽くされた記憶","ローズに搾り尽くされた記憶"
+"敗北の記憶：キエリ","敗北の記憶：キエリ"
+"キエリに搾り尽くされた記憶","キエリに搾り尽くされた記憶"
+"敗北の記憶：エイミー","敗北の記憶：エイミー"
+"エイミーに搾り尽くされた記憶","エイミーに搾り尽くされた記憶"
+"敗北の記憶：アリス","敗北の記憶：アリス"
+"アリスに搾り尽くされた記憶","アリスに搾り尽くされた記憶"
+"敗北の記憶：ノノ","敗北の記憶：ノノ"
+"ノノに搾り尽くされた記憶","ノノに搾り尽くされた記憶"
+"敗北の記憶：クラスタ","敗北の記憶：クラスタ"
+"クラスタに搾り尽くされた記憶","クラスタに搾り尽くされた記憶"
+"敗北の記憶：プリズマ","敗北の記憶：プリズマ"
+"プリズマに搾り尽くされた記憶","プリズマに搾り尽くされた記憶"
+"シィナに搾り尽くされた記憶","シィナに搾り尽くされた記憶"
+"敗北の記憶：夢喰い","敗北の記憶：夢喰い"
+"夢喰いに搾り尽くされた記憶","夢喰いに搾り尽くされた記憶"
+"敗北の記憶：ポリー","敗北の記憶：ポリー"
+"ポリーに搾り尽くされた記憶","ポリーに搾り尽くされた記憶"
+"敗北の記憶：ナース","敗北の記憶：ナース"
+"ナースに搾り尽くされた記憶","ナースに搾り尽くされた記憶"
+"敗北の記憶：リップ","敗北の記憶：リップ"
+"リップに搾り尽くされた記憶","リップに搾り尽くされた記憶"
+"敗北の記憶：ヒュプノ","敗北の記憶：ヒュプノ"
+"ヒュプノに搾り尽くされた記憶","ヒュプノに搾り尽くされた記憶"
+"敗北の記憶：スライム","敗北の記憶：スライム"
+"スライムに搾り尽くされた記憶","スライムに搾り尽くされた記憶"
+"敗北の記憶：シレーネ","敗北の記憶：シレーネ"
+"シレーネに搾り尽くされた記憶","シレーネに搾り尽くされた記憶"
+"敗北の記憶：ウィッチ","敗北の記憶：ウィッチ"
+"ウィッチに搾り尽くされた記憶","ウィッチに搾り尽くされた記憶"
+"敗北の記憶：エルフ","敗北の記憶：エルフ"
+"エルフに搾り尽くされた記憶","エルフに搾り尽くされた記憶"
+"敗北の記憶：たこちゃん","敗北の記憶：たこちゃん"
+"たこちゃんに搾り尽くされた記憶","たこちゃんに搾り尽くされた記憶"
+"敗北の記憶：ラミア","敗北の記憶：ラミア"
+"ラミアに搾り尽くされた記憶","ラミアに搾り尽くされた記憶"
+"敗北の記憶：エラッタ","敗北の記憶：エラッタ"
+"エラッタに搾り尽くされた記憶","エラッタに搾り尽くされた記憶"
+"敗北の記憶：シルキー","敗北の記憶：シルキー"
+"シルキーに搾り尽くされた記憶","シルキーに搾り尽くされた記憶"
