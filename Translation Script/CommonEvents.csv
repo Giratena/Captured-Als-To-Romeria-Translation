@@ -639,9 +639,9 @@ No! I can't fall in a place like this!"
 "hideHpGauge","hideHpGauge",
 "\n<リリー>ん・・・？
 なんでこいつ干乾びてんの？
-まぁいいわ。","\n<リリー>ん・・・？
-なんでこいつ干乾びてんの？
-まぁいいわ。",
+まぁいいわ。","\n<Lily>Hmmm...?
+Now why do you look so spent?
+Oh well.",
 "ーーーー進行度判定ーーーー",,
 "ーーーーシステムスイッチOFFーーーー",,
 "～～～～～～ARPG処理～～～～～～",,
@@ -811,66 +811,71 @@ Ahahahaha!",
 "----------------------------------------",,
 "\n<\n[3]>あー！ずるい！
 それあたしが先に見つけてたのに。
-ちょっと目を離した隙にぃ・・・","\n<\n[3]>あー！ずるい！
-それあたしが先に見つけてたのに。ちょっと目を離した隙にぃ・・・",
+ちょっと目を離した隙にぃ・・・","\n<\n[3]>Ah-! No fair!
+I saw that a little while ago.
+I took my eyes of it for just a moment...",
 "\n<アーコ>先に拾った方が勝ち・・・？
 うーん。そうかも。
-でも納得いかない。","\n<アーコ>先に拾った方が勝ち・・・？
-うーん。そうかも。でも納得いかない。",
+でも納得いかない。","\n<Ako>Finders keepers, huh...?
+Hm. I guess that's fair.
+But I'm not happy about it.",
 "\n<アーコ>あ、いいこと考えた。
-にしし。","\n<アーコ>あ、いいこと考えた。
-にしし。",
-"\n<アーコ>それ渡したくなることしたげる。","\n<アーコ>それ渡したくなることしたげる。",
+にしし。","\n<Ako>Ah, I just had an idea.
+Neheheh.",
+"\n<アーコ>それ渡したくなることしたげる。","\n<Ako>I'll make it so you 
+want to give it to me.",
 "ーーーーー待機or攻撃アニメSE選択ーーーーー",,
 "--------ここから誘惑------------",,
 "\n<\n[3]>ちゅぅぅー♥
-ちゅっ♥ちゅっ♥","\n<\n[3]>ちゅぅぅー♥
-ちゅっ♥ちゅっ♥",
+ちゅっ♥ちゅっ♥","\n<\n[3]>Smoooch-♥
+Smooch♥ Smooch♥",
 "\n<\n[3]>どーかな？
 それ譲りたくなってきた？
-ねーねー。","\n<\n[3]>どーかな？
-それ譲りたくなってきた？ねーねー。",
+ねーねー。","\n<\n[3]>How about that?
+Feel like handing that over now?
+Hey, hey.",
 "\n<\n[3]>おねがーい♥
 ちょーだい♥
-ちゅー♥ちゅー♥","\n<\n[3]>おねがーい♥
-ちょーだい♥ちゅー♥ちゅー♥",
+ちゅー♥ちゅー♥","\n<\n[3]>Pleeeeease♥
+Give it here♥
+Kiss-♥ Kiss-♥",
 "\n<\n[3]>おちんちん触りたくなってきたでしょ。
 自分でしてもいいよ。
-でもオナニーしたらそれあたしのね♥","\n<\n[3]>おちんちん触りたくなってきたでしょ。
-自分でしてもいいよ。
-でもオナニーしたらそれあたしのね♥",
+でもオナニーしたらそれあたしのね♥","\n<\n[3]>I see you trying to touch your dick.
+It's fine if you do.
+But if you start masturbating, it's all mine♥",
 "--------ここから選択肢-------------",,
 "\n<\n[3]>ちゅーしながらぴゅっぴゅするの
 絶対気持ちいいと思うんだけどなー。
-出すとこ近くで見ててあげるよー？","\n<\n[3]>ちゅーしながらぴゅっぴゅするの
-絶対気持ちいいと思うんだけどなー。
-出すとこ近くで見ててあげるよー？",
+出すとこ近くで見ててあげるよー？","\n<\n[3]>It must have felt pretty good if you
+squirted just from some kissing.
+Shall I take a closer look-?",
 "\n<\n[3]>ちょうだーい♥
 そんなものより気持ちいいことしよーよー。
-意地はんないでさー。","\n<\n[3]>ちょうだーい♥
-そんなものより気持ちいいことしよーよー。
-意地はんないでさー。",
+意地はんないでさー。","\n<\n[3]>Give it here-♥
+I gave you something that felt even better.
+Don't be greedy now.",
 "\n<\n[3]>あはは♥うんうん♥いーよ♪
 じゃそれあたしのね♥
-もーらい♥","\n<\n[3]>あはは♥うんうん♥いーよ♪
-じゃそれあたしのね♥
-もーらい♥",
+もーらい♥","\n<\n[3]>Ahaha♥Yes, yes♥ Good♪
+It's all mine now♥
+Gimme♥",
 "--------ここからクリア------------",,
 "\n<\n[3]>あーだめ。
 これ以上ちゅーしてたらあたしがバカになる。
-おーわり！","\n<\n[3]>あーだめ。
-これ以上ちゅーしてたらあたしがバカになる。
-おーわり！",
+おーわり！","\n<\n[3]>Ah, it's no good.
+I'll look stupid if I sit here kissing you anymore.
+That's all for me!",
 "\n<\n[3]>強情だなぁ。
 もういいや。
-いらない。諦める。","\n<\n[3]>強情だなぁ。
-もういいや。
-いらない。諦める。",
+いらない。諦める。","\n<\n[3]>You're so stubborn.
+Fine then. I don't need it.
+I give up.",
 "\n<\n[3]>でももっかいちゅーしたくなったら
 いつでも言ってね。
-それ貰うけど。ばいばーい！","\n<\n[3]>でももっかいちゅーしたくなったら
-いつでも言ってね。
-それ貰うけど。ばいばーい！",
+それ貰うけど。ばいばーい！","\n<\n[3]>But if you feel like smooching again, just 
+tell me. I'll take that thing off your hands.
+Bye bye!",
 "\n<リリー>ふふ…っ。かわいいサイズになったわね？ 
 とっても美味しそうじゃない","\n<Lily>Fufufu, this is a cute size, right?
  You don't look very tasty, though.",
@@ -7145,312 +7150,315 @@ I'm so fucking wet. Geez...♥",
 \n[1]♥ Thanks, nya♥",
 "\n<\n[3]>キツキツにゃん？
 ほーらこれ我慢できんにゃぁ？
-出る♥出るー♥","\n<\n[3]>キツキツにゃん？
-ほーらこれ我慢できんにゃぁ？
-出る♥出るー♥",
+出る♥出るー♥","\n<\n[3]>Getting too tight, nyan?
+Can you endure, nyan?
+Cum♥ Cum now-♥",
 "\n<\n[3]>んにゃ♥
 お尻の中で射精してるし♥
-にゃっはははははは♥","\n<\n[3]>んにゃ♥
-お尻の中で射精してるし♥
-にゃっはははははは♥",
+にゃっはははははは♥","\n<\n[3]>Nyaaah♥
+You're ejaculating in my ass♥
+Nyaaahahahahaha♥",
 "\n<\n[3]>お尻で負けてハンター人生終了とか
-情けなさ過ぎて流石に笑うにゃん♥","\n<\n[3]>お尻で負けてハンター人生終了とか
-情けなさ過ぎて流石に笑うにゃん♥",
+情けなさ過ぎて流石に笑うにゃん♥","\n<\n[3]>So the hunter meets their miserable end in my ass.
+It's so pathetic, you just have to laugh, nyan♥",
 "\n<\n[3]>ほーら気持ちいいにゃぁ？
-きゅぅきゅぅ絞られてるの感じるにゃぁ？","\n<\n[3]>ほーら気持ちいいにゃぁ？
-きゅぅきゅぅ絞られてるの感じるにゃぁ？",
+きゅぅきゅぅ絞られてるの感じるにゃぁ？","\n<\n[3]>Does it feel good in there, nyan?
+Do you feel yourself being squeezed, nyaa?",
 "\n<\n[3]>チンポをお尻の穴できゅぅって締め付けながら
 あつあつの腸壁で擦ってやるし♥
-くすくす♥","\n<\n[3]>チンポをお尻の穴できゅぅって締め付けながら
-あつあつの腸壁で擦ってやるし♥
-くすくす♥",
+くすくす♥","\n<\n[3]>While my asshole clamps down on your cock,
+you're also getting rubbed by my burning hots inside♥
+Tee hee♥",
 "\n<\n[3]>くくく♥
 直接腸で吸収するのも悪くないにゃん♥
-効率的ってやつにゃ♥","\n<\n[3]>くくく♥
-直接腸で吸収するのも悪くないにゃん♥
-効率的ってやつにゃ♥",
+効率的ってやつにゃ♥","\n<\n[3]>Kukuku♥
+Not bad, plastering my intestines for instant absorption♥
+You're pretty efficient, nya♥",
 "\n<\n[3]>女の癖にチンポを敵のケツで絞られるなんて
 バカみたいにゃん♥
-色々間違ってるし♥","\n<\n[3]>女の癖にチンポを敵のケツで絞られるなんて
-バカみたいにゃん♥
-色々間違ってるし♥",
+色々間違ってるし♥","\n<\n[3]>What a stupid girl, having her dick squeezed out
+by her opponents ass♥
+That's all kinds of messed up, nya♥",
 "\n<\n[3]>妹に見せてやりたいにゃぁ♥
 お兄ちゃんがケツの穴に食べられて
-あへあへ言ってるとこ♥","\n<\n[3]>妹に見せてやりたいにゃぁ♥
-お兄ちゃんがケツの穴に食べられて
-あへあへ言ってるとこ♥",
+あへあへ言ってるとこ♥","\n<\n[3]>We should show this to your sister, nyaa♥
+Her brother getting eaten up by my asshole
+while he pants and moans away♥",
 "\n<\n[3]>早く引き抜かなくていいにゃぁ？
-このままだとお前、お尻にぜーんぶ食べられるにゃ。","\n<\n[3]>早く引き抜かなくていいにゃぁ？
-このままだとお前、お尻にぜーんぶ食べられるにゃ。",
+このままだとお前、お尻にぜーんぶ食べられるにゃ。","\n<\n[3]>You should probably hurry and pull out, huh, nyaa?
+If this keeps up, my ass is gonna eat you all up, nya.",
 "\n<\n[3]>にゃん♥
 お尻掴んで引き離そうとしても無駄にゃん♥
-ぎゅぅー♥","\n<\n[3]>にゃん♥
-お尻掴んで引き離そうとしても無駄にゃん♥
-ぎゅぅー♥",
+ぎゅぅー♥","\n<\n[3]>Nyaan♥ Even if you use your hands,
+there's no way you'll be able to pull out, nyan♥
+Squeeeeze-♥",
 "\n<\n[3]>痛いくらい締め付けてやるし♥
 引き抜けるもんなら引き抜いてみろ♥
-ばーか♥","\n<\n[3]>痛いくらい締め付けてやるし♥
-引き抜けるもんなら引き抜いてみろ♥
-ばーか♥",
+ばーか♥","\n<\n[3]>I'll clamp down until it hurts♥
+If you think you can pull out, then do it already♥
+Dumbass♥",
 "\n<\n[3]>ほーらお前の全部が
-アタシのお尻に飲み込まれていくにゃぁ～♥","\n<\n[3]>ほーらお前の全部が
-アタシのお尻に飲み込まれていくにゃぁ～♥",
+アタシのお尻に飲み込まれていくにゃぁ～♥","\n<\n[3]>You know, pretty soon, you'll be
+completely swallowed up by my ass, nyaaa～♥",
 "\n<\n[3]>情けなーい無駄打ち射精ぴゅっぴゅ♥
-敵のお尻にぴゅっぴゅー♥","\n<\n[3]>情けなーい無駄打ち射精ぴゅっぴゅ♥
-敵のお尻にぴゅっぴゅー♥",
+敵のお尻にぴゅっぴゅー♥","\n<\n[3]>Blow your pathetic little load, nya♥
+Blow it all inside your enemy's ass♥",
 "\n<\n[3]>もうやばいにゃー♥
-全部出る出るー♥","\n<\n[3]>もうやばいにゃー♥
-全部出る出るー♥",
+全部出る出るー♥","\n<\n[3]>It's all over, nya-♥
+Let it all out-♥",
 "\n<\n[3]>あー♥お尻に吸われるー♥
 にゃははははー♥
-熱い塊がお尻に吸い取られるにゃぁー♥","\n<\n[3]>あー♥お尻に吸われるー♥
-にゃははははー♥
-熱い塊がお尻に吸い取られるにゃぁー♥",
+熱い塊がお尻に吸い取られるにゃぁー♥","\n<\n[3]>Ahh-♥ Let my ass suck it up-♥
+Nyahahahaha-♥
+My ass will drink up your hot mess, nyaa-♥",
 "\n<\n[3]>んにゃぁぁぁぁー♥♥♥
 やばいのきたにゃん♥♥♥
-にゃ♥にゃ♥にゃ♥","\n<\n[3]>んにゃぁぁぁぁー♥♥♥
-やばいのきたにゃん♥♥♥
-にゃ♥にゃ♥にゃ♥",
+にゃ♥にゃ♥にゃ♥","\n<\n[3]>Nyaaaaaaahhhh-♥♥♥
+Such a mess, nyaa♥♥♥
+Nyahn♥ Nyahn♥ Nyahn♥",
 "\n<\n[3]>ふぅ・・・♥ふぅ・・・♥
 あ、アタシも軽くイったし・・・♥
-変な癖ついたらどーするにゃん・・・","\n<\n[3]>ふぅ・・・♥ふぅ・・・♥
-あ、アタシも軽くイったし・・・♥
-変な癖ついたらどーするにゃん・・・",
+変な癖ついたらどーするにゃん・・・","\n<\n[3]>Phew...♥ Hahh...♥
+I-I came a little myself...♥
+I'd better not get addicted to this, nyan...",
 "\n<\n[3]>んー？
 こんな大サービスしても負けるにゃぁ？
-にゃははは♥","\n<\n[3]>んー？
-こんな大サービスしても負けるにゃぁ？
-にゃははは♥",
+にゃははは♥","\n<\n[3]>Hmm-? I gave you such a huge advantage,
+and you still managed to lose, nyaa?
+Nyahahaha♥",
 "\n<\n[3]>にゃん♥
-イったし♥ざっこ♥ざっこ♥","\n<\n[3]>にゃん♥
-イったし♥ざっこ♥ざっこ♥",
+イったし♥ざっこ♥ざっこ♥","\n<\n[3]>Nyaan♥
+You came♥ Weakling♥ Small fry♥",
 "\n<\n[3]>舐めろ。
 ほら。
-舐めてキレイにするにゃん。","\n<\n[3]>舐めろ。
-ほら。
-舐めてキレイにするにゃん。",
+舐めてキレイにするにゃん。","\n<\n[3]>Lick it.
+Go on.
+Lick it all up, nyan.",
 "\n<\n[3]>負け犬。
-あっけなく射精する雑魚♥","\n<\n[3]>負け犬。
-あっけなく射精する雑魚♥",
+あっけなく射精する雑魚♥","\n<\n[3]>You loser.
+Premature ejaculating small fry♥",
 "\n<\n[3]>ほーらアタシのマンコ舐めてるだけで
 またチンポ気持ちよくなってきてるし。
-もうビクビクにゃん♥","\n<\n[3]>ほーらアタシのマンコ舐めてるだけで
-またチンポ気持ちよくなってきてるし。
-もうビクビクにゃん♥",
+もうビクビクにゃん♥","\n<\n[3]>Look at that, just the taste of my pussy
+made your dick perk up again.
+It's already twitching, nyan♥",
 "\n<\n[3]>触らなくても出るとか。
 そんなにアタシの匂い好きにゃぁ？
-もっとくんくんしたいにゃん？","\n<\n[3]>触らなくても出るとか。
-そんなにアタシの匂い好きにゃぁ？
-もっとくんくんしたいにゃん？",
+もっとくんくんしたいにゃん？","\n<\n[3]>You came without me touching you.
+Do you like my smell that much, nya?
+You wanna smell me some more, nyan?",
 "\n<\n[3]>ほらほら♥
 鼻の奥まで流し込んでやるにゃ♥
-ぐーりぐーり♥","\n<\n[3]>ほらほら♥
-鼻の奥まで流し込んでやるにゃ♥
-ぐーりぐーり♥",
+ぐーりぐーり♥","\n<\n[3]>There you go♥
+Get your nose deeeep in there, nya♥
+Grind, grind♥",
 "\n<\n[3]>淫魔のアソコの匂いは人間にとって猛毒にゃん♥
-毒が全身に回って勃起し続けるバカになるにゃ♥","\n<\n[3]>淫魔のアソコの匂いは人間にとって猛毒にゃん♥
-毒が全身に回って勃起し続けるバカになるにゃ♥",
+毒が全身に回って勃起し続けるバカになるにゃ♥","\n<\n[3]>The smell of a succubus' pussy is deadly poisonous
+to a human, nyan♥ You must be a moron to get horny while
+poison is coursing through your body, nya♥",
 "\n<\n[3]>メロメロにしてやるし♥
 ほら♥ノーミソぶっ壊せ♥
-ほらほらほら♥","\n<\n[3]>メロメロにしてやるし♥
-ほら♥ノーミソぶっ壊せ♥
-ほらほらほら♥",
+ほらほらほら♥","\n<\n[3]>You're gonna go crazy over me, nya♥
+Hora♥ You're gonna lose your mind♥
+Hora hora hora♥",
 "\n<\n[3]>にゃはは♥
 射精しても射精してもイキたいの治まらんにゃぁ？
-オナニーしてもいいにゃん♥","\n<\n[3]>にゃはは♥
-射精しても射精してもイキたいの治まらんにゃぁ？
-オナニーしてもいいにゃん♥",
+オナニーしてもいいにゃん♥","\n<\n[3]>Nyahaha♥ You keep cumming and cumming,
+and you still want to cum again, nyaa?
+Let's see you whack off then, nyan♥",
 "\n<\n[3]>ほーら♥アタシのケツとオマンコ見せてやるにゃー♥
-これオカズにシコシコしろ♥","\n<\n[3]>ほーら♥アタシのケツとオマンコ見せてやるにゃー♥
-これオカズにシコシコしろ♥",
+これオカズにシコシコしろ♥","\n<\n[3]>Here you go♥ Have a look at my ass and my pussy, nya-♥
+A little bit of jerk-off material for you♥",
 "\n<\n[3]>にゃっは♥
 完全に狂ったにゃん♥
-おもしろ♥","\n<\n[3]>にゃっは♥
-完全に狂ったにゃん♥
-おもしろ♥",
+おもしろ♥","\n<\n[3]>Nyaaha♥
+You've completely lost it, nyan♥
+How interesting♥",
 "\n<\n[3]>こんなえっちなもの見せられたら
 シコシコ止められなくて当然にゃぁ♥
-ふりふり♥","\n<\n[3]>こんなえっちなもの見せられたら
-シコシコ止められなくて当然にゃぁ♥
-ふりふり♥",
+ふりふり♥","\n<\n[3]>Of course, when you're looking at something as hot as this,
+how could I expect you to want to stop fapping, nyaa♥
+Shake shake♥",
 "\n<\n[3]>ほーらお尻にぶっかけるにゃ♥
 あつあつの精子ぴゅっぴゅしてもいいにゃん♥
-出せ♥出せ♥","\n<\n[3]>ほーらお尻にぶっかけるにゃ♥
-あつあつの精子ぴゅっぴゅしてもいいにゃん♥
-出せ♥出せ♥",
-"あ・・・ぅ・・・","あ・・・ぅ・・・",
+出せ♥出せ♥","\n<\n[3]>Now blow your load on my ass, nya♥
+Go on, cover my body in hot sperm, nyan♥
+Do it♥ Shoot it out♥",
+"あ・・・ぅ・・・","Ahh... uhhnn...",
 "\n<\n[3]>くくく♥
 やっぱり人間壊すのは面白いにゃぁ♥
-ほら、干乾びるまでオナニー続けるにゃ♥","\n<\n[3]>くくく♥
-やっぱり人間壊すのは面白いにゃぁ♥
-ほら、干乾びるまでオナニー続けるにゃ♥",
+ほら、干乾びるまでオナニー続けるにゃ♥","\n<\n[3]>Kukuku♥
+It's so much fun breaking humans, nyaa♥
+Alright, you keep jerking until you run dry, nya♥",
 "\n<\n[3]>アタシの匂い嗅いでお尻見ながら射精したら終わりにゃ♥
-もうお前はオナニーし続けるしかないにゃん♥","\n<\n[3]>アタシの匂い嗅いでお尻見ながら射精したら終わりにゃ♥
-もうお前はオナニーし続けるしかないにゃん♥",
+もうお前はオナニーし続けるしかないにゃん♥","\n<\n[3]>Stare at my ass, take in my scent, and keep ejaculating
+until it's all over, nya♥
+You've got no choice but to keep masturbating, nyan♥",
 "\n<\n[3]>口で搾り取ってやるにゃ！
-じゅるるる♥じゅるるるるるる！！","\n<\n[3]>口で搾り取ってやるにゃ！
-じゅるるる♥じゅるるるるるる！！",
+じゅるるる♥じゅるるるるるる！！","\n<\n[3]>I'll squeeze it out with my mouth, nya!
+Sluuurp♥ Sluuuuuurrrppp!!",
 "\n<\n[3]>はぁ・・・♥はぁ・・・♥
 アタシのこと孕ませるにゃん♥
-出すにゃ♥中に出すにゃん♥","\n<\n[3]>はぁ・・・♥はぁ・・・♥
-アタシのこと孕ませるにゃん♥
-出すにゃ♥中に出すにゃん♥",
+出すにゃ♥中に出すにゃん♥","\n<\n[3]>Hah...♥ Hah...♥
+Knock me up, nyan♥
+Let it out, nya♥ Cum inside me, nyan♥",
 "\n<\n[3]>ごぽ・・・！
 んにゃぁ・・・にゃぁぁ♥
-出したにゃ♥くくくく♥","\n<\n[3]>ごぽ・・・！
-んにゃぁ・・・にゃぁぁ♥
-出したにゃ♥くくくく♥",
+出したにゃ♥くくくく♥","\n<\n[3]>Gulp...!
+Nyaaah... Nyaaaaaah♥
+You came, nya♥ Kukukuku♥",
 "\n<\n[3]>孕むわけねーだろば～か♥
 にゃははは♥
-お前の精子は殺処分にゃ！","\n<\n[3]>孕むわけねーだろば～か♥
-にゃははは♥
-お前の精子は殺処分にゃ！",
+お前の精子は殺処分にゃ！","\n<\n[3]>I'm not gonna get pregnant, dumbass～♥
+Nyahahaha♥
+All your sperm's gonna die, nya!",
 "\n<\n[3]>3秒くらいで射精すると思ってたけど
-思ったより楽しめたにゃ。","\n<\n[3]>3秒くらいで射精すると思ってたけど
-思ったより楽しめたにゃ。",
+思ったより楽しめたにゃ。","\n<\n[3]>I thought you'd ejaculate in about three seconds.
+That was more fun than I expected.",
 "\n<\n[3]>アタシもちょっと汗かくくらいには
 いい運動になったし♥
-にゃはは♥","\n<\n[3]>アタシもちょっと汗かくくらいには
-いい運動になったし♥
-にゃはは♥",
+にゃはは♥","\n<\n[3]>I got a bit sweaty.
+That was a good workout♥
+Nyahaha♥",
 "\n<\n[3]>後ろからへこへこは耐えられても
-やっぱり上に乗られるとダメダメにゃん♥","\n<\n[3]>後ろからへこへこは耐えられても
-やっぱり上に乗られるとダメダメにゃん♥",
+やっぱり上に乗られるとダメダメにゃん♥","\n<\n[3]>You were able to hold your own behind me,
+but once I got on top, you were finished, nyan♥",
 "\n<\n[3]>騎乗位されると手も足も出んにゃぁ？
-くすくす♥","\n<\n[3]>騎乗位されると手も足も出んにゃぁ？
-くすくす♥",
+くすくす♥","\n<\n[3]>You stick your arms and legs out
+when you cum like this, nyaa?
+Tee hee♥",
 "\n<\n[3]>アタシに勝てると思ったかぁ？
 胸揉んだり腰振ったり
-一生懸命、無駄に頑張ったにゃぁ♥","\n<\n[3]>アタシに勝てると思ったかぁ？
-胸揉んだり腰振ったり
-一生懸命、無駄に頑張ったにゃぁ♥",
+一生懸命、無駄に頑張ったにゃぁ♥","\n<\n[3]>Did you actually think you'd beat me?
+Frantically rubbing my tits, and pumping your hips,
+but it was all for nothing, nyaa♥",
 "\n<\n[3]>でも押し倒して上からチンポ入れたらすぐ負けにゃ♥
 にゃぁ？
-またがられるとすぐ抵抗できなくなるし♥","\n<\n[3]>でも押し倒して上からチンポ入れたらすぐ負けにゃ♥
-にゃぁ？
-またがられるとすぐ抵抗できなくなるし♥",
+またがられるとすぐ抵抗できなくなるし♥","\n<\n[3]>As soon as I pinned you and stuck your
+dick in me, you submitted, nya♥ Right, nya?
+Soon as I straddled you, you stopped resisting right away♥",
 "\n<\n[3]>騎乗位で腰振られると
 マゾのお前は喜んじゃうにゃん♥
-ほら♥ほーら♥","\n<\n[3]>騎乗位で腰振られると
-マゾのお前は喜んじゃうにゃん♥
-ほら♥ほーら♥",
+ほら♥ほーら♥","\n<\n[3]>Banging hips in cowgirl position must make
+a masochist like you so happy, nyan♥
+Doesn't it♥",
 "\n<\n[3]>アタシの身体の重みを感じると
 犯されてるって実感しちゃうにゃん♥
-超興奮してるし♥","\n<\n[3]>アタシの身体の重みを感じると
-犯されてるって実感しちゃうにゃん♥
-超興奮してるし♥",
+超興奮してるし♥","\n<\n[3]>When you feel the weight of my body on you,
+you're actually feeling yourself being raped, nyan♥
+How very exciting for you♥",
 "\n<\n[3]>ちゅーしてやるにゃ♥
-アタシを楽しませてくれたご褒美にゃん♥","\n<\n[3]>ちゅーしてやるにゃ♥
-アタシを楽しませてくれたご褒美にゃん♥",
+アタシを楽しませてくれたご褒美にゃん♥","\n<\n[3]>Let's kiss a little, nya♥
+A treat for making me feel so good, nyan♥",
 "\n<\n[3]>ちゅーされるとノーミソおかしくなって
-目の前の相手のこと好きになっちゃうらしいにゃ♥","\n<\n[3]>ちゅーされるとノーミソおかしくなって
-目の前の相手のこと好きになっちゃうらしいにゃ♥",
+目の前の相手のこと好きになっちゃうらしいにゃ♥","\n<\n[3]>It's so funny watching you break down when I kiss you,
+like I can watch you fall in love with me before my eyes, nya♥",
 "\n<\n[3]>せめて大好きな人に搾り取られるっていう
 勘違いだけはさせてやるし♥
-ちゅっ♥ちゅぅぅ♥","\n<\n[3]>せめて大好きな人に搾り取られるっていう
-勘違いだけはさせてやるし♥
-ちゅっ♥ちゅぅぅ♥",
+ちゅっ♥ちゅぅぅ♥","\n<\n[3]>I guess I can let you believe you're
+being drained by someone you love, nya♥
+Smooch♥ Smoooooch♥",
 "\n<\n[3]>シィナ様好きって言いながら
 アタシの中に全部吐き出せ♥
-ちゅ♥ちゅー♥","\n<\n[3]>シィナ様好きって言いながら
-アタシの中に全部吐き出せ♥
-ちゅ♥ちゅー♥",
+ちゅ♥ちゅー♥","\n<\n[3]>Let me hear you say 'I love you Mistress Shina'
+while you shoot it all out inside me♥
+Kiss♥ Kiss-♥",
 "あ・・・ぅ・・・♥
-シィナ・・・さ・・・","あ・・・ぅ・・・♥
-シィナ・・・さ・・・",
+シィナ・・・さ・・・","Ahhh... uhhn...♥
+Mistress... Shi...",
 "\n<\n[3]>くすくす♥
 全部出たにゃん♥出し尽くしたにゃ♥
-いっぱい中出しできて良かったにゃぁ？","\n<\n[3]>くすくす♥
-全部出たにゃん♥出し尽くしたにゃ♥
-いっぱい中出しできて良かったにゃぁ？",
+いっぱい中出しできて良かったにゃぁ？","\n<\n[3]>Tee hee♥
+It all came out, nya♥ Every last drop, nya♥
+Did it feel nice, cumming so much inside me, nyaa?",
 "\n<\n[3]>嬉しそうな顔で干乾びてるし♥
 んにゃ・・・凄い量にゃん・・・
-ごぽって溢れてきたし・・・","\n<\n[3]>嬉しそうな顔で干乾びてるし♥
-んにゃ・・・凄い量にゃん・・・
-ごぽって溢れてきたし・・・",
+ごぽって溢れてきたし・・・","\n<\n[3]>Your shriveled up face looks so happy♥
+Nyahh... There's so much, nya...
+It's dripping out...",
 "\n<\n[3]>はぁ♥はぁ♥はぁ♥
 イ！イケにゃん！！
-にゃぁ！！にゃ・・・あっ！！！","\n<\n[3]>はぁ♥はぁ♥はぁ♥
-イ！イケにゃん！！
-にゃぁ！！にゃ・・・あっ！！！",
+にゃぁ！！にゃ・・・あっ！！！","\n<\n[3]>Hah♥ Hah♥ Hah♥
+Cum! Cum now, nyan!!
+Nyaah!! Nyaa...aaaahhhnn!!!",
 "\n<\n[3]>にゃぁぁぁ♥♥♥
-にゃ♥にゃ♥にゃぁぁぁぁん♥♥♥","\n<\n[3]>にゃぁぁぁ♥♥♥
-にゃ♥にゃ♥にゃぁぁぁぁん♥♥♥",
+にゃ♥にゃ♥にゃぁぁぁぁん♥♥♥","\n<\n[3]>Nyaaaahhh♥♥♥
+Nyaah♥ Nyaaah♥ Nyaaaaaaahhhhhnnn♥♥♥",
 "\n<\n[3]>あ""っあ""っあっ♥♥
 あ、アタシま・・・だイってないにゃん・・・♥
-おま・・・えの・・・負けにゃ♥あっあっ♥♥♥","\n<\n[3]>あ""っあ""っあっ♥♥
-あ、アタシま・・・だイってないにゃん・・・♥
-おま・・・えの・・・負けにゃ♥あっあっ♥♥♥",
+おま・・・えの・・・負けにゃ♥あっあっ♥♥♥","\n<\n[3]>Ahhn, ahhn, ahhn♥♥
+I-I... haven't... cum yet... nyan...♥
+You... lo... lose... nyaah♥ Ahhn, ahn♥♥♥",
 "\n<\n[3]>にゃ・・・ぁ・・・♥♥
-こ、このまま絞ってや・・・るにゃ・・・♥♥","\n<\n[3]>にゃ・・・ぁ・・・♥♥
-こ、このまま絞ってや・・・るにゃ・・・♥♥",
+こ、このまま絞ってや・・・るにゃ・・・♥♥","\n<\n[3]>Nyaa...ahhhh...♥♥
+I-I'll drain you... like this now... nyaa...♥♥",
 "\n<\n[3]>ん・・・にゃ・・・ぁ♥♥
 あっあっ♥♥
-やっぱヤバイにゃん♥あっあっあっ！！","\n<\n[3]>ん・・・にゃ・・・ぁ♥♥
-あっあっ♥♥
-やっぱヤバイにゃん♥あっあっあっ！！",
+やっぱヤバイにゃん♥あっあっあっ！！","\n<\n[3]>Nnn... Nyaaah... aahh♥♥
+Ahn, ahn♥♥
+I knew this would be risky, nyan♥ Ahn, ahn, ahn!!",
 "\n<\n[3]>もう勝ったからイっていいにゃん？？？
 イ・・・イクにゃ・・・♥
-にゃ・・・！！","\n<\n[3]>もう勝ったからイっていいにゃん？？？
-イ・・・イクにゃ・・・♥
-にゃ・・・！！",
-"\n<\n[3]>にゃぁぁぁぁぁぁぁっ！！","\n<\n[3]>にゃぁぁぁぁぁぁぁっ！！",
+にゃ・・・！！","\n<\n[3]>You already lost, s-so I can cum, right, nyan???
+I'm... cumming, nya...♥
+Nyaah...!!",
+"\n<\n[3]>にゃぁぁぁぁぁぁぁっ！！","\n<\n[3]>Nyaaaaaaaaaahhhhhnnn!!",
 "\n<\n[3]>う・・・にゃん・・・♥
 き、気持ち・・・よかったし・・・♥
-ん・・・ぁ・・・♥","\n<\n[3]>う・・・にゃん・・・♥
-き、気持ち・・・よかったし・・・♥
-ん・・・ぁ・・・♥",
+ん・・・ぁ・・・♥","\n<\n[3]>Uhn... Nyann...♥
+Th-that felt... crazy good...♥
+Nnn... Ahh...♥",
 "\n<\n[3]>ふぅ・・・♥
 はぁ・・・はぁ・・・♥
-すっきりしたにゃん♥","\n<\n[3]>ふぅ・・・♥
-はぁ・・・はぁ・・・♥
-すっきりしたにゃん♥",
+すっきりしたにゃん♥","\n<\n[3]>Phew...♥
+Hah... Hahh...♥
+I really needed that, nyan♥",
 "\n<\n[3]>今のはお前のチンポ使ってオナニーしただけにゃん。
 だからアタシの負けじゃないし♥
-にゃはは♥","\n<\n[3]>今のはお前のチンポ使ってオナニーしただけにゃん。
-だからアタシの負けじゃないし♥
-にゃはは♥",
+にゃはは♥","\n<\n[3]>I was just using your cock to masturbate, nyan.
+So that doesn't count as me losing♥
+Nyahaha♥",
 "\n<\n[3]>まだちょっとじんじんする・・・♥
 あとは口でしてやるにゃ。
-れろ♥じゅる♥","\n<\n[3]>まだちょっとじんじんする・・・♥
-あとは口でしてやるにゃ。
-れろ♥じゅる♥",
+れろ♥じゅる♥","\n<\n[3]>You're still throbbing there...♥
+I'll finish things up with my mouth, nya.
+Lick♥ Slurp♥",
 "\n<\n[3]>おいひいにゃ♥
 硬くて活きが良くて食べ甲斐があるチンポにゃ♥
-じゅるり♥","\n<\n[3]>おいひいにゃ♥
-硬くて活きが良くて食べ甲斐があるチンポにゃ♥
-じゅるり♥",
+じゅるり♥","\n<\n[3]>Delishush, nya♥
+A lively, rock hard cock like this is perfect for eating, nya♥
+Sluuuurp♥",
 "\n<\n[3]>ごく♥ごく♥
 お口とオマンコどっちが気持ちいいにゃ？
-くすくす♥","\n<\n[3]>ごく♥ごく♥
-お口とオマンコどっちが気持ちいいにゃ？
-くすくす♥",
+くすくす♥","\n<\n[3]>Gulp♥ Gulp♥
+Which feels better, my pussy or my mouth, nya?
+Tee hee♥",
 "\n<\n[3]>手加減したし、油断もしてたけど
-アタシを気持ちよくさせたのは褒めてやるにゃ♥","\n<\n[3]>手加減したし、油断もしてたけど
-アタシを気持ちよくさせたのは褒めてやるにゃ♥",
+アタシを気持ちよくさせたのは褒めてやるにゃ♥","\n<\n[3]>I underestimated you, and I was holding back. Even still,
+you deserve some praise for making me feel so good, nya♥",
 "\n<\n[3]>でももうオマンコはしてやらんにゃ♥
 お口でぱくぱくもぐもぐだけにゃん♥
-れろぉ♥","\n<\n[3]>でももうオマンコはしてやらんにゃ♥
-お口でぱくぱくもぐもぐだけにゃん♥
-れろぉ♥",
+れろぉ♥","\n<\n[3]>But you won't get a shot at my pussy anymore, nya♥
+I'm just gonna chew you up in my mouth, nyan♥
+Lick♥",
 "\n<\n[3]>これでお前の勝ち目はゼロにゃ♥
 口の中でイキ果てろ♥
-じゅるるるる♥","\n<\n[3]>これでお前の勝ち目はゼロにゃ♥
-口の中でイキ果てろ♥
-じゅるるるる♥",
+じゅるるるる♥","\n<\n[3]>You've got no chance of winning now, nya♥
+Blow you final load inside my mouth♥
+Sluuuuuurrp♥",
 "\n<\n[3]>お腹で精子皆殺しにしてやるし♥
 ほら♥飲ませろ♥イケ♥イケ♥
-れろれろれろれろ♥♥♥","\n<\n[3]>お腹で精子皆殺しにしてやるし♥
-ほら♥飲ませろ♥イケ♥イケ♥
-れろれろれろれろ♥♥♥",
+れろれろれろれろ♥♥♥","\n<\n[3]>All your sperm's gonna die in my belly♥
+Come on♥ Let me drink 'em up♥ Cum♥ Cum♥
+Lick lick lick lick♥♥♥",
 "\n<\n[3]>ごぽっ♥♥♥
 んにゃ・・・♥けほ♥けほ♥
-この量は・・・ヤバいにゃん♥♥","\n<\n[3]>ごぽっ♥♥♥
-んにゃ・・・♥けほ♥けほ♥
-この量は・・・ヤバいにゃん♥♥",
+この量は・・・ヤバいにゃん♥♥","\n<\n[3]>Guuulp♥♥♥
+Nnyaaah...♥ Gasp♥ Gasp♥
+That was... way more than I was expecting, nyan♥♥",
 "\n<\n[3]>最後に油断したお前の負けにゃ♥
-うぷ♥お、お腹くるし・・・♥♥","\n<\n[3]>最後に油断したお前の負けにゃ♥
-うぷ♥お、お腹くるし・・・♥♥",
+うぷ♥お、お腹くるし・・・♥♥","\n<\n[3]>You let your guard down, and you lost, nya♥
+Urp♥ M-my stomach hurts...♥♥",
 "\n<\n[3]>負けていいのー？
 ねー、本当に出してもいいのー？","\n<\n[3]>Are you sure you want to lose here-?
 Hey, are you really sure you should cum right now-?",
@@ -7970,369 +7978,369 @@ I'll keep loving you♥ Forever♥ Tee hee♥",
 "\n[1]は吸い尽くされてしまった・・・","\n[1]'s soul has been sucked up...",
 "\n<\n[3]>早くイっちゃいなさいよ。
 どうせもう我慢できないんでしょ？
-ほら。負けちゃいなさい。","\n<\n[3]>早くイっちゃいなさいよ。
-どうせもう我慢できないんでしょ？
-ほら。負けちゃいなさい。",
+ほら。負けちゃいなさい。","\n<\n[3]>Hurry up and cum.
+You can't endure anymore, can you?
+Then just submit to me.",
 "\n<\n[3]>あっけないわ。
 もう少し楽しませてもらえると思ったのだけれど。
-ざーんねん♥","\n<\n[3]>あっけないわ。
-もう少し楽しませてもらえると思ったのだけれど。
-ざーんねん♥",
+ざーんねん♥","\n<\n[3]>How disappointing.
+I thought you'd keep me entertained for a little longer.
+What a shame♥",
 "\n<\n[3]>もう逃げられないでしょうけど、
 念のためにあんたの力、
-全部口から吸い出してあげる♥","\n<\n[3]>もう逃げられないでしょうけど、
-念のためにあんたの力、
-全部口から吸い出してあげる♥",
+全部口から吸い出してあげる♥","\n<\n[3]>You won't be getting away anymore.
+But just in case, I'll draw out any remaining
+strength you may have through your mouth♥",
 "\n<\n[3]>ちゅっ♥ちゅぅぅっ♥
 どう？淫魔の口付けは♥
-身体から精気が抜けていくでしょう？","\n<\n[3]>ちゅっ♥ちゅぅぅっ♥
-どう？淫魔の口付けは♥
-身体から精気が抜けていくでしょう？",
+身体から精気が抜けていくでしょう？","\n<\n[3]>Smooch♥ Smoooooch♥
+How is it? A succubus' kiss♥
+Can you feel all your strength leaving your body?",
 "\n<\n[3]>食べられてるのよ♥
 私に♥あんたの命を♥ん♥ちゅぅっ♥
-興奮するでしょ？","\n<\n[3]>食べられてるのよ♥
-私に♥あんたの命を♥ん♥ちゅぅっ♥
-興奮するでしょ？",
+興奮するでしょ？","\n<\n[3]>It's being eaten♥
+Your lifeforce♥ By me♥ Mmm♥ Smooch♥
+Isn't that exciting?",
 "\n<\n[3]>キスで吸われてイったの？
 れろぉ・・・♥
-変態♥","\n<\n[3]>キスで吸われてイったの？
-れろぉ・・・♥
-変態♥",
+変態♥","\n<\n[3]>Did you cum from my kiss?
+Liiick...♥
+Pervert♥",
 "\n<\n[3]>次はここ♥
 キスでビンビンに勃起したチンポを
-太ももで搾り取ってあげる♥","\n<\n[3]>次はここ♥
-キスでビンビンに勃起したチンポを
-太ももで搾り取ってあげる♥",
+太ももで搾り取ってあげる♥","\n<\n[3]>Let's try this next♥
+To finish what my kiss started, I'll squeeze
+that twitching erection with my thighs♥",
 "\n<\n[3]>もし出しちゃったら
 あんたは二度と立ち上がれないぐらい
-力を奪われちゃうのよ♥くす♥","\n<\n[3]>もし出しちゃったら
-あんたは二度と立ち上がれないぐらい
-力を奪われちゃうのよ♥くす♥",
+力を奪われちゃうのよ♥くす♥","\n<\n[3]>I'll keep making you cum, and stealing your power
+until you don't even have the strength
+to stand up anymore♥ Hee♥",
 "\n<\n[3]>今も足をぷるぷるさせて
-私にしがみついてないと立ってられないでしょうけど♥","\n<\n[3]>今も足をぷるぷるさせて
-私にしがみついてないと立ってられないでしょうけど♥",
+私にしがみついてないと立ってられないでしょうけど♥","\n<\n[3]>Even now, your legs are wobbling. If you weren't
+clinging to me, you wouldn't be able to keep upright♥",
 "\n<\n[3]>ほーら♥腰が砕けちゃう♥
 太ももピストン♥
-チンポがムチムチされてすぐイっちゃう♥","\n<\n[3]>ほーら♥腰が砕けちゃう♥
-太ももピストン♥
-チンポがムチムチされてすぐイっちゃう♥",
+チンポがムチムチされてすぐイっちゃう♥","\n<\n[3]>Now then♥ My hips will crush you♥
+My pumping thighs♥ Once your dick gets
+a feel for these, you'll cum right away♥",
 "\n<\n[3]>はいおしまい♥
 これでもうあんたは起き上がることさえ出来ない。
-まるで赤ん坊ね♥","\n<\n[3]>はいおしまい♥
-これでもうあんたは起き上がることさえ出来ない。
-まるで赤ん坊ね♥",
+まるで赤ん坊ね♥","\n<\n[3]>It's all over now♥
+You can't even keep standing anymore.
+You're like a helpless child♥",
 "\n<\n[3]>一度、油断してた私を倒したからって
 調子に乗っちゃった？
-ねぇ。ねぇねぇ。","\n<\n[3]>一度、油断してた私を倒したからって
-調子に乗っちゃった？
-ねぇ。ねぇねぇ。",
+ねぇ。ねぇねぇ。","\n<\n[3]>You only beat me the first time because I
+underestimated you. Did you get in over your head here? 
+Well? Did you?",
 "\n<\n[3]>こんなに力の差があるのに。
 勝てると思っちゃった？
-マゾの分際で。","\n<\n[3]>こんなに力の差があるのに。
-勝てると思っちゃった？
-マゾの分際で。",
+マゾの分際で。","\n<\n[3]>Now you know the difference in our power.
+Did you actually think you could win against me?
+You're nothing but a masochist.",
 "\n<\n[3]>大人しく精奴隷をしていれば良かったのに。
 イキ急ぐなんてね♥
-くすくす♥","\n<\n[3]>大人しく精奴隷をしていれば良かったのに。
-イキ急ぐなんてね♥
-くすくす♥",
+くすくす♥","\n<\n[3]>You should have remained an obedient little
+semen slave. So eager to ejaculate♥
+Tee hee♥",
 "\n<\n[3]>ほら。全部出しなさい。
 足コキで殺してアゲル♥
-私の足で死ねるなんて、幸せなことよ？","\n<\n[3]>ほら。全部出しなさい。
-足コキで殺してアゲル♥
-私の足で死ねるなんて、幸せなことよ？",
-"\n<\n[3]>さようなら♥","\n<\n[3]>さようなら♥",
+私の足で死ねるなんて、幸せなことよ？","\n<\n[3]>Now let it all come out.
+My footjob will finish you off♥ That would make you
+really happy, no? To die beneath my heel?",
+"\n<\n[3]>さようなら♥","\n<\n[3]>Goodbye♥",
 "\n<\n[3]>終わった終わった。
 死ぬほど気持ちよかったからいいでしょ？
-くすくす♥","\n<\n[3]>終わった終わった。
-死ぬほど気持ちよかったからいいでしょ？
-くすくす♥",
+くすくす♥","\n<\n[3]>That's it. It's all over.
+Feels so good you could die, doesn't it?
+Tee hee♥",
 "\n<\n[3]>さ、魔力も補充できたし・・・
 ふたりを元に戻してあげなきゃ。
-やれやれだわ。","\n<\n[3]>さ、魔力も補充できたし・・・
-ふたりを元に戻してあげなきゃ。
-やれやれだわ。",
+やれやれだわ。","\n<\n[3]>I was able to replenish my magic power...
+I should put the others back to normal now.
+Such a bother.",
 "\n<\n[3]>んちゅぅ♥じゅるぅ♥
 ほら♥くひにらしなはい♥
-じゅるるるる♥","\n<\n[3]>んちゅぅ♥じゅるぅ♥
-ほら♥くひにらしなはい♥
-じゅるるるる♥",
+じゅるるるる♥","\n<\n[3]>Mmmph♥ Sluuurp♥
+Ohay♥ Cum in my mouhh now♥
+Sluuuuuurrp♥",
 "\n<\n[3]>ん・・・♥
 ふ・・・♥
-ふふふ♥","\n<\n[3]>ん・・・♥
-ふ・・・♥
-ふふふ♥",
+ふふふ♥","\n<\n[3]>Mm...♥
+Fu...♥
+Fufufu♥",
 "\n<\n[3]>ごめんね♥れろ♥
 大人げなく必殺技使っちゃって♥
-じゅる♥","\n<\n[3]>ごめんね♥れろ♥
-大人げなく必殺技使っちゃって♥
-じゅる♥",
+じゅる♥","\n<\n[3]>I'm sorry♥ Lick♥
+It wasn't very sportsmanlike to use my deadly skill♥
+Slurp♥",
 "\n<\n[3]>人間にこれが♥れろ♥
 耐えられるわけ♥れろれろ♥
-ないものねぇ・・・♥じゅる♥","\n<\n[3]>人間にこれが♥れろ♥
-耐えられるわけ♥れろれろ♥
-ないものねぇ・・・♥じゅる♥",
+ないものねぇ・・・♥じゅる♥","\n<\n[3]>When I do this-♥ Lick♥
+to a human-♥ Lick lick♥
+they can never stand it-♥ Slurp♥",
 "\n<\n[3]>淫魔の唾液を塗りたくられて
 正気を保てる人間なんていないもの♥
-れろぉ・・・♥","\n<\n[3]>淫魔の唾液を塗りたくられて
-正気を保てる人間なんていないもの♥
-れろぉ・・・♥",
+れろぉ・・・♥","\n<\n[3]>There's not a human alive that can hold onto their
+mind when they're drenched in succubus saliva♥
+Liiick...♥",
 "\n<\n[3]>あんたはいつ発狂するかしら♥
 ふふ♥
-どんな声で泣き喚いてくれるの？","\n<\n[3]>あんたはいつ発狂するかしら♥
-ふふ♥
-どんな声で泣き喚いてくれるの？",
+どんな声で泣き喚いてくれるの？","\n<\n[3]>I wonder how long before madness sets in for you♥
+Fufu♥
+What kind of voice will you cry out with when it does?",
 "\n<\n[3]>ん♥美味しい♥
-ちゅぱ♥じゅる♥","\n<\n[3]>ん♥美味しい♥
-ちゅぱ♥じゅる♥",
+ちゅぱ♥じゅる♥","\n<\n[3]>Mmm♥ Wonderful♥
+Smack♥ Slurrp♥",
 "\n<\n[3]>むちゅっ♥って奥まで食らいついて・・・
-ちゅぽんっ♥ってお口を引き抜くの♥","\n<\n[3]>むちゅっ♥って奥まで食らいついて・・・
-ちゅぽんっ♥ってお口を引き抜くの♥",
+ちゅぽんっ♥ってお口を引き抜くの♥","\n<\n[3]>I'll slurp it deep inside...
+And it pops when it comes out of my mouth♥",
 "\n<\n[3]>ほら精液が吸われて上がって来る・・・♥
 あんたの身体から出たがってる♥
-じゅるる♥","\n<\n[3]>ほら精液が吸われて上がって来る・・・♥
-あんたの身体から出たがってる♥
-じゅるる♥",
+じゅるる♥","\n<\n[3]>Look, I'm sucking the semen right out of you...♥
+It's trying to leave your body♥
+Sluuurp♥",
 "\n<\n[3]>食べられにおいで♥
-むちゅぅ♥","\n<\n[3]>食べられにおいで♥
-むちゅぅ♥",
+むちゅぅ♥","\n<\n[3]>Come and let me eat you♥
+Schlooorp♥",
 "\n<\n[3]>ごく♥ごく♥
 濃厚でおいし♥
-命の詰まった味・・・♥","\n<\n[3]>ごく♥ごく♥
-濃厚でおいし♥
-命の詰まった味・・・♥",
+命の詰まった味・・・♥","\n<\n[3]>Gulp♥ Gulp♥
+Rich and tasty♥
+This flavor is so full of life...♥",
 "\n<\n[3]>あーむ♥
-じゅるるるる♥","\n<\n[3]>あーむ♥
-じゅるるるる♥",
+じゅるるるる♥","\n<\n[3]>Ahhhhmm♥
+Sluuuuuuuurrp♥",
 "\n<\n[3]>私ももう我慢できない♥
 \n[1]♥全部食べちゃうわね♥
-じゅぼ♥じゅぼ♥","\n<\n[3]>私ももう我慢できない♥
-\n[1]♥全部食べちゃうわね♥
-じゅぼ♥じゅぼ♥",
+じゅぼ♥じゅぼ♥","\n<\n[3]>I can't take this anymore♥
+\n[1]♥ I need to eat it all up♥
+Slurp♥ Schlorp♥",
 "\n<\n[3]>ダメ♥手加減できない♥
 中身を全部吸い取ってしまいたい♥♥♥
-れろ♥じゅる♥","\n<\n[3]>ダメ♥手加減できない♥
-中身を全部吸い取ってしまいたい♥♥♥
-れろ♥じゅる♥",
+れろ♥じゅる♥","\n<\n[3]>I can't♥ I can't hold back♥
+I want to drink up everything you've got in you♥♥♥
+Lick♥ Slurp♥",
 "\n<\n[3]>ねぇ♥ちょうだい♥
 身体の中身全部ちょうだい♥
-食べたいわ♥全部食べてしまいたい♥","\n<\n[3]>ねぇ♥ちょうだい♥
-身体の中身全部ちょうだい♥
-食べたいわ♥全部食べてしまいたい♥",
+食べたいわ♥全部食べてしまいたい♥","\n<\n[3]>Come on♥ Give it to me♥
+Give me everything you've got inside you♥
+I want to eat it♥ I want to eat it all up♥",
 "\n<\n[3]>吸うわよ♥吸っちゃうわよ♥
-いい？いいよね？ほら♥","\n<\n[3]>吸うわよ♥吸っちゃうわよ♥
-いい？いいよね？ほら♥",
-"\n<\n[3]>じゅるるるるるう♥♥♥","\n<\n[3]>じゅるるるるるう♥♥♥",
+いい？いいよね？ほら♥","\n<\n[3]>I'm going to suck it up♥ Suck it all up♥
+Ok? You got it? Come on then♥",
+"\n<\n[3]>じゅるるるるるう♥♥♥","\n<\n[3]>Sluuuuuuuuurrrpp♥♥♥",
 "\n<\n[3]>・・・♥♥♥
 ごく♥ごく♥ごく♥ごく♥
-じゅる♥ぶぢゅる♥ちゅるるるるる♥","\n<\n[3]>・・・♥♥♥
-ごく♥ごく♥ごく♥ごく♥
-じゅる♥ぶぢゅる♥ちゅるるるるる♥",
+じゅる♥ぶぢゅる♥ちゅるるるるる♥","\n<\n[3]>...♥♥♥
+Gluck♥ Gluck♥ Gulp♥ Gulp♥
+Sluuurp♥ Smack♥ Schloooorp♥",
 "\n<\n[3]>ぷはぁ♥
 あっ♥あっ♥最高♥\n[1]♥
-とっても美味しかったわ♥あは♥あははははは♥♥","\n<\n[3]>ぷはぁ♥
-あっ♥あっ♥最高♥\n[1]♥
-とっても美味しかったわ♥あは♥あははははは♥♥",
+とっても美味しかったわ♥あは♥あははははは♥♥","\n<\n[3]>Phew♥
+Ahn♥ Ahn♥ That was amazing♥ \n[1]♥
+That was the best I've ever tasted♥ Aha♥ Ahahahaha♥♥",
 "\n<\n[3]>あっは！何？出るの！？
 ねぇ！出しちゃうの？
-あはははははは！！","\n<\n[3]>あっは！何？出るの！？
-ねぇ！出しちゃうの？
-あはははははは！！",
+あはははははは！！","\n<\n[3]>Ahaaa! What? Are you cumming!?
+Hey! Are you really about to cum?
+Ahahahahahahaha!!",
 "\n<\n[3]>ぷ♥くくく・・・♥
 マジでイったわコイツ♥♥
-そんなに私で興奮しちゃったぁ？","\n<\n[3]>ぷ♥くくく・・・♥
-マジでイったわコイツ♥♥
-そんなに私で興奮しちゃったぁ？",
+そんなに私で興奮しちゃったぁ？","\n<\n[3]>Pah♥ Kukuku...♥
+Wow, you actually came♥♥
+Did I really make you so aroused?",
 "\n<\n[3]>負けたらどうなるか分かって射精したのよねぇ？
-ほーら♥","\n<\n[3]>負けたらどうなるか分かって射精したのよねぇ？
-ほーら♥",
+ほーら♥","\n<\n[3]>You know once you ejaculate, you lose the fight, right?
+My, my♥",
 "\n<\n[3]>ぐーり♥ぐーり♥
 あんたのチンポ、ナカでねじ切ってやろうかしら♥
-くすくす♥","\n<\n[3]>ぐーり♥ぐーり♥
-あんたのチンポ、ナカでねじ切ってやろうかしら♥
-くすくす♥",
+くすくす♥","\n<\n[3]>Grind♥ Grind♥
+Perhaps I should twist your dick off inside me♥
+Tee hee♥",
 "\n<\n[3]>膣壁がうねうねと絡みついてきて
 溶けちゃうでしょー？
-ほらぁん♥耐えてみなさいよ♥","\n<\n[3]>膣壁がうねうねと絡みついてきて
-溶けちゃうでしょー？
-ほらぁん♥耐えてみなさいよ♥",
+ほらぁん♥耐えてみなさいよ♥","\n<\n[3]>Will the winding walls of my pussy
+ensnare you and melt you?
+Now♥ Try your best to endure♥",
 "\n<\n[3]>はーいまた中出し♥
 こうなっちゃハンターも形無しよね♥
-ただの餌♥射精するだけの精液袋♥","\n<\n[3]>はーいまた中出し♥
-こうなっちゃハンターも形無しよね♥
-ただの餌♥射精するだけの精液袋♥",
+ただの餌♥射精するだけの精液袋♥","\n<\n[3]>You came inside again♥
+How low this hunter has sunk♥ You're nothing but food♥
+A body that pumps out semen♥",
 "\n<\n[3]>後ろから自分で腰を振れる体勢だったら
 サキュバスに勝てるとでも思ったぁ？
-くすくす♥","\n<\n[3]>後ろから自分で腰を振れる体勢だったら
-サキュバスに勝てるとでも思ったぁ？
-くすくす♥",
+くすくす♥","\n<\n[3]>You thought you could defeat a succubus
+just by pumping into her from behind?
+Tee hee♥",
 "\n<\n[3]>バカな人間♥
 セックスは後ろを取った方が必ずしも有利なわけじゃないって
-学校で習わなかったぁ？","\n<\n[3]>バカな人間♥
-セックスは後ろを取った方が必ずしも有利なわけじゃないって
-学校で習わなかったぁ？",
+学校で習わなかったぁ？","\n<\n[3]>Foolish human♥ When it comes to sex,
+just because you're behind, doesn't mean you have the
+upper hand. Didn't they teach you that in school?",
 "\n<\n[3]>ねぇ♥
 バックで負けると余計情けなくて気持ちいいでしょ♥
-ほぉら♥ほぉーら♥","\n<\n[3]>ねぇ♥
-バックで負けると余計情けなくて気持ちいいでしょ♥
-ほぉら♥ほぉーら♥",
+ほぉら♥ほぉーら♥","\n<\n[3]>Hmm♥ Since you lost from behind me,
+doesn't that make the pleasure feel all the more shameful♥
+I'll bet it does♥",
 "\n<\n[3]>あははは♥
 腰振って私を攻撃しなきゃいけないんじゃないのー？
-ほらー。震えてる場合じゃないわよー？","\n<\n[3]>あははは♥
-腰振って私を攻撃しなきゃいけないんじゃないのー？
-ほらー。震えてる場合じゃないわよー？",
+ほらー。震えてる場合じゃないわよー？","\n<\n[3]>Ahahaha♥
+Shouldn't you be pumping your hips and attacking me-?
+Is now really the time to be quivering like that?",
 "\n<\n[3]>あーぁ。
 後ろを取ってるのに一方的に攻撃されちゃってる♥
-パン♥パンっ♥","\n<\n[3]>あーぁ。
-後ろを取ってるのに一方的に攻撃されちゃってる♥
-パン♥パンっ♥",
+パン♥パンっ♥","\n<\n[3]>Ahhh. Even though you're behind me,
+it seems I'm the only one putting up a fight♥
+Pump♥ Puuump♥",
 "\n<\n[3]>戦いなさいよ♥
 喘ぐことしか出来ないの？
-ねぇ♥少しでも腰振って反撃したら？","\n<\n[3]>戦いなさいよ♥
-喘ぐことしか出来ないの？
-ねぇ♥少しでも腰振って反撃したら？",
+ねぇ♥少しでも腰振って反撃したら？","\n<\n[3]>Come on, fight back♥
+Can you do anything but gasp?
+Hey♥ Won't you use those hips even a little?",
 "\n<\n[3]>このまま情けなく私のお尻にもたれかかりながら死ぬ？
-お尻に負けて死んじゃう？","\n<\n[3]>このまま情けなく私のお尻にもたれかかりながら死ぬ？
-お尻に負けて死んじゃう？",
+お尻に負けて死んじゃう？","\n<\n[3]>Are you going to die a miserable death draped over my ass?
+Is my ass going to kill you?",
 "\n<\n[3]>あは♥
 気持ちよさと恐怖で顔がぐっちゃぐちゃ♥
-本当にえっちな表情♥それ大好き♥","\n<\n[3]>あは♥
-気持ちよさと恐怖で顔がぐっちゃぐちゃ♥
-本当にえっちな表情♥それ大好き♥",
+本当にえっちな表情♥それ大好き♥","\n<\n[3]>Ahaa♥
+Look at that face, twisted in pleasure and terror♥
+That's a really sexy expression♥ I really like it♥",
 "\n<\n[3]>ねぇ♥死にたくないなら抜けば？
 一歩でも後ろに下がれたら助かるわよ？
-どうして逃げないの？","\n<\n[3]>ねぇ♥死にたくないなら抜けば？
-一歩でも後ろに下がれたら助かるわよ？
-どうして逃げないの？",
+どうして逃げないの？","\n<\n[3]>Say♥ Why don't you pull out if you don't want to die?
+You'd be safe if you just took a step back, no?
+Why aren't you running away?",
 "\n<\n[3]>ふふ♥逃げたくないのよね♥
 してみたいんでしょ？
-気持ちよすぎて死んじゃう射精♥","\n<\n[3]>ふふ♥逃げたくないのよね♥
-してみたいんでしょ？
-気持ちよすぎて死んじゃう射精♥",
+気持ちよすぎて死んじゃう射精♥","\n<\n[3]>Fufu♥ You don't want to run away♥
+You want to feel it, don't you?
+A pleasure so great that it kills you♥",
 "\n<\n[3]>許容量を越えた快楽で栓を壊してアゲル♥
 涙も涎も精液も、そして魂も♥
-ぜーんぶ流れ出ちゃう♥","\n<\n[3]>許容量を越えた快楽で栓を壊してアゲル♥
-涙も涎も精液も、そして魂も♥
-ぜーんぶ流れ出ちゃう♥",
+ぜーんぶ流れ出ちゃう♥","\n<\n[3]>A pleasure that blows your top, exceeds your limits♥
+Everything will leak out of you♥
+Your tears, your drool, your semen, and at last, your soul♥",
 "\n<\n[3]>あ♥全部出る♥出るわ♥
-いいのよ♥きなさい♥","\n<\n[3]>あ♥全部出る♥出るわ♥
-いいのよ♥きなさい♥",
+いいのよ♥きなさい♥","\n<\n[3]>Ahn♥ Let it all out♥ Let it out♥
+That's it♥ Come to me♥",
 "\n<\n[3]>ああん♥美味しい♥
 少しずつ味わって食べるのもいいけど・・・
-やっぱり一気に最後まで食べる方が美味しいわ♥","\n<\n[3]>ああん♥美味しい♥
-少しずつ味わって食べるのもいいけど・・・
-やっぱり一気に最後まで食べる方が美味しいわ♥",
+やっぱり一気に最後まで食べる方が美味しいわ♥","\n<\n[3]>Ahhhhhnn♥ Exquisite♥
+It's nice to savor your taste a little at a time, but...
+It's even tastier when I eat it all at once♥",
 "\n<\n[3]>身体に力が溢れて来る・・・♥
 ふふ♥
-これでシィナとライムも戻せるわ♥","\n<\n[3]>身体に力が溢れて来る・・・♥
-ふふ♥
-これでシィナとライムも戻せるわ♥",
+これでシィナとライムも戻せるわ♥","\n<\n[3]>My body is brimming with power...♥
+Fufu♥
+With this, I can bring back Shina and Lime♥",
 "\n<\n[3]>あは♥出してくれるの？
 うれしい・・・♥
-\n[1]・・・♥","\n<\n[3]>あは♥出してくれるの？
-うれしい・・・♥
-\n[1]・・・♥",
+\n[1]・・・♥","\n<\n[3]>Ahaa♥ You'll cum inside me?
+I'm so glad...♥
+\n[1]...♥",
 "\n<\n[3]>一番奥に出して♥
 ほら♥淫魔の子宮の中に♥
-一緒に・・・♥一緒にイこ♥","\n<\n[3]>一番奥に出して♥
-ほら♥淫魔の子宮の中に♥
-一緒に・・・♥一緒にイこ♥",
+一緒に・・・♥一緒にイこ♥","\n<\n[3]>Cum deep inside♥
+Yes♥ Into a succubus' womb♥
+Together...♥ Let's cum together♥",
 "\n<\n[3]>おいで♥\n[1]♥
-全部♥全部♥受け止めてアゲル♥","\n<\n[3]>おいで♥\n[1]♥
-全部♥全部♥受け止めてアゲル♥",
+全部♥全部♥受け止めてアゲル♥","\n<\n[3]>Come on♥ \n[1]♥
+Give it♥ All of it♥ I'll take it all in♥",
 "\n<\n[3]>なんてね。中出しなんてさせてあげなーい♥
 ふふふ♥こんな演技に騙されちゃって。
-ひとりでイってなさい。バーカ♥","\n<\n[3]>なんてね。中出しなんてさせてあげなーい♥
-ふふふ♥こんな演技に騙されちゃって。
-ひとりでイってなさい。バーカ♥",
+ひとりでイってなさい。バーカ♥","\n<\n[3]>Just kidding. I won't let you cum inside me♥
+Fufufu♥ My little act really had you going, huh.
+You can cum all by yourself. Dummy♥",
 "\n<\n[3]>あん♥
 ごめんねー♥イク寸前にぬいちゃって♥
-あははは♥","\n<\n[3]>あん♥
-ごめんねー♥イク寸前にぬいちゃって♥
-あははは♥",
+あははは♥","\n<\n[3]>Ahhn♥
+I'm so sorry-♥ I dodged you right before you came♥
+Ahahaha♥",
 "\n<\n[3]>あん♥あん♥
 なぁに？まだ私をイカせようとして腰振ってるの？
-うふふ♥頑張るのねー♥","\n<\n[3]>あん♥あん♥
-なぁに？まだ私をイカせようとして腰振ってるの？
-うふふ♥頑張るのねー♥",
+うふふ♥頑張るのねー♥","\n<\n[3]>Ahn♥ Ahn♥
+Hmm? You're still shaking your hips, trying to make me cum?
+Ufufu♥ Keep at it-♥",
 "\n<\n[3]>それとも中出ししたくて腰振ってる？
 ねぇ♥どっち？
-そんなに中出ししたいの？","\n<\n[3]>それとも中出ししたくて腰振ってる？
-ねぇ♥どっち？
-そんなに中出ししたいの？",
+そんなに中出ししたいの？","\n<\n[3]>Or are you thrusting because you want to cum inside me?
+Hm♥ Which is it?
+Do you want to cum inside that badly?",
 "\n<\n[3]>はーい残念♥
 また無駄打ち♥お尻に熱いのかかってる♥
-くくく♥","\n<\n[3]>はーい残念♥
-また無駄打ち♥お尻に熱いのかかってる♥
-くくく♥",
+くくく♥","\n<\n[3]>Too bad♥
+Another wasted shot♥ My butt's really warm♥
+Kukuku♥",
 "\n<\n[3]>そうねぇ・・
 正直、私もあと少しでイっちゃうところだったし・・・
-少しはサービスしてあげよっかな♥","\n<\n[3]>そうねぇ・・
-正直、私もあと少しでイっちゃうところだったし・・・
-少しはサービスしてあげよっかな♥",
+少しはサービスしてあげよっかな♥","\n<\n[3]>Well...
+To tell you the truth, I was close to cumming as well...
+I'll do you a little favor then♥",
 "\n<\n[3]>中出し出来たらあんたの勝ちにしてあげる♥
 これなら勝てそうじゃない？
-くすくす♥","\n<\n[3]>中出し出来たらあんたの勝ちにしてあげる♥
-これなら勝てそうじゃない？
-くすくす♥",
+くすくす♥","\n<\n[3]>If you can cum inside me, I'll say you won♥
+I'd say that's a victory, no?
+Tee hee♥",
 "\n<\n[3]>上手に中出し出来たらあんたは自由♥
 もう私たちから逃げてもいい。
-解放してあげる♥","\n<\n[3]>上手に中出し出来たらあんたは自由♥
-もう私たちから逃げてもいい。
-解放してあげる♥",
+解放してあげる♥","\n<\n[3]>If you can creampie me, you'll win your freedom♥
+You're free to leave us.
+No strings attached♥",
 "\n<\n[3]>イキそうなのバレずにぃ、
 こっそりぴゅっぴゅしちゃえばいいの♥
-喘いだりしちゃダメよ？ふふ♥","\n<\n[3]>イキそうなのバレずにぃ、
-こっそりぴゅっぴゅしちゃえばいいの♥
-喘いだりしちゃダメよ？ふふ♥",
+喘いだりしちゃダメよ？ふふ♥","\n<\n[3]>Don't make it obvious that you're getting close.
+You've got to orgasm stealthily♥
+No gasping or shouting, ok? Fufu♥",
 "\n<\n[3]>はいまたあんたの負け♥
 イク寸前にお尻を離されて空気にお漏らし♥
-もどかしいわねー♥","\n<\n[3]>はいまたあんたの負け♥
-イク寸前にお尻を離されて空気にお漏らし♥
-もどかしいわねー♥",
+もどかしいわねー♥","\n<\n[3]>Aw, you lose again♥
+I pulled my ass free at the last moment, and you came
+out in the open♥ You're way too slow-♥",
 "\n<\n[3]>じゃあ、次は大サービス♥
 私はもう動かないでいてアゲル♥
-あんたがイキそうになっても逃げない♥","\n<\n[3]>じゃあ、次は大サービス♥
-私はもう動かないでいてアゲル♥
-あんたがイキそうになっても逃げない♥",
+あんたがイキそうになっても逃げない♥","\n<\n[3]>Right, then I'll do you another favor♥
+I'm not going to move anymore♥
+I won't move even if you're about to cum♥",
 "\n<\n[3]>絶対に中出し出来るわよ♥
 絶対にあんたの勝ち♥
-良かったわねー♥くすくす♥","\n<\n[3]>絶対に中出し出来るわよ♥
-絶対にあんたの勝ち♥
-良かったわねー♥くすくす♥",
+良かったわねー♥くすくす♥","\n<\n[3]>You can definitely cum in me this time♥
+You're definitely going to win♥
+This'll be easy-♥ Tee hee♥",
 "\n<\n[3]>その代わりー・・・
-リリー様好きです♥って言いながら出しなさい♥","\n<\n[3]>その代わりー・・・
-リリー様好きです♥って言いながら出しなさい♥",
+リリー様好きです♥って言いながら出しなさい♥","\n<\n[3]>But in return...
+You need to say 'I love you Mistress Lily' when you orgasm♥",
 "\n<\n[3]>そうするとね、永続チャームにかかっちゃうの♥
 私のこと考えるだけでドキドキして
-胸が苦しくなっちゃう♥","\n<\n[3]>そうするとね、永続チャームにかかっちゃうの♥
-私のこと考えるだけでドキドキして
-胸が苦しくなっちゃう♥",
+胸が苦しくなっちゃう♥","\n<\n[3]>When you do, you'll be permanently charmed♥
+You won't be able to even think about me without
+your heart pounding so hard that it hurts♥",
 "\n<\n[3]>永遠に効果が切れないチャーム♥
 精奴隷じゃなくて恋奴隷になる永続デバフ♥
-うふふ♥","\n<\n[3]>永遠に効果が切れないチャーム♥
-精奴隷じゃなくて恋奴隷になる永続デバフ♥
-うふふ♥",
+うふふ♥","\n<\n[3]>A never-ending charm♥
+You'll be demoted from semen slave to love slave♥
+Ufufu♥",
 "\n<\n[3]>ほら♥おいで♥
-あんたの気持ち♥受け止めてあげる♥","\n<\n[3]>ほら♥おいで♥
-あんたの気持ち♥受け止めてあげる♥",
-"\C[10]リリー様好きです","\C[10]リリー様好きです",
+あんたの気持ち♥受け止めてあげる♥","\n<\n[3]>Alright♥ Give it to me♥
+Share your feelings♥ I'll accept them♥",
+"\C[10]リリー様好きです","\C[10]I love you Mistress Lily",
 "あぁ・・・♥
 リリー様・・・♥
-好き・・・♥","あぁ・・・♥
-リリー様・・・♥
-好き・・・♥",
+好き・・・♥","Ahhhhh...♥
+I love you...♥
+Mistress Lily...♥",
 "\n<\n[3]>おめでとう♥あんたの勝ちよ♥
 ちゃんと中出しできて良かったわねー♥くすくす♥
-えらいえらい♥","\n<\n[3]>おめでとう♥あんたの勝ちよ♥
-ちゃんと中出しできて良かったわねー♥くすくす♥
-えらいえらい♥",
+えらいえらい♥","\n<\n[3]>Congratulations♥ You win♥
+You finally got to cum inside me-♥ Tee hee♥
+Good work♥",
 "\n<\n[3]>あは♥なぁに？キスしたいの？
 もー♥調子に乗るんじゃないわよ♥くすくす♥
-早く逃げなさいよ♥バーカ♥","\n<\n[3]>あは♥なぁに？キスしたいの？
-もー♥調子に乗るんじゃないわよ♥くすくす♥
-早く逃げなさいよ♥バーカ♥",
-"\n[1]は恋奴隷にされてしまった・・・","\n[1]は恋奴隷にされてしまった・・・",
+早く逃げなさいよ♥バーカ♥","\n<\n[3]>Ahaa♥ What's that? You want a kiss?
+Tsk-♥Don't get carried away now♥ Tee hee♥
+You'd better hurry and escape♥ Dummy♥",
+"\n[1]は恋奴隷にされてしまった・・・","\n[1] became a love slave...",
 "\n<\n[3]>出る？
 じゃあお口でちゅー♥","\n<\n[3]>Cumming?
 Do it in my mouth♥",
@@ -13861,40 +13869,40 @@ the scent of her armpit brings you to ejaculate...!",
 \C[0]\n[1]は低速になった・・・","\C[26]Successfully avoided the deadly attack!
 \C[0]\n[1]has been slowed...",
 "\C[24]回避に失敗した・・・","\C[24]Evasion failed...",
-"\n<\n[3]>精液全部ぶっこ抜いてやるにゃ♥","\n<\n[3]>精液全部ぶっこ抜いてやるにゃ♥",
-"\n<\n[3]>搾りカスにしてやるし♥","\n<\n[3]>搾りカスにしてやるし♥",
+"\n<\n[3]>精液全部ぶっこ抜いてやるにゃ♥","\n<\n[3]>I'll wring out every last drop of semen, nya♥",
+"\n<\n[3]>搾りカスにしてやるし♥","\n<\n[3]>I'll grind you to dust♥",
 "---------------必殺ここから---------------------",,
 "\n<\n[3]>ほーら♥お尻にゃん♥
 こっちの穴は慣れてないにゃぁ？
-どーにゃ？","\n<\n[3]>ほーら♥お尻にゃん♥
-こっちの穴は慣れてないにゃぁ？
-どーにゃ？",
+どーにゃ？","\n<\n[3]>Here♥ Try my ass, nyan♥
+You're not familiar with this hole, are you, nyan?
+How is it?",
 "\n<\n[3]>こっちで食べてやるし♥
 うりうり♥
-ケツで搾り取ってやるにゃん♥","\n<\n[3]>こっちで食べてやるし♥
-うりうり♥
-ケツで搾り取ってやるにゃん♥",
+ケツで搾り取ってやるにゃん♥","\n<\n[3]>I'll let this hole eat you♥
+Squeeze, squeeze♥
+My ass is gonna wring you dry, nyan♥",
 "---------------攻撃3回目---------------------",,
 "\n<\n[3]>んにゃぁ？
 お尻の中でビクビク膨らんでるの分かるし♥
-にゃはははは♥","\n<\n[3]>んにゃぁ？
-お尻の中でビクビク膨らんでるの分かるし♥
-にゃはははは♥",
+にゃはははは♥","\n<\n[3]>Nyaah?
+I can feel your cock quivering inside my ass♥
+Nyahahahahaha♥",
 "\n<\n[3]>お尻の穴を締め付けて
 お前の力を吸い取ってやるにゃ♥
-きゅぅぅー・・・♥","\n<\n[3]>お尻の穴を締め付けて
-お前の力を吸い取ってやるにゃ♥
-きゅぅぅー・・・♥",
+きゅぅぅー・・・♥","\n<\n[3]>I'll tighten my asshole
+and suck away your power, nya♥
+Squeeeeeeze-...♥",
 "---------------射精判定---------------------",,
 "---------------耐えられた時---------------------",,
 "\n<\n[3]>んにゃぁ・・・
 ちょっとなんか変な気分になってきたし。
-抜くにゃ。","\n<\n[3]>んにゃぁ・・・
-ちょっとなんか変な気分になってきたし。
-抜くにゃ。",
+抜くにゃ。","\n<\n[3]>Nyaaah...
+I'm starting to feel a little weird.
+Pull it out, nya.",
 "\n<\n[3]>まだイカないにゃぁ？
-めんどくさいにゃぁ・・・","\n<\n[3]>まだイカないにゃぁ？
-めんどくさいにゃぁ・・・",
+めんどくさいにゃぁ・・・","\n<\n[3]>You still haven't came, nya?
+What a pain in my ass, nyaa...",
 "\>\n[3]は怯んだ！","\>\n[3] flinched!",
 "\n<\n[3]>よーし、必殺技するよー？
 おちんちんさんは耐えられるかなー？","\n<\n[3]>Alright, ready for my deadly skill?
@@ -13930,36 +13938,36 @@ Waaaah...!",
 "\n<\n[3]>これでもダメかー・・・
 ちょっと休憩ー。","\n<\n[3]>That didn't do it, hm-...
 I need a little break-.",
-"\n<\n[3]>飲み込んでアゲル。","\n<\n[3]>飲み込んでアゲル。",
-"\n<\n[3]>搾り取ってアゲル♥","\n<\n[3]>搾り取ってアゲル♥",
+"\n<\n[3]>飲み込んでアゲル。","\n<\n[3]>I'll eat you up.",
+"\n<\n[3]>搾り取ってアゲル♥","\n<\n[3]>I'll wring you dry♥",
 "\n<\n[3]>ふふ♥
 もう我慢汁の味するんだけど。
-出そうなの？","\n<\n[3]>ふふ♥
-もう我慢汁の味するんだけど。
-出そうなの？",
+出そうなの？","\n<\n[3]>Fufu♥
+I can already taste your precum.
+Are you going to cum?",
 "\n<\n[3]>れろぉ♥
 ほら♥あんたのチンポが食べられちゃうとこ、
-ちゃんと見てなさい♥","\n<\n[3]>れろぉ♥
-ほら♥あんたのチンポが食べられちゃうとこ、
-ちゃんと見てなさい♥",
+ちゃんと見てなさい♥","\n<\n[3]>Lick♥
+Here♥ Have a good long look,
+as I eat your cock♥",
 "\n<\n[3]>じゅる♥じゅぼ♥
 あは♥
-ストローみたいに吸い出してあげる♥","\n<\n[3]>じゅる♥じゅぼ♥
-あは♥
-ストローみたいに吸い出してあげる♥",
+ストローみたいに吸い出してあげる♥","\n<\n[3]>Slurp♥ Schlooorp♥
+Ahaa♥
+I'll suck it all out like a straw♥",
 "\n<\n[3]>あーむ・・・♥
 じゅる♥じゅるるるるる♥
-れろぉ♥","\n<\n[3]>あーむ・・・♥
-じゅる♥じゅるるるるる♥
-れろぉ♥",
+れろぉ♥","\n<\n[3]>Ahhmmm...♥
+Slurp♥ Sluuuuuuurrrpp♥
+Liiick♥",
 "\n<\n[3]>ちっ・・・
 顎が疲れるじゃない。
-ムカツクわ・・・","\n<\n[3]>ちっ・・・
-顎が疲れるじゃない。
-ムカツクわ・・・",
+ムカツクわ・・・","\n<\n[3]>Tsk...
+My jaw is getting tired.
+What a pain...",
 "\n<\n[3]>まだ耐えるつもりなの？
-時間の問題なのに。","\n<\n[3]>まだ耐えるつもりなの？
-時間の問題なのに。",
+時間の問題なのに。","\n<\n[3]>Still trying to hold out?
+It's only a matter of time now.",
 "\n<\n[3]>早く出してよぉ♥
 \n[1]・・・♥我慢しちゃダメ♥","\n<\n[3]>早く出してよぉ♥
 \n[1]・・・♥我慢しちゃダメ♥",
