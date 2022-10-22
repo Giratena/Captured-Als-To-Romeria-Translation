@@ -1,6 +1,6 @@
-"アーコイベ",
-"リリーイベ",
-"イベント実行",
+"アーコイベ",""
+"リリーイベ",""
+"イベント実行",""
 "\n<アーコ>研究所って言ってたけど・・・
 ここに誰か住んでるってことだよね？
 今まで良く気付かなかったね。物音とか。","\n<Ako>They said this was a research center...
@@ -35,61 +35,61 @@ Later!"
 "\n<リリー>私、あんたにヤラレてまだ本調子じゃないの。
 前を歩いて。","\n<Lily>I'm still not ready to trust you, hunter.
 You can keep in front of me."
-"ERS_テンプレートランダム生成 8 1 2 3 0 0",
-"EV004",
+"ERS_テンプレートランダム生成 8 1 2 3 0 0",""
+"EV004",""
 "\n<リリー>人間の骨・・・","\n<Lily>A human skeleton..."
-"EV005",
+"EV005",""
 "\n<リリー>解剖図？
 人間の身体の中身って、こんな感じなのね。
 きも・・・","\n<Lily>An anatomy chart?
 So this is what the inside of a human looks like.
 So that's a liver..."
-"EV006",
+"EV006",""
 "\n<リリー>身体ちょんぱ。","\n<Lily>Decapitated."
-"EV007",
+"EV007",""
 "\n<リリー>何が書かれているか分からないし、興味もないわ。
 早く行きましょ。","\n<Lily>I don't know what's written here, and I don't care.
 We need to hurry on."
-"EV008",
-"EV009",
+"EV008",""
+"EV009",""
 "\n<リリー>何が書かれているか分からないし、興味もないわ。","\n<Lily>I don't know what this says, and I don't care."
-"EV010",
+"EV010",""
 "\n<リリー>今はそんなことしてる場合じゃないと思うけど。
 まぁ、したいなら、全部終わってからね。","\n<Lily>Now's really not the time for that.
 We'll come back once this is all over."
-"EV011",
-"EV012",
+"EV011",""
+"EV012",""
 "\n<リリー>この布団の数を見るに・・・
 結構、人住んでた感じね。
 嘘でしょ・・・","\n<Lily>Seeing so many futons here...
 There's no doubt people are living here.
 Unbelievable..."
-"EV013",
-"EV014",
-"EV015",
-"EV016",
-"EV017",
-"EV018",
-"EV019",
-"EV020",
+"EV013",""
+"EV014",""
+"EV015",""
+"EV016",""
+"EV017",""
+"EV018",""
+"EV019",""
+"EV020",""
 "\n<リリー>ちょっと！
 あいつらを置いて逃げるつもり？","\n<Lily>Hold it!
 Are you really trying to abandon them?"
-"EV021",
+"EV021",""
 "\n<リリー>首ちょんぱ。","\n<Lily>Don't lose your head."
-"EV022",
+"EV022",""
 "魔物についての本が並べられている・・・
 『食べても大丈夫な魔物と調理法』","Books about monsters line the shelf...
 'Cooking with edible monsters'"
-"EV023",
-"EV024",
+"EV023",""
+"EV024",""
 "可愛らしいぬいぐるみだ。","A cute plush character."
 "\n<リリー>これ私の部屋にあるやつと同じじゃない。
 あの部屋に住んでたのかしら。
 ・・・","\n<Lily>This plush is different from the ones in my room.
 I wonder if this person lived in my room.
 ..."
-"EV025",
+"EV025",""
 "2日間、餌を与えず空腹状態にした魔物に
 『鎖で繋いだ豚』と『人間』を与えてみたところ、
 豚を狙わず、逃げ惑う人間を執拗に追いかけまわした。","After starving the monsters for two days, I offered them
@@ -104,16 +104,16 @@ They prefer living humans, but dead pigs."
 "\n<リリー>魔物の研究・・・？
 結構えげつないことやってんのね。","\n<Lily>Monster research...?
 These tests seem awful."
-"EV026",
+"EV026",""
 "書きなぐったような文字がびっしり敷き詰められている。","The table is densely packed with scribbled out writing."
 "\n<リリー>きたな・・・
 書いた本人も読め無さそう。","\n<Lily>So dirty...
 It doesn't look like they knew how to write."
-"EV027",
+"EV027",""
 "魔物についての本が並べられている・・・
 『動物との違いとその関係性』","Books about monsters line the shelf...
 'Differences and similarities with animals'"
-"EV028",
+"EV028",""
 "絵本が並べられている・・・
 『あまいの　どっち』","Picture books line the shelf...
 'Which one is sweeter?'"
@@ -133,7 +133,7 @@ Sweet foods compete to see who's the sweetest."
 "\n<リリー>ふーん・・・","\n<Lily>Huh..."
 "\n<\n[1]>ラムネと水飴の殴り合いは熱かったな。","\n<\n[1]>The fight between soda and syrup was a bare-knuckle brawl."
 "\n<リリー>バトルものなの・・・！？","\n<Lily>Did they actually fight...!?"
-"EV029",
+"EV029",""
 "高級そうなワインが置かれている・・・","A high quality bottle of wine sits on the table..."
 "\n<\n[1]>リリーってお酒とか飲むの？","\n<\n[1]>Do you drink alcohol, Lily?"
 "\n<リリー>は？何？
@@ -145,8 +145,8 @@ I drink when I feel like drinking."
 "\n<リリー>（こんなにすぐ近くに人が住んでたのに
 気付かなかったなんて・・・）","\n<Lily>(How could I never realize that these
 people lived so close to me...)"
-"EV030",
-"隠された手紙",
+"EV030",""
+"隠された手紙",""
 "ベッドの下に黒い百合の紋章が描かれた封書を見つけた！
 何度も読み返したように古びている・・・","Found a letter with a black lily seal under the bed!
 It's tattered as if it has been read countless times..."
@@ -178,18 +178,18 @@ You must preserve this balance."
 "頼んだぞベルーチェ。
 ラブ＆カース。世界に愛と呪いを。","I entrust this to you, Velvet.
 Love and curses. Love and curses upon the world."
-"EV032",
-"EV033",
+"EV032",""
+"EV033",""
 "美味しそうなケーキに見えるが粘土で作ってあるようだ。
 何故か齧った跡がある・・・","On closer inspection, this delicious looking cake is
 made of clay. And yet, there are bite marks all over it..."
-"EV034",
+"EV034",""
 "魔物についての本が並べられている・・・
 『マリーティアの子供たち』","Books about monsters line the shelf...
 'Children of Maritia'"
-"薬",
+"薬",""
 "もう使えそうなものはない。","Nothing else useful."
-"EV040",
+"EV040",""
 "医療品が並べてある・・・","Medical supplies line the shelf..."
-"EV041",
-"EV042",
+"EV041",""
+"EV042",""

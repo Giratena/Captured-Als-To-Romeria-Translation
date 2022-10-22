@@ -1,6 +1,6 @@
 "アーコ","Ako"
 "リリー","Lily"
-"イベント実行",
+"イベント実行",""
 "\n<リリー>妙な建物があるとは思っていたけど・・・
 こんなところから入るなんて。
 全然気が付かなかったわ。","\n<Lily>I knew there was a strange building, 
@@ -17,7 +17,7 @@ If we did, we wouldn't have given you all those treasures."
 Let's get it open。"
 "\n<アーコ>せーの！","\n<Ako>Let's go!"
 "
-　　　　　　　　　第2部\.\.　深層のアルストロメリア",
+　　　　　　　　　第2部\.\.　深層のアルストロメリア",""
 "サンタ","サンタ"
 "\n<サンタ>やぁこんにちは。
 ボク、白猫のサンタ。
@@ -52,9 +52,9 @@ Say hello to Ako for me."
 ボクは猫だから平気だけど、キミはちゃんとカルシウム取ってる？","\n<Santa>Oh, you may want to escape,
 but don't jump from here. I can do it since
  I'm a cat, but are you getting enough calcium?"
-"リリーの日記",
+"リリーの日記",""
 "リリーの日記
-しましまはマゾ",
-"読んでみる",
-"やめておく","Stop"
-"EV011",
+しましまはマゾ",""
+"読んでみる",""
+"やめておく",""
+"EV011",""

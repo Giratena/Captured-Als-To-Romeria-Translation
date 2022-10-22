@@ -4,8 +4,8 @@
 "ライム","Lime"
 "イベント実行","イベント実行"
 "\n<リリー>・・・！？","\n<Lily>...!?"
-"MP_SET_MOVIE シィナ猫おこ",
-"MP_SET_LOOP 20 on",
+"MP_SET_MOVIE シィナ猫おこ",""
+"MP_SET_LOOP 20 on",""
 "\n<シィナ>ちくしょー・・・
 やられたにゃん。","\n<Shina>Shit...
 I got beat, nyan."
@@ -61,7 +61,7 @@ Leave it all to me."
 "\n<リリー>ゆ、油断しないように気を付けるわ・・・
 ぷくく♥","\n<Lily>I won't let my guard down... Unlike you...
 Heh heh heh♥"
-"MP_SET_MOVIE ライム溶ける2",
+"MP_SET_MOVIE ライム溶ける2",""
 "\n<ライム>あーうー・・・","\n<Lime>Awaaaahhh..."
 "\n<リリー>ら、ライム！？
 どうしたの！？

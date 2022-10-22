@@ -2,19 +2,19 @@
 "食糧庫ドア","食糧庫ドア"
 "炎","炎"
 " <enemy:99><cw:1.5><ch:1.5>"," <enemy:99><cw:1.5><ch:1.5>"
-"灯り 5 3 255 0.3",
+"灯り 5 3 255 0.3",""
 "\n<\n[1]>あっつ！！！","\n<\n[1]>Hottt!!!"
 "変数203（ARGP攻撃種類）
 1斬　2打撃　3水　4火　5雷
 6誘惑　7食べ物
 特殊206（個別攻撃種類）
-1リンゴ　2皿　3卵",
+1リンゴ　2皿　3卵",""
 "・・・！
 暖炉の奥に小さな扉がある・・・","…!
 There's a small door at the back of the fireplace…"
-"ﾗｲﾑ誘惑",
-"--------キャラ指定-----座標設定------------",
-"----------------------------------------",
+"ﾗｲﾑ誘惑",""
+"--------キャラ指定-----座標設定------------",""
+"----------------------------------------",""
 "使えそうなものは・・・","There might be something useful…"
 "\n<\n[3]>何してるのー？
 ねーねー。","\n<\n[3]>What are you doing-?
@@ -23,8 +23,8 @@ Hey, hey-."
 少しでいいから精液飲ませてほしいなー♥","\n<\n[3]>""I'm a little hungry.
 It's okay to drink your semen, if it's just a little.♥"""
 "\n<\n[3]>\n[1]ー♥こっち見てー♥","\n<\n[3]>\n[1]-♥ Lookie here-♥"
-"ーーーーー待機or攻撃アニメSE選択ーーーーー",
-"--------ここから誘惑------------",
+"ーーーーー待機or攻撃アニメSE選択ーーーーー",""
+"--------ここから誘惑------------",""
 "\n<\n[3]>おっぱいでおちんちん挟んで
 ぬるぬるしてあげるからー♥
 おいでよー♥","\n<\n[3]>Put it between my boobs
@@ -45,7 +45,7 @@ Are your knees trembling-?"
 ねー♥おいでおいでー♥","\n<\n[3]>No more running today,
 come and have some fun with me♥
 Please-♥ Come on, come on-♥"
-"--------ここから選択肢-------------",
+"--------ここから選択肢-------------",""
 "\n<\n[3]>そんなにおっきくしてるのに我慢するのー？
 一度出してすっきりした方がいいんじゃないかなー？
 出しておいた方がいいでしょー？ほーら♥","\n<\n[3]>Why would you resist when it's so big-?
@@ -56,7 +56,7 @@ Cum for me just one time-? Hoora♥"
 いっぱい甘えていいからねー♥","\n<\n[3]>There you go♥
 Good little one-♥
 I'll take good care of you now-♥"
-"--------ここからクリア------------",
+"--------ここからクリア------------",""
 "\n<\n[3]>もー・・・
 こんなに誘ってるのにダメなのー？
 あーあ。","\n<\n[3]>Tsk...
@@ -68,30 +68,30 @@ by force. And I won't be gentle♥"
 "\n<\n[3]>誘いを断ったこと後悔するぐらい
 いっぱいびゅーびゅー出させてあげるからねー♥","\n<\n[3]>You're going to regret turning down my invitation
 when I catch you and milk you a whole bunch-♥"
-"触手",
-" <enemy:143>",
-"nwayAim 1 1 0 0.1 60 3 38 782",
-"nwayAim 1 1 0 0.1 60 3 42 786",
-"ーーーーーー敵から受けるダメージーーーーーー",
-"ーーーーーーーー被ダメエフェクトーーーーーーー",
-"灯り 3 1 255 0.1",
-"ーーーーーー基礎ヤラレモーションーーーーーー",
+"触手",""
+" <enemy:143>",""
+"nwayAim 1 1 0 0.1 60 3 38 782",""
+"nwayAim 1 1 0 0.1 60 3 42 786",""
+"ーーーーーー敵から受けるダメージーーーーーー",""
+"ーーーーーーーー被ダメエフェクトーーーーーーー",""
+"灯り 3 1 255 0.1",""
+"ーーーーーー基礎ヤラレモーションーーーーーー",""
 "0ちーんｗ 1倒れ 2ばたんきゅ 3溶ける 4燃える
-5射精 6吹っ飛ばす 7逃げこけ　8潰れる",
-"リリーの日記",
+5射精 6吹っ飛ばす 7逃げこけ　8潰れる",""
+"リリーの日記",""
 "リリーの日記
 ライムとの出会い","Lily's Diary
 Meeting Lime"
 "読んでみる","Read"
 "やめておく","Don't read"
-"報告書",
+"報告書",""
 "時計が時を刻んでいる・・・","The clock is ticking…"
 "\n<\n[1]>（どれだけの時間、ここにいるんだろう・・・）","\n<\n[1]>(I wonder how long I'll be trapped here…)"
 "\n<\n[1]>（時間の感覚がおかしくなる・・・
 早くここから抜け出さないと・・・）","\n<\n[1]>(I've lost all sense of time…
 I need to get out of here soon…)"
-"扉",
-" <enemy:153><cw:1.5><ch:1.5>",
+"扉",""
+" <enemy:153><cw:1.5><ch:1.5>",""
 "硬くて丸い石・・・","A hard, round stone…"
 "小難しそうな本が並んでいる・・・","Advanced looking books line the shelf…"
 "アンティークな戸棚・・・","An antique cabinet…"
@@ -112,7 +112,7 @@ That's it! It's so easy!"
 If you catch it, you'll go flying torwards it!"
 "観葉植物・・・","A houseplant…"
 "もう何もない・・・","Nothing else useful…"
-"EV023",
+"EV023",""
 "スピリチュアルな本だ・・・","A book on spirituality…"
 "\n[1]は\C[3]『気功』\C[0]を覚えた！","\n[1] learned \C[3]『Qigong』\C[0]!"
 "要人、旅人など来客の動向は常に監視すること。

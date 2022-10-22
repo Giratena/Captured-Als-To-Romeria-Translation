@@ -1,8 +1,8 @@
-"自動実行",
+"自動実行",""
 "EV002","EV002"
 "ミスト屋敷は崩壊している・・・","The Misty Mansion is completely destroyed..."
-"アル/ロメ",
-"イベント実行",
+"アル/ロメ",""
+"イベント実行",""
 "\n<シィナ>・・・","\n<Shina>..."
 "\n<ライム>おうち・・・
 無くなっちゃった・・・","\n<Lime>Our home...
@@ -70,11 +70,11 @@ Hopefully there's still a little sugar left."
 "\n<リリー>・・・
 \n[1]、こっち来て。","\n<Lily>...
 \n[1], come over here."
-"主人公",
-"リリー",
-"アーコ",
-"ライム",
-"シィナ1",
+"主人公",""
+"リリー",""
+"アーコ",""
+"ライム",""
+"シィナ1",""
 "\n<リリー>えっと・・・
 その・・・","\n<Lily>Errrm...
 Well..."
@@ -138,8 +138,8 @@ Wouldn't drain my energy..."
 "\n<ロメリア>あいつら・・・！！\.
 やっぱり退治しておくんだった・・・！！","\n<Meria>Those jerks...!!\.
 I should've gotten them when I had the chance...!!"
-"ティッキ",
-"<enemy:99>",
+"ティッキ",""
+"<enemy:99>",""
 "\n<メイド>ひぃ！！","\n<Maid>Hiiiii!!"
 "\n<メイド>・・・！
 \n[1]様・・・！

@@ -10,9 +10,9 @@ It can be used to illuminate your surroundings."
 1斬　2打撃　3水　4火　5雷
 6誘惑　7食べ物
 特殊206（個別攻撃種類）
-1リンゴ　2皿　3卵",
-"灯り 6 1 200 0.1",
-"捕まえリリー",
+1リンゴ　2皿　3卵",""
+"灯り 6 1 200 0.1",""
+"捕まえリリー",""
 "\n<シィナ>カワバンガにゃ！
 待ち伏せ成功にゃ！","\n<Shina>Cowabunga, nya!
 Ambush successful, nya!"
@@ -22,30 +22,30 @@ Sluuurp♥"
 "\n<シィナ>アタシに搾って欲しいのにゃ？
 しょうがないにゃぁ・・・","\n<Shina>You want me to squeeze you dry, nya?
 Guess I've got no choice, nyaa…"
-" <enemy:99><cw:1.5>",
-"ビン",
+" <enemy:99><cw:1.5>",""
+"ビン",""
 "割れたビンを踏んでしまった・・・！","You stepped on a broken bottle…!"
 "\n<シィナ>ん？
 にゃるほど。そこにいたにゃ。","\n<Shina>Hmm?
 I see. So that's where you're hiding, nya."
-"MP_SET_MOVIE e14_Ta",
-"MP_SET_LOOP 80 on",
+"MP_SET_MOVIE e14_Ta",""
+"MP_SET_LOOP 80 on",""
 "\n<シィナ>袋小路だし♥
 もう絶対逃げられんにゃ。
 ほーら。食ってやるにゃん♥","\n<Shina>It's a dead end♥
 There's nowhere to run, nya.
 Hoora. Time to eat, nyaan♥"
-"ビン踏みシィナ",
-"灯り 2 1 120 0.1",
+"ビン踏みシィナ",""
+"灯り 2 1 120 0.1",""
 "\n<シィナ>追い込んだにゃ♥
 ほーら捕まえた♥","\n<Shina>Got you cornered now, nya♥
 I gotchaaa♥"
-"EV021",
+"EV021","EV021"
 "水たまりを踏んでしまった・・・","You stepped in a puddle of water…"
 "\n<ライム>私だよー！
 待ち伏せ成功ー♪","\n<Lime>It's me-!
 Ambush successful♪"
-"EV022",
+"EV022","EV022"
 "\n<リリー>うわぁ！！びっくりしたぁ！！","\n<Lily>Omigod!! Something touched me!!"
 "\n<リリー>あ、あんたか・・・
 ま、待ち伏せ成功ね！
@@ -60,7 +60,7 @@ There's no getting away now."
 くす♥","\n<Lily>You could totally see me.
 Did you come here to be squeezed dry?
 Hee♥"
-"捕まえライム",
+"捕まえライム",""
 "\n<ライム>待ち伏せ成功ー♥
 にゅるりぃー♥","\n<Lime>Ambush successful-♥
 Squirrrm-♥"
@@ -79,8 +79,8 @@ I think I get it-♥"
 ほら、おちんちんちょーだい♥","\n<Lime>You were in the mood for a boob job, weren't you-.
 I totally get it-♥
 Hoora, look at that big dick♥"
-"EV025",
-"食糧庫ドア",
+"EV025","EV025"
+"食糧庫ドア","Pantry Door"
 "\n<シィナ>・・・
 あいつ全然来んにゃぁ。","\n<Shina>...
 They never came, nyaa."
@@ -108,11 +108,11 @@ They tracked down the rope in pitch black…!"
 凄みかぁ・・・","\n<Shina>Nyaaa...
 Yeah, that's pretty amazing…"
 "\n[1]は\C[3]『凄み』\C[0]を覚えた！","\n[1] learned \C[3]『Amazing』\C[0]!"
-"ロープ",
+"ロープ",""
 "ロープ・・・！
 これは何かの役に立ちそうだ・・・！","Found some rope…!
 This will definitely come in handy somewhere…!"
-"EV031",
+"EV031",""
 "罠を踏んでしまった！！
 身体が痺れて動かない・・・！","You've stepped on a trap!!
 Your body has gone numb, and you can't move…!"
@@ -126,27 +126,27 @@ without checking where you place your feet. Dummy♥"
 くす♥","\n<Lily>The lights were on and everything.
 Couldn't you see the trap?
 Hee♥"
-"EV032",
-"立体起動",
-"<enemy:99><cw:1.3><ch:1.5>",
+"EV032",""
+"立体起動",""
+"<enemy:99><cw:1.3><ch:1.5>","<enemy:99><cw:1.3><ch:1.5>"
 "箱のようなものがあるが
-高くて手が届かない・・・","There's some kind of chest above,
-but it's too high up to reach…"
+高くて手が届かない・・・","There's some kind of chest up there.
+It's too high up to reach..."
 "リリーの日記","Lily's Diary"
 "ライムの日記
-見られているような・・・","Lily's Diary
-Being Watched..."
+見られているような・・・","Lime's Diary
+Being watched…"
 "読んでみる","Read"
-"やめておく","Don't read"
+"やめておく","Stop"
 "何かあるが暗くてよく見えない・・・","There's something here, but it's too dark to see…"
 "リリーの日記
 オークはどこから","Lily's Diary
 Where did these orcs come from?"
-"EV037",
-"EV038",
-"EV039",
-"EV040",
-"EV041",
+"EV037","EV037"
+"EV038","EV038"
+"EV039",""
+"EV040","EV040"
+"EV041",""
 "灯りを付けるには・・・","How to turn on the lights…"
 "答えを見る","See answer"
 "見ない","Don't look"
