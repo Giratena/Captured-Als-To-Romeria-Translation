@@ -1,14 +1,14 @@
-"植物",
-" <enemy:99>",
+"植物",""
+" <enemy:99>",""
 "変数203（ARGP攻撃種類）
 1斬　2打撃　3水　4火　5雷
 6誘惑　7食べ物
 特殊206（個別攻撃種類）
-1リンゴ　2皿　3卵",
+1リンゴ　2皿　3卵",""
 "EV002","EV002"
-"立体起動",
-"<enemy:99><cw:1.3><ch:1.5>",
-"置手紙",
+"立体起動",""
+"<enemy:99><cw:1.3><ch:1.5>",""
+"置手紙",""
 "とらの飼育日記","Tiger Raising Journal"
 "今日もとらは相変わらず凶暴！
 もう少しで研究員の人が腕を噛み千切られるところだった。
@@ -31,13 +31,13 @@ but she tore right into its neck. So strong!"
 conducted an experiment to turn the tiger into a succubus.
 She's a lab animal after, so I knew this was coming, but still..."
 "EV006"," "
-"トラ小突きスイッチ",
+"トラ小突きスイッチ",""
 "チョコレの実験記録
 淫魔化実験成功！","Chocolat's Lab Report
 Succubus-ification successful!"
 "読んでみる","Read"
 "やめておく","Stop"
-"EV048",
+"EV048",""
 "とらがお気に入りの場所から降りてこない時は
 近くのスイッチを踏むといいです。
 穴から棒が突き出してびっくりするので飛び降りてきます。","If the tiger won't come down from her favorite spot,
@@ -46,7 +46,7 @@ surprising her into jumping down."
 "※とらが穴の上にいる時にスイッチを踏まないこと。
 かなり怒ります。","※Do not step on the switch if the tiger is on top of the hole.
 She will get very angry."
-"EV049",
+"EV049",""
 "動物実験室
 トラ","Lab Animal
 Tiger"
@@ -60,21 +60,21 @@ male staff members, or adventurers."
 トミー研究員の悲劇を忘れてはならない。","Male personnel should be extremely cautious when entering the pen.
 They may be forced down, and drained of their semen.
 We must not forget the tragedy of Tommy, our researcher."
-"EV050",
+"EV050",""
 "地下だというのに草がボーボーになってしまいました。
 猫草をあげたいと提案した人は責任をもって草刈りをしてください！
 ジャングル化して、何がどこにあるのか分からなくなります。","Despite being underground, the grass has overgrown.
 If you want to grow cat grass, take responsibility and mow it!
 It's become a jungle. I can't tell where anything is now."
-"EV051",
-"とらちゃん",
-"ポップアップ有効化",
-"EV053",
-"EV054",
-"EV055",
-"EV056",
-"EV057",
-"EV058",
+"EV051",""
+"とらちゃん",""
+"ポップアップ有効化",""
+"EV053",""
+"EV054",""
+"EV055",""
+"EV056",""
+"EV057",""
+"EV058",""
 "この部屋の仕掛けの説き方は・・・","How to solve this room..."
 "答えを見る","See answer"
 "とらから逃げつつ、剣で草を切ってスイッチを探してください。
@@ -85,7 +85,7 @@ produces a stick, which you can hit with your hookshot."
 "『とらのまたたび』を入手すると
 とらのステータスを大幅に弱体化させることが出来ます。","With the 'Tiger's Silver Vine', you can dramatically
 weaken the tiger."
-"誰か",
+"誰か",""
 "\n<？？？>・・・","\n<？？？>..."
 "\n<リリー>誰・・・！？","\n<Lily>Who...!?"
 "\n<リリー>誰なの・・・？","\n<Lily>Who's there...?"

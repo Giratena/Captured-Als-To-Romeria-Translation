@@ -253,8 +253,8 @@ bring it to me? I'm starving..."
 20ﾅｰｽ 21ﾘｯﾌﾟｽ 22ﾎﾟﾘｰ 23ｻｷｭﾊﾞｽ 24ﾛｰｽﾞ 25ｳｨｯﾁ 26ﾋｭﾌﾟﾉ 27ｱﾘｽ
 28ｽﾗｲﾑ 29夢喰い 30ﾛﾘA 31ﾛﾘB 32ﾛﾘC 33ﾌﾟﾘｽﾞﾏ 34ﾘﾘに 35ﾉﾉｷｽ
 36ｼﾙｷ 37ｴﾙﾌ 38ﾀｺ 39ｴﾗｯﾀ　40普通A 41普通B 43普通C 44ｱﾆﾏ
-45ﾗﾐｱ 47ﾙﾅ 48猫 49ﾕｲﾈ 50ﾏｷｻ 51ｳｫﾙﾌ 52ｽﾗﾐｰ 53ﾗｲﾑ 54ｱｰｺ",
-"55ﾘﾘｰ",
+45ﾗﾐｱ 47ﾙﾅ 48猫 49ﾕｲﾈ 50ﾏｷｻ 51ｳｫﾙﾌ 52ｽﾗﾐｰ 53ﾗｲﾑ 54ｱｰｺ",""
+"55ﾘﾘｰ",""
 "\n<リリー>あはっ♥またイったわコイツ♥
 ほら雑魚ちんぽ。
 気持ちよくしてくれてありがとうございます、は？","\n<Lily>Aha♥ Look at that, they came again♥
@@ -752,7 +752,7 @@ Waking up to this...♥ Oh no...♥)"
 "\n<\n[1]>（はぁ・・・はぁ・・・♥
 に、逃げられない・・・）","\n<\n[1]>(Hah... Hah...♥
 I-I can't get away...)"
-"EV041",
+"EV041",""
 "今日の探索は諦めようか・・・
 （全回復　時間経過　+1）
 \C[10]ロメリアの夜這い発生","Should I give up today's search...?
@@ -806,7 +806,7 @@ If these events are not your cup of tea, please use this."
 There are no descriptions of pain or suffering."
 "未使用イベント未使用イベント未使用イベント未使用イベント
 未使用イベント未使用イベント未使用イベント未使用イベント
-未使用イベント未使用イベント未使用イベント未使用イベント",
+未使用イベント未使用イベント未使用イベント未使用イベント",""
 "\n<\n[1]>（何か考えてみよう・・・）","\n<\n[1]>(Let me collect my thoughts...)"
 "リリー達の日記について","About Lily's diaries"
 "情報を整理する","Collect information"
@@ -918,7 +918,7 @@ Some kind of secret passage...?)"
 ひょっとすると、どこかに隠し通路みたいなものが・・・？）","\n<\n[1]>(Where did all the orcs come from?
 Is there a hidden passage somewhere around here...?)"
 "情報の整理（日記の確認）","Organize information (Check diary)"
-"しかばね",
+"しかばね",""
 "返事がない・・・
 ただの屍のようだ・・・","No answer...
 It's just a corpse..."

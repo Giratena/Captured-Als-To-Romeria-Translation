@@ -2,23 +2,23 @@
 "食糧庫ドア","食糧庫ドア"
 "ネズミ","ネズミ"
 "捕まえた！","Caught it!"
-"EV006",
+"EV006",""
 "もう何も入っていない・・・","There's nothing there anymore…"
-"壁の穴",
-" <enemy:99><cw:2><ch:2>",
+"壁の穴",""
+" <enemy:99><cw:2><ch:2>",""
 "ネズミが通れるサイズの穴が開いている・・・","There's a hole in the wall just the right size for a mouse…"
 "変数203（ARGP攻撃種類）
 1斬　2打撃　3水　4火　5雷
 6誘惑　7食べ物
 特殊206（個別攻撃種類）
-1リンゴ　2皿　3卵",
+1リンゴ　2皿　3卵",""
 "穴は氷で塞がっている・・・","The hole is sealed with ice…"
 "\n<\n[1]>（悪い事しちゃったな・・・）","\n<\n[1]>(I feel bad about that...)"
-"ネズミ逃げ",
-"EV010",
-"引っかけ場所",
-"<TE:立体起動>",
-"報告書",
+"ネズミ逃げ",""
+"EV010",""
+"引っかけ場所",""
+"<TE:立体起動>",""
+"報告書",""
 "背が低いと高いところに手が届かなくて大変！
 わざわざわ椅子を持ってくるのも面倒！
 そんなあなたにオススメしたいのがこの商品！","When you're short, it can be a pain to reach high places!
@@ -66,9 +66,9 @@ But I don't actually know how it tastes.)"
 "\n<\n[1]>（昔はここで沢山の人がお酒を飲んだりしたのかな。）","\n<\n[1]>(I wonder if lots of people used to sit here and drink.)"
 "\n<\n[1]>（年代物・・・）","\n<\n[1]>(A vintage…)"
 "フォークやスプーンが並べられている・・・","Forks and spoons are all lined up…"
-"EV027",
-"EV028",
-"EV029",
+"EV027",""
+"EV028",""
+"EV029",""
 "ねずみを捕まえるには・・・","How to catch a mouse…"
 "答えを見る","See answer"
 "見ない","Don't look"

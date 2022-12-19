@@ -1,14 +1,14 @@
 "EV001","EV001"
-"耐熱実験室",
+"耐熱実験室",""
 "炎","Flame"
-" <enemy:99><cw:1.5><ch:1.5>",
-"灯り 5 3 255 0.3",
+" <enemy:99><cw:1.5><ch:1.5>"," <enemy:99><cw:1.5><ch:1.5>"
+"灯り 5 3 255 0.3",""
 "変数203（ARGP攻撃種類）
 1斬　2打撃　3水　4火　5雷
 6誘惑　7食べ物
 特殊206（個別攻撃種類）
-1リンゴ　2皿　3卵",
-"置手紙",
+1リンゴ　2皿　3卵",""
+"置手紙",""
 "淫魔化オーク（♀）の記録","Succubus Orc (♀) Lab Report"
 "トラの動物実験に続き、オークを淫魔化することに成功。
 人間に対して非常に強い敵意を持っているようだ。
@@ -33,15 +33,15 @@ angry, leave her alone with some male orcs."
 "また、通常のオークは非常に繁殖力が高いが
 今のところ彼女が子供を産む気配はない。","Lastly, while normal orcs are incredibly fertile, there has been
 no indication that she will have any children."
-"EV005",
-"EV030",
+"EV005","EV005"
+"EV030","EV030"
 "この部屋の仕掛けの説き方は・・・","How to solve this room..."
 "答えを見る","See answer"
 "やめておく","Stop"
 "炎は踏んでしまうとダメージを受けます。
 氷で冷やしてから進みましょう。","You will take damage when stepping on flames.
 Cool it with some ice before advancing."
-"とらちゃん",
+"とらちゃん",""
 "\n<オーク>何だオマエ。
 また来たのか。","\n<Orc>What are you doing.
 You've returned."
@@ -67,9 +67,9 @@ Let's end this quickly..."
 早くここから出ましょ。","\n<Lily>Ahh～...
 The heat's making me dizzy.
 Let's hurry on out of here."
-"ポップアップ有効化",
-"箱",
-" <enemy:145>",
+"ポップアップ有効化",""
+"箱",""
+" <enemy:145>"," <enemy:145>"
 "瓦礫の山だ。
 紙のようなものが挟まっている・・・","A pile of rubble.
 There's a piece of paper stuck inside..."
@@ -77,7 +77,7 @@ There's a piece of paper stuck inside..."
 創作料理","Chocolat's Lab Report
 Creative cuisine"
 "読んでみる","Read"
-"研究員",
+"研究員",""
 "\n<研究員>・・・","\n<Researcher>..."
 "男はとっくに息絶えているようだが
 ペニスからは止めどなく精液が流れ続けている・・・","This man appears to have passed away long ago, but 
@@ -85,7 +85,7 @@ semen still flows endlessly from his penis..."
 "時折痙攣して精液を噴き出しているが
 魂は既に逝ってしまったようだ・・・","He occasionally convulses as he ejaculates,
 but his soul left his body long ago..."
-"EV035",
+"EV035","EV035"
 "屍だ・・・
 何かメモのようなものを持っている。","A corpse...
 It's holding onto a memo."
@@ -114,9 +114,9 @@ and the prisoner escaping..."
 "\n<リリー>私達の獲物に手を出すなんて。
 絶対に許さないわ。","\n<Lily>You've robbed us of our prey.
 This is absolutely unforgiveable"
-"EV036",
+"EV036","EV036"
 "屍だ・・・
 カラカラに干乾びている・・・","A corpse...
 It's dry and shriveled up..."
-"EV037",
-"EV053",
+"EV037","EV037"
+"EV053",""

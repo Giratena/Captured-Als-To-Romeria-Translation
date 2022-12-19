@@ -1,10 +1,10 @@
-"自動実行",
-"食糧庫ドア",
-"なんとか逃げ切った・・・",Managed to escape...
-"EV004",
-"今はそれどころではない！",Now's not the time for that!
-"扉",
-" <enemy:152><cw:1.5><ch:1.5>",
+"自動実行",""
+"食糧庫ドア",""
+"なんとか逃げ切った・・・","Managed to escape..."
+"EV004",""
+"今はそれどころではない！","Now's not the time for that!"
+"扉",""
+" <enemy:152><cw:1.5><ch:1.5>",""
 "金網の扉だ！
 攻撃すれば壊すことが出来るかもしれない！","A chainlink fence!
 You might be able to break it by attacking!"
@@ -12,10 +12,10 @@ You might be able to break it by attacking!"
 1斬　2打撃　3水　4火　5雷
 6誘惑　7食べ物
 特殊206（個別攻撃種類）
-1リンゴ　2皿　3卵",
-"リリーチェイス",
-"ーーーーー基本変更点ーーーーー",
-"リリー",
+1リンゴ　2皿　3卵",""
+"リリーチェイス",""
+"ーーーーー基本変更点ーーーーー",""
+"リリー",""
 "\n<\n[3]>逃がさない♥
 諦めて射精しなさい♥
 ほら♥ほーら♥","\n<\n[3]>I won't let you escape♥
@@ -42,7 +42,7 @@ That was quick♥ Premature ejaculator♥"
 シィナ！ライム！おいで♥","\n<\n[3]>Mmm♥
 You came, you came♥
 Shina! Lime! Come here♥"
-"シィナ",
+"シィナ",""
 "\n<\n[3]>おらおらおらぁー♥
 無理矢理搾り取ってやるにゃん♥
 にゃはははは♥","\n<\n[3]>Ora ora ora-♥
@@ -64,14 +64,14 @@ You're not getting out until you spill all that sperm, nya♥"
 見ろ見ろ見ろ！","\n<\n[3]>Lily! Come look, nya!
 I'm the winner, nyaan♥
 Look look look!"
-"\n<\n[3]>おらおらおらおらー♥",\n<\n[3]>Ora ora ora ora-♥
+"\n<\n[3]>おらおらおらおらー♥","\n<\n[3]>Ora ora ora ora-♥"
 "\n<\n[3]>にゃははははー！
 どーにゃ？
 アタシにかかればイチコロにゃん♥","\n<\n[3]>Nyahahahaha-!
 How's that, nya?
 You're no match for me, nyan♥"
-"ライム",
-"寝パイズリ",
+"ライム",""
+"寝パイズリ",""
 "\n<\n[3]>あっあっあっ♥
 おっきぃの気持ちいいー♥
 あはははー♥","\n<\n[3]>Ahn, ahn, ahhn♥
@@ -102,8 +102,8 @@ Everyone, look-♥
 私の勝ーち♥","\n<\n[3]>Woooow♥
 I made you cum-♥
 I'm the winner♥"
-"ERS_テンプレートランダム生成 25 1 0 0 0 0",
-"ERS_テンプレートランダム生成 25 1 0 3 0 0",
+"ERS_テンプレートランダム生成 25 1 0 0 0 0",""
+"ERS_テンプレートランダム生成 25 1 0 3 0 0",""
 "\n<シィナ>にししし！
 閉じ込めたにゃん。","\n<Shina>Kehehehe!
 You're sealed in, nyan."
@@ -123,10 +123,10 @@ And cats always catch their mouse, nyan!"
 "\n<ライム>まな板の上のコイだね！
 美味しく料理してあげるー♥","\n<Lime>You're a fish on the chopping block!
 I'll cook you into something delicious-♥"
-"EV010",
-" <enemy:153><cw:1.5><ch:1.5>",
+"EV010",""
+" <enemy:153><cw:1.5><ch:1.5>",""
 "硬くて丸い石だ！
 どうやってこんなものをここに！","A hard, round stone!
 How did this get here!?"
-"痺れ罠",
-"EV015",
+"痺れ罠",""
+"EV015",""
