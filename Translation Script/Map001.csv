@@ -148,24 +148,24 @@ Kusukusu・・・♥"
 "マキサ","Makisa"
 "\n<\n[3]>痺れて動けないでしょ。
 れろぉ♥
-ほぉら♥こんなことされても抵抗できない♥","\n<\n[3]>痺れて動けないでしょ。
-れろぉ♥
-ほぉら♥こんなことされても抵抗できない♥"
+ほぉら♥こんなことされても抵抗できない♥","\n<\n[3]>Can't move because of how numbing it is, heh?
+rero♥
+ほぉら♥ To let such thing happened... even fighting back futile♥"
 "\n<\n[3]>戦いの最中にこんなに勃起させちゃって。
 敵の女に顔舐められて興奮してるの？
-あはははは♥","\n<\n[3]>戦いの最中にこんなに勃起させちゃって。
-敵の女に顔舐められて興奮してるの？
-あはははは♥"
+あはははは♥","\n<\n[3]>Even while fighting, your cock is erecting。
+Are you excited to let such a wicked woman lick your face?？
+Ahahahaha♥"
 "\n<\n[3]>ん？ひょっとして出ちゃった？
 まさかそんなわけないよね？
-触ってもいないのに♥くくく♥","\n<\n[3]>ん？ひょっとして出ちゃった？
-まさかそんなわけないよね？
-触ってもいないのに♥くくく♥"
-"58スラミー","58スラミー"
-"スラミーガール","スラミーガール"
-"立体起動","立体起動"
+触ってもいないのに♥くくく♥","\n<\n[3]>Hm？Did you came just now？
+It can't be that easy, right？
+I haven't even touched you yet♥ Kukuku♥"
+"58スラミー","58Slamee"
+"スラミーガール","Slimegirl"
+"立体起動","Physical form Activation"
 "<enemy:99><cw:1.3><ch:1.5>","<enemy:99><cw:1.3><ch:1.5>"
-"リリーチェイス",""
+"リリーチェイス","Lily chase"
 "リリー","Lily"
 "\n<\n[3]>ほらおいでぇ♥
 自分から精を捧げに来るのよ。
@@ -419,8 +419,8 @@ I'll finish you for good-nya!"
 "シィナの部屋は2階の右手側だったはず。
 しっかり準備してから挑もう。","Shina's room is on the right hand side of the second floor.
 Challenge her only after you're properly prepared."
-"ライムチェイス","ライムチェイス"
-"寝パイズリ",""
+"ライムチェイス","Lime chase"
+"寝パイズリ","Lying paizuri"
 "ライム","Lime"
 "\n<\n[3]>はい♥
 挟んであげたから自分で動くんだよー？
@@ -535,7 +535,7 @@ I'll definitely make you squirt this time-!"
 "ライムの部屋は1階のお風呂場だったはず。
 しっかり準備してから挑もう。","Lime should be in the bathroom on the first floor.
 Prepare yourself before you challenge her."
-"トラップライム","トラップライム"
+"トラップライム","Lime Trap"
 "\n<\n[3]>水たまりだと思ったー？
 私だよー♥じゅるるるー♥","\n<\n[3]>Did you think it was just a puddle-?
 It's me-♥ Sluuuuurp-♥"
@@ -640,47 +640,46 @@ I give up."
 それ貰うけど。ばいばーい！","\n<\n[3]>But if you feel like smooching again, just 
 tell me. I'll take that thing off your hands.
 Bye bye!"
-"アニメ回想","アニメ回想"
+"アニメ回想","Recollection scenes"
 "アニメビューアは使用できません。
-※ノーマルエンド後に解放条件が表示されます。","アニメビューアは使用できません。
-※ノーマルエンド後に解放条件が表示されます。"
+※ノーマルエンド後に解放条件が表示されます。","Viewing scenes is currently disabled。
+※Unlocking conditions with be shown after Normal end is reached。"
 "アニメビューアは使用できません。
-※リリスのLVを99にしてEXバトルに勝利すると解禁されます。","アニメビューアは使用できません。
-※リリスのLVを99にしてEXバトルに勝利すると解禁されます。"
+※リリスのLVを99にしてEXバトルに勝利すると解禁されます。","Viewing scenes is currently disabled。
+※Feature will unlock when Lilith reaches LVL99 and wins an EX battle"
 "アニメビューアを使用しますか？
-※作中のアニメを自由に見ることが出来ます。","アニメビューアを使用しますか？
-※作中のアニメを自由に見ることが出来ます。"
+※作中のアニメを自由に見ることが出来ます。","Do you want to use the Cutscene-viewer？
+※You can now freely view story cutscenes。"
 "使用する","Use"
 "やめておく","Stop"
-"\>キャラクターIDを選んでください　0～63","\>キャラクターIDを選んでください　0～63"
+"\>キャラクターIDを選んでください　0～63","\>PLease choose a character ID: 0～63"
 "キャラID","Character ID"
 "アニメを見る","View animations"
 "効果音","Sound effects"
-"待機モーション",""
+"待機モーション","Idle animation"
 "解説を読む","Read commentary"
 "やめる","Exit"
-"終わる","終わる"
-"操作説明を表示する","操作説明を表示する"
-"操作説明を隠す","操作説明を隠す"
-"手コキ系","手コキ系"
+"終わる","End"
+"操作説明を表示する","Show gameplay tips"
+"操作説明を隠す","Hide gameplay tips"
+"手コキ系","Handjobs"
 "フェラ系","Blowjobs"
 "パイズリ系","Paizuri"
 "ピストン系","Pumping"
 "射精音","Ejaculation sound"
-"無し","無し"
-"強気","強気"
-"弱気","弱気"
-"絶頂","絶頂"
+"無し","No"
+"強気","Strengthened state"
+"弱気","Weakened state"
+"絶頂","Climax"
 "まずキャラクターIDを選択して見たいキャラを決定します。
 1つのIDにつき攻撃モーションが4種類×3(強気、弱気、射精）と
-待機モーションが3種類（強気、弱気、絶頂）あります。","まずキャラクターIDを選択して見たいキャラを決定します。
-1つのIDにつき攻撃モーションが4種類×3(強気、弱気、射精）と
-待機モーションが3種類（強気、弱気、絶頂）あります。"
+待機モーションが3種類（強気、弱気、絶頂）あります。","Firstly, select a character ID determine the character you with to see.
+Only one ID can be shown, 
+there will be 3 types of Attack Animation (Strengthened state, Weakened State, Climax) and
+3 types of Idle Animation (Strengthened state, Weakened State, Climax)"
 "『アニメを見る』を選択するとウィンドウが非表示になり
 方向キーを押すだけで表情や再生速度、射精アニメを
-自由に変更できます。","『アニメを見る』を選択するとウィンドウが非表示になり
-方向キーを押すだけで表情や再生速度、射精アニメを
-自由に変更できます。"
+自由に変更できます。","When viewing scenes, you can freely adjust appearance and replay speed by pressing directional keys from the hidden window"
 "上キー：射精アニメ切替　下キー：表情切替
 右キー：再生速度変更　　左キー：モーション変更
 SHIFT ：キャラID変更　　","Up key: Ejaculation animation Down key: Switch expression
@@ -692,9 +691,9 @@ PageDown：キャラクターID -1
 Page Down：Character ID -1
 Cancel key：Exit/Hide instructions"
 "『効果音』の選択肢から音を変更することが出来ます。
-音は再生速度によって速さが自動で変更されます。","『効果音』の選択肢から音を変更することが出来ます。
-音は再生速度によって速さが自動で変更されます。"
-"アーコアイテム",""
+音は再生速度によって速さが自動で変更されます。","You can choose to change sound effects in Options.
+The sound speed will be automatically changed according to replay speed."
+"アーコアイテム","Ako's Item"
 "\n<アーコ>\n[1]、これ持って行って。
 早くみんなを助けよう！","\n<Ako>\n[1], take this.
 Let's hurry and save everybody!"
