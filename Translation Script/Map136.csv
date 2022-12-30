@@ -1,6 +1,6 @@
-"アーコ",""
-"MP_SET_MOVIE e8_Ta",""
-"MP_SET_LOOP 6 on",""
+"アーコ",
+"MP_SET_MOVIE e8_Ta",
+"MP_SET_LOOP 6 on",
 "\n<アーコ>クリア部屋だね。
 今回はどんな終わり方をしたのかな？
 いっぱい出た？","\n<Ako>This is the Game Clear Room.
@@ -282,7 +282,7 @@ Defeat Meria after SAN reaches 0
 ・追い込み敗北　・命乞い敗北","Lime - 2nd battle
 ・Normal defeat ・Deadly defeat
 ・Late stage defeat ・Begging defeat"
-"看板",""
+"看板",
 "→バトル
 装備を回収してハンターパートで倒すと解放","→Battle
 Collect your equipment and defeat them\nduring hunter phase to unlock"
@@ -305,9 +305,9 @@ These scenes differ between male and female protagonists"
 Lime's reliance is 3 or higher
 Sleep in prison cell"
 "アーコ　マネードレインイベント","Ako - Money drain event"
-"お金",""
-"自動実行",""
-"性別変更",""
+"お金",
+"自動実行",
+"性別変更",
 "\n<ロメリア>あにき。
 私と交代する？","\n<Meria>Brother.
 Want to switch with me?"
@@ -318,7 +318,7 @@ Want to switch with me?"
 あにきは黙って見ててよ！","\n<Meria>Right!
 It's my turn!
 Just sit back and watch, brother!"
-"ロメリア",""
+"ロメリア",
 "\n<\n[1]>うん。頑張ろ！","\n<\n[1]>Ok. I'm gonna do it!"
 "※顔グラ表示、立ち絵アニメ、主人公ボイスがONになりました。
 必要が無い場合はオプションからOFFにしてください。","※Face graphic, player animation and voice are ON.
@@ -344,7 +344,7 @@ Did you want to swap out?"
 "\n<アルス>よし来た。
 俺に任せとけって。","\n<Alsto>Let's go then.
 Just leave it to me."
-"アルス",""
+"アルス",
 "\n<\n[1]>さてと、全力で逃げるぜ。","\n<\n[1]>Right, I'm gonna go all out."
 "\n<ロメリア>あにきかっこわるーい。","\n<Meria>Big brother is so cool."
 "※顔グラ表示がON、立ち絵アニメがOFFになりました。
@@ -465,7 +465,7 @@ SAN値が3以下の時に地下牢で寝る
 ※男主人公限定","Meria's midnight visit
 Sleep in prison cell while SAN is 3 or lower
 ※Male protagonist only"
-"レベルアップくん",""
+"レベルアップくん",
 "レベルを操作出来ます。","You can change your level."
 "上げる","Increase"
 "下げる","Decrease"
@@ -556,7 +556,7 @@ Collecting magic energy"
 "チョコレの実験記録
 創作料理","Chocolat's Lab Records
 Creative cuisine"
-"EV107",""
+"EV107",
 "エンディング5はまだ見ていません。
 ・リリー達の日記を全部読んでからリリーを倒す
 ・第2部シナリオをクリアする","You haven't unlocked ending 5.
@@ -688,7 +688,7 @@ Cancel key：Exit/Hide instructions"
 "『効果音』の選択肢から音を変更することが出来ます。
 音は再生速度によって速さが自動で変更されます。","You can change the sounds from 『Sound effects』.
 The speed of the sound adjusts to the playback speed."
-"BGM変更",""
+"BGM変更","Change BGM"
 "敗北シーンのBGMを変更できます。","You can change the BGM of the defeat scenes."
 "変える","Change"
 "このままでいい","This is fine"
