@@ -499,13 +499,13 @@ spell to assert dominance over the enemies"
 " <mapThrough>
 <EVC 使用時>
 s[502] = true
-</EVC 使用時>","when used"
+</EVC 使用時>",""
 "敵誘惑ベル","Enemy Seducing Bell"
 "<bulletAnime:205>
  <mapThrough>
 <EVC 使用時>
 s[501] = true
-</EVC 使用時>","when used"
+</EVC 使用時>",""
 "敵水攻撃","Enemy Water Attack"
 "<bulletAnime:204>
 ","<bulletAnime:204>

@@ -7,7 +7,7 @@
 "灯り 3 1 255 0.1",""
 "ーーーーーー基礎ヤラレモーションーーーーーー",""
 "0ちーんｗ 1倒れ 2ばたんきゅ 3溶ける 4燃える
-5射精 6吹っ飛ばす 7逃げこけ　8潰れる","0 chiin 1 has collapsed 2 has blacked out 3 melted 4 burned up 5 ejaculated 6 is blown away 7 has ran away 8 has failed"
+5射精 6吹っ飛ばす 7逃げこけ　8潰れる",""
 "29パーブル","29Purple"
 " <enemy:105>"," <enemy:105>"
 "30ムダボーン","30ムダボーン"
@@ -75,7 +75,7 @@ Lock your eyes on me while we kiss♥"
 "\>\C[26]罠を回避した！","\>\C[26]Trap avoided！"
 "\>\C[14]痺れ罠だ！\C[0]
 \>50歩の間攻撃を封じられてしまった！","\>\C[14]It's a numbing trap！\C[0]
-\>50My attacks are sealed away for a  few turns！"
+\>My attacks are sealed away for 50 seconds！"
 "夢喰い","Dream Eater"
 "ナイトベア","NightBear"
 " <enemy:109>"," <enemy:109>"
@@ -91,7 +91,7 @@ Lock your eyes on me while we kiss♥"
 Come here・・・♥"
 "\n<ナース>私の胸を見て・・・♥
 柔らかそうでしょう・・・♥","\n<Nurse>Have a look at my boobs・・・♥
-They look soft, aren't they?・・・♥"
+They look soft, don't they?・・・♥"
 "\n<ナース>さぁ・・・
 私と気持ちいいことしましょう・・・♥","\n<Nurse>Now・・・
 Let's do something pleasurable with me・・・♥"
