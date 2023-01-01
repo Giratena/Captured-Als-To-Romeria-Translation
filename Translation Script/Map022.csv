@@ -1,95 +1,138 @@
 "ベルーチェ","Velvet"
 " <enemy:144>",""
-"ーーーーー基本変更点ーーーーー",""
+"ーーーーー基本変更点ーーーーー","Basic Changing Point"
 "\n<\n[3]>捕まえた♥
 ほぉら。思い出すでしょ？
-あたしに散々搾り取られた時のこと♥",""
+あたしに散々搾り取られた時のこと♥","\n<\n[3]>Gotcha♥
+Hora。You remember right?
+When I was squeezed completely♥"
 "\n<\n[3]>おっぱいが気持ちよくて動けないの？
 あらあら情けないのね。
-この股間の膨らみは何かしら♥",""
+この股間の膨らみは何かしら♥","\n<\n[3]>Can't move because your feels so good?
+Ara ara, so pathetic。
+What is this bulge in your at your crotch may be♥"
 "\n<\n[3]>あっは♥
 最初から戦う気なんてなかったんでしょ。
-ヘンタイ。あはははは！",""
+ヘンタイ。あはははは！","\n<\n[3]>Ahha♥
+You don't even have the will to fight from the start, didn't you?
+Pervert。Ahahahaha!"
 "ボス攻撃",""
 "<enemy:132>",""
-"まわし蹴り斬撃",""
+"まわし蹴り斬撃","Roundhouse Kick"
 "nwayAim 3 0.4 0 0.15 60 3 21 785",""
 "nwayAim 7 0.3 0 0.15 60 3 21 785",""
-"パンチ",""
+"パンチ","Punch"
 "nwayAim 1 1 0 0.15 40 3 42 786",""
 "nwayAim 1 1 0.2 0.15 40 3 42 786",""
 "nwayAim 1 1 -0.2 0.15 40 3 42 786",""
 "nwayAim 1 1 0 0.1 60 3 42 786",""
 "nwayAim 3 0.4 0 0.15 40 3 21 785",""
 "nwayAim 5 0.3 0 0.15 40 3 21 785",""
-"誘惑","誘惑"
+"誘惑","Seduce"
 "nwayAim 3 0.4 0 0.04 200 3 41 781",""
 "nwayAim 4 0.2 0 0.03 300 3 41 781",""
 "nwayAim 1 0.4 0 0.02 400 4 33 781",""
-"攻撃パターン",""
-"自動イベント",""
-"戦闘開始！",""
-"セーブ",""
-"解説を見る",""
-"攻略のヒント",""
+"攻撃パターン","Attack pattern"
+"自動イベント","Automatic Event"
+"戦闘開始！","Battle commence!"
+"セーブ","Save"
+"解説を見る","Show intructions"
+"攻略のヒント","Hint about attacking"
 "アクションRPGボス戦です。
 敵の攻撃を避けながらAキーで攻撃してください。
-Dキーを押している間は向きを固定して移動できます。",""
+Dキーを押している間は向きを固定して移動できます。","This is an Action RPG Boss fight。
+While dodging enemy's attack, press A key to attack back。
+Holding the D key will lock your attack direction."
 "敵の攻撃で精力、体力のどちらかが0になると敗北です。
-誘惑攻撃の場合はタイミングバーが表示されます。",""
+誘惑攻撃の場合はタイミングバーが表示されます。","You will lose when either your health or stamina reaches 0.
+A timing bar will appear when there's a seducing attack."
 "また、敵から精力にダメージを受けると\C[14]発情状態\C[0]になり
 攻撃時の斬撃の数が減ってしまいます。
-発情中はステータスに♡マークがつきます。",""
+発情中はステータスに♡マークがつきます。","Furthermore, if your willpower takes damage,
+you will fall into a \C[14]'state of arousal' and \C[0]the number of slashing attacks will decrease.
+During arousal, a ♡ marker will appear in the status bar."
 "発情は一定数歩き回ることで解除されます。
 クリティカルで振り払った場合にも発情状態が解除されます。
-余裕があれば赤で止めるようにしましょう。",""
+余裕があれば赤で止めるようにしましょう。","Your lust will reduce after walking around a certain number of steps
+Lust can also reduce when shaken off by a critical hit.
+If there is room, try to time to stop at the red area."
 "・敵の攻撃パターンを覚える
 敵の攻撃にはパターンがあります。
-まずは避けることに集中して覚えましょう。",""
+まずは避けることに集中して覚えましょう。","・Memorize enemy attack pattern
+Enemy's attack has a patter。
+Try to dodge and concentrate to remember the pattern."
 "・Dキーの向き固定を活用する
 向きを固定することで攻撃と回避がしやすくなります。
-下がりながら攻撃をすると戦いやすくなります。",""
+下がりながら攻撃をすると戦いやすくなります。","・Using D key to fixate direction of aim
+By locking your aiming direction, you can easily attack and evade.
+While moving downward, you can easily attack."
 "・回復アイテム、スキルを利用する
 回復アイテム、スキル（深呼吸など）に使用制限はありません。
-回復してゴリ押しすることも可能です。",""
+回復してゴリ押しすることも可能です。","・Using skills and recovery items.
+There is no limit to the amount of uses of recovery items and skills (anything except Deep Breath)
+It is also possible recover and move on"
 "・アクションイージーを利用する
 オプションからアクションイージーをONにすることで
-難易度が大幅に下がります。デメリットはありません。",""
-"ベルーチェ攻略法を見る",""
-"チョコレ攻略法を見る",""
-"もう大丈夫",""
+難易度が大幅に下がります。デメリットはありません。","・Using 'Easy Action'
+By turning on the 'Easy Action' from 'Options'
+The difficulty level will drastically drop。There will be no loss。"
+"ベルーチェ攻略法を見る","See method to defeat Velvet."
+"チョコレ攻略法を見る","See method to defeat Chocolat"
+"もう大丈夫","I'm good"
 "・突進
 ベルーチェの突進は短距離を高速で移動します。
-近づいていると避けることが出来ないので距離を開けましょう。",""
+近づいていると避けることが出来ないので距離を開けましょう。","・Velvet's charge
+Velvet's charge allows her to move fast over short distances
+Because you can't evade while closing in, try to keep a good distance from her."
 "・パンチ
 射程の短い自機狙いのパンチです。
-少し動くだけで避けられます。",""
+少し動くだけで避けられます。","・Punch
+Punches aimed at you has a short range of attack.
+You can dodge by moving a just little."
 "・まわし蹴り
 回転した後7方向に斬撃を飛ばしてきます。隙間を抜けてください。
-また、攻撃の前の音で予測が出来ます。",""
+また、攻撃の前の音で予測が出来ます。","・Roundhouse Kick
+She can unleash the attack after rotating 7 times。Try to dodge at an opening.
+Furthermore, you can predict by listening to the audio queue before the attack lands."
 "・乳見せ（遠距離誘惑）
 ゆっくりとハートを飛ばしてきます。
-おっぱいは見ないようにしましょう。",""
-"チョコレを先に倒すと攻撃の頻度が上がります。",""
+おっぱいは見ないようにしましょう。","・Boob Reveal（Long-range seducing attack）
+Slowly dodge the incoming hearts.
+Try not to look at the boobs."
+"チョコレを先に倒すと攻撃の頻度が上がります。","If Chocolat is defeated first, your rate of attack will increase."
 "・ダッシュ
 主人公のダッシュと同じ速度で長距離を追いかけてきます。
-逃げるスペースを確保しておきましょう。",""
+逃げるスペースを確保しておきましょう。","・Dash
+She can pursue over long distances 
+with the same speed as the protagonist's dash.
+Try to secure a good distance to retreat."
 "・ショットガン
 重たいリロード音の後に7発の弾を撃ってきます。
-距離を開け隙間を抜けましょう。",""
+距離を開け隙間を抜けましょう。","・Shotgun
+After the sound of the heavy reload, 
+the shotgun can shoot for 7 times.
+Try to keep a good distance from the attack."
 "・マシンガン
 連続したリロード音の後に自機狙いの連射をしてきます。
-歩いて避けましょう。",""
+歩いて避けましょう。","・Machine Gun
+After a continuous reloading sound, the gun will fire rapidly at the player.
+Try dodging by keep moving."
 "・ハンドガン
 歩きながら単発の弾を5回撃ってきます。
-軸をずらして避けましょう。",""
+軸をずらして避けましょう。","・Handgun
+While moving, there will be 5 consecutive bullets fired at the player.
+Try to dodge by moving towards the center."
 "・薬ばら撒き（遠距離誘惑）
 回転しながら薬をばら撒き設置します。
-時間経過、もしくは誘惑攻撃を食らうと消滅します。",""
+時間経過、もしくは誘惑攻撃を食らうと消滅します。","・Exlixir Splashing（Long-range seducing attack）
+While twirling, Exlixir will be spread around and will take effect if hit.
+If already hit, the player will be consumed and finished off by the seducing attack."
 "薬が邪魔になった場合はわざと踏むことで全て消すことが出来ます。
-ベルーチェを先に倒すと攻撃の頻度が上がります。",""
-"ユイネ",""
-"ボス攻撃予備",""
+ベルーチェを先に倒すと攻撃の頻度が上がります。","If the exlixir becomes a hindrance, 
+you can intentionally step on it to make it all go away
+If Velvet is defeated first, your rate of attack will increase."
+"ユイネ","Yuine"
+"ボス攻撃予備","Boss spare attack"
 "nwayAim 3 0.4 0 0.15 100 3 16 784",""
 "nwayAim 6 0.3 0 0.25 100 3 16 784",""
 "nwayAim 3 0.4 0 0.15 100 3 21 785",""
