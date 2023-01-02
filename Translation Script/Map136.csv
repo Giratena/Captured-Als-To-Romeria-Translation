@@ -44,8 +44,8 @@ Everything can be settled with money."
 "\n<アーコ>べらぼーに酔っ払いたい時ってあるよね。","\n<Ako>Sometimes you just wanna get drunk."
 "\n<\n[1]>何か嫌なことでもあったの？","\n<\n[1]>Is there anything you don't enjoy?"
 "\n<\n[1]>あるぜ。","\n<\n[1]>Alcoholic."
-"買い物","Shop"
-"用事はない","Nothing"
+"買い物","I'd like to buy."
+"用事はない","I don't need anything right now."
 "\n<アーコ>何を買ってくれるのかな？","\n<Ako>What would you like to buy?"
 "\n<アーコ>ははーん。さては冷やかしだな？
 ふーん！","\n<Ako>Haah. Did you just come to window shop or something?
@@ -128,7 +128,7 @@ You cannot see the temptation events before the scenes."
 If you're having difficulties, it may be a good
 idea to have a look."
 "全開放する","Unlock all"
-"やめておく","Stop"
+"やめておく","Maybe not."
 "本当によろしいですか？
 ※アニメビューア、ミニマムビューアは解放されません","Are you really sure?
 ※Miniature and Animation viewers won't be unlocked"
