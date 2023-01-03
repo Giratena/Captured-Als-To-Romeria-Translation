@@ -1,4 +1,4 @@
-"テスト回復","test recovery"
+"テスト回復","Test Recovery Item"
 "薄いミントの匂い
 精力を30％ + 200回復する","Smells lightly of mint.
 Restores 30% + 200 vigor."
@@ -243,9 +243,9 @@ Attack power up, technique up, maximum vigor up."
 "神が好むとされる桃ジュース
 防御力UP　精神力UP　最大精力UP","Peach juice, said to be favored by the gods.
 Defenses UP, Willpower UP, maximum vigor UP."
-"3淫魔の魔力石",""
+"3淫魔の魔力石",
 "リリー達から集めた魔力が染み込んだ水晶
-レベルが3上がる",""
+レベルが3上がる",
 "～ドーピングアイテム～","~Skill Increase items~"
 "アタクの実","Attack Berry"
 "食べるとグイグイいきたい気持ちになる木の実
@@ -279,9 +279,9 @@ Maximum vigor +20 (permanent)"
 "食べると筋肉が付きやすくなる木の実
 最大体力+5(永続)","Berry that make it easier to gain muscle mass when eaten.
 Maximum HP +5 (permanent)."
-"クリーピーパスタ",""
+"クリーピーパスタ",
 "グロくて気味の悪いパスタ　でも美味しい
-最大体力+5(永続)",""
+最大体力+5(永続)",
 "～素材系アイテム～","~Material Items~"
 "精力草","Herb"
 "食べると精が付く草
@@ -435,7 +435,7 @@ Material."
 "またたび","Life of the Wanderer"
 "猫を狂わせる魔法の粉","Magic powder that drives cats crazy"
 "とらのまたたび","Tiger's Silver Vine"
-"デカい猫を狂わせる魔法の粉",""
+"デカい猫を狂わせる魔法の粉",
 "金目のもの","Valuable"
 "使えない癖に価値のありそうな何か
 換金アイテム","Something that is unusable, but valuable.
@@ -525,12 +525,12 @@ Current SAN value \v[270]"
 "鉄格子の鍵","Cell Key"
 "地下牢の鉄格子を開く鍵
 ","The key that opens the cells in the dungeon"
-"レコシード",""
+"レコシード",
 "音を蓄え発芽する時に放出する植物の種
-録音と再生が出来る",""
+録音と再生が出来る",
 "とらの鍵","Tiger key"
 "研究所の扉を開くための鍵
-全部で4つ必要",""
+全部で4つ必要",
 "マンティスの鍵","Mantis key"
 "ウィッチラミアの鍵","Witch lamia key"
 "オークの鍵","Orc key"
