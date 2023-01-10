@@ -8,9 +8,9 @@
 "スキル２番は［防御］コマンドを
 選択したときに使用されます。","スキル２番は［防御］コマンドを
 選択したときに使用されます。"
-"連続攻撃","Continuous Attack"
-"２回攻撃","Double Attack"
-"３回攻撃","Triple Attack"
+"連続攻撃","連続攻撃"
+"２回攻撃","２回攻撃"
+"３回攻撃","３回攻撃"
 "逃げる","Escape"
 "は逃げてしまった。"," escaped."
 "様子を見る","Wait and See"
@@ -20,63 +20,63 @@
 すげー魔法","Stupid weird magic that heals like nobody's business."
 "は%1を唱えた！"," casted %1!"
 "ファイア","Fire"
-"あーちーちーあーちー燃えてるんだろうか","Ow! Ow! Is it burning up?"
+"あーちーちーあーちー燃えてるんだろうか","あーちーちーあーちー燃えてるんだろうか"
 "スパーク","Spark"
-"スパーキン！","Sparkin！"
-"切る！","Cut through！"
+"スパーキン！","Sparking!"
+"切る！","Cut!"
 " <bulletAnime:201>"," <bulletAnime:201>"
-"～～敵の攻撃～～～～","～～Enemy's Attack～～～～"
+"～～敵の攻撃～～～～","～～敵の攻撃～～～～"
 "手コキ","Handjob"
 "はゆっくりと手で弄んできた！"," slowly teases your penis with her hand!"
-"手コキ2","2nd handjob"
+"手コキ2","Handjob 2"
 "は手で扱いてきた！"," strokes your penis with her hand!"
-"手コキ3","3rd handjob"
+"手コキ3","Handjob 3"
 "は手で激しく扱いてきた！"," quickly jerks you off with her hand!"
-"手コキ4","4th handjob"
+"手コキ4","Handjob 4"
 "は手で滅茶苦茶に扱いてきた！"," violently pumps your penis with her hand!"
-"手コキ5つつく","Continue with 5th handjob"
+"手コキ5つつく","手コキ5つつく"
 "は指でペニスをつついてきた・・・"," presses her fingers against your penis..."
-"手コキ強く握る","Tight Handjob"
+"手コキ強く握る","手コキ強く握る"
 "はペニスを強く握り乱暴に扱いた！！"," grips your shaft, furiously pumping it up and down!!"
 "手コキ握りつぶす","手コキ握りつぶす"
 "はペニスを握りつぶしながら"," jerks you as if trying to break your shaft"
 "千切れそうなほど扱きあげた！！","while clutching your penis!"
 "足コキ","Footjob"
 "はゆっくりと足で弄んできた！"," uses her foot to slowly play with your penis!"
-"足コキ2","2nd Footjob"
+"足コキ2","Footjob 2"
 "は足で扱いてきた！"," strokes your penis with her foot!"
-"足コキ3","3rd Footjob"
+"足コキ3","Footjob 3"
 "は足で激しく扱いてきた！"," violently jerks your penis with her foot!"
-"足コキ4","4th Footjob"
+"足コキ4","Footjob 4"
 "は足で滅茶苦茶に扱いてきた！"," furiously pumps your penis with her foot!"
 "キス","Kiss"
 "はキスしてきた！"," is kissing you!"
-"ドレインキス","Draining Kiss"
+"ドレインキス","Drain Kiss"
 "のドレインキス！","'s draining kiss!"
-"<DE_上限突破>","<DE_Beyond Limit>"
-"激しくキス","Intense Kissing"
+"<DE_上限突破>","<DE_上限突破>"
+"激しくキス","Passionate Kiss"
 "は唇に貪り付いてきた！"," lustfully merges her lips with yours!"
-"舌をねじ込む","Insert Tongue"
+"舌をねじ込む","舌をねじ込む"
 "は長い舌を喉奥までねじ込んできた！"," thrusts her tongue into you mouth, swirling it around!"
-"脇コキ","Armpit job"
+"脇コキ","Armpit Job"
 "はペニスを脇で扱いてくる・・・"," is stroking your penis with her armpit..."
-"脇コキ2","2nd Armpit job"
+"脇コキ2","脇コキ2"
 "は脇でペニスを扱いた！"," stroked your penis with her armpit!"
-"脇コキ3","3rd Armpit job"
+"脇コキ3","脇コキ3"
 "の汗ばんだ脇で扱かれる！","'s sweaty armpit is stroking your penis!"
-"脇締め","Tighten Armpit"
+"脇締め","脇締め"
 "は脇をぎゅっと締め付けた！"," tightens your armpit around you!"
-"ベロチュー","French Kiss"
+"ベロチュー","ベロチュー"
 "のベロチュー攻撃！","'s deep kiss attack!"
-"誘惑","Seduction"
+"誘惑","誘惑"
 "は身体をくねらせて見せつけた！"," sensually sways her body in front of you!"
 "は顔に脇を押し付けて来た！"," pressed her armpit against your face!"
 "は胸で顔を挟み込んできた！"," wrapped her boobs around your face!"
-"舐めまわし","Licking"
+"舐めまわし","舐めまわし"
 "は顔中を舐めまわしてきた！"," licked your face all over!"
-"腰振り弱","Lightly swaying the hip"
+"腰振り弱","腰振り弱"
 "はゆっくりと腰を振ってきた！"," slowly rocks her hips back and forth!"
-"腰振り中","Moderately swaying the hip"
+"腰振り中","腰振り中"
 "は腰を振ってきた！"," began swinging her hips against you!"
 "腰振り締め付け","腰振り締め付け"
 "は膣をきゅっと締めてきた！"," tightly squeezes her pussy around your dick!"
@@ -346,17 +346,17 @@
 "尻尾吸引2","尻尾吸引2"
 "の尻尾に精を吸い取られる・・・！","'s tail is draining your energy...!"
 "尻尾コキ","尻尾コキ"
-"は尻尾で扱いてきた！","は尻尾で扱いてきた！"
+"は尻尾で扱いてきた！"," is being stroked inside her tail!"
 "飲み込まれる","飲み込まれる"
-"に身体を飲み込まれる・・・！！","に身体を飲み込まれる・・・！！"
+"に身体を飲み込まれる・・・！！"," swallows your body...!!"
 "締め技（太もも）","締め技（太もも）"
-"の太ももに身体を締め付けられる！","の太ももに身体を締め付けられる！"
+"の太ももに身体を締め付けられる！","'s thighs tighten around your body!"
 "太ももコキギュー","太ももコキギュー"
 "は太ももでペニスを締め上げてきた！"," tightens her thighs around your penis!"
 "ちび指コキ　","ちび指コキ　"
-"の指でペニスを摘ままれる・・・","の指でペニスを摘ままれる・・・"
+"の指でペニスを摘ままれる・・・","'s fingers are pinching your penis!"
 "ちび指コキ2","ちび指コキ2"
-"は小さいペニスを指で弄んだ！","は小さいペニスを指で弄んだ！"
+"は小さいペニスを指で弄んだ！"," played with your small penis!"
 "お腹の中でぐちゅぐちゅ","お腹の中でぐちゅぐちゅ"
 "のお腹の中で人形がぐちゅぐちゅされる！"," rubs a doll against her smooth stomach!"
 "焦らし手コキ","焦らし手コキ"
@@ -455,63 +455,65 @@
 "の体内がぬるぬると身体に纏わりつく・・・"," squeezes your entire body with her slippery organs!"
 "ベロチュー手コキ","ベロチュー手コキ"
 "のベロチュー手コキ！","'s Deep Kiss Handjob!"
-"キス手コキ",""
+"キス手コキ",
 "はキスしながら手で扱いてきた！"," kisses you as she masturbates you!"
-"うちつけ",""
+"うちつけ",
 "は腰を打ち付けてきた！"," pounds down on your hips!"
-"敵ヒーリング",""
+"敵ヒーリング",
 "はヒーリングを唱えた！"," casts Healing!"
-"敵パラライズ",""
+"敵パラライズ",
 "はパラライズを唱えた！"," casts Paralyze!"
-"敵ポイズン",""
+"敵ポイズン",
 "はポイズンを唱えた！"," casts Poison!"
-"敵力溜め",""
+"敵力溜め",
 "は舌なめずりをしている・・・"," is licking her lips..."
-"ベロチュー手コキ強",""
+"ベロチュー手コキ強",
 "は舌を絡めながら激しく手で扱いてきた！"," jerks you violently as her tongue entwines with yours!"
 "～メルブレ用～","～メルブレ用～"
 "は誘惑してきた・・・"," is being seduced..."
 "射精ダメージ","射精ダメージ"
 "は射精してしまった！"," has ejaculated!"
-"攻撃","Attack"
-"<DE_攻撃メッセージ>","<DE_Ejaculation massage>"
-"タックル","Tackle"
+"攻撃","攻撃"
+"<DE_攻撃メッセージ>","<DE_攻撃メッセージ>"
+"タックル","タックル"
 "運動神経0から繰り出される渾身のタックル
-転んでケガをする","With zero strength left, they throw their whole body ahead and injured themselves"
-"は破れかぶれにタックルしてきた！"," has tackled in desperation!"
-"チャーム","Charm"
+転んでケガをする","運動神経0から繰り出される渾身のタックル
+転んでケガをする"
+"は破れかぶれにタックルしてきた！","は破れかぶれにタックルしてきた！"
+"チャーム","チャーム"
 "ルナが何とか使える低級魅了魔法
-精神的に優位に立った相手にだけ効く","Luna has somehow made use of her low-level charming
-spell to assert dominance over the enemies"
-"エナジードレイン","Energy Drain"
+精神的に優位に立った相手にだけ効く","ルナが何とか使える低級魅了魔法
+精神的に優位に立った相手にだけ効く"
+"エナジードレイン","エナジードレイン"
 "快楽を通じて力を吸い取る魔法
 魔力が低すぎて相手の許可が無いと奪えない","快楽を通じて力を吸い取る魔法
 魔力が低すぎて相手の許可が無いと奪えない"
-"ドヤ顔","Smug face"
+"ドヤ顔","ドヤ顔"
 "自信たっぷりな顔をする
-根拠は一切ない","They put on a cocky face for no reason at all"
-"～～魔法～～","～～Sorcery～～"
-"ディフェンスダウン","Defense Down"
-"はディフェンスダウンを唱えた！"," casts Defense Down！"
-"\n[1]の身体が敏感になる！","\n[1]'s body has become more sensitive！"
-"敵誘惑チョコ","Enemy's enticing choke"
-"ぱんち","Punch"
+根拠は一切ない","自信たっぷりな顔をする
+根拠は一切ない"
+"～～魔法～～","～～魔法～～"
+"ディフェンスダウン","ディフェンスダウン"
+"はディフェンスダウンを唱えた！","はディフェンスダウンを唱えた！"
+"\n[1]の身体が敏感になる！","\n[1]の身体が敏感になる！"
+"敵誘惑チョコ",
+"ぱんち","ぱんち"
 " <mapThrough>
 <EVC 使用時>
 s[502] = true
-</EVC 使用時>",""
-"敵誘惑ベル","Enemy Seducing Bell"
+</EVC 使用時>",
+"敵誘惑ベル",
 "<bulletAnime:205>
  <mapThrough>
 <EVC 使用時>
 s[501] = true
-</EVC 使用時>",""
-"敵水攻撃","Enemy Water Attack"
+</EVC 使用時>",
+"敵水攻撃","敵水攻撃"
 "<bulletAnime:204>
 ","<bulletAnime:204>
 "
-"マキサボム","Makisa's Bomb"
-"マキサの設置ボム威力","Makisa's Setting Bomb Power"
+"マキサボム","マキサボム"
+"マキサの設置ボム威力","マキサの設置ボム威力"
 "<bulletAnime:216>
 ","<bulletAnime:216>
 "
@@ -520,37 +522,37 @@ s[501] = true
 "<bulletAnime:213>
 ","<bulletAnime:213>
 "
-"敵カット","Enemy thrust"
+"敵カット","敵カット"
 "<bulletAnime:201>
  <mapThrough>","<bulletAnime:201>
  <mapThrough>"
-"敵ぱんち","Enemy punch"
+"敵ぱんち","敵ぱんち"
 "<bulletAnime:203>
 ","<bulletAnime:203>
 "
-"ボス雷玉","Boss lightning orb"
+"ボス雷玉","ボス雷玉"
 "<bulletAnime:224>
  <mapThrough>","<bulletAnime:224>
  <mapThrough>"
-"ボス刺突","Boss thrusting"
+"ボス刺突","ボス刺突"
 " <bulletAnime:218>
 "," <bulletAnime:218>
 "
-"ボスファイア","Boss flame"
+"ボスファイア","ボスファイア"
 "<bulletAnime:223>
  <mapThrough>","<bulletAnime:223>
  <mapThrough>"
-"～敵弾幕～","～Enemy Bullet Hell～"
-"スイープファイア","Sweeping flame"
+"～敵弾幕～","～敵弾幕～"
+"スイープファイア","スイープファイア"
 "<bulletAnime:67>","<bulletAnime:67>"
-"マキサナイフ","Makisa's Knife"
+"マキサナイフ","マキサナイフ"
 " <bulletAnime:218>"," <bulletAnime:218>"
-"鶏卵","Chicken egg"
+"鶏卵","鶏卵"
 " <bulletAnime:222>"," <bulletAnime:222>"
-"ポイズン","Poison"
-"こんな世の中じゃ","In a world such as this"
+"ポイズン","ポイズン"
+"こんな世の中じゃ","こんな世の中じゃ"
 "<bulletAnime:208>","<bulletAnime:208>"
-"トルテ銃ダメージ","Torte's Gun damage"
+"トルテ銃ダメージ","トルテ銃ダメージ"
 " <bulletAnime:230>
  <mapThrough>
 <EVC 使用時>
@@ -570,7 +572,7 @@ s[501] = true
 1斬　2打撃　3水　4火　5雷  6誘惑　7食べ物
 特殊206
 1リンゴ　2皿　3卵"
-"トルテ銃演出","Torte's Gun Staging"
+"トルテ銃演出","トルテ銃演出"
 " <bulletAnime:230>
  <mapThrough>
 <penetrate>
@@ -592,7 +594,7 @@ s[501] = true
 1斬　2打撃　3水　4火　5雷  6誘惑　7食べ物
 特殊206
 1リンゴ　2皿　3卵"
-"リリス投げキッス","Lilith's blown kiss"
+"リリス投げキッス","リリス投げキッス"
 "<bulletAnime:205>
 <mapThrough>
 <EVC 使用時>
@@ -1099,33 +1101,33 @@ Slashing attribute ATK dependent weakness"
 誘惑属性　技巧依存　脱力付与","Lower magic that robs enemies of energy
 Temptation attribute, skill-dependent, weakness grant"
 "快楽と引き換えに強制的に経験値を搾り取る
-",""
+",
 "相手を魅了して言いなりにする魔法
-既に掛かっている場合は上書き出来ない",""
-"サキュバサイズ",""
+既に掛かっている場合は上書き出来ない",
+"サキュバサイズ",
 "対象を淫魔に変える魔法
-もう二度と使うつもりはない",""
-"アトラクト",""
+もう二度と使うつもりはない",
+"アトラクト",
 "対象の持つ魅力を一時的に増幅させる
-攻撃力UP",""
-"ストンスキン",""
+攻撃力UP",
+"ストンスキン",
 "肌を鈍感にする　使い過ぎると肌荒れする
-防御力UP　※必要Lv3",""
-"デフトハンズ",""
+防御力UP　※必要Lv3",
+"デフトハンズ",
 "感覚を鋭くして手先を器用にする
-技巧UP",""
-"デノイズ",""
+技巧UP",
+"デノイズ",
 "無駄な音を消して集中力を高める
-精神力UP  ※必要Lv5",""
-"カームダウン",""
+精神力UP  ※必要Lv5",
+"カームダウン",
 "対象を落ち着かせる魔法　育児中に大活躍する
-精力回復 ※必要Lv7",""
-"ブラッドボイル",""
+精力回復 ※必要Lv7",
+"ブラッドボイル",
 "血が湧きたつほど感情を昂らせる
-TP増加  ※必要Lv9",""
-"ラバーズギフト",""
+TP増加  ※必要Lv9",
+"ラバーズギフト",
 "恋する乙女は無敵らしい
-",""
+",
 "イク前HP減少用","For HP reduction before Iku"
 "特に何もない","Nothing Special"
 "～～味方の攻撃～～","～～味方の攻撃～～"
@@ -1385,5 +1387,5 @@ to resist with everything they have."
 "は全力で抵抗した！"," resisted with all their might!"
 "tes","tes"
 "は～～した！","は～～した！"
-"テレポート","Teleport"
-"家に帰ります。","Return home."
+"テレポート","テレポート"
+"家に帰ります。","家に帰ります。"
