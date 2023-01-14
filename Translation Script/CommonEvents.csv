@@ -711,7 +711,7 @@ Oh well.",
 "ERS_テンプレートランダム生成 56 1 2 3 0 0","ERS_テンプレートランダム生成 56 1 2 3 0 0",
 "\C[1]SAN値が1下がった・・・（現在SAN値\v[270]）","\C[1]Sanity decreased by 1... (Current Sanity: \v[270]）",
 "\C[1]SAN値が2下がった・・・（現在SAN値\v[270]）","\C[1]Sanity decreased by 2... (Current Sanity: \v[270]）",
-"鏡をぢっと見つめる・・・","You stare into the mirror…",
+"鏡をぢっと見つめる・・・","You stare into the mirror...",
 "名前を変更する","Change name",
 "ハマり対策","Get unstuck",
 "倉庫の灯りの不具合対策","Fix warehouse lights",
@@ -2088,7 +2088,7 @@ Fufu♥ You won't be escaping now. Kuhuhu♥",
 "果物ナイフか・・・
 一応武器として使えるかもしれない。","A fruit knife...?
 I might be able to use this as a weapon.",
-"\n<リリー>みーつけた♥","\n<リリー>みーつけた♥",
+"\n<リリー>みーつけた♥","\n<Lily>Caught you♥",
 "\n<リリー>あら・・・
 果物ナイフなんか持っちゃって。
 危ないわねー。","\n<Lily>Oh dear...
@@ -2184,7 +2184,7 @@ My adorable little hunter♥",
 あっあっあっ！！","\n<\n[1]>Eh!? Eeeh?
 Wh-what's going on!!
 Ahh, ahh, ahhh!!",
-"\n[1]は湧き上がる快楽に耐えきれず射精してしまった・・・","\n[1] couldn't resist the pleasure building up inside,\nand ejaculated…",
+"\n[1]は湧き上がる快楽に耐えきれず射精してしまった・・・","\n[1] couldn't resist the pleasure building up inside,\nand ejaculated...",
 "\n<ロメリア>はぁ・・・はぁ・・・
 な、なんなの・・・","\n<\n[1]>Hah... Hahh...
 Wh-what was that...",
@@ -2197,8 +2197,8 @@ Wh-what was that...",
 \>淫らな幻に心を犯される・・・！","\>\C[14]An illusion trap!\C[0]
 \>A lewd vision overtakes your mind...!",
 "\n[1]はオナニーを始めてしまった・・・","\n[1] begins to masturbate...",
-"\n[1]は幻覚に惑わされ射精してしまった・・・","\n[1] was seduced by the illusion, and ejaculated…",
-"\n[1]は正気を取り戻した・・・","\n[1] came back to their senses…",
+"\n[1]は幻覚に惑わされ射精してしまった・・・","\n[1] was seduced by the illusion, and ejaculated...",
+"\n[1]は正気を取り戻した・・・","\n[1] came back to their senses...",
 "\n<シィナ>あーぁ♥見ちゃったにゃん♥
 アタシのケツ見たら
 もうえっちすることしか考えられなくなるにゃぁ♥","\n<Shina> Ahhh♥ You peeked, nyan♥
@@ -4090,8 +4090,8 @@ Kuhu♥ Are you going to cum already?",
 "\n<\n[3]>あはっ♥
 上手にシコシコできたわねぇ♥
 えらいえらい♥くすくす♥","\n<\n[3]>Aha♥
-You're very skilled at stroking aren't you?♥
-Good boy, good boy♥ Kuhuhu♥",
+You really are very skilled at stroking aren't you?♥
+There there- Don't hold back♥ Kuhuhu♥",
 "\n<\n[3]>一度出したぐらいじゃ満足できないでしょ？
 ほらぁ♥
 オカズになってあげるからしっかり扱きなさい♥","\n<\n[3]>But you're not satisfied after doing it just once right?
@@ -4150,61 +4150,62 @@ you next time as well. Kuhuhuhu♥",
 "\n<\n[3]>イクにゃ？
 自滅オナニーで負けるにゃぁ？
 にゃははは♥","\n<\n[3]>Did you cum, nya?
-Death by masturbation, nyaa?
+Did you really lose by stroking your own dick-nya?
 Nyahahaha♥",
 "\n<\n[3]>よーわ♥
-まじ弱いにゃん。","\n<\n[3]>Weeeak♥
-You are so weak, nya.",
+まじ弱いにゃん。","\n<\n[3]>Wow, you really are weak-willed huh♥
+Pathetic～",
 "\n<\n[3]>アタシ触ってないのに。
-自分でシコシコぴゅっぴゅとかバカすぎにゃ。","\n<\n[3]>I didn't even touch you.
-You just had to whack off by yourself, nya.",
+自分でシコシコぴゅっぴゅとかバカすぎにゃ。","\n<\n[3]>And I didn't even touch you either.
+You just got dumb and ended up stroking until you squirted-nya",
 "\n<\n[3]>ほーらもっとシコるとこアタシに見せるにゃ？
 上手にできたら触ってやるにゃぁ♥","\n<\n[3]>Say, why don't you fap for me a little more, nya?
 If you do a good job, I might even touch you, nya♥",
 "\n<\n[3]>アタシにチンコ乱暴に扱かれて
-あっさりヌかれるとこ想像しながら射精しろにゃ。","\n<\n[3]>Jerk you cock while you imagine 
-that I'm draining you, nya.",
+あっさりヌかれるとこ想像しながら射精しろにゃ。","\n<\n[3]>Go ahead, jerk that cock and cum while you imagine
+me easily draining you-nya~",
 "\n<\n[3]>にゃはっ♥
 面白いにゃぁ・・・♥","\n<\n[3]>Nyaha♥
 Interesting, nya...♥",
 "\n<\n[3]>興奮しすぎると人間はバカになるにゃ。
 精子出すことしか考えられなくなるにゃん。","\n<\n[3]>Humans get so stupid when they're horny, nya.
-All you can think about is shooting out your sperm, nyan.",
+The only think you can think about is shooting your sperm-nya.",
 "\n<\n[3]>ここから逃げることも
 兄貴を助けることもどうでもいいにゃん？","\n<\n[3]>Weren't you supposed to be escaping this place?
-Rescuing your brother, nyan?",
+Rescuing your brother-nya?",
 "\n<\n[3]>ここから逃げることも
 妹を助けることもどうでもいいにゃん？","\n<\n[3]>Weren't you supposed to be escaping this place?
-Rescuing your sister, nyan?",
+Rescuing your sister-nya?",
 "\n<\n[3]>大事なことぜーんぶ忘れて
 自分から負けイキするにゃん♥
 出せ♥出せ♥","\n<\n[3]>Forget all that important stuff. You just wanna
-submit and cum, nyan♥
+submit and cum, don't you-nya?♥
 Cum♥ Cum♥",
 "\n<\n[3]>にゃははははは♥
-雑魚精子♥床にコキ捨てにゃ♥","\n<\n[3]>Nyaaahahahaha♥
-Small fry sperm♥ Spill it all on the floor, nya♥",
+雑魚精子♥床にコキ捨てにゃ♥","\n<\n[3]>Nyaaahahahaha!♥
+Small fry sperm♥ Spill it all on over the floor, nya!♥",
 "\n<\n[3]>最後まで全部搾り取ってやる♥
 これシテ欲しかったんにゃ？
-しししし♥","\n<\n[3]>I'll finish by squeezing you dry♥
-This is what you were wishing for, nya?
+しししし♥","\n<\n[3]>I'll finish you off by milking every last drop out of you♥
+This is what you really wanted isn't it, nya?
 Stroke, stroke, stroke, stroke♥",
 "\n<\n[3]>自分でするより搾り出せれる方が気持ちいいにゃ？
-ほら！ほら！","\n<\n[3]>It feels better to let me squeeze you than to do it
-yourself, nya? Hah! Hah!",
+ほら！ほら！","\n<\n[3]>It feels so much better to be milked than doing it
+yourself right-nya?
+Hora!~ Hora!",
 "\n<\n[3]>にゃーははは！
 射精止まらないにゃん♥
 このまま死ぬまで搾ってやろうか？","\n<\n[3]>Nya-hahaha!
-You just can't stop cumming, nya♥
-Shall I just squeeze you to death now?",
+You just won't stop cumming, nya♥
+Maybe I should just keep milking this dick until you die?",
 "\n<\n[3]>雑魚チンポ。
-コかれまくって死ね♥ば～か♥","\n<\n[3]>Weak little dick.
-Cum yourself to death♥Loooooser～♥",
+コかれまくって死ね♥ば～か♥","\n<\n[3]>What a weak little dick.
+Cum yourself to death♥ Loooooser～♥",
 "\n<\n[3]>くひひひ♥
 これでもう次からアタシの手見ただけで
-フルボッキ確定にゃん♥","\n<\n[3]>Kuhahahah♥
-And now whenever you see my hand,
-you'll get an instant boner, nyan♥",
+フルボッキ確定にゃん♥","\n<\n[3]>Kuhehehe♥
+And now next time you see my hand, you won't be able to
+stop yourself from getting an instant boner-nya♥",
 "\n<\n[3]>お前が起きたらまた無駄打ちさせてやるにゃ。
 床が孕むまでにゃ♥
 にゃはははは！","\n<\n[3]>When you wake up, I'll make you whack it again, nya.
@@ -4523,7 +4524,7 @@ Let it all out now-♥",
 "\n<\n[3]>せーのっ！","\n<\n[3]>Ready, and...!",
 "う・・・あぁ・・・
 全部・・・出ていく・・・","Uuuh... Aahhh...
-It's all... Coming out…",
+It's all... Coming out...",
 "\n<\n[3]>びゅっ！びゅっ！びゅぅぅーっ♥
 あはぁ・・・♥気持ちよさそー・・・♥
 私もゾクゾクしちゃう♥","\n<\n[3]>Pew! Pew! Pewww♥
@@ -5294,7 +5295,7 @@ Sluuuuuurp♥",
 Seems like the idiot's about to cum. Perfect, nya♥",
 "\n<\n[3]>お前がどれだけここから逃げたくても・・・
 精奴隷になるのを嫌がっても・・・","\n<\n[3]>No matter how much you want to escape from here...
-How much you hate being my semen slave…",
+How much you hate being my semen slave...",
 "\n<\n[3]>アタシが口開けて舌見せたら
 勃起して射精おねだりするようになるまで
 調教してやるにゃん。","\n<\n[3]>When I open my mouth, and show you my tongue,
@@ -5788,7 +5789,7 @@ The food I make you is delicious too, isn't it-?",
 Stay here forever♥ \n[1]♥",
 "あぅ・・・♥
 気持ち・・・い・・・","Ahh...♥
-Feels... good…",
+Feels... good...",
 "\n<\n[3]>くすくす♥
 全部出たぁ？
 もうムラムラ治まったかな？","\n<\n[3]>Kuku♥
@@ -11097,7 +11098,7 @@ No wonder Lily and the others like you.",
 弱いなぁ♥ハンターのくせに。","\n<\n[3]>Waah♥ Sperm is coming out♥ Tee hee♥
 You wet yourself just by smelling my pheremones♥
 So weak♥ You call yourself a hunter.",
-"所持金を全て失ってしまった・・・","All of your money was taken…",
+"所持金を全て失ってしまった・・・","All of your money was taken...",
 "\n<アーコ>満足した？そっかそっか良かった。
 でもあんまりヘンタイなのは良くないと思うよ？
 お金くれるならまた舐めさせてあげるけど。","\n<Ako>Satisfied? OK, OK, that was good. But do you
@@ -13423,7 +13424,7 @@ We'll lose our minds if we stay here for too long.
 This is a race against time.",
 "\n<アルス>大丈夫か\n[1]・・・
 少し顔色が悪いようだが・・・","\n<Alsto>Are you ok \n[1]...
-Your face looks a little pale…",
+Your face looks a little pale...",
 "\n<アルス>少し頭がぼーっとしてきた・・・
 まずいな。","\n<Alsto>My head is feeling a little fuzzy...
 That can't be good.",

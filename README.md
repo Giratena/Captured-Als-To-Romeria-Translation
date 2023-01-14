@@ -1,20 +1,17 @@
 # Captured-Als-To-Romeria-Translation
 https://www.dlsite.com/maniax/work/=/product_id/RJ365442.html 
-This is possibly an ongoing translation of the DLsite work "Captured Als-to-Romeria".
+This is possibly an ongoing translation of the DLsite work "Captured Als-to-Romeria"!
+Most things shoudl be translated, and is currently being proofread.
+If you find something that isn't translated yet please let me know on the [translation discord](https://discord.gg/QJppHcu)!
 
-At present, this is intended to be a mostly UI translation that features the sexy battle dialogue
-and some item/skill translations to make the game more enjoyable to play.
-
-I know there are some MTL translations for this game, so feel free to mix this translation with
-your current one!
 **NOTE: This patch does not cause the Fire or Hookshot glitch, so be careful when altering it.**
 
 << How patch your game with the translation files >>
 -------------------------------------------
 Simply download the latest public release from the right hand side of this page.
 1. Use EnigmaVBUnpacker.exe to unpatch your game
-2. Place the contents of the data folder in [your unpacked game folder]>www 
-or, open the translator++ file and use that if you know what you're doing
+2. Place the contents of the data and js folders in [your unpacked game folder]>www 
+or, open the translator++ file (patreon only) and use that if you know what you're doing
 
 The most up to date release can be found on my patreon!
 https://www.patreon.com/Giratena

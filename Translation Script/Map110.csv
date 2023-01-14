@@ -11,11 +11,11 @@
 1リンゴ　2皿　3卵",""
 "・・・！
 暖炉の奥に小さな扉がある・・・","…!
-There's a small door at the back of the fireplace…"
+There's a small door at the back of the fireplace..."
 "ﾗｲﾑ誘惑",""
 "--------キャラ指定-----座標設定------------",""
 "----------------------------------------",""
-"使えそうなものは・・・","There might be something useful…"
+"使えそうなものは・・・","There might be something useful..."
 "\n<\n[3]>何してるのー？
 ねーねー。","\n<\n[3]>What are you doing-?
 Hey, hey-."
@@ -88,15 +88,15 @@ Meeting Lime"
 "時計が時を刻んでいる・・・","The clock is ticking away..."
 "\n<\n[1]>（どれだけの時間、ここにいるんだろう・・・）","\n<\n[1]>(I wonder how long I'll be trapped here…)"
 "\n<\n[1]>（時間の感覚がおかしくなる・・・
-早くここから抜け出さないと・・・）","\n<\n[1]>(I've lost all sense of time…
-I need to get out of here soon…)"
+早くここから抜け出さないと・・・）","\n<\n[1]>(I've lost all sense of time...
+I need to get out of here soon...)"
 "扉",""
 " <enemy:153><cw:1.5><ch:1.5>",""
-"硬くて丸い石・・・","A hard, round stone…"
-"小難しそうな本が並んでいる・・・","Advanced looking books line the shelf…"
-"アンティークな戸棚・・・","An antique cabinet…"
-"アンティークな本棚・・・","An antique bookshelf…"
-"レジャー関係の本が並んでいる・・・","Hobby books line the shelf…"
+"硬くて丸い石・・・","A hard, round stone..."
+"小難しそうな本が並んでいる・・・","Advanced looking books line the shelf..."
+"アンティークな戸棚・・・","An antique cabinet..."
+"アンティークな本棚・・・","An antique bookshelf..."
+"レジャー関係の本が並んでいる・・・","Hobby books line the shelf..."
 "簡単！フックショットの作り方講座！
 1：ロープを手ごろな長さに切る
 2：先っちょに尖った物を結びつける","Simple! Build a hookshot in 4 easy steps!
@@ -104,21 +104,21 @@ I need to get out of here soon…)"
 2: Attach a sharp object to the tip of the rope."
 "3：アレコレ加工して・・・
 4：投擲武器と同じように投げる！
-以上！簡単簡単！","3: Combine this, attach that…
+以上！簡単簡単！","3: Combine this, attach that...
 4: Throw it just like a weapon!
 That's it! It's so easy!"
 "木などの柱状のものに向かって発射しましょう！
 上手く引っかかると大ジャンプできます！","Aim at a sturdy pillar or tree, then fire!
 If you catch it, you'll go flying torwards it!"
-"観葉植物・・・","A houseplant…"
-"もう何もない・・・","Nothing else useful…"
+"観葉植物・・・","A houseplant..."
+"もう何もない・・・","Nothing else useful..."
 "EV023",""
-"スピリチュアルな本だ・・・","A book on spirituality…"
+"スピリチュアルな本だ・・・","A book on spirituality..."
 "\n[1]は\C[3]『気功』\C[0]を覚えた！","\n[1] learned \C[3]『Qigong』\C[0]!"
 "要人、旅人など来客の動向は常に監視すること。
 非常時には各自の判断で武器、薬物の使用を許可する。","Closely monitor the behavior of guests such as tourists or
 dignitaries. In an emergency, each person is permitted to use \ndrugs or weapons at their own discretion."
-"鏡に自分が映っている・・・","You see your reflection in the mirror…"
+"鏡に自分が映っている・・・","You see your reflection in the mirror..."
 "\n<\n[1]>（にこにこ・・・♥）","\n<\n[1]>（*Smile*...♥）"
 "\n<\n[1]>（笑顔が下手ってたまに言われるんだよな。
 そんなに下手かな。）","\n<\n[1]>(People sometimes say that my smile is weird.
