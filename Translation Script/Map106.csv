@@ -24,7 +24,7 @@ Sluuurp♥"
 Guess I've got no choice, nyaa…"
 " <enemy:99><cw:1.5>",""
 "ビン",""
-"割れたビンを踏んでしまった・・・！","You stepped on a broken bottle…!"
+"割れたビンを踏んでしまった・・・！","You stepped on a broken bottle...!"
 "\n<シィナ>ん？
 にゃるほど。そこにいたにゃ。","\n<Shina>Hmm?
 I see. So that's where you're hiding, nya."
@@ -41,7 +41,7 @@ Hoora. Time to eat, nyaan♥"
 ほーら捕まえた♥","\n<Shina>Got you cornered now, nya♥
 I gotchaaa♥"
 "EV021","EV021"
-"水たまりを踏んでしまった・・・","You stepped in a puddle of water…"
+"水たまりを踏んでしまった・・・","You stepped in a puddle of water..."
 "\n<ライム>私だよー！
 待ち伏せ成功ー♪","\n<Lime>It's me-!
 Ambush successful♪"
@@ -51,7 +51,7 @@ Ambush successful♪"
 ま、待ち伏せ成功ね！
 おほほほほ♥（心臓止まるかと思った・・・）","\n<Lily>O-oh, it's you...
 A-ambush successful! Ohohohoho♥
-(I thought my heart was about to stop…)"
+(I thought my heart was about to stop...)"
 "\n<リリー>さぁ、捕まえたわよ♥
 もう逃がさないから。","\n<Lily>Now, you're all mine♥
 There's no getting away now."
@@ -100,22 +100,22 @@ The rope is gone, nyaan!"
 How'd they manage that in the darkness?"
 "\n<リリー>す、凄みよ・・・！
 あ・・・あいつ凄みで！
-倉庫のロープを探知したんだわ・・・！","\n<Lily>A-amazing…!
+倉庫のロープを探知したんだわ・・・！","\n<Lily>A-amazing...!
 Th-they're so amazing!
 They tracked down the rope in pitch black…!"
 "\n<ライム>凄み！？","\n<Lime>Really, that makes them amazing!?"
 "\n<シィナ>にゃぁぁ・・・
 凄みかぁ・・・","\n<Shina>Nyaaa...
-Yeah, that's pretty amazing…"
+Yeah, that's pretty amazing..."
 "\n[1]は\C[3]『凄み』\C[0]を覚えた！","\n[1] learned \C[3]『Amazing』\C[0]!"
 "ロープ",""
 "ロープ・・・！
-これは何かの役に立ちそうだ・・・！","Found some rope…!
-This will definitely come in handy somewhere…!"
+これは何かの役に立ちそうだ・・・！","Found some rope...!
+This will definitely come in handy somewhere...!"
 "EV031",""
 "罠を踏んでしまった！！
 身体が痺れて動かない・・・！","You've stepped on a trap!!
-Your body has gone numb, and you can't move…!"
+Your body has gone numb, and you can't move...!"
 "\n<リリー>捕獲成功～♪
 こんな暗い中、足元をよく見ずに歩いてるからよ。
 ばーか♥","\n<Lily>Capture successful～♪
@@ -135,10 +135,10 @@ It's too high up to reach..."
 "リリーの日記","Lily's Diary"
 "ライムの日記
 見られているような・・・","Lime's Diary
-Being watched…"
+Being watched..."
 "読んでみる","Read"
 "やめておく","Maybe not."
-"何かあるが暗くてよく見えない・・・","There's something here, but it's too dark to see…"
+"何かあるが暗くてよく見えない・・・","There's something here, but it's too dark to see..."
 "リリーの日記
 オークはどこから","Lily's Diary
 Where did these orcs come from?"
@@ -147,7 +147,7 @@ Where did these orcs come from?"
 "EV039",""
 "EV040","EV040"
 "EV041",""
-"灯りを付けるには・・・","How to turn on the lights…"
+"灯りを付けるには・・・","How to turn on the lights..."
 "答えを見る","See answer"
 "見ない","Don't look"
 "炎系の攻撃で燭台に火を着けてください。","Light the candlesticks with a fire attack."

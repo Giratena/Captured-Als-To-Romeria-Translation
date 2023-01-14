@@ -14,7 +14,7 @@ Beats me."
 しっかりしてよね！
 逃げられたらどうすんのよ！","\n<Lily>Whoa whoa whoa!
 You need to take this seriously!
-What if they got out!"
+What if they got out?"
 "\n<リリー>はぁ～～～・・・
 ほんとあんたっていっつも・・・","\n<Lily>Sigh....
 Why are you always so... so..."
@@ -54,7 +54,7 @@ So I thought to wait here, just in case!"
 Caught you-♥"
 "\n<\n[3]>ぬるぬるして動きにくいでしょー。
 早く逃げないと白いの出させちゃうぞー？","\n<\n[3]>It's hard to move when everything is so slippery right?
-If you don't escape soon you'll let out your white stuff you know?"
+If you don't escape soon, you'll let out your white stuff right?"
 "\C[3]※捕まるとタイミングバーが表示されます。
 \C[0]タイミングよく黄か赤で止めてください。
 赤で止めると被ダメージが半減します。","\C[3]※A timing bar will display if you're caught.
@@ -85,7 +85,7 @@ milk you for real okay?"
 Oh well-."
 "\n<ライム>えーっと、リリーの言ってたこと、
 聞こえてたかな？
-脱出ゲームがどーのこーの・・・","\n<Lime>That is...you heard what Lily said right?
+脱出ゲームがどーのこーの・・・","\n<Lime>Oh and...you heard what Lily said right?
 About this escape game thingy..."
 "\n<ライム>この館は広いからねー。
 なかなか出られないと思うけど・・・
@@ -105,7 +105,7 @@ Teehee♥ Bye bye♥"
 次は私も本気でぴゅっぴゅさせにいっちゃうからねー。","\n<Lime>Now then, do your best okay?
 Next time I'll make you go pew pew for realsies-"
 "ドア","ドア"
-"玄関扉は固く閉ざされている・・・","玄関扉は固く閉ざされている・・・"
+"玄関扉は固く閉ざされている・・・","The entrance door has been shut tight..."
 "\n<？？？>開かないよ。","\n<？？？>開かないよ。"
 "\n<？？？>あたしも閉じ込められて困ってんの。
 あんた誰？","\n<？？？>あたしも閉じ込められて困ってんの。
@@ -168,8 +168,9 @@ Next time I'll make you go pew pew for realsies-"
 今人間と脱出ゲームやってるから全部閉め切ってるにゃん。"
 "\n<アーコ>脱出ゲーム？","\n<アーコ>脱出ゲーム？"
 "\n<シィナ>人間がここから脱出するのが先か
-アタシらにチンポ犯されまくって干物になるのが先かの・・・","\n<シィナ>人間がここから脱出するのが先か
-アタシらにチンポ犯されまくって干物になるのが先かの・・・"
+アタシらにチンポ犯されまくって干物になるのが先かの・・・","\n<Shina>A game of what will come first...
+The human escaping, or getting their dick totally
+milked until they become our semen slave..."
 "\n<シィナ>まさにセイシをかけたゲームにゃ！","\n<シィナ>まさにセイシをかけたゲームにゃ！"
 "\n<アーコ>そう・・・
 （また妙なことやってる・・・）","\n<アーコ>そう・・・
@@ -191,7 +192,7 @@ Next time I'll make you go pew pew for realsies-"
 うーん。","\n<アーコ>どうやら\n[1]が出口を見つけるか干物になるまで
 あたしも出られなくなっちゃったみたい。
 うーん。"
-"\n<アーコ>今ここで干物にしちゃうか・\.・\.・\.","\n<アーコ>今ここで干物にしちゃうか・\.・\.・\."
+"\n<アーコ>今ここで干物にしちゃうか・\.・\.・\.","\n<Ako>I could even start milking you right now.\..\..\."
 "\n<アーコ>冗談だよ。
 うける。","\n<アーコ>冗談だよ。
 うける。"
@@ -285,16 +286,16 @@ Next time I'll make you go pew pew for realsies-"
 "食糧庫ドア","食糧庫ドア"
 "食糧庫の鍵を開けた！","食糧庫の鍵を開けた！"
 "食糧庫のようだ。
-鍵がかかっている・・・","食糧庫のようだ。
-鍵がかかっている・・・"
+鍵がかかっている・・・","Looks like the pantry.
+It's locked…"
 "いわ","いわ"
 " <enemy:145>"," <enemy:145>"
 "瓦礫を壊せば通れそうだ・・・","瓦礫を壊せば通れそうだ・・・"
 "EV023","EV023"
 "浴場の鍵を開けた！","浴場の鍵を開けた！"
 "この先は浴場のようだ。
-鍵がかかっている・・・","この先は浴場のようだ。
-鍵がかかっている・・・"
+鍵がかかっている・・・","Looks like the bathroom.
+It's locked…",
 "応接室の鍵を開けた！","応接室の鍵を開けた！"
 "応接室の扉だ。
 鍵がかかっている・・・","応接室の扉だ。

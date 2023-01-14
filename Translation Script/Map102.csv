@@ -76,7 +76,7 @@ They're coming back!!
 What do we do!? There must be somewhere you can hide...!"
 "\n<アルス>早く隠れろ！
 どこか・・・なんかあるだろ！","\n<Alsto>Hide, on the double!
-There must be somewhere around!"
+There has to be some place around here!"
 "\n<ロメリア>見つかる前に隠れて！
 早く！
 急いで！","\n<Meria>Hide before they spot you!
@@ -253,8 +253,8 @@ bring it to me? I'm starving..."
 20ﾅｰｽ 21ﾘｯﾌﾟｽ 22ﾎﾟﾘｰ 23ｻｷｭﾊﾞｽ 24ﾛｰｽﾞ 25ｳｨｯﾁ 26ﾋｭﾌﾟﾉ 27ｱﾘｽ
 28ｽﾗｲﾑ 29夢喰い 30ﾛﾘA 31ﾛﾘB 32ﾛﾘC 33ﾌﾟﾘｽﾞﾏ 34ﾘﾘに 35ﾉﾉｷｽ
 36ｼﾙｷ 37ｴﾙﾌ 38ﾀｺ 39ｴﾗｯﾀ　40普通A 41普通B 43普通C 44ｱﾆﾏ
-45ﾗﾐｱ 47ﾙﾅ 48猫 49ﾕｲﾈ 50ﾏｷｻ 51ｳｫﾙﾌ 52ｽﾗﾐｰ 53ﾗｲﾑ 54ｱｰｺ",""
-"55ﾘﾘｰ",""
+45ﾗﾐｱ 47ﾙﾅ 48猫 49ﾕｲﾈ 50ﾏｷｻ 51ｳｫﾙﾌ 52ｽﾗﾐｰ 53ﾗｲﾑ 54ｱｰｺ",
+"55ﾘﾘｰ",
 "\n<リリー>あはっ♥またイったわコイツ♥
 ほら雑魚ちんぽ。
 気持ちよくしてくれてありがとうございます、は？","\n<Lily>Aha♥ Look at that, they came again♥
@@ -291,7 +291,7 @@ Come on Lime."
 "\n<ライム>んん・・・！！","\n<Lime>Mmm...!!"
 "\n<シィナ>ちっ・・・
 早くイカせて代わるにゃ。","\n<Shina>Tch...
-Make them cum quickly then-nya."
+You'd better make them cum quickly then-nya."
 "\n<リリー>どーお？ライム、美味しい？","\n<Lily>Well- How is it Lime? Tasty?"
 "\n<ライム>おいひい・・・♥
 じゅる♥
@@ -315,8 +315,8 @@ My consciousness...is..."
 Hello? Anyone home?"
 "\n<ライム>ぷはぁ・・・
 ごめん。吸い過ぎちゃったみたい。
-気絶しちゃった。","\n<Lime>Pahh...
-Sorry. I think I sucked too hard.
+気絶しちゃった。","\n<Lime>...Pah～
+...Sorry. I think I sucked too hard.
 And now they fainted."
 "\n<シィナ>にゃぁ！！
 次アタシにゃぁ！！
@@ -393,7 +393,7 @@ We have to get out of here somehow..."
 "\n<アルス>大丈夫か？
 返事がないから心配したぞ。
 なんとか生きてるみたいだな。良かった・・・","\n<Alsto>Are you OK?
-You weren't replying and I was worried.
+You weren't replying, so I got worried.
 You're somehow still alive. I'm so glad..."
 "\n<アルス>あいつら・・・
 よくも妹を酷い目に・・・","\n<Alsto>Those guys...
@@ -403,14 +403,14 @@ How dare they do such a thing to my sister..."
 "\n<アルス>そうか・・・
 まぁ、よくあることだ。
 お前もサキュバスハンターなら気にするな。","\n<Alsto>I see...
-Well, it happens. As long as you're a succubus hunter
+Well, it happens. But as long as you're a still a succubus hunter,
 you've got nothing to fear."
 "\n<アルス>淫魔の仲間にされるよりはマシだろ。
 ちんちんの一本で済んだと思えば安いもんさ。
 良かったな。","\n<Alsto>It's better than being converted to their side I'd say.
 Having something like a dick is nothing.
 I'm glad you're okay."
-"\n<\n[1]>ばかあにき。","Dammit Alsy..."
+"\n<\n[1]>ばかあにき。","That doesn't help me Alsy..."
 "\n<アルス>俺も今のところ平気だ。
 丈夫に産んでくれたおかんに感謝しなきゃな。","\n<Alsto>I'm fine so far as well.
 Mother did good job raising such a strong child."
@@ -464,7 +464,7 @@ How humiliating..."
 "中身は空っぽだ・・・","It's completely empty..."
 "・・・！
 よし、この中なら隠れられそうだ！","...!
-That's right, this would be the perfect hiding spot!"
+That's right, this would be a perfect hiding spot!"
 "\n<リリー>・・・","\n<Lily>..."
 "\n<ライム>・・・","\n<Lime>..."
 "\n<シィナ>逃げられてやんの。","\n<Shina>So they did escape."
@@ -472,7 +472,7 @@ That's right, this would be the perfect hiding spot!"
 あいつどこ行ったのよ。
 何か知ってるんでしょ。","\n<Lily>Hey, you!
 Where did they go!
-Surely you know something."
+Surely you must know something."
 "\n<アルス>もうとっくに逃げたぜ。
 残念だったな。
 （無事に隠れられたようだな・・・）","\n<Alsto>You're too late.
@@ -535,8 +535,8 @@ Ufufu♥"
 "\n<リリー>この館はそう簡単に出られないように出来てるの。
 快楽に負けて精奴隷に堕ちないよう、精々足掻くといいわ。
 あははははは！","\n<Lily>This mansion will not be so easy to escape from.
-Struggle and paw the ground as you try not to fall to the
-bliss of becoming our semen slave- Ahahaha!"
+Yes, they shall struggle and paw the ground while trying not to fall into the
+bliss of becoming our semen slave... Ahahaha!"
 "\n<シィナ>にゃはははは！","\n<Shina>Nyahahaha!"
 "\n<リリー>あははははははは！！","\n<Lily>Ahahahahahaha!!"
 "\n<シィナ>にゃははははははは！！！","\n<Shina>Nyahahahahahahaa!!!"
@@ -581,7 +581,7 @@ It cannot digest bones however, so it will spit them out."
 highly vulnerable to fire based attacks."
 "追伸：
 食欲旺盛過ぎて、メイドが鍵を食べられてしまったそうです。
-予備はあるので殺して取り出す必要はありません。","PS: Because of its heart appetite, it seems to have eaten the
+予備はあるので殺して取り出す必要はありません。","PS: Because of it's hearty appetite, it seems to have eaten the
 key to the maids' room. Because we have a spare, there
 is no need to kill it in order to extract it."
 "捕まえシィナ","Shina Capture"
@@ -668,7 +668,7 @@ I-I can't resist...)"
 "シィナイベ","シィナイベ"
 "EV034","EV034"
 "\n<リリー>よし。
-これでオッケーっと。","\n<Lily>There.
+これでオッケーっと。","\n<Lily>And...there.
 That takes care of that."
 "\n<シィナ>んにゃ？
 なんで鍵閉めるにゃ？
@@ -684,7 +684,8 @@ What was I thinking?"
 "\n<リリー>ゲームはまだまだこれからよ。
 さぁ、コイツの心を折りまくって
 身も心も精奴隷にしてやりましょ。","\n<Lily>The game is still far from over.
-Now, let's crush their spirit, and make them a semen slave in body and soul."
+Now, go forth and continue to break your spirit as you become
+our semen slave in body, mind and soul."
 "\n<シィナ>次はどーやって搾ってやろうかにゃぁ。
 楽しみだし。","\n<Shina>How shall I drain them next time, nyaa.
 I'm looking forward to it."
@@ -697,18 +698,18 @@ We'll squeeze out every last drop of your willpower. Ahahaha!"
 "※イージーモードの設定です。
 オプションからいつでも変更可能です。","※You can toggle settings here to make the game easier.
 You can change these in the options menu anytime."
-"アクションイージー","Easier Actions"
+"アクションイージー","Easy Actions "
 "探索ヒントモード","Hint Mode"
 "アクション要素を簡単にします。
 ・被ダメージの軽減　・魔物からの経験値増加
 ・タイミングバー、時間制限の難易度低下　など","Use this to make any interactive elements easier. This includes-
 Increased EXP gain, decreased damage taken, more lenient reaction
 times, etc."
-"アクションイージーON","Easier Actions ON"
-"アクションイージーOFF","Easier Actions OFF"
+"アクションイージーON","Easy Actions  ON"
+"アクションイージーOFF","Easy Actions  OFF"
 "そのまま","Keep as is"
-"アクションイージーをONにしました。","Easier Actions was turned ON."
-"アクションイージーをOFFにしました。","Easier Actions was turned OFF."
+"アクションイージーをONにしました。","Easy Actions  was turned ON."
+"アクションイージーをOFFにしました。","Easy Actions  was turned OFF."
 "進行に必要なものを探索する時にヒントが出ます。
 ・進行に必要な物の前に青い〇が表示されます。
 ・詰まりやすい場所は答えが見られるモヤモヤが出ます。","Hints will appear to assist you if you get stuck. 
@@ -752,7 +753,7 @@ Waking up to this...♥ Oh no...♥)"
 "\n<\n[1]>（はぁ・・・はぁ・・・♥
 に、逃げられない・・・）","\n<\n[1]>(Hah... Hah...♥
 I-I can't get away...)"
-"EV041",""
+"EV041",
 "今日の探索は諦めようか・・・
 （全回復　時間経過　+1）
 \C[10]ロメリアの夜這い発生","Should I give up today's search...?
@@ -806,7 +807,7 @@ If these events are not your cup of tea, please use this."
 There are no descriptions of pain or suffering."
 "未使用イベント未使用イベント未使用イベント未使用イベント
 未使用イベント未使用イベント未使用イベント未使用イベント
-未使用イベント未使用イベント未使用イベント未使用イベント",""
+未使用イベント未使用イベント未使用イベント未使用イベント",
 "\n<\n[1]>（何か考えてみよう・・・）","\n<\n[1]>(I should go over what I know...)"
 "リリー達の日記について","About Lily's diaries"
 "情報を整理する","Collect information"
@@ -918,7 +919,7 @@ Some kind of secret passage...?)"
 ひょっとすると、どこかに隠し通路みたいなものが・・・？）","\n<\n[1]>(Where did all the orcs come from?
 Is there a hidden passage somewhere around here...?)"
 "情報の整理（日記の確認）","Organize information (Check diary entries)"
-"しかばね",""
+"しかばね",
 "返事がない・・・
 ただの屍のようだ・・・","No answer...
 It's just a corpse..."
