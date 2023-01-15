@@ -17,10 +17,10 @@ so you'd rather not if possible..."
 "食堂に繋がっているようだ。
 鍵がかかっている・・・","This seems to be the door to the dinning room.
 It's locked..."
-"ゴミ捨て場の鍵を開けた！","Unlocked the dump!"
+"ゴミ捨て場の鍵を開けた！","Unlocked the door to the garbage dump!"
 "この先はゴミ捨て場のようだ・・・
-匂いが漏れてきている。","Looks like the garbage dump ahead...
-The stench is pouring out."
+匂いが漏れてきている。","Looks like this is where the garbage dump is...
+There's an awful stench pouring out."
 "報告書","報告書"
 "失敗した料理のような塊がある・・・
 新鮮な生ごみ。","Looks like a failed recipe...
@@ -142,7 +142,7 @@ and I always end up looking back at the recipe.）"
 ・・・
 いや、やめておこう。）",""
 "アイテム","Items"
-"もう使えそうなものはない。","Nothing else useful."
+"もう使えそうなものはない。","Nothing else useful here..."
 "珍しい調味料が並んでいる・・・","Rare and unusual spices line the shelves..."
 "\n<\n[1]>（カルダモン・・・カレーに入れると美味しい。）","\n<\n[1]>（Cardamom... Delicious when added to curry.）"
 "\n<\n[1]>（カルダモン・・・？ゆるキャラか？）","\n<\n[1]>（Cardamom...? Is that a mascot?）"
@@ -153,7 +153,7 @@ and I always end up looking back at the recipe.）"
 "箱のようなものがあるが
 高くて手が届かない・・・","There's some kind of chest up there.
 It's too high up to reach..."
-"もう何もない・・・","Nothing else..."
-"生ごみ・・・","Food scarps..."
+"もう何もない・・・","Nothing else here..."
+"生ごみ・・・","Food scraps..."
 "\n<\n[1]>（う""ぇ""・・・）","\n<\n[1]>(Urrk...)"
 "EV036","EV036"
