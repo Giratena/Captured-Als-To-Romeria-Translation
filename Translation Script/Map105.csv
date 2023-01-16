@@ -2,16 +2,16 @@
 "食糧庫ドア","Pantry Door"
 "ネズミ","ネズミ"
 "捕まえた！","Caught it!"
-"EV006",""
+"EV006",
 "もう何も入っていない・・・","There's nothing there anymore..."
-"壁の穴",""
-" <enemy:99><cw:2><ch:2>",""
+"壁の穴",
+" <enemy:99><cw:2><ch:2>",
 "ネズミが通れるサイズの穴が開いている・・・","There's a hole in the wall just the right size for a mouse..."
 "変数203（ARGP攻撃種類）
 1斬　2打撃　3水　4火　5雷
 6誘惑　7食べ物
 特殊206（個別攻撃種類）
-1リンゴ　2皿　3卵",""
+1リンゴ　2皿　3卵",
 "穴は氷で塞がっている・・・","The hole is sealed with ice..."
 "\n<\n[1]>（悪い事しちゃったな・・・）","\n<\n[1]>(I feel bad about that...)"
 "ネズミ逃げ",""
@@ -21,13 +21,13 @@
 "報告書","Report"
 "背が低いと高いところに手が届かなくて大変！
 わざわざわ椅子を持ってくるのも面倒！
-そんなあなたにオススメしたいのがこの商品！","When you're short, it can be a pain to reach high places!
-It's such a bother to drag a chair everywhere you go!
-Have we got the product for you!"
+そんなあなたにオススメしたいのがこの商品！","Are you too short to get to hard to reach areas?
+Are you sick and tired of taking a chair everywhere you go?
+Well have we got the product for you!"
 "・・・
 続きは破かれている。","…
 The rest is torn out."
-"\n<\n[1]>（どんな商品なんだろう・・・欲しい。）","\n<\n[1]>(What was the product... I wonder.)"
+"\n<\n[1]>（どんな商品なんだろう・・・欲しい。）","\n<\n[1]>(I wonder what that product was... I want it.)"
 "\n<\n[1]>（高いところにあるものを取る方法・・・？）","\n<\n[1]>(A way to reach high-up places...?)"
 "剣の飾りだ。
 武器には使えそうにない。","Ornamental swords.
@@ -66,9 +66,9 @@ But I don't actually know how it tastes.)"
 "\n<\n[1]>（昔はここで沢山の人がお酒を飲んだりしたのかな。）","\n<\n[1]>(I wonder if lots of people used to sit here and drink.)"
 "\n<\n[1]>（年代物・・・）","\n<\n[1]>(A vintage...)"
 "フォークやスプーンが並べられている・・・","Forks and spoons are all lined up..."
-"EV027",""
-"EV028",""
-"EV029",""
+"EV027",
+"EV028",
+"EV029",
 "ねずみを捕まえるには・・・","How to catch a mouse..."
 "答えを見る","See answer"
 "見ない","Don't look"
@@ -79,4 +79,4 @@ Method 1: Push the chest in front
 Method 2: Seal the hole with ice."
 "方法3：ゴリ押し（上から近づいて無理矢理捕まえる）
 どの方法でも捕まえられます。","Method 3: Brute force (Approach from above and catch)
-Any of these options is valid."
+Any of these options are valid."

@@ -14,31 +14,31 @@ It can be used to illuminate your surroundings."
 "灯り 6 1 200 0.1",""
 "捕まえリリー",""
 "\n<シィナ>カワバンガにゃ！
-待ち伏せ成功にゃ！","\n<Shina>Cowabunga, nya!
-Ambush successful, nya!"
+待ち伏せ成功にゃ！","\n<Shina>Cowabunga-nya!
+Ambush successful-nya!"
 "\n<シィナ>もう逃がさんにゃぁ♥
-じゅるり♥","\n<Shina>You're not getting away now, nyaa♥
+じゅるり♥","\n<Shina>You're not getting away now-nyaa♥
 Sluuurp♥"
 "\n<シィナ>アタシに搾って欲しいのにゃ？
-しょうがないにゃぁ・・・","\n<Shina>You want me to squeeze you dry, nya?
-Guess I've got no choice, nyaa…"
+しょうがないにゃぁ・・・","\n<Shina>You want me to squeeze you dry-nya?
+Guess I've got no choice-nyaa…"
 " <enemy:99><cw:1.5>",""
 "ビン",""
 "割れたビンを踏んでしまった・・・！","You stepped on a broken bottle...!"
 "\n<シィナ>ん？
 にゃるほど。そこにいたにゃ。","\n<Shina>Hmm?
-I see. So that's where you're hiding, nya."
+I see. So that's where you're hiding-nya."
 "MP_SET_MOVIE e14_Ta",""
 "MP_SET_LOOP 80 on",""
 "\n<シィナ>袋小路だし♥
 もう絶対逃げられんにゃ。
 ほーら。食ってやるにゃん♥","\n<Shina>It's a dead end♥
-There's nowhere to run, nya.
-Hoora. Time to eat, nyaan♥"
+There's nowhere to run-nya.
+Hoora. Time to eat-nyaan♥"
 "ビン踏みシィナ",""
 "灯り 2 1 120 0.1",""
 "\n<シィナ>追い込んだにゃ♥
-ほーら捕まえた♥","\n<Shina>Got you cornered now, nya♥
+ほーら捕まえた♥","\n<Shina>Got you cornered now-nya♥
 I gotchaaa♥"
 "EV021","EV021"
 "水たまりを踏んでしまった・・・","You stepped in a puddle of water..."
@@ -83,7 +83,7 @@ Hoora, look at that big dick♥"
 "食糧庫ドア","Pantry Door"
 "\n<シィナ>・・・
 あいつ全然来んにゃぁ。","\n<Shina>...
-They never came, nyaa."
+They never came-nyaa."
 "\n<ライム>倉庫に隠れてたらロープ目当てに来ると
 思ってたんだけどなー。","\n<Lime>I figured they'd need the rope here in the warehouse,
 so we'd hide and wait them out."
@@ -94,7 +94,7 @@ I feel like an idiot, holding my breath, sitting in the dark
 like this. Hurry up already."
 "\n<シィナ>にゃ！
 ロープが無くなってるにゃん！","\n<Shina>Nyaaaah!
-The rope is gone, nyaan!"
+The rope is gone-nyaan!"
 "\n<ライム>ウソ！
 こんなに暗いのにどうやってー？","\n<Lime>No way!
 How'd they manage that in the darkness?"

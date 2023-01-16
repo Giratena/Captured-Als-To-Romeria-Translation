@@ -1,45 +1,45 @@
-"自動実行","自動実行"
-"リリー","Lily"
-"シィナ","Shina"
-"アーコイベ用","アーコイベ用"
-"ライム","Lime"
-"自動実行カギ","自動実行カギ"
+"自動実行","自動実行",
+"リリー","Lily",
+"シィナ","Shina",
+"アーコイベ用","アーコイベ用",
+"ライム","Lime",
+"自動実行カギ","自動実行カギ",
 "\n<リリー>あ、シィナあんた。
 ちゃんと鍵掛けた？","\n<Lily>Oh Shina, you're back.
 Did you lock them up?
-"
+",
 "\n<シィナ>は？知らんし。","\n<Shina>Huh, me?
-Beats me."
+Beats me.",
 "\n<リリー>ちょっと！
 しっかりしてよね！
 逃げられたらどうすんのよ！","\n<Lily>Whoa whoa whoa!
 You need to take this seriously!
-What if they got out?"
+What if they got out?",
 "\n<リリー>はぁ～～～・・・
 ほんとあんたっていっつも・・・","\n<Lily>Sigh....
-Why are you always so... so..."
+Why are you always so... so...",
 "\n<シィナ>はぁ？
 知らんにゃ。
 鍵持ってないし。アタシじゃねー！","\n<Shina>Whaa?
 I dunno-nya.
-I don't have the key. It's not my fault!"
-"\n<ライム>私も持ってないよ。","\n<Lime>I don't have a key either."
-"\n<リリー>ん？","\n<Lily>Hm?"
-"\n<リリー>・・・！！","\n<Lily>...!!"
+I don't have the key. It's not my fault!",
+"\n<ライム>私も持ってないよ。","\n<Lime>I don't have a key either.",
+"\n<リリー>ん？","\n<Lily>Hm?",
+"\n<リリー>・・・！！","\n<Lily>...!!",
 "\n<リリー>私が持ってた。
 ・・・
 鍵、閉めたっけ？","\n<Lily>I have the key.
 ...
-Did you at least shut the door?"
+Did you at least shut the door?",
 "\n<シィナ>知らんし。
 アホにゃ。","\n<Shina>I dunno.
-Why don't you do it yourself-nya."
+Why don't you do it yourself-nya.",
 "\n<ライム>とりあえず、確認しに戻ろっか。
 リリー。","\n<Lime>Well for now, let's go back and check,
-Lily?"
-"\n<シィナ>ごめんなさいは～？","\n<Shina>Now who should be the one apologizing?~"
-"\n<リリー>えへっ♥","\n<Lily>Eei♥"
-"手紙","手紙"
+Lily?",
+"\n<シィナ>ごめんなさいは～？","\n<Shina>Now who should be the one apologizing?~",
+"\n<リリー>えへっ♥","\n<Lily>Eei♥",
+"手紙","手紙",
 "執事さんって凄いんですよ！
 ヒールのかかとが壊れた時も、箒の柄が折れた時も
 頼んだらあっさり直しちゃったんです。","The butler is amazing!
@@ -63,42 +63,42 @@ You hid somewhere, right? So I thought to wait here, just in case!"
 "ーーーーー基本変更点ーーーーー","ーーーーーBasic Changesーーーーー"
 "\n<ライム>にへへへへー♥
 つーかまーえた♥","\n<Lime>Ehehehehe-♥
-Caught you-♥"
+Caught you-♥",
 "\n<\n[3]>ぬるぬるして動きにくいでしょー。
 早く逃げないと白いの出させちゃうぞー？","\n<\n[3]>It's hard to move when everything is so slippery right?
-If you don't escape soon, you'll let out your white stuff right?"
+If you don't escape soon, you'll let out your white stuff right?",
 "\C[3]※捕まるとタイミングバーが表示されます。
 \C[0]タイミングよく黄か赤で止めてください。
 赤で止めると被ダメージが半減します。","\C[3]※A timing bar will display if you're caught.
-\C[0]Go ahead and stop in the red or yellow areas. Red areas will reduce damage taken by half."
+\C[0]Go ahead and stop in the red or yellow areas. Red areas will reduce damage taken by half.",
 "\n<\n[3]>むにゅー・・・♥
 柔らかくて溶けちゃいそうでしょー♥
 気持ちいい気持ちいいー♥","\n<\n[3]>Squish-...♥
-They're so soft you're about to melt aren't you?♥Feels so good- Feels so good-♥"
+They're so soft you're about to melt aren't you?♥Feels so good- Feels so good-♥",
 "\n<\n[3]>あれー？もう出ちゃうのー？
 おっぱい我慢できなかったー？あはは♥
 じゃあ一回だけ、出しちゃおっかー♪","\n<\n[3]>What's this? You're about to cum already-?
-So you couldn't resist my boobs after all? Ahaha♥Well then, I'll give you one more pump, let it all out♪"
+So you couldn't resist my boobs after all? Ahaha♥Well then, I'll give you one more pump, let it all out♪",
 "\n<\n[3]>あっあっ♥おっぱいの間でぴくぴくしてるー♥
 おちんちん喜んでくれたみたい♥
 うれしー♥","\n<\n[3]>Ahh ahh♥ It's shooting between my boobies-♥
-Your penis seems delighted too♥ I'm so happy-♥"
-"\C[1]SAN値が1下がった・・・（現在SAN値\v[270]）","\C[1]Sanity decreased by 1... (Current Sanity: \v[270]）"
+Your penis seems delighted too♥ I'm so happy-♥",
+"\C[1]SAN値が1下がった・・・（現在SAN値\v[270]）","\C[1]Sanity decreased by 1... (Current Sanity: \v[270]）",
 "\n<ライム>もうー。ひょっとして全然抵抗する気ないのー？
 ゲームはまだ始まったばかりなのに。
 次は本気で搾っちゃうからねー？","\n<Lime>Whoa- Were you seriously not trying to resist at all-?
-And the game has only just started, next time I'llmilk you for real okay?"
+And the game has only just started, next time I'llmilk you for real okay?",
 "\n<ライム>あっ！逃げられちゃった・・・
 まぁいいっかー。","\n<Lime>Ah! You escaped...
-Oh well-."
+Oh well-.",
 "\n<ライム>えーっと、リリーの行ってたこと、
 聞こえてたかな？
 脱出ゲームがどーのこーの・・・","\n<Lime>Oh and...you heard what Lily said right?
-About this escape game thingy..."
+About this escape game thingy...",
 "\n<ライム>この館は広いからねー。
 なかなか出られないと思うけど・・・
 頑張って色んなところ、探してみてね。","\n<Lime>This mansion is very, very big-.
-I don't think you'll get out...but feel free to try your hardest,and search everywhere you can okay?"
+I don't think you'll get out...but feel free to try your hardest,and search everywhere you can okay?",
 "\n<ライム>リリーもシィナも楽しそうだから。
 簡単に諦めたりしちゃーダメだよー？
 いっぱい遊ばれてね。","\n<Lime>Lily and Shina seem to be happy after all.
@@ -106,7 +106,7 @@ So you shouldn't give up so easily OK? Enjoy yourself as much as possible now-"
 "\n<ライム>次は一回射精したぐらいじゃ
 許してあげないからねー？くすくす♥
 ばいばーい♥","\n<Lime>Next time you cum, I won't go easy on you now alright?
-Teehee♥ Bye bye♥"
+Teehee♥ Bye bye♥",
 "\n<ライム>じゃー頑張ってねー。
 次は私も本気でぴゅっぴゅさせにいっちゃうからねー。","\n<Lime>Now then, do your best okay?
 Next time I'll make you go pew pew for realsies-"
@@ -291,9 +291,9 @@ Hmmph!"
 "食糧庫の鍵を開けた！","Unlocked the pantry!"
 "食糧庫のようだ。
 鍵がかかっている・・・","Looks like the pantry.
-It's locked…"
-"植物","植物"
-" <enemy:99>"," <enemy:99>"
+It's locked…",
+"植物","植物",
+" <enemy:99>"," <enemy:99>",
 "クマのぬいぐるみだ。
 少しお腹がぽっこりしている。","It's a teddy bear.
 The stomach is a little overstuffed."

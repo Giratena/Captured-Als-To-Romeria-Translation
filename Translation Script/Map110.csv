@@ -2,83 +2,83 @@
 "食糧庫ドア","Pantry Door"
 "炎","炎"
 " <enemy:99><cw:1.5><ch:1.5>"," <enemy:99><cw:1.5><ch:1.5>"
-"灯り 5 3 255 0.3",""
+"灯り 5 3 255 0.3",
 "\n<\n[1]>あっつ！！！","\n<\n[1]>Hottt!!!"
 "変数203（ARGP攻撃種類）
 1斬　2打撃　3水　4火　5雷
 6誘惑　7食べ物
 特殊206（個別攻撃種類）
-1リンゴ　2皿　3卵",""
+1リンゴ　2皿　3卵",
 "・・・！
 暖炉の奥に小さな扉がある・・・","…!
 There's a small door at the back of the fireplace..."
-"ﾗｲﾑ誘惑",""
-"--------キャラ指定-----座標設定------------",""
-"----------------------------------------",""
-"使えそうなものは・・・","There might be something useful..."
+"ﾗｲﾑ誘惑",
+"--------キャラ指定-----座標設定------------",
+"----------------------------------------",
+"使えそうなものは・・・","There could be something useful here.."
 "\n<\n[3]>何してるのー？
-ねーねー。","\n<\n[3]>What are you doing-?
+ねーねー。","\n<\n[3]>What'cha doing there-?
 Hey, hey-."
 "\n<\n[3]>私ちょっとお腹空いてきちゃったー。
-少しでいいから精液飲ませてほしいなー♥","\n<\n[3]>""I'm a little hungry.
-It's okay to drink your semen, if it's just a little.♥"""
-"\n<\n[3]>\n[1]ー♥こっち見てー♥","\n<\n[3]>\n[1]-♥ Lookie here-♥"
-"ーーーーー待機or攻撃アニメSE選択ーーーーー",""
-"--------ここから誘惑------------",""
+少しでいいから精液飲ませてほしいなー♥","\n<\n[3]>I'm a little hungry- 
+So I wanna have a just a little sip of your semen♥"
+"\n<\n[3]>\n[1]ー♥こっち見てー♥","\n<\n[3]>Hey \n[1]-♥ Lookie here-♥"
+"ーーーーー待機or攻撃アニメSE選択ーーーーー",
+"--------ここから誘惑------------",
 "\n<\n[3]>おっぱいでおちんちん挟んで
 ぬるぬるしてあげるからー♥
-おいでよー♥","\n<\n[3]>Put it between my boobs
-I'll make you all slimy ♥
-Come on♥"
+おいでよー♥","\n<\n[3]>Put your dick between my boobs and
+I'll make it all nice and slippery♥
+Just come a little closer♥"
 "\n<\n[3]>にゅるん♥にゅるん♥って動かしてー、
 おちんちんカチカチにしてあげるよー？
-にゅるん♥にゅるーん♥","\n<\n[3]>Schlorp♥ Schlorp♥ Come on, keep moving,
-I'm making your cock hard, right?
-Schlorp♥"
+にゅるん♥にゅるーん♥","\n<\n[3]>Bounce♥ Bounce♥ Watch them jiggle-
+I'll make your cock nice and hard, OK?
+Squish♥ Squish♥"
 "\n<\n[3]>くすっ♥
 おっぱいでいじめられるの想像しちゃったー？
-足が震えてきてるよー？","\n<\n[3]>Hee♥
-Have you ever fantasized about being teased by my boobs-?
-Are your knees trembling-?"
+足が震えてきてるよー？","\n<\n[3]>Teehee:hearts:
+You already imagining yourself being teased by my boobies aren't you?
+Your knees are beginning to quiver-"
 "\n<\n[3]>今日はもう逃げるのやめてー、
 私と気持ちいいことしちゃおうよ♥
-ねー♥おいでおいでー♥","\n<\n[3]>No more running today,
-come and have some fun with me♥
-Please-♥ Come on, come on-♥"
-"--------ここから選択肢-------------",""
+ねー♥おいでおいでー♥","\n<\n[3]>Why not stop running for today-
+Just let yourself go and feel good with me♥
+You want to, right?♥ That's it. Come- Come-♥"
+"--------ここから選択肢-------------",
 "\n<\n[3]>そんなにおっきくしてるのに我慢するのー？
 一度出してすっきりした方がいいんじゃないかなー？
-出しておいた方がいいでしょー？ほーら♥","\n<\n[3]>Why would you resist when it's so big-?
-Wouldn't it feel nice to cum just once-?
-Cum for me just one time-? Hoora♥"
+出しておいた方がいいでしょー？ほーら♥","\n<\n[3]>They're so big and soft, how could you resist?
+Maybe just a little squirt to clear your head-
+Just once, and then that'll be it. Ho-ra♥"
 "\n<\n[3]>うんうん♥
 いい子だねー♥
 いっぱい甘えていいからねー♥","\n<\n[3]>There you go♥
-Good little one-♥
-I'll take good care of you now-♥"
-"--------ここからクリア------------",""
+What a good succubus hunter-♥
+I'll take good care of you-♥"
+"--------ここからクリア------------",
 "\n<\n[3]>もー・・・
 こんなに誘ってるのにダメなのー？
-あーあ。","\n<\n[3]>Tsk...
-So you won't accept my invitation?
-Ahhh."
+あーあ。","\n<\n[3]>Aww...
+So even when I ask you like this, you won't let me?
+Oh well."
 "\n<\n[3]>じゃあもう無理矢理捕まえて搾っちゃうから。
 優しくしてあーげない♥","\n<\n[3]>Well then, next time I'll have to catch you and drain you
 by force. And I won't be gentle♥"
 "\n<\n[3]>誘いを断ったこと後悔するぐらい
-いっぱいびゅーびゅー出させてあげるからねー♥","\n<\n[3]>You're going to regret turning down my invitation
-when I catch you and milk you a whole bunch-♥"
-"触手",""
-" <enemy:143>",""
-"nwayAim 1 1 0 0.1 60 3 38 782",""
-"nwayAim 1 1 0 0.1 60 3 42 786",""
-"ーーーーーー敵から受けるダメージーーーーーー",""
-"ーーーーーーーー被ダメエフェクトーーーーーーー",""
-"灯り 3 1 255 0.1",""
-"ーーーーーー基礎ヤラレモーションーーーーーー",""
+いっぱいびゅーびゅー出させてあげるからねー♥","\n<\n[3]>I'll make you squirt and squirt so much
+that you'll regret you didn't take up my offer-♥"
+"触手","Tentacle"
+" <enemy:143>",
+"nwayAim 1 1 0 0.1 60 3 38 782",
+"nwayAim 1 1 0 0.1 60 3 42 786",
+"ーーーーーー敵から受けるダメージーーーーーー",
+"ーーーーーーーー被ダメエフェクトーーーーーーー",
+"灯り 3 1 255 0.1",
+"ーーーーーー基礎ヤラレモーションーーーーーー",
 "0ちーんｗ 1倒れ 2ばたんきゅ 3溶ける 4燃える
-5射精 6吹っ飛ばす 7逃げこけ　8潰れる",""
-"リリーの日記",""
+5射精 6吹っ飛ばす 7逃げこけ　8潰れる",
+"リリーの日記",
 "リリーの日記
 ライムとの出会い","Lily's Diary
 Meeting Lime"
@@ -90,8 +90,8 @@ Meeting Lime"
 "\n<\n[1]>（時間の感覚がおかしくなる・・・
 早くここから抜け出さないと・・・）","\n<\n[1]>(I've lost all sense of time...
 I need to get out of here soon...)"
-"扉",""
-" <enemy:153><cw:1.5><ch:1.5>",""
+"扉",
+" <enemy:153><cw:1.5><ch:1.5>",
 "硬くて丸い石・・・","A hard, round stone..."
 "小難しそうな本が並んでいる・・・","Advanced looking books line the shelf..."
 "アンティークな戸棚・・・","An antique cabinet..."
@@ -112,7 +112,7 @@ That's it! It's so easy!"
 If you catch it, you'll go flying torwards it!"
 "観葉植物・・・","A houseplant..."
 "もう何もない・・・","Nothing else useful..."
-"EV023",""
+"EV023",
 "スピリチュアルな本だ・・・","A book on spirituality..."
 "\n[1]は\C[3]『気功』\C[0]を覚えた！","\n[1] learned \C[3]『Qigong』\C[0]!"
 "要人、旅人など来客の動向は常に監視すること。
