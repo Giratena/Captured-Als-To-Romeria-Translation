@@ -1,5 +1,5 @@
 "自動実行","自動実行"
-"食糧庫ドア","食糧庫ドア"
+"食糧庫ドア","Pantry Door"
 "ネズミ","ネズミ"
 "捕まえた！","Caught it!"
 "EV006",
@@ -14,11 +14,11 @@
 1リンゴ　2皿　3卵",
 "穴は氷で塞がっている・・・","The hole is sealed with ice..."
 "\n<\n[1]>（悪い事しちゃったな・・・）","\n<\n[1]>(I feel bad about that...)"
-"ネズミ逃げ",
-"EV010",
-"引っかけ場所",
-"<TE:立体起動>",
-"報告書",
+"ネズミ逃げ",""
+"EV010",""
+"引っかけ場所",""
+"<TE:立体起動>",""
+"報告書","Report"
 "背が低いと高いところに手が届かなくて大変！
 わざわざわ椅子を持ってくるのも面倒！
 そんなあなたにオススメしたいのがこの商品！","Are you too short to get to hard to reach areas?
@@ -44,8 +44,8 @@ She says her hands are too small to reach a full octave.)"
 A Delicious Meal for Semen Slaves"
 "読んでみる","Read"
 "やめておく","Don't read"
-"時計が時を刻んでいる・・・","The clock ticks away..."
-"\n<\n[1]>（どれだけの時間、ここにいるんだろう・・・）","\n<\n[1]>(I wonder how long I'll be trapped here...)"
+"時計が時を刻んでいる・・・","The clock is ticking away..."
+"\n<\n[1]>（どれだけの時間、ここにいるんだろう・・・）","\n<\n[1]>(I wonder how long I'll be trapped here…)"
 "\n<\n[1]>（時間の感覚がおかしくなる・・・
 早くここから抜け出さないと・・・）","\n<\n[1]>(I've lost my sense of time...
 I need to get out of here quickly...)"

@@ -47,7 +47,7 @@ A little gift from me-nya♥"
 "立体起動",""
 "<enemy:99>",""
 "水たまりサンプル",""
-"食糧庫ドア",""
+"食糧庫ドア","Pantry Door"
 "掃除道具入れだ・・・
 何か使えるものがあるかもしれない・・・","A box of cleaning tools...
 There might be something useful inside..."
@@ -72,9 +72,9 @@ This could come in useful."
 Won't it get damp if it's left in here?"
 "いい匂いのタオルだ。
 でもあまり嗅がない方がいい・・・","These towels smell nice.
-Probably not a good idea to smell for too long..."
-"報告書",""
-"鏡に自分が映っている・・・","You see yourself in the mirror..."
+Probably not a good idea to smell for too long…"
+"報告書","Report"
+"鏡に自分が映っている・・・","You see yourself in the mirror…"
 "\n<\n[1]>（へんなもの付けられちゃったし・・・
 もう女湯に入れないのかな・・・）","\n<\n[1]>(They attached that awful thing to my body...
 Will I ever be allowed in a women's bath again...?)"

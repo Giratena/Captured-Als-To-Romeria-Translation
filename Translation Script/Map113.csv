@@ -1,5 +1,5 @@
 "自動実行","自動実行"
-"食糧庫ドア","食糧庫ドア"
+"食糧庫ドア","Pantry Door"
 "扉","扉"
 " <enemy:99><cw:1.5><ch:1.5>"," <enemy:99><cw:1.5><ch:1.5>"
 "不思議な形のドアだ。
@@ -99,7 +99,7 @@ Close that now.
 A semen slave doesn't need to be concerned with that."
 "リリー",""
 "EV011",""
-"報告書",""
+"報告書","Report"
 "封書には黒いユリの紋章が書かれている。","The envelope is sealed with a black lily crest."
 "\C[3]※ハンターパートに移りました。
 \C[0]今後はリリー、シィナ、ライムに接触すると戦闘になります。
