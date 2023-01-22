@@ -6,7 +6,7 @@
 "どうしよう・・・","What should you do..."
 "近づいてみる","Have a closer look"
 "離れる","Back away"
-"・・・",""
+"・・・","..."
 "\n<\n[3]>すぴー・・・ｚｚZ","\n<\n[3]>Zzzzz... Snore..."
 "挿入","Insert"
 "見抜き","Masturbate"
@@ -54,8 +54,8 @@ What the... What are you doing-nya...?"
 My ass feels all slimy and gross!!
 B-bathroom! I need a bathroom!!"
 "\n[1]はシィナのお尻に吸い尽くされてしまった・・・","\n[1] was sucked in by Shina's ass..."
-"誘惑シィナ",""
-"EV005",""
+"誘惑シィナ",
+"EV005",
 "\C[10]もう一度探る","\C[10]Search again"
 "もう十分","That's enough"
 "\n<シィナ>ふぁぁ・・・むにゃむにゃ。
@@ -91,7 +91,7 @@ I need to get out quick, without looking..."
 にゃははは♥","\n<Shina>What's that? Averting your eyes-nyaa?
 What are you, a virgin?
 Nyahahaha♥"
-"EV006",""
+"EV006",
 "\n<シィナ>早く来るにゃーん♥
 ・・・ってあれ？","\n<Shina>Hurry up and get over here-nyaaan♥
 ...Wait, what?"
@@ -103,7 +103,7 @@ They ran away-nyan...!!"
 ちくしょー！ぶっ殺す！！","\n<Shina>NYAAAAAAAAAHHH!!
 I'm shaking my bare ass like a fucking idiot-nyaa!!
 Dammit! I'll kill them!!"
-"シィナ決戦",""
+"シィナ決戦",
 "\n<シィナ>来たにゃ\n[1]。
 待ってたし。","\n<Shina>So you came, \n[1].
 I've been waiting."
@@ -117,19 +117,19 @@ Considering you're a masochistic pig-nyaan."
 搾り尽くしてやるし。","\n<Shina>That won't be happening again-nyaan.
 I'm gonna wring you dry, and then sip your semen out of 
 that condom."
-"ポップアップ有効化",""
+"ポップアップ有効化",
 "\n<シィナ>あ・・・あ・・・♥
 も・・・もう・・・だめ・・・にゃ・・・♥","\n<Shina>Ahh... Ahhh...♥
 N... Not... Again... Nyaaaah...♥"
 "シィナを退治した！","Shina was defeated!"
-"EV008",""
+"EV008",
 "リリーの日記","Lily's Diary"
 "リリーの日記
 シィナの精奴隷","Lily's Diary
 Shina's Semen Slave"
 "読んでみる","Read"
-"立体起動",""
-"<enemy:99><cw:1.3><ch:1.5>",""
+"立体起動",
+"<enemy:99><cw:1.3><ch:1.5>",
 "箱のようなものがあるが
 高くて手が届かない・・・","There's some kind of chest up above.
 It's too high up to reach..."
@@ -175,7 +175,7 @@ How truly masochistic."
 "タバコとオイルライター・・・","Cigarettes and an oil lighter..."
 "読まれた形跡が一切ない。","Doesn't look like anything has been read."
 "もう何もない・・・","Nothing else useful..."
-"EV041",""
+"EV041",
 "回復魔法の本だ・・・
 爪を研いだ跡がある・・・","A book of recovery magic...
 There are claw marks on it..."
@@ -186,7 +186,7 @@ There are claw marks on it..."
 in the master's room...
 I glued it back on, but..."
 "もしバレたら・・・","If he finds out..."
-"EV043",""
+"EV043",
 "シィナの落書き帳
 猫の生き方","Shina's Scratchpad
 A Cat's Life"
