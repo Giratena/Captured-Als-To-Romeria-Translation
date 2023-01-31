@@ -1,6 +1,6 @@
 "いわ","いわ"
 " <enemy:150>"," <enemy:150>"
-"瓦礫を壊せば通れそうだ・・・","It looks like you can pass through if you break the rubble..."
+"瓦礫を壊せば通れそうだ・・・","You could pass by if you broke this rubble..."
 "・・・！
 開いた！！","...!
 It opened!"
@@ -8,4 +8,4 @@ It opened!"
 "引っかけ場所","Hook spot"
 "<TE:立体起動>","<TE:立体起動>"
 "障壁","障壁"
-"半透明な壁が階段を塞いでいる・・・","An invisible wall blocks the stairs..."
+"半透明な壁が階段を塞いでいる・・・","A translucent barrier blocks the stairway…"

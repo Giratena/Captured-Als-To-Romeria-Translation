@@ -1,5 +1,5 @@
 "自動実行","自動実行"
-"食糧庫ドア","食糧庫ドア"
+"食糧庫ドア","Pantry Door"
 "炎","炎"
 " <enemy:99><cw:1.5><ch:1.5>"," <enemy:99><cw:1.5><ch:1.5>"
 "灯り 5 3 255 0.3",
@@ -84,9 +84,9 @@ that you'll regret you didn't take up my offer-♥"
 Meeting Lime"
 "読んでみる","Read"
 "やめておく","Don't read"
-"報告書",
-"時計が時を刻んでいる・・・","The clock is ticking..."
-"\n<\n[1]>（どれだけの時間、ここにいるんだろう・・・）","\n<\n[1]>(I wonder how long I'll be trapped here...)"
+"報告書","Report"
+"時計が時を刻んでいる・・・","The clock is ticking away..."
+"\n<\n[1]>（どれだけの時間、ここにいるんだろう・・・）","\n<\n[1]>(I wonder how long I'll be trapped here…)"
 "\n<\n[1]>（時間の感覚がおかしくなる・・・
 早くここから抜け出さないと・・・）","\n<\n[1]>(I've lost all sense of time...
 I need to get out of here soon...)"

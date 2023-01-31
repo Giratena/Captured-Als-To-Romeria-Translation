@@ -47,7 +47,7 @@ Lily?",
 どこかに隠れてたのかな？
 待ってたら来ると思ったよー！","\n<Lime>I was just thinking, ""There was no time to escape at all-.""
 You hid somewhere, right? So I thought to wait here, just in case!",
-"ーーーーー基本変更点ーーーーー",,
+"ーーーーー基本変更点ーーーーー","ーーーーーBasic Changesーーーーー",
 "\n<ライム>にへへへへー♥
 つーかまーえた♥","\n<Lime>Ehehehehe-♥
 Caught you-♥",
@@ -113,7 +113,7 @@ Teehee♥ Bye bye♥",
 "\n<ライム>じゃー頑張ってねー。
 次は私も本気でぴゅっぴゅさせにいっちゃうからねー。","\n<Lime>Now then, do your best okay?
 Next time I'll make you go pew pew for realsies-.",
-"ドア","ドア",
+"ドア","Ako",
 "玄関扉は固く閉ざされている・・・","The entrance door has been shut tight...",
 "\n<？？？>開かないよ。","\n<???>It won't open.",
 "\n<？？？>あたしも閉じ込められて困ってんの。
@@ -295,7 +295,7 @@ I see...",
 ・・・
 でも・・・しょうがないのかなぁ・・・）","\n<Ako>(I don't really care who wins...
 ...
-But... Is this the only way...)",
+But... Is this the only way…)",
 "\n<アーコ>あたしは中立。
 だからお金くれる方の味方。というかお金の味方。
 うん。","\n<Ako>I'm a neutral party.
@@ -303,10 +303,10 @@ I side with whoever's got money.\nI'm a buddy for hire, mmhm!",
 "\n<アーコ>分かった。売ってあげる。
 戦うための装備。
 ・・・","\n<Ako>All right then. I've got the goods.
-Battle equipment, that is...",
+Battle equipment, that is…",
 "\n<アーコ>本当に戦うの・・・？
 リリーは強いよ。
-\n[1]が負けて食べられちゃうのあたし、やだな。","\n<Ako>Are you really gonna fight...?
+\n[1]が負けて食べられちゃうのあたし、やだな。","\n<Ako>Are you really gonna fight…?
 Lily is really strong. \nI'd hate for \n[1] to be defeated, and devoured.",
 "\n<アーコ>何が欲しいのかな？","\n<Ako>What would you like?",
 "\n<アーコ>もう帰ろーよー。","\n<Ako>Come again-.",
@@ -315,7 +315,7 @@ Lily is really strong. \nI'd hate for \n[1] to be defeated, and devoured.",
 "食糧庫の鍵を開けた！","Unlocked the pantry!",
 "食糧庫のようだ。
 鍵がかかっている・・・","Looks like the pantry.
-It's locked...",
+It's locked…",
 "いわ",,
 " <enemy:145>",,
 "瓦礫を壊せば通れそうだ・・・","You could pass by if you broke this rubble...",
@@ -323,7 +323,7 @@ It's locked...",
 "浴場の鍵を開けた！","Unlocked the bathroom!",
 "この先は浴場のようだ。
 鍵がかかっている・・・","Looks like the bathroom.
-It's locked...",
+It's locked…",
 "応接室の鍵を開けた！","Unlocked the parlor!",
 "応接室の扉だ。
 鍵がかかっている・・・","The parlor.
@@ -331,13 +331,13 @@ It's locked...",
 "倉庫の鍵を開けた！","Unlocked the warehouse!",
 "倉庫の扉だ。
 鍵がかかっている・・・","The warehouse.
-It's locked...",
-"梯子",,
+It's locked…",
+"梯子","Ladder",
 "硬いドア",,
 " <enemy:151>",,
 "鍵穴が見当たらないが
 建付けが悪くて開きそうにない・・・","It won't open, but there's no visible keyhole.
-The door looks poorly constructed and fragile...",
+The door looks poorly constructed and fragile…",
 "植物","植物",
 " <enemy:99>","<enemy:99>",
 "変数203（ARGP攻撃種類）
@@ -435,36 +435,35 @@ Keep me entertained here, why don't you♥",
 Can't even endure 3 pumps? Hee hee♥
 Well, come back if you want to try again.",
 "ツタが入口を塞いでいる・・・
-武器があればなんとか出来るかもしれない。","Ivy is blocking the entrance... You might be able to do something if you had a weapon.",
+武器があればなんとか出来るかもしれない。","Ivy is blocking the entrance… You might be able to do something if you had a weapon.",
 "障壁","Barrier",
-"半透明な壁が階段を塞いでいる・・・","A translucent barrier blocks the stairway...",
+"半透明な壁が階段を塞いでいる・・・","A translucent barrier blocks the stairway…",
 "EV058",,
-"何か使えそうなものは・・・","Maybe there's something here I can use...",
+"何か使えそうなものは・・・","Might find something useful here…",
 "\n<\n[3]>精奴隷みっけにゃ！
-お前なにやってんにゃぁ？そんなとこで。","\n<\n[3]>There's my semen slave-nya!
-What are you doing in a place like this-nya?",
+お前なにやってんにゃぁ？そんなとこで。","\n<\n[3]>Found my semen slave, nya!
+What are you doing here, nya?",
 "\n<\n[3]>悪あがき頑張ってるのにゃぁ？
 くすくす♥
-でも、本当にいいにゃん？","\n<\n[3]>You know as much as you try, it's useless-nya? Teehee♥
-Though, is this really want you want-nyaa?",
+でも、本当にいいにゃん？","\n<\n[3]>Struggling pathetically, nya?
+Kusukusu♥ But, should you really be doing that, nyan?",
 "\n<\n[3]>ここから出たらアタシらとえっちなこと出来んにゃ？
 一生後悔するにゃぁ。
-ほらこっち見ろにゃん。","\n<\n[3]>If you escape, you'll never be able to have sex with us again, nya.
-Something you'll end up regretting for the rest of your life.
-Hora. Look at this-nya.",
+ほらこっち見ろにゃん。","\n<\n[3]>If you escape, you can never have sex with us again, nya.
+You'll regret that for the rest of your life. Look here, nyan.",
 "ーーーーー待機or攻撃アニメSE選択ーーーーー",,
 "--------ここから誘惑------------",,
 "\n<\n[3]>しーこ♥しーこにゃ♥
-これ見てるとムズムズしてくるにゃぁ？","\n<\n[3]>Stroke stroke♥ Stroke, stroke-nya♥
-When you watch this, your pants begin to feel tight right-nya?",
+これ見てるとムズムズしてくるにゃぁ？","\n<\n[3]>Stroke♥ Stroke, nya♥
+Don't your pants get tight when you look at this, nyaa?",
 "\n<\n[3]>こっちに来たらアタシがこの手とベロで
 チンコいじめまくって
-いっぱい泣かせてやるにゃ♥","\n<\n[3]>If you come over here, I'll use my hand and tongue to tease your dick 
-just like this until it starts to cry♥",
+いっぱい泣かせてやるにゃ♥","\n<\n[3]>If you come here, I'll tease your dick just like this
+and make it cry a whole bunch♥",
 "\n<\n[3]>しーこ♥しーこ♥
 れーろ♥れーろ♥にゃはっ♥
-見てるだけでチンコダメージ受けてるし♥","\n<\n[3]>Stroke stroke♥ Stroke stroke♥ *Ahnn*♥ *Lick*♥
-Nyahaa!♥ Your dick is already taking damage just from looking at me♥",
+見てるだけでチンコダメージ受けてるし♥","\n<\n[3]>Stroke♥ Stroke♥ Lick♥ Lick♥
+Nyahaa♥ Your dick's taking damage just looking at me♥",
 "\n<\n[3]>ほーら♥我慢できるにゃぁ？
 これ見て頭バカにするにゃん♥
 れろれろー♥","\n<\n[3]>Horaa-♥ Can you resist it-nya?
@@ -521,12 +520,12 @@ Good.First things first, show me how you masturbate-nya.",
 アタシ以外でぴゅーぴゅーしたら殺すにゃ。
 ちゃんと我慢するにゃぁ？","\n<\n[3]>I'll let you flounder a little longer.
 I'll kill you if you cum outside of me.
-Do your best to endure, ok-nyaa?",
-"お金","お金",
-"もう何も入っていない・・・","There's nothing else here...",
+Do your best to endure, ok, nyaa?",
+"お金","Money",
+"もう何も入っていない・・・","There's nothing else here…",
 "EV062","EV062",
 "炎の魔導書・・・
-装備すれば何かを燃やすことが出来そうだ。","Found a fire tome...
+装備すれば何かを燃やすことが出来そうだ。","Found a fire tome…
 With this, you could burn any number of things.",
 "\n<リリー>捕まえたっ♥
 ほらこっち向きなさい♥","\n<Lily>Caught you♥
@@ -575,36 +574,36 @@ You're oozing pre-cum. The floor is filthy now.",
 "EV074","EV074",
 "EV075","EV075",
 "作業台","作業台",
-"報告書","報告書",
-"楽譜が並んでいる・・・","Sheet music lines the shelf...",
+"報告書","Report",
+"楽譜が並んでいる・・・","Sheet music lines the shelf…",
 "\n<\n[1]>（う・・・気になるけど我慢。）","\n<\n[1]>(Ooh… I'm curious, but now's not the time.)",
-"\n<\n[1]>（音楽に興味はないけどこれが読める人に憧れはある・・・）","\n<\n[1]>(I'm not into music, but I admire people who can read this stuff...)",
+"\n<\n[1]>（音楽に興味はないけどこれが読める人に憧れはある・・・）","\n<\n[1]>(I'm not into music, but I admire people who can read this stuff…)",
 "EV078","EV078",
 "果物ナイフか・・・
-一応武器として使えるかもしれない。","果物ナイフか・・・
-一応武器として使えるかもしれない。",
-"\n<リリー>みーつけた♥","\n<リリー>みーつけた♥",
+一応武器として使えるかもしれない。","A fruit knife...?
+I might be able to use this as a weapon.",
+"\n<リリー>みーつけた♥","\n<Lily>Found you♥",
 "\n<リリー>あら・・・
 果物ナイフなんか持っちゃって。
-危ないわねー。","\n<リリー>あら・・・
-果物ナイフなんか持っちゃって。
-危ないわねー。",
+危ないわねー。","\n<Lily>Oh dear...
+Is that a fruit knife you're holding?
+Those can be so dangerous you know-.",
 "\n<リリー>そんな物騒なもの置いて？
 ねぇ、私と気持ちいいことしましょう♥
-ほら見て♥","\n<リリー>そんな物騒なもの置いて？
-ねぇ、私と気持ちいいことしましょう♥
-ほら見て♥",
+ほら見て♥","\n<Lily>Can you put that dangerous thing down?
+Hey, let's do some naughty things together♥
+Hora, look here♥",
 "ーーーーー待機or攻撃アニメ選択ーーーーー",,
 "\n<リリー>ふーり♥ふーり♥
 あはっ♥
-見ちゃったわね♥","\n<リリー>ふーり♥ふーり♥
-あはっ♥
-見ちゃったわね♥",
+見ちゃったわね♥","\n<Lily>Sway sway♥Shake shake♥
+Aha♥
+You can't help but look, can you?♥",
 "\n<リリー>あんたのそのレベルじゃ
 こーんなあからさまな誘惑でも
-おちんちんにきちゃうでしょ♥","\n<リリー>あんたのそのレベルじゃ
-こーんなあからさまな誘惑でも
-おちんちんにきちゃうでしょ♥",
+おちんちんにきちゃうでしょ♥","\n<Lily>Those levels of yours...
+With this open temptation,
+I'll approach your penis♥",
 "\n<リリー>ねぇ♥気持ちいい事しましょ？
 そんな小さなナイフなんて置いて♥","\n<Lily>Hey, it feels good, right?
 You've got such a little knife♥",
@@ -615,12 +614,12 @@ There's no way to defeat a succubus, right?
 Heehee♥",
 "\n<リリー>いいのよ？
 サキュバスに搾られるのが怖いなら、自分で扱けば？
-ほら♥それなら大丈夫でしょ？くす♥","\n<リリー>いいのよ？
-サキュバスに搾られるのが怖いなら、自分で扱けば？
-ほら♥それなら大丈夫でしょ？くす♥",
+ほら♥それなら大丈夫でしょ？くす♥","\n<Lily>Are you sure?
+If you're afraid of a succubus milking you, why don't you stroke it yourself?
+Hora♥ That should be okay, right? Teehee♥",
 "\n<\n[3]>あはっ♥その気になってくれたぁ？
-じゃあ私のこと見ながらオナニーして見せて♥","\n<\n[3]>あはっ♥その気になってくれたぁ？
-じゃあ私のこと見ながらオナニーして見せて♥",
+じゃあ私のこと見ながらオナニーして見せて♥","\n<\n[3]>Aha♥ Are you interested? 
+Then look at me while masturbating and show me♥",
 "\n<\n[3]>くすくす♥
 ちょっとアソコ見せただけでウブな反応しちゃって。
 あんたそれでもハンターなの？","\n<\n[3]>Teehee♥ 
@@ -637,8 +636,8 @@ Weapons don't work. But you know that already.",
 Show me more♥
 Little succubus hunter♥",
 "果物ナイフが置いてある・・・
-一本あれば十分だ。","果物ナイフが置いてある・・・
-一本あれば十分だ。",
+一本あれば十分だ。","Another fruit knife...
+Just one should be plenty.",
 "EV079","EV079",
 "\n<\n[3]>なに探してるにゃん。
 そんなところに何もないにゃ。","\n<\n[3]>What are you looking for-nyan?
@@ -721,14 +720,14 @@ Seriously, she's insane.",
 言い聞かせておいてね。","Then she says 'You can't do this-nya～', to provoke me,
 as if that's the reason I'm angry.
 I'm telling you, it drives me crazy.",
-"天使の像・・・","An angel statue...",
-"もう何もない・・・","There's nothing here...",
-"時計が時を刻んでいる・・・","The clock ticks away...",
+"天使の像・・・","An angel statue…",
+"もう何もない・・・","Nothing else…",
+"時計が時を刻んでいる・・・","The clock is ticking away...",
 "\n<\n[1]>（どれだけの時間、ここにいるんだろう・・・）","\n<\n[1]>(I wonder how long I'll be trapped here...)",
 "\n<\n[1]>（時間の感覚がおかしくなる・・・
 早くここから抜け出さないと・・・）","\n<\n[1]>(I'm losing my sense of time...
 I need to get out of here soon...)",
-"時計は故障している・・・","The clock is broken...",
+"時計は故障している・・・","The clock is broken…",
 "EV097","EV097",
 "\C[3]※ARPGの操作について\C[0]","\C[3]※This game is an ARPG.\C[0]",
 "武器を装備して『Aキー』を押すことで攻撃を行えます。
@@ -762,7 +761,7 @@ but they will never capture my heart...)",
 "EV111","EV111",
 "EV112","EV112",
 "時計の装飾品が凄く豪華だ・・・
-取ってしまおう。","The clock is adorned with a gorgeous ornament...
+取ってしまおう。","The clock is adorned with a gorgeous ornament…
 You take it.",
 "EV114","EV114",
 "EV115","EV115",
@@ -791,9 +790,9 @@ The little thief nabbed a key!
 What in the world would it need that for?",
 "シィナのバカに頼んで捕まえて貰おう。
 とりあえず、穴を塞いで逃げられなくしてやれば・・・","I've asked that moron Shina to catch it.
-If we could block its hole, it wouldn't be able to escape...",
+If we could block its hole, it wouldn't be able to escape…",
 "EV123",,
-"武器を作る材料は・・・","Materials for crafting weapons...",
+"武器を作る材料は・・・","Materials for crafting weapons…",
 "メイスの答えを見る","How to craft the Mace",
 "フックショットの答えを見る","How to craft the Hookshot",
 "見ない","Don't see",
@@ -811,7 +810,7 @@ Find a pointed object in the Master's room (2nd floor, right side).",
 突破がしやすくなります。","You will need to thrust into Lily 3 times without ejaculating.
 Raising your level or using an energy boosting item will make this
 easier.",
-"リリーの日記","リリーの日記",
+"リリーの日記","Lily's Diary",
 "アーコの帳簿
 再会","Ako's Ledger
 Reunion",

@@ -2,7 +2,7 @@
 "木材","Wood"
 " <enemy:149>"," <enemy:149>"
 "木材が通路を塞いでいる・・・","A pile of wood blocks the passage..."
-"食糧庫ドア","食糧庫ドア"
+"食糧庫ドア","Pantry Door"
 "シャンデリア","シャンデリア"
 "引っかけ場所","引っかけ場所"
 "<TE:立体起動>","<TE:立体起動>"
@@ -107,7 +107,7 @@ It's locked tightly..."
 Knowledge VS Instinct"
 "読んでみる","Read"
 "やめておく","Don't read"
-"報告書","報告書"
+"報告書","Report"
 "バルコニーの鍵を食糧庫内の倉庫で拾いました。
 近くの棚に置いておきます。
 誰が落としたのか知りませんが、鍵の管理には気を付けてください。","I found the balcony key in the storeroom inside the pantry.
