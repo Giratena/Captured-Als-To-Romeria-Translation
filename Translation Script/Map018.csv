@@ -7,12 +7,12 @@ Be extremely careful not to upset her."
 "扉は内側からは開かないようになっています。
 開閉はスイッチを使用してください。","The door cannot be opened from inside.
 Please use the switch to open or close it."
-"立体起動",""
-"<enemy:99><cw:1.3><ch:1.5>",""
-"EV003",""
-"トラ小突きスイッチ",""
-" <enemy:99>",""
-"EV005",""
+"立体起動",
+"<enemy:99><cw:1.3><ch:1.5>",
+"EV003",
+"トラ小突きスイッチ","Tiger Pushing Switch"
+" <enemy:99>",
+"EV005",
 "この部屋の仕掛けの説き方は・・・","How to solve this room..."
 "答えを見る","See answer"
 "やめておく","Maybe not."
@@ -21,9 +21,9 @@ Please use the switch to open or close it."
 ドアが閉まる前に入室してください。","Push the gold statues near the switch.
 Press the switch, then hookshot to the statue.
 Run through the door before it closes."
-"ドア",""
-"EV007",""
-"置手紙",""
+"ドア","Door"
+"EV007",
+"置手紙",
 "ウィッチラミアの記録","Witch Lamia Report"
 "ウィッチと名が付く通り、通常のラミアに比べ魔術に長けている。
 元々人の形に近い為か、
@@ -71,9 +71,9 @@ and mental state will determine the duration of the spell."
 例えば深海にかかる水圧のような・・・","The trick is to imagine a thin coating of magic surrounding
 your target, and compressing their body. Imagine the
 pressure of the deep sea, closing in around them."
-"薬",""
+"薬",
 "もう使えそうなものはない。","Nothing else useful."
-"EV017",""
+"EV017",
 "屍だ・・・
 何かメモのようなものを持っている。","A corpse...
 It's holding a note."
@@ -102,24 +102,24 @@ Feet..."
 （メモまで気持ち悪いわね。）","\n<Lily>Could this be...
 The semen slave that Shina set free...
 (Just reading this note is grossing me out.)"
-"EV018",""
-"EV019",""
-"EV020",""
-"EV021",""
-"EV024",""
-"EV025",""
-"リリーの日記",""
+"EV018",
+"EV019",
+"EV020",
+"EV021",
+"EV024",
+"EV025",
+"リリーの日記","Lily's Diary"
 "チョコレの実験記録
 魔力の集め方","Chocolat's Lab Records
 Collecting magic power"
 "読んでみる","Read"
-"リリーの魔力石",""
-"いわ",""
-" <enemy:145>",""
+"リリーの魔力石","Lily's Magic Stone"
+"いわ",
+" <enemy:145>",
 "瓦礫だ。
 崩せるかもしれない。","Rubble.
 It might be possible to break it."
-"とらちゃん",""
+"とらちゃん","Tiger-chan"
 "\n<ウィッチラミア>なんでまた来たの？
 もう鍵は持っていると思うけど。","\n<Witch Lamia>Why are you still here?
 I thought you already had my key."
@@ -148,5 +148,5 @@ I think I'll have you♥"
 "\n<リリー>あの程度のやつに負けるわけないわよね。
 さ、次いくわよ。","\n<Lily>We'd never lose to someone like you.
 So let's go."
-"ポップアップ有効化",""
-"EV053",""
+"ポップアップ有効化",
+"EV053",

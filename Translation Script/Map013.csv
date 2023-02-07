@@ -1,7 +1,7 @@
-"チョコレ",""
-"研究員1",""
-"研究員2",""
-"研究員3",""
+"チョコレ","Chocolat"
+"研究員1","Researcher 1"
+"研究員2","Researcher 2"
+"研究員3","Researcher 3"
 "イベント実行","Event Action"
 "\n<チョコレ>さて、リリー達はどうれすか？
 何か変わった様子はありませんか？","\n<Chocolat>Now, how are Lily and the others doing?
@@ -116,5 +116,5 @@ Thank you for your advice."
 それでは、頑張ってください。","\n<Velvet>Ahh, that's very good♥
 Please let me know any time you have difficulties
 with your work. Keep up the good work."
-"ランプ",""
-"ベルーチェ",""
+"ランプ","Lamp"
+"ベルーチェ","Velvet"
