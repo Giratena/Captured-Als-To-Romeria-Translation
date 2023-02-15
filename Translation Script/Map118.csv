@@ -47,7 +47,7 @@ Lily?"
 どこかに隠れてたのかな？
 待ってたら来ると思ったよー！","\n<Lime>I was just thinking, ""There was no time to escape at all-.""
 You hid somewhere, right? So I thought to wait here, just in case!"
-"ーーーーー基本変更点ーーーーー",""
+"ーーーーー基本変更点ーーーーー","ーーーーーBasic Changesーーーーー"
 "\n<ライム>にへへへへー♥
 つーかまーえた♥","\n<Lime>Ehehehehe-♥
 Caught you-♥"
@@ -332,7 +332,7 @@ It's locked..."
 "倉庫の扉だ。
 鍵がかかっている・・・","The warehouse.
 It's locked…"
-"梯子",""
+"梯子","Ladder"
 "硬いドア",""
 " <enemy:151>",""
 "鍵穴が見当たらないが
@@ -573,7 +573,7 @@ You're oozing pre-cum. The floor is filthy now."
 "EV074","EV074"
 "EV075","EV075"
 "作業台","作業台"
-"報告書","報告書"
+"報告書","Report"
 "楽譜が並んでいる・・・","Sheet music lines the shelf…"
 "\n<\n[1]>（う・・・気になるけど我慢。）","\n<\n[1]>(Ooh… I'm curious, but now's not the time.)"
 "\n<\n[1]>（音楽に興味はないけどこれが読める人に憧れはある・・・）","\n<\n[1]>(I'm not into music, but I admire people who can read this stuff…)"
@@ -722,6 +722,9 @@ I'm telling you, it drives me crazy."
 "天使の像・・・","An angel statue..."
 "もう何もない・・・","There's nothing here..."
 "時計が時を刻んでいる・・・","The clock ticks away…"
+"天使の像・・・","An angel statue…"
+"もう何もない・・・","Nothing else…"
+"時計が時を刻んでいる・・・","The clock is ticking away..."
 "\n<\n[1]>（どれだけの時間、ここにいるんだろう・・・）","\n<\n[1]>(I wonder how long I'll be trapped here...)"
 "\n<\n[1]>（時間の感覚がおかしくなる・・・
 早くここから抜け出さないと・・・）","\n<\n[1]>(I'm losing my sense of time...
