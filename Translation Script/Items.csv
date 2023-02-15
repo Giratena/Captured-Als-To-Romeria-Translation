@@ -10,15 +10,15 @@ Restores 30% + 20 of your HP."
 "2000ダメージ薬","2000 Damage Drug"
 "使用すると2000分気持ちよくなるお薬
 2000ダメージ与える","A drug that makes you feel good for 2000 minutes when used.
-It deAlsto 2000 damage."
+It deals 2000 damage."
 "4000ダメージ薬","4000 Damage Drug"
 "使用すると4000分気持ちよくなるお薬
 4000ダメージ与える","A drug that makes you feel good for 4000 minutes when used.
-It deAlsto 4000 damage."
+It deals 4000 damage."
 "8000ダメージ薬","8000 Damage Drug"
 "使用すると8000分気持ちよくなるお薬
 8000ダメージ与える","A drug that makes you feel good for 8,000 minutes when used.
-It deAlsto 8000 damage."
+It deals 8000 damage."
 "敵4000回復薬","Enemy 4000 recovery Pill"
 "使用すると4000分すっきりするお薬
 相手が4000回復する","A medicine that, when used, is refreshing for 4000 minutes.
@@ -28,7 +28,7 @@ The other party will be healed for 4000 health."
 "900000ダメージ薬","900,000 Damage Drug"
 "使用すると900000分気持ちよくなるお薬
 900000ダメージ与える","A medicine that makes you feel good for 90,0000 minutes when used.
-It deAlsto 90,0000 damage."
+It deals 90,0000 damage."
 "～回復アイテム～","~Recovery Items~"
 "精力剤","Tonic"
 "薄いミントの匂い
@@ -484,7 +484,7 @@ Current Sanity \v[270]. Change name and fix bugs.
 Current SAN value \v[270]"
 "応接室の鍵","Reception Room Key"
 "応接室とタグが付いた鍵
-","Drawing Room Key"
+","Reception Room Key"
 "食糧庫の鍵","Pantry Key"
 "食糧庫とタグの付いた鍵","Key with tag that reads ""Pantry"""
 "書庫の鍵","Library Key"
