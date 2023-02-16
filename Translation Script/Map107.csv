@@ -11,25 +11,25 @@ so you'd rather not if possible..."
 6誘惑　7食べ物
 特殊206（個別攻撃種類）
 1リンゴ　2皿　3卵",
-"カチコチに凍っている・・・",It's frozen solid...
-"食糧庫ドア",Pantry Door
-"食堂の鍵を開けた！",Unlocked the door with the Dining Room Key!
+"カチコチに凍っている・・・","It's frozen solid..."
+"食糧庫ドア","Pantry Door"
+"食堂の鍵を開けた！","Unlocked the door with the Dining Room Key!"
 "食堂に繋がっているようだ。
 鍵がかかっている・・・","This seems to be the door to the dinning room.
 It's locked..."
-"ゴミ捨て場の鍵を開けた！",Unlocked the door to the garbage dump!
+"ゴミ捨て場の鍵を開けた！","Unlocked the door to the garbage dump!"
 "この先はゴミ捨て場のようだ・・・
 匂いが漏れてきている。","Looks like the garbage dump ahead...
 The stench is pouring out."
-"報告書",Report
+"報告書","Report"
 "失敗した料理のような塊がある・・・
 新鮮な生ごみ。","Looks like a failed recipe...
 These scraps are still fresh."
 "出現防止",
 "EV011",
-"リラクゼーションの本だ・・・",A book on relaxation...
-"\n[1]は\C[3]『休憩』\C[0]を覚えた！",\n[1] learned \C[3]『Rest』\C[0]!
-"イベント用キャラ",イベント用キャラ
+"リラクゼーションの本だ・・・","A book on relaxation..."
+"\n[1]は\C[3]『休憩』\C[0]を覚えた！","\n[1] learned \C[3]『Rest』\C[0]!"
+"イベント用キャラ","イベント用キャラ"
 "シィナに料理をさせないで！
 あんなの食べたら精奴隷さんが死んじゃうよ！
 食材も勿体ないから見つけたら止めてね！","Do not let Shina do the cooking! The semen slaves will
@@ -41,7 +41,7 @@ ingredients, so if you see her, stop her!"
 "果物ナイフか・・・
 一応武器として使えるかもしれない。","A fruit knife...
 Perhaps this could be used as a weapon."
-"\n<リリー>みーつけた♥",\n<Lily>Caught you♥
+"\n<リリー>みーつけた♥","\n<Lily>Caught you♥"
 "\n<リリー>あら・・・
 果物ナイフなんか持っちゃって。
 危ないわねー。","\n<Lily>Ara...
@@ -110,22 +110,22 @@ one more day. If only...)"
 "ビンが割れている。
 アルコールの匂いがする・・・","This bottle is smashed.
 It smells like alcohol..."
-"\n<\n[1]>（勿体ない・・・）",\n<\n[1]>(Such a waste...)
-"EV017",EV017
-"リリーの日記",Lily's Diary
+"\n<\n[1]>（勿体ない・・・）","\n<\n[1]>(Such a waste...)"
+"EV017","EV017"
+"リリーの日記","Lily's Diary"
 "リリーの日記
 ミスト屋敷襲撃","Lily's Diary
 Misty Mansion Attack"
 "読んでみる","Read"
-"やめておく",Maybe not.
-"EV019",EV019
-"ニンニクとお肉。",Meat and garlic.
-"\n<\n[1]>（料理をしている時間はないね。）",\n<\n[1]>（This isn't the time to be cooking.）
+"やめておく","Maybe not."
+"EV019","EV019"
+"ニンニクとお肉。","Meat and garlic."
+"\n<\n[1]>（料理をしている時間はないね。）","\n<\n[1]>（This isn't the time to be cooking.）"
 "\n<\n[1]>（塩コショウとニンニクで焼くだけ。
 肉料理はこれで完成されている。あとは蛇足だ。）","\n<\n[1]>(Garlic, salt and pepper. Everything you need for a
 perfect meat dish. Anything else is just flashy nonsense.)"
 "調味料・・・","Spices..."
-"\n<\n[1]>（淫魔にコショウをかけてくしゃみをしている間に・・・）",\n<\n[1]>（I'd probably sneeze while I sprinkle pepper\non the succubi...）
+"\n<\n[1]>（淫魔にコショウをかけてくしゃみをしている間に・・・）","\n<\n[1]>（I'd probably sneeze while I sprinkle pepper\non the succubi...）"
 "\n<\n[1]>（・・・
 これは持っていく必要はないかな。）","\n<\n[1]>（...
 I'm not going to take anything.）"
@@ -134,26 +134,26 @@ I'm not going to take anything.）"
 I never know if I'm using too much or too little,
 and I always end up looking back at the recipe.）"
 "麦・・・","Flour..."
-"\n<\n[1]>（焼きたてのパンが食べたい・・・）",\n<\n[1]>（I would love some fresh baked bread about now...）
-"お皿・・・",Plates...
-"\n<\n[1]>（投げて武器にすることができるかも・・・）",\n<\n[1]>（I might be able to use this as a throwing weapon...）
-"\n<\n[1]>（そんなアホな戦い方はしたくない。）",\n<\n[1]>（I'd feel foolish fighting like that.）
+"\n<\n[1]>（焼きたてのパンが食べたい・・・）","\n<\n[1]>（I would love some fresh baked bread about now...）"
+"お皿・・・","Plates..."
+"\n<\n[1]>（投げて武器にすることができるかも・・・）","\n<\n[1]>（I might be able to use this as a throwing weapon...）"
+"\n<\n[1]>（そんなアホな戦い方はしたくない。）","\n<\n[1]>（I'd feel foolish fighting like that.）"
 "\n<\n[1]>（これをフリスビーのように投げれば・・・
 ・・・
 いや、やめておこう。）","\n<\n[1]>（I could throw it like a frisbee... No, I shouldn't.)"
 "アイテム","Items"
-"もう使えそうなものはない。",Nothing else useful here...
-"珍しい調味料が並んでいる・・・",Rare and unusual spices line the shelves...
-"\n<\n[1]>（カルダモン・・・カレーに入れると美味しい。）",\n<\n[1]>（Cardamom... Delicious when added to curry.）
-"\n<\n[1]>（カルダモン・・・？ゆるキャラか？）",\n<\n[1]>（Cardamom...? Is that a mascot?）
-"\n<\n[1]>（バイマックル・・・カレーに入れると美味しい。）",\n<\n[1]>（Lime leaves... Amazing in curry.）
-"\n<\n[1]>（バイマックル・・・？攻撃力が上がりそうだ。）",\n<\n[1]>（Lime leaves...? Bet that would increase my attack.）
+"もう使えそうなものはない。","Nothing else useful here..."
+"珍しい調味料が並んでいる・・・","Rare and unusual spices line the shelves..."
+"\n<\n[1]>（カルダモン・・・カレーに入れると美味しい。）","\n<\n[1]>（Cardamom... Delicious when added to curry.）"
+"\n<\n[1]>（カルダモン・・・？ゆるキャラか？）","\n<\n[1]>（Cardamom...? Is that a mascot?）"
+"\n<\n[1]>（バイマックル・・・カレーに入れると美味しい。）","\n<\n[1]>（Lime leaves... Amazing in curry.）"
+"\n<\n[1]>（バイマックル・・・？攻撃力が上がりそうだ。）","\n<\n[1]>（Lime leaves...? Bet that would increase my attack.）"
 "立体起動",
-"<enemy:99><cw:1.3><ch:1.5>",<enemy:99><cw:1.3><ch:1.5>
+"<enemy:99><cw:1.3><ch:1.5>","<enemy:99><cw:1.3><ch:1.5>"
 "箱のようなものがあるが
 高くて手が届かない・・・","There's some kind of chest up there.
 It's too high up to reach..."
-"もう何もない・・・",Nothing else here...
-"生ごみ・・・",Food scraps...
-"\n<\n[1]>（う""ぇ""・・・）",\n<\n[1]>(Urrk...)
-"EV036",EV036
+"もう何もない・・・","Nothing else here..."
+"生ごみ・・・","Food scraps..."
+"\n<\n[1]>（う""ぇ""・・・）","\n<\n[1]>(Urrk...)"
+"EV036","EV036"
