@@ -1,66 +1,93 @@
 "リリー","Lily"
 "ライム","Lime"
 "シィナ1",""
-"ロメリア/アルス",""
-"てかせ",""
+"ロメリア/アルス","Romeria/Als"
+"てかせ","handcuffs"
 "ベルーチェ","Velvet"
-"剣",""
+"剣","Sword"
 "チョコレ","Chocolat"
 "<enemy:99>","<enemy:99>"
 "MP_SET_MOVIE チョコレ立ち絵アニメ",""
 "MP_SET_LOOP 20 on","MP_SET_LOOP 20 on"
 "\n<チョコレ>やったぁ♥
 また気持ちよくしてくれるんれすね♥
-えへへへ♥",""
+えへへへ♥","\n<Chocolat>Yattaa♥
+You gonna make me feel good again♥
+ehehehe♥"
 "\n<チョコレ>でも、私ばっかりイっちゃうのは不公平な気もします♥
-そんなにガチガチに勃起させてるのに♥",""
+そんなにガチガチに勃起させてるのに♥","\n<Chocolat>But I just came so this is kinda unfair♥
+Since I gave you such a tight boner♥"
 "\n<チョコレ>\n[1]さんもそろそろ出したいんじゃないれすか？
-次は負けさせてあげますね♥",""
+次は負けさせてあげますね♥","\n<Chocolat>\n[1], are you cumming soon?
+After this, I'll give your defeat ok?♥"
 "\n<チョコレ>あっ♥あっ♥あっ♥
 やっぱり凄いれす・・・♥
-はぁ・・・はぁ・・・♥",""
+はぁ・・・はぁ・・・♥","\n<Chocolat>Aa♥Aa♥Aa♥
+This is as good I as expected・・・♥
+Haa・・・Haa・・・♥"
 "\n<リリー>・・・？
 こいつ・・・
-イったのにあんまり効いてない・・・？",""
+イったのにあんまり効いてない・・・？","\n<Lily>・・・？
+This one・・・
+イったのにあんまり効いてない・・・？"
 "\n<チョコレ>もっと気持ちいいのほしいれす♥
-次の勝負しよ♥きてきて♥",""
-"\n<チョコレ>痛ぁぁぁいっ！！",""
+次の勝負しよ♥きてきて♥","\n<Chocolat>I wanna feel good even more♥
+Let's fight again♥ Come here♥"
+"\n<チョコレ>痛ぁぁぁいっ！！","\n<Chocolat>Ouch！！"
 "\n<チョコレ>あうぅ・・・
 ちょっと、いきなり何なんれすかぁ・・・
-痛たたた・・・",""
+痛たたた・・・","\n<Chocolat>Oww・・・
+Wait... What's this all of the sudden...
+Ow ow ow・・・"
 "\n<ライム>あれ？
-ダメージ食らってる・・・？",""
+ダメージ食らってる・・・？","\n<Lime>Eh？
+The damage got eaten up?"
 "\n<シィナ>お前・・・
-淫魔じゃないにゃん！",""
+淫魔じゃないにゃん！","\n<Shina>You...
+You're not a succubus!"
 "\n<チョコレ>あ・・・
-バレてしまいました。",""
+バレてしまいました。","\n<Chocolat>Ah...
+I'm busted"
 "\n<リリー>ってことは
-律儀にイカせ合いに応じる必要ないじゃない！",""
-"\n<シィナ>ボコれ！",""
-"\n<ライム>騙してたのー？",""
-"\n<ロメリア>騙されてた・・・",""
-"\n<ライム>嘘つき！",""
-"\n<ベルーチェ>チョコレが淫魔だなんて一言も言ってませんよ。",""
+律儀にイカせ合いに応じる必要ないじゃない！","\n<Lily>So this means that,
+All's fair in a sex battle!"
+"\n<シィナ>ボコれ！","\n<Shina>Beat her up!"
+"\n<ライム>騙してたのー？","\n<Lime>You deceived us?ー"
+"\n<ロメリア>騙されてた・・・","\n<Romeria>You guys were tricked..."
+"\n<ライム>嘘つき！","\n<Lime>You liar!"
+"\n<ベルーチェ>チョコレが淫魔だなんて一言も言ってませんよ。","\n<Velvet>Even if Chocolat is a Succubus, she won't say a word."
 "\n<チョコレ>この羽と尻尾はあなた達の魔力で作ったものれす。
 私は肉体改造が趣味なのれ。
-人間れす。",""
+人間れす。","\n<Chocolat>These wings and this tail was created from you guy's magic.
+That's why my interest is Body Modification。
+I'm a human being。"
 "\n<チョコレ>凄く気持ちよかったれすよ♥
 やっぱりハンターさんってえっちが上手なんれすねぇ♥
-くひひひ♥",""
+くひひひ♥","\n<Chocolat>I'm glad it felt that good♥
+I knew it that Hunter-san is soo good at sex♥
+Kuhihihi♥"
 "\n<ベルーチェ>射精させて手籠めに出来ればよし。
 一番被害の少ない方法で
-\n[1]様を私達のものにするつもりでしたが・・・",""
+\n[1]様を私達のものにするつもりでしたが・・・","\n<Velvet>You can try to rape and force them to ejaculate。
+By the least damaging method possible,
+we wanted to make \n[1] ours but... "
 "\n<ベルーチェ>こうなれば仕方ありませんね。
 暴力は好きではないのですが・・・
-うふふ♥",""
+うふふ♥","\n<Velvet>If it has come to this, there's no other choice...
+I hate to use violence but it is the only answer.
+Ufufu♥"
 "\n<チョコレ>2体1れす。
-力づくで\n[1]さんを倒しますね。",""
+力づくで\n[1]さんを倒しますね。","\n<Chocolat>It's a 2 in 1 bundle。
+We're gonna beat \n[1] by force it is."
 "\n<リリー>どこまでも卑劣なやつら・・・
-\n[1]！これを使って！",""
-"\n<リリー>負けるんじゃないわよ！",""
-"\n<シィナ>やっちまえ！",""
+\n[1]！これを使って！","\n<Lily>No matter where they are, they always play dirty...
+\n[1]! Use this!"
+"\n<リリー>負けるんじゃないわよ！","\n<Lily>Don't lose this one!"
+"\n<シィナ>やっちまえ！","\n<Lime>Get 'em!"
 "\n<ライム>\n[1]・・・頑張って・・・
-（どきどき。）",""
+（どきどき。）","\n<Lime>\n[1]・・・You can do it・・・
+(her heart races)"
 "\n<ロメリア>剣持ったあにきは超強いよ。
-今のうちに降参しといたら？",""
+今のうちに降参しといたら？","\n<Romeria>My brother with a sword is really strong。
+Why not surrender while you're at it?"
 "EV010",""
