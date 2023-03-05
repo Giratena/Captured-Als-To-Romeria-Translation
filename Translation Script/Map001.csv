@@ -1,6 +1,6 @@
 "<Darkness:20>","<Darkness:20>"
 "アイテム","Items"
-"002オーク","002オーク"
+"002オーク","002 Orc"
 " <enemy:100>"," <enemy:100>"
 "ーーーーーー敵から受けるダメージーーーーーー",
 "ーーーーーーーー被ダメエフェクトーーーーーーー",
@@ -12,158 +12,158 @@
 " <enemy:105>"," <enemy:105>"
 "30ムダボーン","30ムダボーン"
 " <enemy:106>"," <enemy:106>"
-"8オーク","8オーク"
-"9ガード","9ガード"
+"8オーク","8Orc"
+"9ガード","9Guard"
 "<enemy:146>","<enemy:146>"
-"10ビッグベア","10ビッグベア"
+"10ビッグベア","10Big Bear"
 "<enemy:111><cw:1><ch:1.5><CG拡大率:A,300,300>","<enemy:111><cw:1><ch:1.5><CG拡大率:A,300,300>"
-"11大夢喰い","11大夢喰い"
+"11大夢喰い","11Giant Dream Eater"
 "<enemy:108><cw:1><ch:1.5><CG拡大率:A,200,200>","<enemy:108><cw:1><ch:1.5><CG拡大率:A,200,200>"
-"12島喰い","12島喰い"
+"12島喰い","12Island Eater"
 "<enemy:112><cw:1><ch:1.5><CG拡大率:A,500,500>","<enemy:112><cw:1><ch:1.5><CG拡大率:A,500,500>"
-"13コープス","13コープス"
+"13コープス","13Corpse"
 "<enemy:113>","<enemy:113>"
-"14おむつライオン","14おむつライオン"
+"14おむつライオン","14Nesting Lion"
 "<enemy:114>","<enemy:114>"
-"15触手","15触手"
+"15触手","15Tentacle"
 "<enemy:115>","<enemy:115>"
 "EV016","EV016"
-"シープ誘惑","シープ誘惑"
+"シープ誘惑","Sheep seduction"
 "<enemy:99><CG不透明度:1,255><CG不透明度:2,100>","<enemy:99><CG不透明度:1,255><CG不透明度:2,100>"
-"ーーーーー基本変更点ーーーーー","ーーーーーBasic Changesーーーーー"
-"シープ","シープ"
+"ーーーーー基本変更点ーーーーー","ーーーーーFundamental Changesーーーーー"
+"シープ","Sheep"
 "\n<\n[3]>捕まえた♥
-ちゅーしよ♥ちゅー♪","\n<\n[3]>捕まえた♥
-ちゅーしよ♥ちゅー♪"
-"クラスタ誘惑","クラスタ誘惑"
-"クラスタ","クラスタ"
+ちゅーしよ♥ちゅー♪","\n<\n[3]>Gotcha♥
+Let's have sex♥ Sexー♪"
+"クラスタ誘惑","CLuster Seduction"
+"クラスタ","CLuster"
 "\n<\n[3]>ほら♥ここ舐めていいよ♥
 いっぱいペロペロして♥","\n<\n[3]>Hora♥You can lick here♥
 Lick me a lot♥"
 "キエリ誘惑","キエリ誘惑"
 "キエリ","キエリ"
 "\n<\n[3]>ほーら触ってほしいだろ？
-おねだり出来たら滅茶苦茶に扱いてやるぞ♥","\n<\n[3]>ほーら触ってほしいだろ？
-おねだり出来たら滅茶苦茶に扱いてやるぞ♥"
-"リリス誘惑","リリス誘惑"
-"リリス","リリス"
+おねだり出来たら滅茶苦茶に扱いてやるぞ♥","\n<\n[3]>Horaー Wanna touch this？
+Beg me and I'll treat you like a mess♥"
+"リリス誘惑","Lilith Seduction"
+"リリス","Lilith"
 "\n<\n[3]>ボクのおっぱいが一番好きだよネ♥
 ホーラ♥ここでギブアップしちゃいなヨ♥
-あははは♥","\n<\n[3]>ボクのおっぱいが一番好きだよネ♥
-ホーラ♥ここでギブアップしちゃいなヨ♥
-あははは♥"
+あははは♥","\n<\n[3]>You like my boobs the most, don't you?♥
+Hora♥ Don't you wanna give up now?♥
+Ahahaha♥"
 "<enemy:115><CG不透明度:1,255><CG不透明度:2,100>","<enemy:115><CG不透明度:1,255><CG不透明度:2,100>"
 "\n<\n[3]>ほーら捕まえた♥
 ちんこ触ってほしかったらどうすればいいか分かるだろ？
-くすくす♥","\n<\n[3]>ほーら捕まえた♥
-ちんこ触ってほしかったらどうすればいいか分かるだろ？
-くすくす♥"
+くすくす♥","\n<\n[3]>Horaー Gotcha♥
+Your dick wanted to be touched but don't know what to do, am I right？
+KUSUKUSU♥"
 "\n<\n[3]>ボクが一番好きデショ？
 ちゅーして♥ちゅー♥
-おっぱいも触っていいヨ♥","\n<\n[3]>ボクが一番好きデショ？
-ちゅーして♥ちゅー♥
+おっぱいも触っていいヨ♥","\n<\n[3]>You like me the most, right？
+Let's have sex♥ sex♥
 おっぱいも触っていいヨ♥"
 "\n<\n[3]>頑張っておちんちん扱いてるところ私に見せて♥
 ほら一緒に♪
-いっちに♥いっちに♥","\n<\n[3]>頑張っておちんちん扱いてるところ私に見せて♥
-ほら一緒に♪
-いっちに♥いっちに♥"
+いっちに♥いっちに♥","\n<\n[3]>SHow me how hard you handle your dick♥
+Hora一 Together♪
+In unison♥ In unison♥"
 "\n<\n[3]>私の目を見て♥
-見つめ合いながらちゅーするの♥","\n<\n[3]>私の目を見て♥
-見つめ合いながらちゅーするの♥"
-"痺れ罠",
-"\>\C[26]罠を回避した！","\>\C[26]罠を回避した！"
+見つめ合いながらちゅーするの♥","\n<\n[3]>Look at my eyes♥
+Lock your eyes on me while we kiss♥"
+"痺れ罠","Numbing Trap"
+"\>\C[26]罠を回避した！","\>\C[26]Trap avoided！"
 "\>\C[14]痺れ罠だ！\C[0]
-\>50歩の間攻撃を封じられてしまった！","\>\C[14]痺れ罠だ！\C[0]
-\>50歩の間攻撃を封じられてしまった！"
-"夢喰い","夢喰い"
-"ナイトベア","ナイトベア"
+\>50歩の間攻撃を封じられてしまった！","\>\C[14]It's a numbing trap！\C[0]
+\>My attacks are sealed away for 50 seconds！"
+"夢喰い","Dream Eater"
+"ナイトベア","NightBear"
 " <enemy:109>"," <enemy:109>"
-"28ナース","28ナース"
+"28ナース","28Nurse"
 "<enemy:116>","<enemy:116>"
-"29コープスG","29コープスG"
+"29コープスG","29Corpse G"
 "<enemy:117>","<enemy:117>"
 "EV030","EV030"
-"誘惑イベテンプレート","誘惑イベテンプレート"
-"暗闇の中でナースが手招きしている・・・","暗闇の中でナースが手招きしている・・・"
+"誘惑イベテンプレート","Seduction Template"
+"暗闇の中でナースが手招きしている・・・","From the darkness, the nurse beckons..."
 "\n<ナース>うふふ・・・♥
-おいで・・・♥","\n<ナース>うふふ・・・♥
-おいで・・・♥"
+おいで・・・♥","\n<Nurse>Ufufu・・・♥
+Come here・・・♥"
 "\n<ナース>私の胸を見て・・・♥
-柔らかそうでしょう・・・♥","\n<ナース>私の胸を見て・・・♥
-柔らかそうでしょう・・・♥"
+柔らかそうでしょう・・・♥","\n<Nurse>Have a look at my boobs・・・♥
+They look soft, don't they?・・・♥"
 "\n<ナース>さぁ・・・
-私と気持ちいいことしましょう・・・♥","\n<ナース>さぁ・・・
-私と気持ちいいことしましょう・・・♥"
-"\n<ナース>何もかも忘れて・・・","\n<ナース>何もかも忘れて・・・"
-"近寄る","近寄る"
+私と気持ちいいことしましょう・・・♥","\n<Nurse>Now・・・
+Let's do something pleasurable with me・・・♥"
+"\n<ナース>何もかも忘れて・・・","\n<Nurse>Just forget about everything・・・"
+"近寄る","Approach"
 "離れる","Back away"
 "\n<ナース>それでいいの・・・♥
-くすくす・・・♥","\n<ナース>それでいいの・・・♥
-くすくす・・・♥"
-"ダメだ・・・こんなあからさまな誘惑に乗っては・・・","ダメだ・・・こんなあからさまな誘惑に乗っては・・・"
-"32ニャントム","32ニャントム"
+くすくす・・・♥","\n<Nurse>Is that what you want?・・・♥
+Kusukusu・・・♥"
+"ダメだ・・・こんなあからさまな誘惑に乗っては・・・","I can't・・・I can't be mislead by such a blatant lure・・・"
+"32ニャントム","32Nyanthem"
 "<enemy:118>","<enemy:118>"
-"33ミャウラージ","33ミャウラージ"
+"33ミャウラージ","33Meowlody"
 "<enemy:119><cw:1><ch:1.5><CG拡大率:A,400,400>","<enemy:119><cw:1><ch:1.5><CG拡大率:A,400,400>"
-"34デスコッコ","34デスコッコ"
+"34デスコッコ","34Death Cock"
 "<enemy:120>","<enemy:120>"
-"35ドゥードゥルドゥー","35ドゥードゥルドゥー"
+"35ドゥードゥルドゥー","35Doo Doodle Doo"
 "<enemy:121><cw:1><ch:1.5><CG拡大率:A,400,400>","<enemy:121><cw:1><ch:1.5><CG拡大率:A,400,400>"
-"36コレクター","36コレクター"
+"36コレクター","36Collector"
 "<enemy:124>","<enemy:124>"
-"37スイーパー","37スイーパー"
+"37スイーパー","37Sweeper"
 "<enemy:122>","<enemy:122>"
-"38イレイザー","38イレイザー"
+"38イレイザー","38Eraser"
 "<enemy:123><cw:1><ch:1.5><CG拡大率:A,400,400>","<enemy:123><cw:1><ch:1.5><CG拡大率:A,400,400>"
-"39ズドーン","39ズドーン"
-"40ボーン","40ボーン"
+"39ズドーン","39Thud"
+"40ボーン","40Bourne"
 "猫シャル","猫シャル"
 "人シャル","人シャル"
-"エイミー","エイミー"
-"ノノ","ノノ"
-"46リーパー","46リーパー"
+"エイミー","Amy"
+"ノノ","Nono"
+"46リーパー","46Reaper"
 "<enemy:125><cw:1><ch:1.5><CG拡大率:A,400,400>","<enemy:125><cw:1><ch:1.5><CG拡大率:A,400,400>"
-"47グリーヴァ","47グリーヴァ"
+"47グリーヴァ","47Griever"
 "<enemy:126><cw:1><ch:1.5><CG拡大率:A,500,500>","<enemy:126><cw:1><ch:1.5><CG拡大率:A,500,500>"
-"48アトラクター","48アトラクター"
+"48アトラクター","48Attracter"
 "<enemy:136>","<enemy:136>"
-"49ストレイギア","49ストレイギア"
+"49ストレイギア","49Stray Gear"
 "<enemy:134>","<enemy:134>"
-"50クルーエルギア","50クルーエルギア"
+"50クルーエルギア","50Cluel Gear"
 "<enemy:135><cw:1><ch:1.5><CG拡大率:A,400,400>","<enemy:135><cw:1><ch:1.5><CG拡大率:A,400,400>"
 "51","51"
 "<enemy:137><cw:1><ch:1.5><CG拡大率:A,400,400>","<enemy:137><cw:1><ch:1.5><CG拡大率:A,400,400>"
-"52キラービー","52キラービー"
+"52キラービー","52Killer Bee"
 "<enemy:140>","<enemy:140>"
-"53スラミー","53スラミー"
+"53スラミー","53Slamee"
 "<enemy:139>","<enemy:139>"
-"54デカスラミー","54デカスラミー"
+"54デカスラミー","54Big Slamee"
 "<enemy:141><cw:1><ch:1.5><CG拡大率:A,300,300>","<enemy:141><cw:1><ch:1.5><CG拡大率:A,300,300>"
-"55オーク","55オーク"
+"55オーク","55Orc"
 "<enemy:142>","<enemy:142>"
-"56ガード長","56ガード長"
+"56ガード長","56Head Guard"
 "<enemy:147>","<enemy:147>"
-"\>\C[14]痺れ罠だ！\C[0]","\>\C[14]痺れ罠だ！\C[0]"
-"マキサ","マキサ"
+"\>\C[14]痺れ罠だ！\C[0]","\>\C[14]It's a numbing trap！\C[0]"
+"マキサ","Makisa"
 "\n<\n[3]>痺れて動けないでしょ。
 れろぉ♥
-ほぉら♥こんなことされても抵抗できない♥","\n<\n[3]>痺れて動けないでしょ。
-れろぉ♥
-ほぉら♥こんなことされても抵抗できない♥"
+ほぉら♥こんなことされても抵抗できない♥","\n<\n[3]>Can't move because of how numbing it is, heh?
+rero♥
+ほぉら♥ To let such thing happened... even fighting back futile♥"
 "\n<\n[3]>戦いの最中にこんなに勃起させちゃって。
 敵の女に顔舐められて興奮してるの？
-あはははは♥","\n<\n[3]>戦いの最中にこんなに勃起させちゃって。
-敵の女に顔舐められて興奮してるの？
-あはははは♥"
+あはははは♥","\n<\n[3]>Even while fighting, your cock is erecting。
+Are you excited to let such a wicked woman lick your face?？
+Ahahahaha♥"
 "\n<\n[3]>ん？ひょっとして出ちゃった？
 まさかそんなわけないよね？
-触ってもいないのに♥くくく♥","\n<\n[3]>ん？ひょっとして出ちゃった？
-まさかそんなわけないよね？
-触ってもいないのに♥くくく♥"
-"58スラミー","58スラミー"
-"スラミーガール","スラミーガール"
-"立体起動","立体起動"
+触ってもいないのに♥くくく♥","\n<\n[3]>Hm？Did you came just now？
+It can't be that easy, right？
+I haven't even touched you yet♥ Kukuku♥"
+"58スラミー","58Slamee"
+"スラミーガール","Slimegirl"
+"立体起動","Physical form Activation"
 "<enemy:99><cw:1.3><ch:1.5>","<enemy:99><cw:1.3><ch:1.5>"
 "リリーチェイス",
 "リリー","Lily"
@@ -535,7 +535,7 @@ I'll definitely make you squirt this time-!"
 "ライムの部屋は1階のお風呂場だったはず。
 しっかり準備してから挑もう。","Lime should be in the bathroom on the first floor.
 Prepare yourself before you challenge her."
-"トラップライム","トラップライム"
+"トラップライム","Lime Trap"
 "\n<\n[3]>水たまりだと思ったー？
 私だよー♥じゅるるるー♥","\n<\n[3]>Did you think it was just a puddle-?
 It's me-♥ Sluuuuurp-♥"
@@ -640,16 +640,16 @@ I give up."
 それ貰うけど。ばいばーい！","\n<\n[3]>But if you feel like smooching again, just 
 tell me. I'll take that thing off your hands.
 Bye bye!"
-"アニメ回想","アニメ回想"
+"アニメ回想","Recollection scenes"
 "アニメビューアは使用できません。
-※ノーマルエンド後に解放条件が表示されます。","アニメビューアは使用できません。
-※ノーマルエンド後に解放条件が表示されます。"
+※ノーマルエンド後に解放条件が表示されます。","Viewing scenes is currently disabled。
+※Unlocking conditions with be shown after Normal end is reached。"
 "アニメビューアは使用できません。
-※リリスのLVを99にしてEXバトルに勝利すると解禁されます。","アニメビューアは使用できません。
-※リリスのLVを99にしてEXバトルに勝利すると解禁されます。"
+※リリスのLVを99にしてEXバトルに勝利すると解禁されます。","Viewing scenes is currently disabled。
+※Feature will unlock when Lilith reaches LVL99 and wins an EX battle"
 "アニメビューアを使用しますか？
-※作中のアニメを自由に見ることが出来ます。","アニメビューアを使用しますか？
-※作中のアニメを自由に見ることが出来ます。"
+※作中のアニメを自由に見ることが出来ます。","Do you want to use the Cutscene-viewer？
+※You can now freely view story cutscenes。"
 "使用する","Use"
 "やめておく","Maybe not."
 "\>キャラクターIDを選んでください　0～63","\>キャラクターIDを選んでください　0～63"
@@ -659,28 +659,27 @@ Bye bye!"
 "待機モーション",
 "解説を読む","Read commentary"
 "やめる","Exit"
-"終わる","終わる"
-"操作説明を表示する","操作説明を表示する"
-"操作説明を隠す","操作説明を隠す"
-"手コキ系","手コキ系"
+"終わる","End"
+"操作説明を表示する","Show gameplay tips"
+"操作説明を隠す","Hide gameplay tips"
+"手コキ系","Handjobs"
 "フェラ系","Blowjobs"
 "パイズリ系","Paizuri"
 "ピストン系","Pumping"
 "射精音","Ejaculation sound"
-"無し","無し"
-"強気","強気"
-"弱気","弱気"
-"絶頂","絶頂"
+"無し","No"
+"強気","Strengthened state"
+"弱気","Weakened state"
+"絶頂","Climax"
 "まずキャラクターIDを選択して見たいキャラを決定します。
 1つのIDにつき攻撃モーションが4種類×3(強気、弱気、射精）と
-待機モーションが3種類（強気、弱気、絶頂）あります。","まずキャラクターIDを選択して見たいキャラを決定します。
-1つのIDにつき攻撃モーションが4種類×3(強気、弱気、射精）と
-待機モーションが3種類（強気、弱気、絶頂）あります。"
+待機モーションが3種類（強気、弱気、絶頂）あります。","Firstly, select a character ID determine the character you with to see.
+Only one ID can be shown, 
+there will be 3 types of Attack Animation (Strengthened state, Weakened State, Climax) and
+3 types of Idle Animation (Strengthened state, Weakened State, Climax)"
 "『アニメを見る』を選択するとウィンドウが非表示になり
 方向キーを押すだけで表情や再生速度、射精アニメを
-自由に変更できます。","『アニメを見る』を選択するとウィンドウが非表示になり
-方向キーを押すだけで表情や再生速度、射精アニメを
-自由に変更できます。"
+自由に変更できます。","When viewing scenes, you can freely adjust appearance and replay speed by pressing directional keys from the hidden window"
 "上キー：射精アニメ切替　下キー：表情切替
 右キー：再生速度変更　　左キー：モーション変更
 SHIFT ：キャラID変更　　","Up key: Ejaculation animation Down key: Switch expression
@@ -692,9 +691,9 @@ PageDown：キャラクターID -1
 Page Down：Character ID -1
 Cancel key：Exit/Hide instructions"
 "『効果音』の選択肢から音を変更することが出来ます。
-音は再生速度によって速さが自動で変更されます。","『効果音』の選択肢から音を変更することが出来ます。
-音は再生速度によって速さが自動で変更されます。"
-"アーコアイテム",
+音は再生速度によって速さが自動で変更されます。","You can choose to change sound effects in Options.
+The sound speed will be automatically changed according to replay speed."
+"アーコアイテム","Ako's Item"
 "\n<アーコ>\n[1]、これ持って行って。
 早くみんなを助けよう！","\n<Ako>\n[1], take this.
 Let's hurry and save everybody!"
