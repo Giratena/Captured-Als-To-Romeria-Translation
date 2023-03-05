@@ -658,7 +658,7 @@ var $plugins =
     "status": true,
     "description": "フルスクリーンで起動プラグイン",
     "parameters": {
-      "シャットダウン": "シャットダウン",
+      "シャットダウン": "Shut down",
       "フルスクリーンで起動": "Open in Full Screen Mode"
     }
   },
