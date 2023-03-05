@@ -1,5 +1,5 @@
 "ベルーチェ","Velvet"
-" <enemy:144>",""
+" <enemy:144>",
 "ーーーーー基本変更点ーーーーー","ーーーーーBasic Changesーーーーー"
 "\n<\n[3]>捕まえた♥
 ほぉら。思い出すでしょ？
@@ -148,15 +148,15 @@ If Velvet is defeated first, your rate of attack will increase."
 "nwayAim 5 0.4 0 0.1 60 3 21 785",""
 "nwayAim 1 0 0.1 0.15 300 4 38 789",""
 "チョコレ","Chocolat"
-"ボス攻撃2",""
+"ボス攻撃2",
 "ショットガン","Shotgun"
-"nwayAim 4 0.2 0 0.2 100 1 3 795",""
-"nwayAim 8 0.2 0 0.2 100 1 3 795",""
+"nwayAim 4 0.2 0 0.2 100 1 3 795",
+"nwayAim 8 0.2 0 0.2 100 1 3 795",
 "マシンガン","Machine gun"
-"nwayAim 3 0.2 0 0.2 100 1 3 795",""
-"nwayAim 1 0.15 0 0.2 100 1 3 795",""
-"nwayAim 1 1 0 0 500 4 21 780",""
-"nwayAim 1 1 0 0 2000 4 21 780",""
-"nwayAim 1 1 0 0 500 4 54 780",""
-"nwayAim 1 1 0 0 2000 4 54 780",""
+"nwayAim 3 0.2 0 0.2 100 1 3 795",
+"nwayAim 1 0.15 0 0.2 100 1 3 795",
+"nwayAim 1 1 0 0 500 4 21 780",
+"nwayAim 1 1 0 0 2000 4 21 780",
+"nwayAim 1 1 0 0 500 4 54 780",
+"nwayAim 1 1 0 0 2000 4 54 780",
 "nwayAim 1 1 0 0 1000 4 54 780","Velvet"

@@ -35,15 +35,15 @@ Let's do this."
 "\n<リリー>早くしなさいよ。
 ひよってるワケじゃないわよね？","\n<Lily>Let's hurry.
 This is what we're here for, isn't it?"
-"EV002",""
-"EV003",""
+"EV002",
+"EV003",
 "休憩室","Lounge"
-"EV004",""
+"EV004",
 "生体実験室","Ecology Research Lab"
-"ウィッチラミア",""
-"とら",""
-"かまきり",""
-"EV009",""
+"ウィッチラミア","Witch Lamia"
+"とら",
+"かまきり","Mantis"
+"EV009",
 "\n<アーコ>すぐそこの部屋にみんなが捕まってるみたい。
 私はこっそり行くから、\n[1]達はがっつり行こう！
 正面から。","\n<Ako>Seems like they're all trapped in that room there.
@@ -55,14 +55,14 @@ Be careful!"
 "\n<リリー>・・・
 行きましょ。","\n<Lily>...
 Let's get going."
-"アーコ",""
-"EV011",""
+"アーコ","Ako"
+"EV011",
 "金属の箱で入口を塞いだ！
 雑魚淫魔たちはこれで出て来られないはず。
 今のうちにみんなを助けよう・・・！","Blocked the door with the metal box!
 The minion succubi won't be able to get out now.
 Time to save everybody...!"
-"EV012",""
+"EV012",
 "金属製の箱だ。
 下に紙きれのようなものが見える・・・
 しかし、2人では動かせそうにない。","A metal box.
@@ -73,9 +73,9 @@ However, two people alone won't be able to move it."
 Raising the banner"
 "読んでみる","Read"
 "やめておく","Maybe not."
-"EV013",""
-"EV014",""
+"EV013",
+"EV014",
 "休憩室のようだ。
 ここには用はない。","A lounge.
 You have no business here."
-"EV015",""
+"EV015",

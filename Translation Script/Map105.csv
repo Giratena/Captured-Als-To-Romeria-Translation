@@ -1,10 +1,10 @@
 "自動実行","自動実行"
 "食糧庫ドア","Pantry Door"
-"ネズミ","ネズミ"
+"ネズミ","Mouse"
 "捕まえた！","Caught it!"
 "EV006",
 "もう何も入っていない・・・","There's nothing there anymore..."
-"壁の穴",
+"壁の穴","Hole in the wall"
 " <enemy:99><cw:2><ch:2>",
 "ネズミが通れるサイズの穴が開いている・・・","There's a hole in the wall just the right size for a mouse..."
 "変数203（ARGP攻撃種類）
@@ -14,10 +14,10 @@
 1リンゴ　2皿　3卵",
 "穴は氷で塞がっている・・・","The hole is sealed with ice..."
 "\n<\n[1]>（悪い事しちゃったな・・・）","\n<\n[1]>(I feel bad about that...)"
-"ネズミ逃げ",""
-"EV010",""
-"引っかけ場所",""
-"<TE:立体起動>",""
+"ネズミ逃げ","Mouse escape"
+"EV010",
+"引っかけ場所",
+"<TE:立体起動>",
 "報告書","Report"
 "背が低いと高いところに手が届かなくて大変！
 わざわざわ椅子を持ってくるのも面倒！

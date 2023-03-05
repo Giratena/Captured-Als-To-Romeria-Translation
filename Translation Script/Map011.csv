@@ -1,5 +1,5 @@
-"扉",""
-" <enemy:99><cw:1.5><ch:1.5>",""
+"扉",
+" <enemy:99><cw:1.5><ch:1.5>",
 "機械仕掛けの扉だ。
 電気を流せば開くかも・・・？","A mechanical door.
 Will it open if you turn on the power...?"
@@ -19,7 +19,7 @@ If you must interfere, do so using an orc."
 "映像投影機が故障した場合は
 エレクタワーにて代わりの物を入手するように。","If a video monitor malfunctions,
 pick up a replacement from Elec Tower."
-"EV003",""
+"EV003",
 "・シィナ、ライムの無力化を確認。
 ・牢の鍵を見つけやすい場所に設置。
 ・アーコが拾ってしまったが問題ナシ。","・Confirmed Shina and Lime have been neutralized.
@@ -31,7 +31,7 @@ pick up a replacement from Elec Tower."
 "※\n[1]が屋敷の秘密に気付いた可能性あり。
 プランCを実行。職員は直ちに避難。","※\n[1] has likely discovered the mansion's secret.
 Execute Plan C. All staff evacuate immediately."
-"EV004",""
+"EV004",
 "・PM2:00　リリー、小説を読み、時折笑みを浮かべる
 ・PM2:30　ライム、身体に付着したゴミを取り除く作業
 ・PM3:00　シィナ、鼻くそをリリーの服に付ける","・2:00PM - Lily reads a novel, occasionally smiling to herself
@@ -43,7 +43,7 @@ Execute Plan C. All staff evacuate immediately."
 ・5:00PM - Lime begins preparing for dinner
 ・6:00PM - Shina rubs another booger on Lily's clothes"
 "\n<リリー>鼻くそ付け過ぎだろ！","\n<Lily>What's with all the boogers!?"
-"EV005",""
+"EV005",
 "・AM7:00　ライム、精奴隷に朝食を持っていく
 ・AM8:30　リリー、メイド服を着て鏡を見ている
 ・AM9:00　シィナ、爆睡中","・7:00AM - Lime brings breakfast to the semen slaves
@@ -81,12 +81,12 @@ But I don't have time to worry now. We have to keep going."
 精奴隷の癖に。","\n<Lily>You shut your mouth.
 I-I ought to slap you for saying that.
 Know your place, semen slave!"
-"EV006",""
+"EV006",
 "三馬鹿の監視記録というファイルが並んでいる・・・","Observation reports on three idiots line the shelf..."
 "\n<リリー>後で燃やすわ。
 これを書いたやつと一緒にね。","\n<Lily>I'll be burning these later.
 Along with whoever wrote them."
-"EV007",""
+"EV007",
 "チャーム（魅了魔法）について。
 チャームは簡潔に言うと
 対象を魅了し言いなりにする魔法である。","About charms (Charm magic)
@@ -110,12 +110,12 @@ about their charms being overwritten."
 （散々こき使ったけど。）","\n<Lily>Those pigs...
 How dare they deceive me.
 (Although I did work them to the bone.)"
-"EV008",""
-"EV009",""
-"EV010",""
+"EV008",
+"EV009",
+"EV010",
 "機械製の箱のようなものに屋敷の部屋が映し出されている・・・","One of the mansion's rooms is displayed in a strange, mechanical box..."
-"EV011",""
-"リリーの日記",""
+"EV011",
+"リリーの日記","Lily's Diary"
 "四角い箱のような機械に奇妙な部屋が映っている・・・
 これは一体・・・","A strange, mechanical box displays an image of a room...
 What in the world is this..."
@@ -123,14 +123,14 @@ What in the world is this..."
 アイツら・・・絶対許さない！！","\n<Lily>Shina...!
 Whoever you are... I'll never forgive you!!"
 "隣の部屋から何かが動く音がした・・・","You heard something move in the next room over..."
-"さわるな",""
+"さわるな","Do not touch"
 "触るな！と書かれている。","Do not touch!' is written here."
 "チョコレの実験記録
 淫魔の生態","Chocolat's Lab Report
 Succubus Ecology"
 "読んでみる","Read"
 "やめておく","Don't read"
-"EV015",""
+"EV015",
 "研究対象の3淫魔について","Concerning the 3 succubi"
 "シィナ
 おそらくノラネコが淫魔化したものと思われる。
@@ -150,16 +150,16 @@ Easily set off by trivial matters..."
 "\n<リリー>何なのよこの資料！
 ほぼ悪口じゃない！イラつくわ！","\n<Lily>Who wrote this!?
 This is slander! I am so angry now!"
-"EV016",""
-"EV017",""
-"EV018",""
-"EV019",""
-"EV020",""
-"EV021",""
-"EV022",""
-"モニター",""
-"EV024",""
-"EV025",""
-"EV026",""
-"薬",""
+"EV016",
+"EV017",
+"EV018",
+"EV019",
+"EV020",
+"EV021",
+"EV022",
+"モニター",
+"EV024",
+"EV025",
+"EV026",
+"薬",
 "もう使えそうなものはない。","Nothing else useful."
