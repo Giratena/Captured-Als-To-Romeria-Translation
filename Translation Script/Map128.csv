@@ -1,5 +1,5 @@
-"自動実行",""
-"リリーチェイス",""
+"自動実行",
+"リリーチェイス",
 "ーーーーー基本変更点ーーーーー","ーーーーーBasic Changesーーーーー"
 "リリー","Lily"
 "\n<\n[3]>ちゅっ♥ちゅぅぅ♥
@@ -9,9 +9,9 @@ Come on♥ Isn't this why you were peeping on me?
 Liick-♥"
 "\n<\n[3]>犯してほしかったんなら
 素直に言いなさいよね。
-じゅるるう♥れろぉぉ・・・♥","\n<\n[3]>If you wanted me to fuck you, 
-all you had to was ask.
-♥Sluurp...Lick♥"
+じゅるるう♥れろぉぉ・・・♥","\n<\n[3]>If you wanted me to milk you, 
+all you had to was ask nicely, you know?
+Sluurp...♥ Suuuck...♥"
 "\n<\n[3]>ほらぁ♥れろぉ♥
 これされると力入らなくなるでしょ？
 逃げなくていいのよ。じゅる♥","\n<\n[3]>There you go♥ Rub~rub~rub♥
@@ -34,19 +34,19 @@ It's coming out・・・♥
 Sluurrrrp♥"
 "掃除道具入れ","Cleaning supplies"
 "もうめぼしい物はない。","There's nothing else to find"
-"炎","Fire"
-" <enemy:99><ch:1.5>",""
-"灯り 5 3 255 0.3",""
+"炎",
+" <enemy:99><ch:1.5>",
+"灯り 5 3 255 0.3",
 "\n<\n[1]>あっつ！！！","\n<\n[1]>Hot！！！"
 "変数203（ARGP攻撃種類）
 1斬　2打撃　3水　4火　5雷
 6誘惑　7食べ物
 特殊206（個別攻撃種類）
-1リンゴ　2皿　3卵",""
-" <enemy:99><cw:1.5><ch:1.5>",""
-"立体起動",""
-"<enemy:99>",""
-"EV009",""
+1リンゴ　2皿　3卵",
+" <enemy:99><cw:1.5><ch:1.5>",
+"立体起動",
+"<enemy:99>",
+"EV009",
 "まずい・・・！逃げないと・・・！","This is bad...! Gotta get out...!"
 "逃走開始","Begin escape"
 "ヒント","Hint"
@@ -60,10 +60,10 @@ If your energy is low, you can recover it with deep breathing skills and items."
 "水たまりは一度踏むと消えます。
 避けられないと思った場合は水たまりを無視して進みましょう。","Puddles disappear once you step on them.
 If you think you can't avoid it, ignore the puddle and proceed."
-"ライム",""
-"<TE:トラップライム>",""
+"ライム",
+"<TE:トラップライム>",
 "食糧庫ドア","Pantry Door"
-"なんとか逃げ切った・・・","Managed to escape..."
+"なんとか逃げ切った・・・","I managed to escape..."
 "シィナ","Shina"
 "\n<\n[3]>踏まれに来たんだろー？
 おらおらおらぁー♥
@@ -96,9 +96,9 @@ Then go ahead and cum♥"
 お前も踏まれ足りないだろー？","\n<\n[3]>Ah. They really came。
 I wasn't even done stepping on them。
 You don't get trampled enough, do youー？"
-"EV044",""
-"EV045",""
-"EV046",""
-"痺れ罠",""
+"EV044",
+"EV045",
+"EV046",
+"痺れ罠",
 "\>\C[26]罠を回避した！","\>\C[26]Trap evaded！"
 "\>\C[14]バネの罠を踏んでしまった！\C[0]","\>\C[14]Stepped on the spring trap!\C[0]"
