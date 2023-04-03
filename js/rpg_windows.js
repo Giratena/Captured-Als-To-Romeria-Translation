@@ -3634,6 +3634,10 @@ Window_NameInput.prototype.windowHeight = function() {
 };
 
 Window_NameInput.prototype.table = function() {
+    return [Window_NameInput.LATIN1,
+        Window_NameInput.LATIN2];
+    
+    //Overwriting system language for English Translation
     if ($gameSystem.isJapanese()) {
         return [Window_NameInput.JAPAN1,
                 Window_NameInput.JAPAN2,
