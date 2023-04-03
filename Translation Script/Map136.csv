@@ -6,8 +6,8 @@
 いっぱい出た？","\n<Ako>This is the Game Clear Room.
 What kind of ending did you get this time?
 Did you cum lots?"
-"\n<アーコ>何か欲しい物ある？","\n<Ako>Did you want something?"
-"\n<アーコ>なんで片目隠してるの？","\n<Ako>Why are you covering your eyes?"
+"\n<アーコ>何か欲しい物ある？",\n<Ako>Did you want something?
+"\n<アーコ>なんで片目隠してるの？",\n<Ako>Why are you covering your eyes?
 "\n<アーコ>\n[1]って妹いたんだね。
 いや、こっちの話。
 こっち・・・そっち？","\n<Ako>\n[1], you have a sister, right?
@@ -37,23 +37,23 @@ least die feeling really good."
 あたしはしないけどね。そういうこと。","\n<Ako>But is that really ok?
 I think about that sometimes.
 I'm really not sure.... Such is life."
-"\n<アーコ>足コキ好きな人ってマゾだよね。","\n<Ako>People who like footjobs are all masochists."
+"\n<アーコ>足コキ好きな人ってマゾだよね。",\n<Ako>People who like footjobs are all masochists.
 "\n<アーコ>争いとかいざこざってきらい。
 お金で解決しよ。","\n<Ako>I despise fighting.
 Everything can be settled with money."
-"\n<アーコ>べらぼーに酔っ払いたい時ってあるよね。","\n<Ako>Sometimes you just wanna get drunk."
-"\n<\n[1]>何か嫌なことでもあったの？","\n<\n[1]>Is there anything you don't enjoy?"
-"\n<\n[1]>あるぜ。","\n<\n[1]>Alcoholic."
-"買い物","I'd like to buy."
-"用事はない","I don't need anything right now."
-"\n<アーコ>何を買ってくれるのかな？","\n<Ako>What would you like to buy?"
+"\n<アーコ>べらぼーに酔っ払いたい時ってあるよね。",\n<Ako>Sometimes you just wanna get drunk.
+"\n<\n[1]>何か嫌なことでもあったの？",\n<\n[1]>Is there anything you don't enjoy?
+"\n<\n[1]>あるぜ。",\n<\n[1]>Alcoholic.
+"買い物",I'd like to buy.
+"用事はない",I don't need anything right now.
+"\n<アーコ>何を買ってくれるのかな？",\n<Ako>What would you like to buy?
 "\n<アーコ>ははーん。さては冷やかしだな？
 ふーん！","\n<Ako>Haah. Did you just come to window shop or something?
 Hmmph!"
-"\n<アーコ>まいどあり～！","\n<Ako>Thank you for your purchase-!"
-"\n<アーコ>ふーん。","\n<Ako>Hmm."
-"EV002","EV002"
-"エンディング2はまだ見ていません。","You haven't unlocked ending 2."
+"\n<アーコ>まいどあり～！",\n<Ako>Thank you for your purchase-!
+"\n<アーコ>ふーん。",\n<Ako>Hmm.
+"EV002",EV002
+"エンディング2はまだ見ていません。",You haven't seen the 2nd ending yet.
 "エンディング2『サキュバスハンター』
 ・全員倒す","Ending 2: 『Succubus Hunter』
 ・Defeat everyone"
@@ -62,9 +62,9 @@ Hmmph!"
 それとも・・・","You completed your mission as a Succubus Hunter.
 Will Shina and Lime return to their old
 lives as a cat and slime? Or..."
-"EV003","EV003"
+"EV003",EV003
 "エンディング3はまだ見ていません。
-・搾り取られて拠点に戻る時にSAN値がマイナス","You haven't unlocked ending 3.
+・搾り取られて拠点に戻る時にSAN値がマイナス","You haven't seen the 3rd ending yet.
 ・Let yourself be drained,\nand let your SAN go below 0."
 "エンディング3『精奴隷の兄妹』
 ・SANがマイナスになる","Ending 3: 『Semen Slave Siblings』
@@ -72,9 +72,9 @@ lives as a cat and slime? Or..."
 "毎日ご飯を食べて、気持ちいいことをして、寝る。
 それ以上に幸福なことがあるだろうか。","Eat, sleep, and be pleasured, every single day.
 What more could anyone want?"
-"EV004","EV004"
+"EV004",EV004
 "エンディング4はまだ見ていません。
-・脱出する","You haven't unlocked ending 4.
+・脱出する","You haven't seen the 4th ending yet.
 ・Escape"
 "エンディング4『脱出成功救出失敗』
 ・ひとりで脱出する","Ending 4: 『Rescue Mission Failed』
@@ -85,9 +85,9 @@ She assembled a rescue team and came back,\nbut Alsto was already..."
 "\n[1]はひとりで脱出した。
 討伐隊を組み館に戻ったがロメリアは・・・","\n[1] escaped on his own.
 He assembled a rescue team and came back,\nbut Meria was already..."
-"EV005","EV005"
+"EV005",EV005
 "エンディング1はまだ見ていません。
-・最終決戦前に脱走する","You haven't unlocked ending 1.
+・最終決戦前に脱走する","You haven't seen the 1st ending yet.
 ・Escape before the final battle."
 "エンディング1『トゥルーエンド』
 ・リリーとの最終戦前に脱出する","Ending 1: 『True End』
@@ -98,10 +98,10 @@ are able to escape the mansion."
 "3淫魔はいつか\n[1]に復讐してやると
 固く誓うのであった・・・","The 3 succubi vow to take revenge
 upon \n[1] someday..."
-"サキュバステイマー1に続く。","To be continued in Succubus Tamer 1."
-"あとがき","Afterword"
-"回想全開放","Unlock all reminiscence"
-"何もしない","Do nothing"
+"サキュバステイマー1に続く。",To be continued in Succubus Tamer 1.
+"あとがき",Afterword
+"回想全開放",Unlock all reminiscence
+"何もしない",Do nothing
 "この度は『囚われのアルストロメリア』を遊んで頂き
 ありがとうございました。
 楽しんで頂けたでしょうか？","Thank you for playing
@@ -127,19 +127,19 @@ You cannot see the temptation events before the scenes."
 いいかもしれません。","Once revealed, the unlock requirements will be visible.
 If you're having difficulties, it may be a good
 idea to have a look."
-"全開放する","Unlock all"
-"やめておく","Maybe not."
+"全開放する",Unlock all
+"やめておく",Maybe not.
 "本当によろしいですか？
 ※アニメビューア、ミニマムビューアは解放されません","Are you really sure?
 ※Miniature and Animation viewers won't be unlocked"
-"はい","Yes"
+"はい",Yes
 "やっぱりやめておく","Actually, no"
-"二部クリア","EV007"
-"周回プレイを始める","Start a new run"
-"説明","Explanation"
-"オープニングからアーコ遭遇後までスキップしますか？","Skip the opening until after meeting Ako?"
-"スキップしない","Don't skip"
-"スキップする","Skip"
+"二部クリア",EV007
+"周回プレイを始める",Start a new run
+"説明",Explanation
+"オープニングからアーコ遭遇後までスキップしますか？",Skip the opening until after meeting Ako?
+"スキップしない",Don't skip
+"スキップする",Skip
 "もう一度初めからスタート出来ます。
 ゲームの進行上必要になるアイテムやフラグは初期化されます。","You will start the game over.
 Key items and progression flags will all be reset."
@@ -151,67 +151,67 @@ Key items and progression flags will all be reset."
 "引き継げないもの
 ・武器　・重要なアイテム　・レベル","Not carried over:
 ・Weapons ・Key items ・Level"
-"2部から始める","Start from part 2"
-"シィナ","Shina"
-"シィナ　最初の脱獄で見つかる　騎乗位","Shina - Found during initial jailbreak - Cowgirl"
-"回想","Reminisce"
-"シィナ　誘惑　オナさせ","Shina - Temptation - Masturbation"
+"2部から始める",Start from part 2
+"シィナ",Shina
+"シィナ　最初の脱獄で見つかる　騎乗位",Shina - Found during initial jailbreak - Cowgirl
+"回想",Reminisce
+"シィナ　誘惑　オナさせ",Shina - Temptation - Masturbation
 "シィナ　捕まる　手コキ
 ・女主人公の場合アニメ変化","Shina - Captured - Handjob
 ・Animation changes for female protag"
-"シィナ　風呂場　パンツコキ","Shina - Bathroom - Pantyjob"
-"シィナ　暗闇　騎乗位","Shina - Darkness - Cowgirl"
-"シィナ　暗闇　太ももコキ","Shina - Darkness - Intercrural"
-"シィナ　捕まる　フェラ","Shina - Captured - Blowjob"
-"シィナ　捕まる　クンニ","Shina - Captured - Face sitting"
-"シィナ　捕まる　顔踏み","Shina - Captured - Face stepping"
-"シィナ　部屋イベ　誘惑バック","Shina - Room event - Doggy style"
-"シィナ　植木鉢　ほっぺすりすり","Shina - Flower pot - Cheek nuzzle"
-"リリー","Lily"
-"リリー　誘惑　オナさせ","Lily - Temptation - Masturbation"
-"リリー　捕まる　足コキ","Lily - Captured - Footjob"
-"リリー　挿入イベント　バック自滅","Lily - Command event - Doggy style self-destruct"
-"リリー　挿入イベント　バック不意打ち","Lily - Command event - Doggy style surprise"
-"リリー　暗闇　キス","Lily - Darkness - Kiss"
-"リリー　暗闇　足コキ","Lily - Darkness - Footjob"
-"リリー　捕まる　太ももコキ","Lily - Captured - Intercrural"
-"リリー　捕まる　押し倒しキス","Lily - Captured - Straddling kiss"
-"リリー　捕まる　ケツ見せ","Lily - Captured - Presenting ass"
-"リリー　炎の魔導書　フェラ","Lily - Fire tome - Blowjob"
-"リリー　氷の魔導書　足コキ","Lily - Ice tome - Footjob"
-"ライム　捕まる　パイズリ","Lime - Captured - Paizuri"
-"ライム　誘惑　パイズリ","Lime - Temptation - Paizuri"
-"ライム　暗闇　パイズリ","Lime - Darkness - Paizuri"
-"ライム　暗闇　足挿入","Lime - Darkness - Foot insertion"
-"ライム　捕まる　胸押し付け","Lime - Captured - Puff Puff"
-"ライム　捕まる　足コキ","Lime - Captured - Footjob"
-"ライム　捕まる　寝パイズリ","Lime - Captured - Lying paizuri"
-"ライム　豪華な鍵　乳首挿入","Lime - Luxurious key - Nipple fucking"
-"サンタ","Santa"
+"シィナ　風呂場　パンツコキ",Shina - Bathroom - Pantyjob
+"シィナ　暗闇　騎乗位",Shina - Darkness - Cowgirl
+"シィナ　暗闇　太ももコキ",Shina - Darkness - Intercrural
+"シィナ　捕まる　フェラ",Shina - Captured - Blowjob
+"シィナ　捕まる　クンニ",Shina - Captured - Face sitting
+"シィナ　捕まる　顔踏み",Shina - Captured - Face stepping
+"シィナ　部屋イベ　誘惑バック",Shina - Room event - Doggy style
+"シィナ　植木鉢　ほっぺすりすり",Shina - Flower pot - Cheek nuzzle
+"リリー",Lily
+"リリー　誘惑　オナさせ",Lily - Temptation - Masturbation
+"リリー　捕まる　足コキ",Lily - Captured - Footjob
+"リリー　挿入イベント　バック自滅",Lily - Command event - Doggy style self-destruct
+"リリー　挿入イベント　バック不意打ち",Lily - Command event - Doggy style surprise
+"リリー　暗闇　キス",Lily - Darkness - Kiss
+"リリー　暗闇　足コキ",Lily - Darkness - Footjob
+"リリー　捕まる　太ももコキ",Lily - Captured - Intercrural
+"リリー　捕まる　押し倒しキス",Lily - Captured - Straddling kiss
+"リリー　捕まる　ケツ見せ",Lily - Captured - Presenting ass
+"リリー　炎の魔導書　フェラ",Lily - Fire tome - Blowjob
+"リリー　氷の魔導書　足コキ",Lily - Ice tome - Footjob
+"ライム　捕まる　パイズリ",Lime - Captured - Paizuri
+"ライム　誘惑　パイズリ",Lime - Temptation - Paizuri
+"ライム　暗闇　パイズリ",Lime - Darkness - Paizuri
+"ライム　暗闇　足挿入",Lime - Darkness - Foot insertion
+"ライム　捕まる　胸押し付け",Lime - Captured - Puff Puff
+"ライム　捕まる　足コキ",Lime - Captured - Footjob
+"ライム　捕まる　寝パイズリ",Lime - Captured - Lying paizuri
+"ライム　豪華な鍵　乳首挿入",Lime - Luxurious key - Nipple fucking
+"サンタ",Santa
 "\n<サンタ>疲れた？
 一本いっとく？","\n<Santa>Feeling tired?
 Want to have a rest?"
-"いっとく","Rest"
-"何か教えて","Tell me something"
-"やめとく","Leave"
+"いっとく",Rest
+"何か教えて",Tell me something
+"やめとく",Leave
 "\n<サンタ>キミは大体トータルで\v[502]回ぐらい射精したよ。
 カウントし忘れたものもあると思うけど。","\n<Santa>You must have ejaculated around \v[502] times.
 I might have missed a few."
 "\n<\n[1]>そ、そんなもんか・・・
 よかった。（もっと出しちゃってるかと思った・・・）","\n<\n[1]>I-is that so...
 Interesting. (I could have sworn it was more...)"
-"\n<\n[1]>ハンターとしては及第点だな。","\n<\n[1]>It's all part of being a Hunter."
-"\n<サンタ>中の人はどうか分からないけどね。","\n<Santa>I don't know what it's like in the industry."
+"\n<\n[1]>ハンターとしては及第点だな。",\n<\n[1]>It's all part of being a Hunter.
+"\n<サンタ>中の人はどうか分からないけどね。",\n<Santa>I don't know what it's like in the industry.
 "\n<\n[1]>そんなこと教えないで！
 もう！出ちゃうんだから仕方ないじゃん・・・","\n<\n[1]>Hey, don't tell me that!
 I-it's bound to happen during a mission..."
-"\n<\n[1]>なんだと！？","\n<\n[1]>What did you say!?"
+"\n<\n[1]>なんだと！？",\n<\n[1]>What did you say!?
 "\n<サンタ>淫魔ってやばいね。そりゃ死ぬわ。","\n<Santa>Succubi are dangerous, huh. Least you're not dead."
-"\n<サンタ>元気だね。","\n<Santa>Take care."
+"\n<サンタ>元気だね。",\n<Santa>Take care.
 "アーコの横取り
 探索パート　落ちているアイテムを拾った時に低確率で発生","Ako item snatch-up
 Occurs rarely when picking up an item."
-"アーコ　横取り　キス","Ako - Stealing - Kiss"
+"アーコ　横取り　キス",Ako - Stealing - Kiss
 "リリー　シィナ　ライム
 最初の隠れるイベント失敗","Lily, Shina, Lime
 Failed the first hiding event"
@@ -294,32 +294,32 @@ Changes at SAN 0～3、4～6、7～8、9～10"
 "→イベント敗北シーン
 アイテム入手時の誘惑イベントや罠で搾り取られると解放","→Event defeat scenes
 Unlocked by being drained in a temptation event \nor trap after collecting an item"
-"→アーコ","→Ako"
+"→アーコ",→Ako
 "→特殊なえっちシーン
 男女で内容が異なるものなど（ロメリア）","→Special scenes
 These scenes differ between male and female protagonists"
-"アーコ　バトル","Ako - Battle"
+"アーコ　バトル",Ako - Battle
 "ライム　夜食
 ライム依存度3以上
 地下牢で寝る","Lime - Midnight snack
 Lime's reliance is 3 or higher
 Sleep in prison cell"
-"アーコ　マネードレインイベント","Ako - Money drain event"
+"アーコ　マネードレインイベント",Ako - Money drain event
 "お金",
 "自動実行",
 "性別変更",
 "\n<ロメリア>あにき。
 私と交代する？","\n<Meria>Brother.
 Want to switch with me?"
-"交代する","Switch"
-"交代しない","Don't switch"
+"交代する",Switch
+"交代しない",Don't switch
 "\n<ロメリア>よし！
 じゃあ私の番だね！
 あにきは黙って見ててよ！","\n<Meria>Right!
 It's my turn!
 Just sit back and watch, brother!"
 "ロメリア",
-"\n<\n[1]>うん。頑張ろ！","\n<\n[1]>Ok. I'm gonna do it!"
+"\n<\n[1]>うん。頑張ろ！",\n<\n[1]>Ok. I'm gonna do it!
 "※顔グラ表示、立ち絵アニメ、主人公ボイスがONになりました。
 必要が無い場合はオプションからOFFにしてください。","※Face graphic, player animation and voice are ON.
 If not needed, please switch OFF in options."
@@ -346,11 +346,11 @@ Did you want to swap out?"
 Just leave it to me."
 "アルス",
 "\n<\n[1]>さてと、全力で逃げるぜ。","\n<\n[1]>Right, I'm gonna go all out."
-"\n<ロメリア>あにきかっこわるーい。","\n<Meria>Big brother is so cool."
+"\n<ロメリア>あにきかっこわるーい。",\n<Meria>Big brother is so cool.
 "※顔グラ表示がON、立ち絵アニメがOFFになりました。
 必要に応じてオプションから変更してください。","※Face graphic is on, player animation is OFF.
 Please make the needed changes in the options menu."
-"\n<アルス>俺も檻から出たいぜ。","\n<Alsto>I want to get out of the cage sometime too."
+"\n<アルス>俺も檻から出たいぜ。",\n<Alsto>I want to get out of the cage sometime too.
 "\n<アルス>主人公を交代することが出来るぞ。
 たまには気分を変えるのもアリかもな。","\n<Alsto>You can change your main character.
 It's good to change things up sometimes."
@@ -359,11 +359,11 @@ It's good to change things up sometimes."
 気を付けてくれ。","\n<Alsto>Keep in mind, your name will reset to default.
 The face graphics and player animations settings will 
 change. Be careful."
-"リリーの日記","Lily's Diary"
+"リリーの日記",Lily's Diary
 "リリーの日記
 ミスト屋敷襲撃","Lily's Diary
 Misty mansion attack"
-"読んでみる","Read"
+"読んでみる",Read
 "リリーの日記
 シィナとの出会い","Lily's Diary
 Meeting Shina"
@@ -376,18 +376,18 @@ A delicious meal for a semen slave"
 "ライムの日記
 お風呂でピザ","Lime's Diary
 Pizza in the bath"
-"ライムの日記","Lime's Diary"
-"ヒントを見る","See a hint"
-"自力で探す","Search by yourself"
-"浴場で入手できます。","Found in the bath house."
-"答えを見る","See answer"
+"ライムの日記",Lime's Diary
+"ヒントを見る",See a hint
+"自力で探す",Search by yourself
+"浴場で入手できます。",Found in the bath house.
+"答えを見る",See answer
 "浴場の左側へフックショットで飛び
 暖炉の火を氷属性の攻撃で全て消してください。","Hookshot to the left side of the bath house.
 Extinguish all fireplaces using ice attacks."
 "ライムの日記
 水かけ論","Lime's Diary
 Pointless argument"
-"応接室で入手できます。","Found in the parlor."
+"応接室で入手できます。",Found in the parlor.
 "応接室の暖炉の火を氷属性の攻撃で消し、
 隠し通路から倉庫に入ってください。","Extinguish the fireplace in the parlor with an
 ice attack. Enter the warehouse via the hidden passage."
@@ -397,7 +397,7 @@ Being watched..."
 "ライムの日記
 誘惑して脱獄","Lime's Diary
 Jailbreak seduction"
-"バルコニーで入手できます。","Found on the balcony."
+"バルコニーで入手できます。",Found on the balcony.
 "バルコニーの左端からプラスショットを装備したまま
 フックショットを撃って煙突に引っかけてください。","From the left end of the balcony, with Plus Shot 
 equipped, fire the hookshot to the chimney."
@@ -416,8 +416,8 @@ Calling the search"
 "リリーの日記
 ライム式ダイエット","Lily's Diary
 Lime-style diet"
-"メイド室で入手できます。","Found in the maid's room."
-"右下のベッドのクマのぬいぐるみを複数回調べてください。","Examine the bear on the lower right bed multiple times."
+"メイド室で入手できます。",Found in the maid's room.
+"右下のベッドのクマのぬいぐるみを複数回調べてください。",Examine the bear on the lower right bed multiple times.
 "リリーの日記
 恋愛小説","Lily's Diary
 Romance novel"
@@ -440,13 +440,13 @@ Attacked by a futanari succubus"
 "リリーの日記
 知識VS直感","Lily's Diary
 Knowledge VS Intuition"
-"倉庫で入手できます。","Found in the warehouse."
-"灯りを付けることで読めるようになります。","Read it by turning on the light."
+"倉庫で入手できます。",Found in the warehouse.
+"灯りを付けることで読めるようになります。",Read it by turning on the light.
 "リリーの日記
 オークはどこから","Lily's Diary
 Where did these orcs come from?"
-"→3淫魔","→All 3 succubi"
-"シィナ　館主の部屋　チンキス","Shina - Master's room - Penis kissing"
+"→3淫魔",→All 3 succubi
+"シィナ　館主の部屋　チンキス",Shina - Master's room - Penis kissing
 "リリー　シィナ　ダブル足コキ
 リリーとシィナ依存度3以上
 地下牢で寝る","Lily - Shina - Double footjob
@@ -466,10 +466,10 @@ SAN値が3以下の時に地下牢で寝る
 Sleep in prison cell while SAN is 3 or lower
 ※Male protagonist only"
 "レベルアップくん",
-"レベルを操作出来ます。","You can change your level."
-"上げる","Increase"
-"下げる","Decrease"
-"やめる","Stop"
+"レベルを操作出来ます。",You can change your level.
+"上げる",Increase
+"下げる",Decrease
+"やめる",Stop
 "アーコの帳簿
 アーコに15000G貢ぐとアーコの近くに帳簿が出現","Ako's Ledger
 The ledger will appear near Ako after giving her 15000G."
@@ -505,7 +505,7 @@ A cat's life"
 ・しゃぶり敗北　・もぐもぐ敗北（捕食あり）","Lily - Shrunken battle
 ・Breath defeat ・Licking defeat
 ・Sucking defeat ・Munching defeat (vore)"
-"→特殊イベント","→Special events"
+"→特殊イベント",→Special events
 "ロメリアとベロチュー
 男主人公、SAN値が3以下、精力が低い状態で話しかける","Meria's french kiss
 Male protagonist, speak while SAN is 3 or less, \nand energy is low."
@@ -529,7 +529,7 @@ D-gateさんの頂きもの小説
 ※女主人公","Lily vore
 Written by D-gate
 ※Female protagonist"
-"読む","Read"
+"読む",Read
 "チョコレの実験記録
 淫魔の生態","Chocolat's Lab Records
 Succubus ecology"
@@ -559,7 +559,7 @@ Creative cuisine"
 "EV107",
 "エンディング5はまだ見ていません。
 ・リリー達の日記を全部読んでからリリーを倒す
-・第2部シナリオをクリアする","You haven't unlocked ending 5.
+・第2部シナリオをクリアする","You haven't seen the 2nd ending yet. 5.
 ・Read all of Lily's diaries before defeating her.
 ・Clear act 2"
 "エンディング5『人間と淫魔の違い』
@@ -581,7 +581,7 @@ Grunts"
 "→第2部の日記
 全て読むとミニマムビューアが解放される","→Part 2 Diaries
 Read them all to unlock Shrunken Viewer"
-"とら","Tiger"
+"とら",Tiger
 "つよとら
 またたびでラリっていないとらを倒すと解放","Strong Tiger
 Unlocked by defeating without getting her \nhigh on silver vine"
@@ -621,18 +621,18 @@ Boss"
 "チョコレ　イカせ合い
 ・通常敗北","Chocolate - Sex battle
 ・Normal defeat"
-"チョコレ　接触1　顔舐め","Chocolate - Caught(1) - Face licking"
-"チョコレ　接触2　パフパフ","Chocolate - Caught(2) - Puff Puff"
-"チョコレ　媚薬ばら撒き　クンニ","Chocolate - Aphrodisiac - Cunnilingus"
-"チョコレ　最後の誘惑　騎乗位","Chocolate - Final temptation - Cowgirl"
-"ベルーチェ　接触1　キス","Velvet - Caught(1) - Kiss"
-"ベルーチェ　接触2　手コキ","Velvet - Caught(2) - Handjob"
-"ベルーチェ　遠距離誘惑　胸見せ","Velvet - Long-distance temptation - Bare chest"
-"ベルーチェ　命乞い挿入","Velvet - Begging insertion"
-"チョコレ　ベルーチェ　体力0敗北","Chocolate - Velvet - 0HP loss"
-"リリー　お礼　キス手コキ","Lily - Thank you - Kiss and handjob"
-"→その他の日記","→Other Diaries"
-"アニメ回想","Animation Viewer"
+"チョコレ　接触1　顔舐め",Chocolate - Caught(1) - Face licking
+"チョコレ　接触2　パフパフ",Chocolate - Caught(2) - Puff Puff
+"チョコレ　媚薬ばら撒き　クンニ",Chocolate - Aphrodisiac - Cunnilingus
+"チョコレ　最後の誘惑　騎乗位",Chocolate - Final temptation - Cowgirl
+"ベルーチェ　接触1　キス",Velvet - Caught(1) - Kiss
+"ベルーチェ　接触2　手コキ",Velvet - Caught(2) - Handjob
+"ベルーチェ　遠距離誘惑　胸見せ",Velvet - Long-distance temptation - Bare chest
+"ベルーチェ　命乞い挿入",Velvet - Begging insertion
+"チョコレ　ベルーチェ　体力0敗北",Chocolate - Velvet - 0HP loss
+"リリー　お礼　キス手コキ",Lily - Thank you - Kiss and handjob
+"→その他の日記",→Other Diaries
+"アニメ回想",Animation Viewer
 "アニメビューアは使用できません。
 解放されると作中のアニメを自由に再生することができます。
 ※全てのエンディングを見ると解放","Animation Viewer is not unlocked.
@@ -641,25 +641,25 @@ Once unlocked, you can recall any animation in the game.
 "アニメビューアを使用しますか？
 ※作中のアニメを自由に見ることが出来ます。","Use the Animation Viewer?
 ※You can recall any animation in the game."
-"使用する","Use"
-"\>キャラクターIDを選んでください　1～33","Please select a character ID 1～33"
-"キャラID","Character ID"
-"アニメを見る","View animations"
-"効果音","Sound effects"
-"待機モーション","Standby animation"
-"解説を読む","Read commentary"
-"終わる","Finish"
-"操作説明を表示する","View controls"
-"操作説明を隠す","Hide controls"
-"手コキ系","Handjobs"
-"フェラ系","Blowjobs"
-"パイズリ系","Paizuri"
-"ピストン系","Pumping"
-"射精音","Ejaculation sound"
-"無し","Nothing"
-"強気","Strong"
-"弱気","Weak"
-"絶頂","Climax"
+"使用する",Use
+"\>キャラクターIDを選んでください　1～33",Please select a character ID 1～33
+"キャラID",Character ID
+"アニメを見る",View animations
+"効果音",Sound effects
+"待機モーション",Standby animation
+"解説を読む",Read commentary
+"終わる",Finish
+"操作説明を表示する",View controls
+"操作説明を隠す",Hide controls
+"手コキ系",Handjobs
+"フェラ系",Blowjobs
+"パイズリ系",Paizuri
+"ピストン系",Pumping
+"射精音",Ejaculation sound
+"無し",Nothing
+"強気",Strong
+"弱気",Weak
+"絶頂",Climax
 "まずキャラクターIDを選択して見たいキャラを決定します。
 1つのIDにつき攻撃モーションが4種類×3(強気、弱気、射精）と
 待機モーションが3種類（強気、弱気、絶頂）あります。","First, select the character ID you want.
@@ -688,16 +688,16 @@ Cancel key：Exit/Hide instructions"
 "『効果音』の選択肢から音を変更することが出来ます。
 音は再生速度によって速さが自動で変更されます。","You can change the sounds from 『Sound effects』.
 The speed of the sound adjusts to the playback speed."
-"BGM変更","Change BGM"
-"敗北シーンのBGMを変更できます。","You can change the BGM of the defeat scenes."
-"変える","Change"
-"このままでいい","This is fine"
+"BGM変更",Change BGM
+"敗北シーンのBGMを変更できます。",You can change the BGM of the defeat scenes.
+"変える",Change
+"このままでいい",This is fine
 "ミニマムビューアは使用できません。
 解放されると飲み込まれアニメなどを再生することができます。
 ※第2部の日記を全て集めると解放","Minimum Viewer is not available.
 Once unlocked, you can view all swallowing animations.
 ※Unlocked by collecting all Part 2 diaries."
-"ミニマムビューアを使用しますか？","Use the Minimum Viewer?"
-"ウィッチラミア","Witch Lamia"
-"マンティス","Mantis"
-"オーク","Orc"
+"ミニマムビューアを使用しますか？",Use the Minimum Viewer?
+"ウィッチラミア",Witch Lamia
+"マンティス",Mantis
+"オーク",Orc
