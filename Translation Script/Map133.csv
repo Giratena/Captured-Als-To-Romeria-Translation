@@ -6,7 +6,7 @@
 "\n<ロメリア>えっ！？
 あにき！？
 どうやって外に・・・鉄格子は！？","\n<Meria>Ehh!?
-Alsy!?
+big brother!?
 That was an iron cell...how did you get out!?"
 "開いてた","It opened."
 "擦ったら摩擦で溶けた","I rubbed it really hard and it melted."
@@ -18,7 +18,7 @@ What a stroke of luck...!"
 "\n<ロメリア>いや、待って。怪しい・・・
 罠かもしれない。気を付けてあにき。
 あいつら、何か企んでるのかも。","\n<Meria>No, wait. That's too suspicious...
-It might be a trap. You should be careful Alsy,
+It might be a trap. You should be careful big brother,
 they could be plotting something."
 "\n<ロメリア>あれだけ搾られた癖に冗談言うなんて余裕あるね。
 さすがあにき。
@@ -112,7 +112,7 @@ Be careful, \n[1].
 Don't do anything rash."
 "\n<アルス>ぐぅ～・・・・（腹の鳴る音）","\n<Alsto>*Gurgle...* (You can hear his belly rumble)"
 "\n<\n[1]>あにき、お腹鳴ってるよ。
-何か食べ物があったら持ってくるね。","\n<\n[1]>Alsy, I can hear your stomach groaning.
+何か食べ物があったら持ってくるね。","\n<\n[1]>Big brother, I can hear your stomach groaning.
 I'll bring back some food for you, okay?"
 "\n<アルス>う・・・悪い。
 余裕があったらでいいぞ。","\n<Alsto>I'm...fine.
@@ -163,7 +163,7 @@ Search for another way out."
 The flower Alstroemeria symbolizes, ""to look to the future.""
 We have to get out of here no matter what. Hold that belief dear."
 "\n<\n[1]>うん。ありがとあにき。
-でもそれ恥ずかしいから外で言わないでね。","\n<\n[1]>Yeah. Thanks, Alsy.
+でもそれ恥ずかしいから外で言わないでね。","\n<\n[1]>Yeah. Thanks, big brother.
 But never say that in front of anyone,
 it's a bit embarrassing."
 "\n<ロメリア>あにき。頼りにしてる。
@@ -185,7 +185,7 @@ I don't think it's so bad."
 あんまり淫魔相手にえっちなこと考えないでよ？
 魔物なんだからね。化け物だよ。","\n<Meria>I guess there's no way around this but... Try not to think
 too much about doing lewd things with those
-succubi, OK? They're demons after all right? Monsters!"
+succubi, OK? They're demons after all, right? Monsters!"
 "EV004","EV004"
 "鉄格子は硬く閉ざされている・・・","The iron bars have been securely fastened..."
 "EV005","EV005"

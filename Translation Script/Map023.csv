@@ -1,13 +1,13 @@
 "リリー","Lily"
 "ライム","Lime"
-"シィナ1",""
-"ロメリア/アルス",""
-"てかせ",""
+"シィナ1",
+"ロメリア/アルス",
+"てかせ",
 "ベルーチェ","Velvet"
-"剣",""
+"剣",
 "チョコレ","Chocolat"
 "<enemy:99>","<enemy:99>"
-"MP_SET_MOVIE チョコレ立ち絵アニメ",""
+"MP_SET_MOVIE チョコレ立ち絵アニメ",
 "MP_SET_LOOP 20 on","MP_SET_LOOP 20 on"
 "\n<チョコレ>やったぁ♥
 また気持ちよくしてくれるんれすね♥
@@ -91,13 +91,13 @@ You sure you don't want to surrender?"
 "\n<ライム>\n[1]・・・頑張って・・・
 （どきどき。）","\n<Lime>\n[1]... You've got this...
 (Ba-bump, ba-bump)"
-"箱",""
+"箱",
 "<enemy:99><cw:1.3><ch:1.5>","<enemy:99><cw:1.3><ch:1.5>"
 "箱のようなものがあるが
 高くて手が届かない・・・","There's some kind of chest up there.
 It's too high up to reach..."
-"EV010",""
-"EV011",""
+"EV010",
+"EV011",
 "EV012","EV012"
 "チョコレを倒すには・・・","How to defeat Chocolat..."
 "答えを見る","See answer"

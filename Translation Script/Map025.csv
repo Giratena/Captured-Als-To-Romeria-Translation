@@ -1,6 +1,6 @@
 "リリー","Lily"
 "ライム","Lime"
-"シィナ1",""
+"シィナ1",
 "ロメリア/アルス","Romeria/Als"
 "てかせ","handcuffs"
 "ベルーチェ","Velvet"
@@ -27,9 +27,9 @@ This is as good I as expected・・・♥
 Haa・・・Haa・・・♥"
 "\n<リリー>・・・？
 こいつ・・・
-イったのにあんまり効いてない・・・？","\n<Lily>・・・？
-This one・・・
-イったのにあんまり効いてない・・・？"
+イったのにあんまり効いてない・・・？","\n<Lily>...?
+This girl...
+Even though she came, it had no effect...?"
 "\n<チョコレ>もっと気持ちいいのほしいれす♥
 次の勝負しよ♥きてきて♥","\n<Chocolat>I wanna feel good even more♥
 Let's fight again♥ Come here♥"
@@ -90,4 +90,4 @@ We're gonna beat \n[1] by force it is."
 "\n<ロメリア>剣持ったあにきは超強いよ。
 今のうちに降参しといたら？","\n<Romeria>My brother with a sword is really strong。
 Why not surrender while you're at it?"
-"EV010",""
+"EV010",
