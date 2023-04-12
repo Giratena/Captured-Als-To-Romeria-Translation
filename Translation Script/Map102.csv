@@ -114,7 +114,7 @@ Be careful, \n[1].
 Don't do anything rash."
 "\n<アルス>ぐぅ～・・・・（腹の鳴る音）","\n<Alsto>*Gurgle...* (You can hear his belly rumble)"
 "\n<\n[1]>あにき、お腹鳴ってるよ。
-何か食べ物があったら持ってくるね。","\n<\n[1]>Alsy, I can hear your stomach groaning.
+何か食べ物があったら持ってくるね。","\n<\n[1]>Big brother, I can hear your stomach groaning.
 I'll bring back some food for you, okay?"
 "\n<アルス>う・・・悪い。
 余裕があったらでいいぞ。","\n<Alsto>I'm...fine.
@@ -165,7 +165,7 @@ Search for another way out."
 The flower Alstroemeria symbolizes, ""to look to the future.""
 We have to get out of here no matter what. Hold that belief dear."
 "\n<\n[1]>うん。ありがとあにき。
-でもそれ恥ずかしいから外で言わないでね。","\n<\n[1]>Yeah. Thanks, Alsy.
+でもそれ恥ずかしいから外で言わないでね。","\n<\n[1]>Yeah. Thanks, big brother.
 But never say that in front of anyone,
 it's a bit embarrassing."
 "\n<ロメリア>あにき。頼りにしてる。
@@ -187,7 +187,7 @@ I don't think it's so bad."
 あんまり淫魔相手にえっちなこと考えないでよ？
 魔物なんだからね。化け物だよ。","\n<Meria>I guess there's no way around this but... Try not to think
 too much about doing lewd things with those
-succubi, OK? They're demons after all right? Monsters!"
+succubi, OK? They're demons after all, right? Monsters!"
 "\C[3]戦わずに帰る","\C[3]Leave without fighting"
 "戦いに行く","Go and fight"
 "鉄格子の鍵を使った！","Used the Prison Key!"
@@ -196,7 +196,7 @@ succubi, OK? They're demons after all right? Monsters!"
 \n[1]!! You did it!!"
 "\n<ロメリア>開いた！！
 あにき！ありがとう！","\n<Meria>It opened!!
-Alsy! Thank you!"
+Big brother! Thank you!"
 "\n<アーコ>\n[1]・・・！
 サンタがロープ持ってきてくれたよ！
 逃げよう！","\n<Ako>\n[1]...!
@@ -211,7 +211,7 @@ You're a grown lady now. I'm proud to be your brother."
 分かった。
 待ってる。あにき。大好きだよ。","\n<Meria>So you're going to fight huh?
 Got it. I'll be waiting for you.
-I love you Alsy!"
+I love you big brother!"
 "EV004","EV004"
 "鉄格子は硬く閉ざされている・・・","The iron bars have been securely fastened..."
 "EV005","EV005"
@@ -399,7 +399,7 @@ You're somehow still alive. I'm so glad..."
 よくも妹を酷い目に・・・","\n<Alsto>Those guys...
 How dare they do such a thing to my sister..."
 "ちんこ付けられた","They gave me a penis."
-"あにきは大丈夫？","Are you okay Alsy?"
+"あにきは大丈夫？","Are you okay big brother?"
 "\n<アルス>そうか・・・
 まぁ、よくあることだ。
 お前もサキュバスハンターなら気にするな。","\n<Alsto>I see...
@@ -410,7 +410,7 @@ you've got nothing to fear."
 良かったな。","\n<Alsto>It's better than being converted to their side I'd say.
 Having something like a dick is nothing.
 I'm glad you're okay."
-"\n<\n[1]>ばかあにき。","That doesn't help me Alsy..."
+"\n<\n[1]>ばかあにき。","That doesn't help me big brother..."
 "\n<アルス>俺も今のところ平気だ。
 丈夫に産んでくれたおかんに感謝しなきゃな。","\n<Alsto>I'm fine so far as well.
 Mother did good job raising such a strong child."
@@ -535,8 +535,8 @@ Ufufu♥"
 "\n<リリー>この館はそう簡単に出られないように出来てるの。
 快楽に負けて精奴隷に堕ちないよう、精々足掻くといいわ。
 あははははは！","\n<Lily>This mansion will not be so easy to escape from.
-Yes, they shall struggle and paw the ground while trying not to fall into the
-bliss of becoming our semen slave... Ahahaha!"
+Yes, they shall struggle and paw the ground while trying not
+to fall into the bliss of becoming our semen slave... Ahahaha!"
 "\n<シィナ>にゃはははは！","\n<Shina>Nyahahaha!"
 "\n<リリー>あははははははは！！","\n<Lily>Ahahahahahaha!!"
 "\n<シィナ>にゃははははははは！！！","\n<Shina>Nyahahahahahahaa!!!"
@@ -581,7 +581,7 @@ It cannot digest bones however, so it will spit them out."
 highly vulnerable to fire based attacks."
 "追伸：
 食欲旺盛過ぎて、メイドが鍵を食べられてしまったそうです。
-予備はあるので殺して取り出す必要はありません。","PS: Because of it's hearty appetite, it seems to have eaten the
+予備はあるので殺して取り出す必要はありません。","PS: Because of its hearty appetite, it seems to have eaten the
 key to the maids' room. Because we have a spare, there
 is no need to kill it in order to extract it."
 "捕まえシィナ","Shina Capture"
@@ -603,7 +603,7 @@ to run away from us."
 ほら早くちんぽ立たせろー♥","\n<Shina>Semen squeezing punishment time-nya♥
 Hora- Get hard quickly now-♥"
 "通行止め","通行止め"
-"まずはあにきに話しかけよう・・・","I should talk to Alsy first..."
+"まずはあにきに話しかけよう・・・","I should talk with my big brother first..."
 "まずはロメリアに話しかけよう・・・","I should speak with Meria first..."
 "EV022","EV022"
 "・・・
