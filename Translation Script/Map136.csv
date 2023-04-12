@@ -293,7 +293,7 @@ Get caught and drained to unlock
 Changes at SAN 0～3、4～6、7～8、9～10"
 "→イベント敗北シーン
 アイテム入手時の誘惑イベントや罠で搾り取られると解放","→Event defeat scenes
-Unlocked by being drained in a temptation event \nor trap after collecting an item"
+Unlocked by being drained in a temptation event or trap after collecting an item"
 "→アーコ",→Ako
 "→特殊なえっちシーン
 男女で内容が異なるものなど（ロメリア）","→Special scenes
@@ -318,7 +318,7 @@ Want to switch with me?"
 あにきは黙って見ててよ！","\n<Meria>Right!
 It's my turn!
 Just sit back and watch, brother!"
-"ロメリア",
+"ロメリア",Meria
 "\n<\n[1]>うん。頑張ろ！",\n<\n[1]>Ok. I'm gonna do it!
 "※顔グラ表示、立ち絵アニメ、主人公ボイスがONになりました。
 必要が無い場合はオプションからOFFにしてください。","※Face graphic, player animation and voice are ON.
@@ -454,7 +454,7 @@ Lily and Shina's reliance is 3 or higher.
 Sleep in prison cell."
 "ロメリアの夜這い
 男主人公、SAN値が3以下の時に地下牢で寝る","Meria's midnight visit
-Male protagonist. Sleep in prison cell while \nSAN is 3 or lower"
+Male protagonist. Sleep in prison cell while SAN is 3 or lower"
 "ロメリア　夜這い
 男主人公　SAN値が3以下で地下牢で寝る
 正常位","Meria - Midnight visit
@@ -508,7 +508,7 @@ A cat's life"
 "→特殊イベント",→Special events
 "ロメリアとベロチュー
 男主人公、SAN値が3以下、精力が低い状態で話しかける","Meria's french kiss
-Male protagonist, speak while SAN is 3 or less, \nand energy is low."
+Male protagonist, speak while SAN is 3 or less, and energy is low."
 "ロメリア　
 SANが3以下　精力が低い状態で話しかける
 檻越しベロチュー","Meria 
