@@ -10214,27 +10214,28 @@ Fufu♥ Thanks for the meal♥"
 "hideHpGauge A","hideHpGauge A"
 "※マネードレインの説明
 マネードレインイベント中は精力と所持金が徐々に減少していきます。
-また、射精してしまうとガッツリお金を取られてしまいます。","※Explaination for 'Money Drain'
-During 'Money Drain' event, your vitality and money will slowly decrease.
-Also, Ejaculating will cost you Romerillion gold. (TL's note: Romerillion means a lot)"
+また、射精してしまうとガッツリお金を取られてしまいます。","※Mana Drain Event Explaination
+During a mana drain event, your spirit and gold will be gradually drained.
+Furthermore if you ejaculate, a large sum of gold will be taken from you."
 "途中で中断する場合は\C[24]『キャンセルキー(x)』\C[0]を
 押し続けてください。
-また、Ctrlキー長押しで高速スキップできます。","To end the event, keep pushing the \C[24]『Cancel key (X)』\C[0]
-Plus, holding the Ctrl key will quickly skip the events."
+また、Ctrlキー長押しで高速スキップできます。","If this is about to happen, you can interrupt the event by 
+pushing the cancel key (X).
+Pressing the Ctrl key will skip the event entirely."
 "\C[3]※ドレインイベントの説明
 \C[0]ドレインイベント中は精力と経験値が徐々に減少していきます。
-また、射精してしまうとレベルが1減少します。","\C[3]※Explanation for 'Draining' event
-\C[0]During 'Draining' event, your vitality and XP will slowly decrease.
-In addition, each ejaculation will drop your level by 1."
+また、射精してしまうとレベルが1減少します。","\C[3]※Drain Event Explaination 
+\C[0]During a drain event, your spirit and experience points will
+gradually be drained. Furthermore, you'll lose 1 level on ejaculation."
 "吸い取られた経験値は全て相手のものになります。
 吸われた相手が仲間なら良いことが、
-敵なら何か悪いことが起きるかもしれません。","All the sucked off XP will belong to the enemy.
-While the XP sucker being an ally is considered safe,
-if it's an enemy, you won't know that anything bad can happen to it."
+敵なら何か悪いことが起きるかもしれません。","Any experience drained will be handed over to your partner.
+If they're an ally, something good may happen, but
+if they're an enemy, something bad might happen..."
 "\n[1]は\n[3]に
-\v[371]Goldを奪われた・・・","\n[3] has taken some \v[371]Gold from \n[1]."
+\v[371]Goldを奪われた・・・","\n[3] stole \v[371] Gold from \n[1]..."
 "\n[1]は\n[3]に
-\v[365]の経験値を吸い取られた・・・","\n[3] has sucked some \v[365]XP from \n[1]"
+\v[365]の経験値を吸い取られた・・・","\n[1] was drained by \n[3] and lost \v[365] experience points..."
 "showHpGauge D","showHpGauge D"
 "hideHpGauge B","hideHpGauge B"
 "ーーーーーーードレインイベント変更箇所ーーーーーーーーー",
