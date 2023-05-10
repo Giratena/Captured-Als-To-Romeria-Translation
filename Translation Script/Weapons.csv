@@ -426,8 +426,8 @@ Flame 2-way short gap 45"
 <shotSePitch:150>"
 "雷の魔導書没","Thunder spellbook death"
 "サンダーの魔法が使えるようになる初級魔導書
-雷　1方向長　隙45　貫通","A beginner's spellbook that allows you to use Thunder's magic
-Lightning 1-way long gap 45 penetration"
+雷　1方向長　隙45　貫通","A beginner spellbook that lets you use thunder magic
+Lightning  1-way  45 delay  Piercing"
 "<shotWay:1>
 <shotSpace:0.3>
 <shotCount:40>
@@ -2353,7 +2353,7 @@ Water 4 directions slow gap 80"
 雷　設置　隙300　貫通"
 "リンゴの皮を向くナイフ
 斬撃　1方向短　隙30","A knife used to cut fruit.
-Slashing. 30% crit chance."
+Slashing  1-way  30 delay"
 "<shotWay:1>
 <shotSpace:0.4>
 <shotCount:15>
@@ -2378,7 +2378,7 @@ Slashing. 30% crit chance."
 "マープルソード","Marple Sword"
 "王都マープルの安物量産品
 斬撃　3方向短　隙45　貫通","A cheap mass produced sword made by the capital Marple.
-Slashing. 3 Directions. 45% Crit. Piecing. "
+Slashing  3-way  45 delay  Piercing"
 "オーガソード","Ogre Sword"
 "壁に立てかけると柄まで地面に刺さる名刀
 斬撃　5方向短　隙45　貫通","A famous sword that can pierce entire walls.
@@ -2406,12 +2406,12 @@ Slashing. 5 Directions. 45% Crit. Piecing."
 <shotSePitch:150>"
 "炎の魔導書","Fire Tome"
 "ファイアの魔法が使えるようになる初級魔導書
-炎　2方向短　隙45","An magical tome that allows the user to cast fire.
-Fire Short Direction 45% Crit"
+炎　2方向短　隙45","A magical tome that allows the user to cast fire.
+Fire  2-way  Short range  45 delay"
 "氷の魔導書","Ice Tome"
 "氷の塊を飛ばしぶつかった場所から温度を奪う魔法
 氷　1方向　隙45","Flings a hunk of ice that cools whatever it hits.
-Ice Single Direction 45% Crit"
+Ice  1-way  45 delay"
 "<shotWay:1>
 <shotSpace:0.3>
 <shotCount:40>
@@ -2436,7 +2436,7 @@ Ice Single Direction 45% Crit"
 "雷の魔導書","Thunder Tome"
 "脆い物なら壊せそうな鈍器
 打撃　1方向短　隙50","A weapon that can smash any fragile objects
-Blunt. 1 direction. 50% Crit"
+Blunt  1-way  50 delay"
 "<mat1:I112*1>
 <mat2:I111*1>
 
@@ -2463,7 +2463,7 @@ Blunt. 1 direction. 50% Crit"
 "フックショット","Hookshot"
 "柱などに突き刺して素早く移動することができる
 斬撃　1方向　隙55　地形貫通","Allows the user to quickly travel to any pillar-like objects.
-Slashing. 1 Direction. 55% Crit. "
+Slashing  1-way  55 delay  Jump to pillars"
 "<mat1:I110*1>
 <mat2:I109*1>
 
@@ -2520,18 +2520,18 @@ Special 1-way 50% Crit"
 <shotSeName:Sword5>
 <shotSeVolume:70>
 <shotSePitch:150>"
-"★七鬼刀<<逃げ水>>",""
+"★七鬼刀<<逃げ水>>",
 "悉に水面に刃を突き立てるに同じ
-斬撃　5方向短　隙45　貫通",""
-"★七鬼刀<<浮き島>>",""
+斬撃　5方向短　隙45　貫通",
+"★七鬼刀<<浮き島>>",
 "光を斬れば映る全ては幻
-斬撃　5方向短　隙45　貫通",""
-"★七鬼刀<<不知火>>",""
+斬撃　5方向短　隙45　貫通",
+"★七鬼刀<<不知火>>",
 "決して近付けぬ龍神の灯火
-斬撃　5方向短　隙45　貫通",""
-"リリウム・ルベルム",""
+斬撃　5方向短　隙45　貫通",
+"リリウム・ルベルム",
 "百合の紋章が刻まれた美しい曲刀
-斬撃　1方向長　隙60",""
+斬撃　1方向長　隙60",
 "<shotWay:1>
 <shotSpace:0.1>
 <shotCount:25>
@@ -2542,10 +2542,11 @@ Special 1-way 50% Crit"
 <shotSkill:811>
 <shotSeName:Sword4>
 <shotSeVolume:70>
-<shotSePitch:150>",""
-"★リリウム・ルベルム",""
+<shotSePitch:150>",
+"★リリウム・ルベルム","★Lilium Rubellum"
 "リリーの愛刀　魔力で強化してある
-斬撃　3方向長　隙45",""
+斬撃　3方向長　隙45","Lily's prized sword, strengthed with magic.
+Slashing  3-way  45 delay"
 "<shotWay:3>
 <shotSpace:0.3>
 <shotCount:20>
@@ -2556,4 +2557,4 @@ Special 1-way 50% Crit"
 <shotSkill:811>
 <shotSeName:Sword4>
 <shotSeVolume:70>
-<shotSePitch:150>",""
+<shotSePitch:150>",
