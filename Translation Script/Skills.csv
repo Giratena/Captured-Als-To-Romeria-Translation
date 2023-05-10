@@ -452,7 +452,7 @@
 "口内いじめ","口内いじめ"
 "の口内で全身をぐちゅぐちゅに犯される！","'s mouth sucks and violates your entire body!"
 "肉壁1","肉壁1"
-"の体内がぬるぬると身体に纏わりつく・・・"," squeezes your entire body with her slippery organs!"
+"の体内がぬるぬると身体に纏わりつく・・・"," silmy insides press against your body..."
 "ベロチュー手コキ","ベロチュー手コキ"
 "のベロチュー手コキ！","'s Deep Kiss Handjob!"
 "キス手コキ",
@@ -1222,32 +1222,32 @@ Defeat memory, release DEFUP, mental power UP"
 "息を整えて精力を回復する
 技巧依存　精力回復小","Breathe deeply and restore your energy.
 Skill-dependent. Recovers a bit of energy."
-"は呼吸を整えた・・・","adjusted their breathing..."
+"は呼吸を整えた・・・"," adjusted their breathing..."
 "瞑想","Meditation"
 "瞑想して精力を回復する
 技巧依存　精力回復中","Meditate to regain energy.
 Skill dependent, recovering energy."
-"は心を静めた・・・","Calmed their heart ..."
+"は心を静めた・・・","calmed their heart ..."
 "精神統一","Spiritual Unity"
 "精神統一して精力を全回復する
 精力全回復","Unify your mind and restore your energy.
 Full energy recovery."
-"は精神を研ぎ澄ませた！","Sharpened their spirit!"
+"は精神を研ぎ澄ませた！"," sharpened their spirit!"
 "明鏡止水","Clear Serenity"
 "邪念を払って澄み切った心に戻す
 精力全回復　ステータス異常解除","Dispel evil thoughts and return to a clear mind.
 Full recovery of energy, status clearing"
-"は邪念を払った！","Cleanses their mind!"
+"は邪念を払った！"," cleanses their mind!"
 "調べる","Investigate"
 "相手をじっと見て観察する
 敵のステータス　弱点表示","Watch and observe the other person
 Enemy status weakness display"
-"は\n[3]をじっくりと観察した・・・","Carefully observed \n[3] ..."
+"は\n[3]をじっくりと観察した・・・"," carefully observed \n[3] ..."
 "警戒","Caution"
 "気を張って素早く対応できるようにする
 敏捷性2倍　2ターン","Raise awareness to respond quickly.
 Doubles AGI for 2 turns"
-"は気を張った！","Is ready to move!"
+"は気を張った！"," is ready to move!"
 "休憩","Rest"
 "ひとまず休んで体力を回復する
 敏捷性依存　体力回復小","Take a small break to recover your strength.
@@ -1344,21 +1344,21 @@ s[111] = true
 s[122] = true
 </ EVC when using>"
 "-特殊コマンド―","-Special command-"
-"暴れる","Rampage"
+"暴れる","Struggle"
 "とにかく暴れる
-技巧依存","Rampage anyway.
+技巧依存","Struggle with all your might.
 Skill dependent."
-"は激しく暴れて抵抗した！"," violently rampaged and resisted!"
-"わめく","Scream"
+"は激しく暴れて抵抗した！"," struggles and resists!"
+"わめく","Shout"
 "大声を出して抵抗する
 技巧依存　脱力付与","Resist by shouting as loud as you can.
-Skill-dependent. Causes exhaustion."
-"は声を出しながら抵抗した！","Resisted aloud!"
-"もがく","Struggle"
+Skill-dependent. Inflicts Weakness."
+"は声を出しながら抵抗した！"," lets out a loud shout while struggling!"
+"もがく","Rampage"
 "身体をくねらせてもがく
 技巧依存　敵の攻撃を一段階戻す","Struggle by twisting your body.
 Skill-dependent: Reduce the enemy's attack by one level"
-"は身体をくねらせてもがいた！"," struggled and twisted their body!"
+"は身体をくねらせてもがいた！"," kicks and thrashes violently!"
 "<EVC 使用時>
 v[167] -= 4
 </EVC 使用時>","<EVC 使用時>
@@ -1380,8 +1380,8 @@ Removes all abnormal statuses and restores a bit of energy."
 "は心を落ち着かせた・・・","は心を落ち着かせた・・・"
 "全力抵抗","Utmost Resistance"
 "全力で抵抗する
-攻撃力依存","Relies on their physical attack
-to resist with everything they have."
+攻撃力依存","Resist with every fiber of your body.
+Strength dependant."
 "は全力で抵抗した！"," resisted with all their might!"
 "tes","tes"
 "は～～した！","は～～した！"
