@@ -2,126 +2,127 @@
 "テスト性具","Test sex toys"
 "ディルド","Dildo"
 "男性器を模したもの
-性具","Imitation of male genitalia
-Sex toys"
-"太いディルド","Thick dildo"
+性具","Replica of male genitalia
+Sex toy"
+"太いディルド","Thick Dildo"
 "立派な男性器を模したもの
-性具","Imitation of a fine male genitalia
-Sex toys"
-"極太ディルド","Thick dildo"
+性具","Well endowed replica of male genitalia
+Sex toy"
+"極太ディルド","Ultra Thick Dildo"
 "腕を模したもの
-性具","An arm imitation
-Sex toys"
+性具","Replica of an arm
+Sex toy"
 "バイブ","Vibe"
 "振動で快楽を与える道具
 性具　命中+5","A tool that gives pleasure with vibration
-Sex toys hit +5"
-"太いバイブ","Thick vibes"
+Sex toy  Hit +5"
+"太いバイブ","Thick Vibe"
 "太めの振動で快楽を与える道具
 性具　命中+5","A tool that gives pleasure with thick vibration
-Sex toys hit +5"
-"極太バイブ","Extra-thick vibes"
+Sex toy  Hit +5"
+"極太バイブ","Extra Thick Vibe"
 "ぶっとい振動で快楽を与える道具
 性具　命中+5","A tool that gives pleasure with a blunt vibration
-Sex toys hit +5"
-"火のディルド","Fire dildo"
+Sex toy  Hit +5"
+"火のディルド","Fire Dildo"
 "燃えるように熱いディルド
-性具　TP増加+20%","Burning hot dildo
-Sex toys TP increase + 20%"
+性具　TP増加+20%","A hot dildo to fire you up
+Sex toy  TP gain +20%"
 "<mat1:A2*1>
 <mat2:I78*1>
 <matG:500>
 ","<mat1:A2*1>
 <mat2:I78*1>
-<matG:500>"
-"水のディルド","Water dildo"
+<matG:500>
+"
+"水のディルド","Water Dildo"
 "ひんやりと冷たいディルド
-性具　回復効果+20%","Cool and cold dildo
-Sex toy recovery effect + 20%"
+性具　回復効果+20%","A cool, chilling dildo
+Sex toy  Recovery +20%"
 "<mat1:A2*1>
 <mat2:I79*1>
 <matG:500>","<mat1:A2*1>
 <mat2:I79*1>
 <matG:500>"
-"風のディルド","Wind dildo"
+"風のディルド","Wind Dildo"
 "風のように素早いディルド
-性具　体力消費-10%","A dildo as quick as the wind
-Sex toys HP consumption -10%"
+性具　体力消費-10%","A dildo as swift as the wind
+Sex toy  HP Cost -10%"
 "<mat1:A2*1>
 <mat2:I80*1>
 <matG:500>","<mat1:A2*1>
 <mat2:I80*1>
 <matG:500>"
-"地のディルド","Earth dildo"
+"地のディルド","Earth Dildo"
 "岩のように硬いディルド
-性具　防御効果+20%","Rock-hard dildo
-Sex toys defense effect + 20%"
+性具　防御効果+20%","A dildo as hard as stone
+Sex toy  Defense +20%"
 "<mat1:A2*1>
 <mat2:I81*1>
 <matG:500>","<mat1:A2*1>
 <mat2:I81*1>
 <matG:500>"
-"火炎のディルド","Flame dildo"
+"火炎のディルド","Flame Dildo"
 "燃え盛る炎を個体にしたディルド
-性具　TP増加+20%","A dildo with a burning flame as an individual
-Sex toys TP increase + 20%"
+性具　TP増加+20%","A dildo that burns brightly and proudly
+Sex toy  TP increase +20%"
 "<mat1:A8*1>
 <mat2:I78*3>
 <matG:500>","<mat1:A8*1>
 <mat2:I78*3>
 <matG:500>"
-"氷結のディルド","Freezing dildo"
+"氷結のディルド","Freezing Dildo"
 "溶けない氷でできたディルド
-性具　回復効果+50%","Dildo made of unmeltable ice
-Sex toy recovery effect + 50%"
+性具　回復効果+50%","A dildo made of unmeltable ice
+Sex toy  Recovery + 50%"
 "<mat1:A9*1>
 <mat2:I79*3>
 <matG:500>","<mat1:A9*1>
 <mat2:I79*3>
 <matG:500>"
-"暴風のディルド","Storm dildo"
+"暴風のディルド","Storm Dildo"
 "荒れ狂う風をまとったディルド
-性具　体力消費-20%","A dildo in a raging wind
-Sex toys consume -20%"
+性具　体力消費-20%","A dildo clad in raging winds
+Sex toy  HP Cost -20%"
 "<mat1:A10*1>
 <mat2:I80*3>
 <matG:500>","<mat1:A10*1>
 <mat2:I80*3>
 <matG:500>"
-"大地のディルド","Earth dildo"
+"大地のディルド","Stone Dildo"
 "決して折れない頑強なディルド
 性具　防御効果+50%","A sturdy dildo that never breaks
-Sex toys defense effect + 50%"
+Sex toy  Defense +50%"
 "<mat1:A11*1>
 <mat2:I81*3>
 <matG:500>","<mat1:A11*1>
 <mat2:I81*3>
 <matG:500>"
-"鉄のバイブ","Iron vibes"
+"鉄のバイブ","Iron Vibrator"
 "鉄でできたバイブ
-性具　命中+5","Vibe made of iron
-Sex toys hit +5"
+性具　命中+5","A vibrator made of iron
+Sex toy  Accuracy +5"
 "<mat1:I76*2>
 <matG:300>","<mat1:I76*2>
 <matG:300>"
-"鋼鉄のバイブ","Steel vibes"
+"鋼鉄のバイブ","Steel Vibrator"
 "鋼鉄でできたバイブ
-性具　命中+5","Vibe made of steel
-Sex toys hit +5"
+性具　命中+5","A vibrator made of steel
+Sex toy  Accuracy +5"
 "<mat1:I76*4>
 <matG:500>","<mat1:I76*4>
 <matG:500>"
-"金のバイブ","Gold vibes"
+"金のバイブ","Golden Vibrator"
 "金で出来た成金バイブ
-性具　命中+5","Riche vibes made of gold
-Sex toys hit +5"
+性具　命中+5","A nouveau riche vibrator made of gold
+Sex toy  Accuracy +5"
 "<mat1:I77*3>
 <matG:500>","<mat1:I77*3>
 <matG:500>"
-"ダイヤのバイブ","Diamond vibes"
+"ダイヤのバイブ","Diamond Vibrator"
 "ダイヤが散りばめられた贅沢なバイブ
-性具　命中+5","A luxurious vibe studded with diamonds
-Sex toys hit +5"
+性具　命中+5","A luxurious vibrator studded with diamonds
+Sex toy  Accuracy +5"
 "<mat1:I81*2>
 <mat2:I76*1>
 <mat3:I77*1>
@@ -129,29 +130,29 @@ Sex toys hit +5"
 <mat2:I76*1>
 <mat3:I77*1>
 <matG:500>"
-"ひのきのぼう","Hinoki cypress"
+"ひのきのぼう","Cypress Pole"
 "ちょうどいい形の木の棒
-性具　クリティカル+3","Just the right shape of a wooden stick
-Sex toys critical +3"
+性具　クリティカル+3","A wooden pole that's just the right shape
+Sex toy  Critical +3"
 "<mat1:I202*1>
 <matG:100>","<mat1:I202*1>
 <matG:100>"
-"きのこ","mushroom"
+"きのこ","Mushroom"
 "いちもつの形をした自然の贈り物
-性具　クリティカル+5","A gift of nature in the shape of an offal
-Sex toys critical +5"
+性具　クリティカル+5","A gift from nature with a naughty shape
+Sex toy  Critical +5"
 "にんじん","Carrot"
 "硬くて食べられないにんじん
 性具　クリティカル+5","Hard and inedible carrots
-Sex toys critical +5"
-"閃光","flash"
+Sex toy  Critical +5"
+"閃光","Flash"
 "光の速さで振動するバイブ
-性具　クリティカル+5","Vibe that vibrates at the speed of light
-Sex toys critical +5"
+性具　クリティカル+5","Vibrator that vibrates at the speed of light
+Sex toy  Critical +5"
 "風神","Fujin"
 "巻き起こす風はやがて嵐となる
-性具　クリティカル+5","The wind that causes it will eventually become a storm
-Sex toys critical +5"
+性具　クリティカル+5","The winds it creates will soon become a raging storm
+Sex toy  Critical +5"
 "<mat1:A10*1>
 <mat2:A14*1>
 <mat3:A23*1>
@@ -159,19 +160,19 @@ Sex toys critical +5"
 <mat2:A14*1>
 <mat3:A23*1>
 <matG:500>"
-"ヘビーバイブ","Heavy vibes"
+"ヘビーバイブ","Heavy Vibe"
 "重たすぎて筋トレに使える
-性具　クリティカル-5","It's too heavy and can be used for muscle training
-Sex toys critical-5"
+性具　クリティカル-5","Too heavy to use for strength training
+Sex toy　Critical -5"
 "<mat1:A16*1>
 <mat2:A17*1>
 <matG:500>","<mat1:A16*1>
 <mat2:A17*1>
 <matG:500>"
-"鈍亀","Dull turtle"
+"鈍亀","Slow Turtle"
 "ゆっくりかつ大胆に急所をねらうディルドー
-性具　クリティカル+20　命中-50","A dildo that slowly and boldly aims at the key points
-Sex toys critical +20 hits-50"
+性具　クリティカル+20　命中-50","A dildo that slowly and steadily strikes weak spots
+Sex toy  Critical +20  Hit -50"
 "<mat1:A25*1>
 <mat2:I76*1>
 <mat3:I77*1>
@@ -179,61 +180,61 @@ Sex toys critical +20 hits-50"
 <mat2:I76*1>
 <mat3:I77*1>
 <matG:500>"
-"諸刃のディルドー","Double-edged dildo"
+"諸刃のディルドー","Double-Edged Dildo"
 "防御を捨て攻撃に特化したディルドー
-性具　","A dildo that abandons defense and specializes in attacks
-Sex toys"
+性具　","A dildo that abandons defense and focuses on attack
+Sex toy"
 "隼","Hayabusa"
 "速い翼が転じて名付けられたバイブ
-性具　2回攻撃　命中-50","A vibe named after the fast wings
-Sex toys twice attack hit-50"
+性具　2回攻撃　命中-50","A vibe named after the swift bird of prey
+Sex toy  Attacks twice  Hit -50"
 "<mat1:A5*1>
 <mat2:I107*1>
 <matG:300>","<mat1:A5*1>
 <mat2:I107*1>
 <matG:300>"
-"疾風","Gale"
+"疾風","Gale Wind"
 "隼を改良したバイブ
-性具　2回攻撃　命中-40","Vibe with improved falcon
-Sex toys twice attack hit -40"
+性具　2回攻撃　命中-40","An improved Hayabusa vibrator
+Sex toy  Attacks twice  Hit -40"
 "<mat1:A29*1>
 <mat2:I107*2>
 <matG:300>","<mat1:A29*1>
 <mat2:I107*2>
 <matG:300>"
-"屠龍","Slaughtered dragon"
+"屠龍","Dragon Slayer"
 "かつてドラゴンをイカせたバイブ
-性具　命中-5　クリティカル+5","A vibe that once made a dragon squid
-Sex toys hit -5 critical +5"
+性具　命中-5　クリティカル+5","A vibrator that once made a dragon orgasm
+Sex toy  Hit -5  Critical +5"
 "雷電","Raiden"
 "先端から雷撃を放つバイブ
-性具　機械特効","A vibe that shoots a lightning strike from the tip
-Sex toys machine special effects"
+性具　機械特効","A vibrator that shoots a lightning from the tip
+Sex toy  Effective against machines"
 "震電","Shinden"
 "雷で充電したバイブ　漏電注意
-性具　機械特効","Vibe charged with lightning Be careful of electric leakage
-Sex toys machine special effects"
+性具　機械特効","Lightning charged vibrator. Be careful of electric discharge!
+Sex toy  Effective against machines"
 "紫電","Shiden"
 "紫の雷を放つバイブ
-性具　機械特効","Vibe that shoots purple thunder
-Sex toys machine special effects"
+性具　機械特効","Vibrator that shoots purple lightning bolts
+Sex toy  Effective against machines"
 "紫電改","Shiden Kai"
 "紫電を改良したバイブ
-性具　機械特効","Vibe with improved Shiden
-Sex toys machine special effects"
+性具　機械特効","Improved Shiden vibrator
+Sex toy  Effective against machines"
 "<mat1:A33*1>
 <mat2:I107*5>
 <matG:500>","<mat1:A33*1>
 <mat2:I107*5>
 <matG:500>"
-"ローションローター","Lotion rotor"
+"ローションローター","Lotion Rotor"
 "ぬるぬるするローター
-性具　敏感付与","Slimy rotor
-Sex toys sensitive"
+性具　敏感付与","Slippery egg vibrator
+Sex toy  Inflicts Sensitive"
 "フェアリーワルツ","Fairy Waltz"
 "妖精が優しく愛撫するようなディルドー
-性具　敏感付与","A dildo that a fairy gently caresses
-Sex toys sensitive"
+性具　敏感付与","A dildo that feels like the gentle caress of a fairy
+Sex toy  Inflicts Sensitive"
 "<mat1:A2*1>
 <mat2:I80*2>
 <mat3:I82*1>
@@ -241,10 +242,10 @@ Sex toys sensitive"
 <mat2:I80*2>
 <mat3:I82*1>
 <matG:300>"
-"ぬるぬる手袋","Slimy gloves"
+"ぬるぬる手袋","Squish Mittens"
 "ローションがしみこませてある手袋
-性具　敏感付与","Gloves soaked with lotion
-Sex toys sensitive"
+性具　敏感付与","Lotion soaked gloves
+Sex toy  Inflicts Sensitive"
 "<mat1:I82*1>
 <mat2:I103*1>
 <mat3:I105*1>
@@ -252,19 +253,19 @@ Sex toys sensitive"
 <mat2:I103*1>
 <mat3:I105*1>
 <matG:300>"
-"やぶからスティック","Yabukara stick"
+"やぶからスティック","Pop-up Pole"
 "急に飛び出してくる棒
-性具　怯み付与","A stick that suddenly pops out
-Sex toys give fear"
+性具　怯み付与","A pole that pops up unexpectedly
+Sex toy  Inflicts Flinch"
 "<mat1:I202*1>
 <mat2:I82*1>
 <matG:300>","<mat1:I202*1>
 <mat2:I82*1>
 <matG:300>"
-"守護のディルドー","Guardian dildo"
+"守護のディルドー","Guardian Dildo"
 "精霊の加護を受けたディルドー
-性具　防御効果+50%","A dildo blessed by a spirit
-Sex toys defense effect + 50%"
+性具　防御効果+50%","A dildo protected by the divine spirits
+Sex toy  Defense +50%"
 "<mat1:A4*1>
 <mat2:I794*1>
 <mat3:I793*1>
@@ -274,10 +275,10 @@ Sex toys defense effect + 50%"
 <mat3:I793*1>
 <mat4:I795*1>
 <matG:300>"
-"ケミカルライト","Chemical light"
+"ケミカルライト","Glowstick"
 "応援する時に降る光る棒
-性具　怯み付与","A glowing stick that falls when cheering
-Sex toys give fear"
+性具　怯み付与","A glowstick used for cheering
+Sex toy  Inflicts Flinch"
 "<mat1:I81*1>
 <mat2:I78*1>
 <mat3:I79*1>
@@ -287,111 +288,111 @@ Sex toys give fear"
 <mat3:I79*1>
 <mat4:I80*1>
 <matG:300>"
-"真珠","pearl"
+"真珠","Pearl"
 "魔力でアソコに埋め込む真珠
-性具　ゴム装備不可　クリティカル+10","Pearls embedded in the dick with magical power
-Sex toys cannot be equipped with rubber Critical +10"
-"装着式バイブ","Wearable vibrator"
+性具　ゴム装備不可　クリティカル+10","Magically embeds pearls into your penis
+Sex toy  Cannot be equipped with condom  Critical +10"
+"装着式バイブ","Wearable Vibrator"
 "アソコに装着する小型バイブ
 性具　ゴム装備不可","Small vibrator to be attached to the dick
-Sex toys cannot be equipped with rubber"
+Sex toy  Cannot be equipped with condom "
 "ペニスバンド","Strap-on"
 "腰に巻き付けるディルドー
 性具　ゴム装備不可","Dildo wrapped around the waist
-Sex toys cannot be equipped with rubber"
-"ハードラック","Hard rack"
+Sex toy  Cannot be equipped with condom "
+"ハードラック","Hard Luck"
 "運が悪くなって当たりにくくなるバイブ
-性具　命中-80","Vibe that becomes unlucky and hard to hit
-Sex toys hit-80"
-"アナルビーズ","Anal beads"
+性具　命中-80","Unlucky vibrator that makes it hard to hit
+Sex toy  Accuracy -80"
+"アナルビーズ","Anal Beads"
 "お尻に入れるつぶつぶ
-性具　尻属性攻撃","Crush to put in the butt
-Sex toy butt attribute attack"
+性具　尻属性攻撃","Beads inserted into one's butt
+Sex toy  Ass attribute"
 "<mat1:I82*2>
 <matG:300>","<mat1:I82*2>
 <matG:300>"
-"アナルバイブ","Anal vibrator"
+"アナルバイブ","Anal Vibrator"
 "お尻にねじ込むバイブ
-性具　尻属性攻撃","Vibe screwed into the butt
-Sex toy butt attribute attack"
+性具　尻属性攻撃","Vibrator to be inserted in one's behind
+Sex toy  Ass attribute"
 "<mat1:A45*1>
 <mat2:I82*3>
 <matG:300>","<mat1:A45*1>
 <mat2:I82*3>
 <matG:300>"
-"エネマグラ","Enemagra"
+"エネマグラ","Enema"
 "医療器具
 性具　尻属性攻撃","Medical equipment
-Sex toy butt attribute attack"
+Sex toy  Ass attribute"
 "<mat1:A46*1>
 <mat2:I82*3>
 <matG:300>","<mat1:A46*1>
 <mat2:I82*3>
 <matG:300>"
-"盗賊手袋","Bandit gloves"
+"盗賊手袋","Theif's Gloves"
 "仕事をする時にはめる手袋
-性具　敵からの獲得金額2倍","Gloves to wear when working
-Sex toys Double the amount of money earned from enemies"
+性具　敵からの獲得金額2倍","Gloves worn during a heist
+Sex toy  Doubles gold acquired from enemies"
 "<mat1:I101*3>
 <mat2:I74*5>
 <matG:300>","<mat1:I101*3>
 <mat2:I74*5>
 <matG:300>"
-"鷹の爪","Hawk's claw"
+"鷹の爪","Hawk's Claw"
 "指先が器用になる手袋
 性具","Gloves that make your fingertips dexterous
-Sex toys"
-"マジックハンド","Magic hand"
+Sex toy"
+"マジックハンド","Magic Hand"
 "自分の指のように器用に動かせる棒
 性具","A stick that can be moved dexterously like your finger
-Sex toys"
-"バールのようなもの","Something like a bar"
+Sex toy"
+"バールのようなもの","Some Kind of Crowbar"
 "物理学的に最強
-性具　命中-50","Physically strongest
-Sex toys hit-50"
-"かじられにんじん","Bitten carrot"
+性具　命中-50","The physically strongest sex toy
+Sex toy  Hit -50"
+"かじられにんじん","Nibbled-on Carrot"
 "かじられて固くとがったにんじん
-性具　クリティカル+5","Carrots that have been bitten and hard and pointed
-Sex toys critical +5"
-"エクスカリポー","Excalibur"
+性具　クリティカル+5","Carrots that have been gnawed to a sharp point
+Sex toy  Critical +5"
+"エクスカリポー","Excalibo"
 "伝説のディルドーの偽物の偽物
-性具　クリティカル+5","Fake fake of the legendary dildo
-Sex toys critical +5"
+性具　クリティカル+5","A fake of the fake of the legendary dildo
+Sex toy  Critical +5"
 "<mat1:A57*1>
 <matG:5000>","<mat1:A57*1>
 <matG:5000>"
-"エクスカリペー","Excalipe"
+"エクスカリペー","Excalibee"
 "伝説のディルドーの偽物の偽物の偽物
-性具　回復効果+30%","Legendary dildo fake fake fake
-Sex toy recovery effect + 30%"
+性具　回復効果+30%","A fake of the fake of the fake of the legendary dildo
+Sex toy  Recovery + 30%"
 "<mat1:A53*1>
 <matG:5000>","<mat1:A53*1>
 <matG:5000>"
-"エクスカリプー","Excalibur"
+"エクスカリプー","Excaliboo"
 "伝説のディルドーの偽物の偽物の偽物の偽物
-性具","Legendary dildo fake fake fake fake
-Sex toys"
+性具","A fake fake of the fake of the fake of the legendary dildo
+Sex toy "
 "<mat1:A54*1>
 <matG:5000>","<mat1:A54*1>
 <matG:5000>"
-"エクスカリバァァァアン","Excalibur"
+"エクスカリバァァァアン","Excalibaaaaaaaaaaaahn"
 "伝説のディルドーの偽物の偽物の偽物の偽物の紛い物
-性具　クリティカル+30","Legendary dildo fake fake fake fake fake fake
-Sex toys critical +30"
+性具　クリティカル+30","An imitation of the fake fake of the fake fake legendary dildo
+Sex toy  Critical +30"
 "<mat1:A55*1>
 <matG:5000>","<mat1:A55*1>
 <matG:5000>"
-"エクスカウパー","Ex Cowper"
+"エクスカウパー","Exscalliper"
 "伝説のディルドーの偽物
-性具　精力自動回復+1","Fake legendary dildo
-Sex toys automatic recovery of energy +1"
+性具　精力自動回復+1","A fake version of the legendary dildo
+Sex toy  Auto recover energy +1"
 "<mat1:A56*1>
 <matG:5000>","<mat1:A56*1>
 <matG:5000>"
 "エクスカリバー","Excalibur"
 "伝説のディルドー
 性具　体力消費0　2回攻撃","Legendary dildo
-Sex toys, HP consumption 0, 2 attacks"
+Sex toy  0 HP consumption  Attacks twice"
 "<mat1:A53*1>
 <mat2:A54*1>
 <mat3:A55*1>
@@ -401,15 +402,16 @@ Sex toys, HP consumption 0, 2 attacks"
 <mat2:A54*1>
 <mat3:A55*1>
 <mat4:A56*1>
-<mat5:A57*1>"
+<mat5:A57*1>
+"
 "如意棒","Ruyi Jingu"
 "伸縮自在の棒
 性具　体力消費-10%","Telescopic rod
-Sex toys HP consumption -10%"
-"マンイーター","Man-eater"
+Sex toy  HP consumption -10%"
+"マンイーター","Man Eater"
 "人間の魂を食って作動するバイブ
-性具　人属性特効","A vibe that works by eating the human soul
-Sex toy human attribute special effects"
+性具　人属性特効","A vibrator that works by devouring human souls
+Sex toy  Effective against humans"
 "<mat1:A5*1>
 <mat2:I100*3>
 <matG:500>","<mat1:A5*1>
@@ -429,8 +431,8 @@ Sex toy human attribute special effects"
 <matG:500>"
 "マンイーターⅣ","Man Eater IV"
 "人間の魂を食って作動するバイブ
-性具　人属性特効　敏感付与","A vibe that works by eating the human soul
-Sex toy human attribute special effect sensitive grant"
+性具　人属性特効　敏感付与","A vibrator that works by devouring human souls
+Sex toy  Effective against humans  Inflicts sensitivity"
 "<mat1:A62*1>
 <mat2:I100*3>
 <mat3:I82*2>
@@ -438,10 +440,10 @@ Sex toy human attribute special effect sensitive grant"
 <mat2:I100*3>
 <mat3:I82*2>
 <matG:500>"
-"バグスマッシャー","Bug smasher"
+"バグスマッシャー","Bug Smasher"
 "殺虫作用のある植物を練りこんだバイブ
-性具　虫属性特効","Vibe kneaded with insecticidal plants
-Sex toy insect attribute special effect"
+性具　虫属性特効","Vibrator infused with insecticidal plants
+Sex toy  Effective against insects"
 "<mat1:A5*1>
 <mat2:I105*3>
 <matG:500>","<mat1:A5*1>
@@ -461,8 +463,8 @@ Sex toy insect attribute special effect"
 <matG:500>"
 "バグスマッシャーⅣ","Bug Smasher IV"
 "殺虫作用のある植物を練りこんだバイブ
-性具　虫属性特効　怯み付与","Vibe kneaded with insecticidal plants
-Sex toy insect attribute special effect grants fear"
+性具　虫属性特効　怯み付与","Vibrator infused with insecticidal plants
+Sex toy  Effective against insects  Inflicts Flinch"
 "<mat1:A66*1>
 <mat2:I105*3>
 <mat3:I80*2>
@@ -472,8 +474,8 @@ Sex toy insect attribute special effect grants fear"
 <matG:500>"
 "スライムバスター","Slime Buster"
 "超振動で水分を蒸発させるバイブ
-性具　水属性特効","Vibe that evaporates water with super vibration
-Sex toy water attribute special effect"
+性具　水属性特効","Vibrator that evaporates water with super vibration
+Sex toy  Effective against water"
 "<mat1:A5*1>
 <mat2:I103*3>
 <matG:500>","<mat1:A5*1>
@@ -493,8 +495,8 @@ Sex toy water attribute special effect"
 <matG:500>"
 "スライムバスターⅣ","Slime Buster IV"
 "超振動で水分を蒸発させるバイブ
-性具　水属性特効　消費体力-50%","Vibe that evaporates water with super vibration
-Sex toy water attribute special effect consumption HP -50%"
+性具　水属性特効　消費体力-50%","Vibrator that evaporates water with super vibration
+Sex toy  Effective against water HP cost -50%"
 "<mat1:A70*1>
 <mat2:I103*3>
 <mat3:I79*2>
@@ -504,8 +506,8 @@ Sex toy water attribute special effect consumption HP -50%"
 <matG:500>"
 "ビーストスレイヤー","Beast Slayer"
 "獣が怖がる匂いを放つディルドー
-性具　獣属性特効","A dildo that gives off a scary scent of beasts
-Sex toy beast attribute special effect"
+性具　獣属性特効","A dildo that emits a scent that scares beasts
+Sex toy  Effective against beasts"
 "<mat1:A2*1>
 <mat2:I102*3>
 <matG:500>","<mat1:A2*1>
@@ -525,8 +527,8 @@ Sex toy beast attribute special effect"
 <matG:500>"
 "ビーストスレイヤーⅣ","Beast Slayer IV"
 "獣が怖がる匂いを放つディルドー
-性具　獣属性特効　TP増加+20%","A dildo that gives off a scary scent of beasts
-Sex toy beast attribute special effect TP increase + 20%"
+性具　獣属性特効　TP増加+20%","A dildo that emits a scent that scares beasts
+Sex toy  Effective against beasts  TP gain +20%"
 "<mat1:A74*1>
 <mat2:I102*3>
 <mat3:I795*2>
@@ -534,10 +536,10 @@ Sex toy beast attribute special effect TP increase + 20%"
 <mat2:I102*3>
 <mat3:I795*2>
 <matG:500>"
-"デモンキラー","Demon killer"
+"デモンキラー","Demon Killer"
 "悪魔を封印する聖なるバイブ
-性具　悪属性特効","Holy vibe that seals the devil
-Sex toys bad attributes special effects"
+性具　悪属性特効","Holy vibe that seals succubus magic
+Sex toy  Effective against demons"
 "<mat1:A5*1>
 <mat2:I101*3>
 <matG:500>","<mat1:A5*1>
@@ -557,8 +559,8 @@ Sex toys bad attributes special effects"
 <matG:500>"
 "デモンキラーⅣ","Demon Killer IV"
 "悪魔を封印する聖なるバイブ
-性具　悪属性特効　毎ターン精力-1%","Holy vibe that seals the devil
-Sex toys Evil attribute special effects -1% energy every turn"
+性具　悪属性特効　毎ターン精力-1%","Holy vibe that seals succubus magic
+Sex toy  Effective against demons  -1% energy every turn"
 "<mat1:A78*1>
 <mat2:I101*3>
 <mat3:I794*2>
@@ -568,8 +570,8 @@ Sex toys Evil attribute special effects -1% energy every turn"
 <matG:500>"
 "ウィンドレス","Windless"
 "手に持つと当たり一面の風が止む
-性具　風属性特効","When you hold it in your hand, the wind stops all over
-Sex toy wind attribute special effect"
+性具　風属性特効","When you hold it in your hand, the wind grows still
+Sex toy  Effective against wind"
 "<mat1:A2*1>
 <mat2:I104*3>
 <matG:500>","<mat1:A2*1>
@@ -589,8 +591,8 @@ Sex toy wind attribute special effect"
 <matG:500>"
 "ウィンドレスⅣ","Windless IV"
 "手に持つと当たり一面の風が止む
-性具　風属性特効　アイテムの回復効果+100","When you hold it in your hand, the wind stops all over
-Sex toy wind attribute special effect Item recovery effect +100"
+性具　風属性特効　アイテムの回復効果+100","When you hold it in your hand, the wind grows still
+Sex toy  Effective against wind Item recovery effect +100"
 "<mat1:A82*1>
 <mat2:I104*3>
 <mat3:I80*2>
@@ -601,7 +603,7 @@ Sex toy wind attribute special effect Item recovery effect +100"
 "ディスプラント","Displant"
 "養分を吸い取る大樹の根っこ
 性具　草属性特効","The root of a large tree that absorbs nutrients
-Sex toy grass attribute special effect"
+Sex toy  Effective against grass "
 "<mat1:A2*1>
 <mat2:I106*3>
 <matG:500>","<mat1:A2*1>
@@ -622,7 +624,7 @@ Sex toy grass attribute special effect"
 "ディスプラントⅣ","Displant IV"
 "養分を吸い取る大樹の根っこ
 性具　草属性特効　2連続攻撃","The root of a large tree that absorbs nutrients
-Sex toy grass attribute special effect 2 consecutive attacks"
+Sex toy  Effective against grass  2 consecutive attacks"
 "<mat1:A86*1>
 <mat2:I106*3>
 <mat3:I202*2>
@@ -630,10 +632,10 @@ Sex toy grass attribute special effect 2 consecutive attacks"
 <mat2:I106*3>
 <mat3:I202*2>
 <matG:500>"
-"サキュバステイル","Succubus tail"
+"サキュバステイル","Succubus Tail"
 "淫魔の尻尾を模したディルドー
-性具　精力自動回復+1　体力自動回復+1","A dildo that imitates the tail of an incubus
-Sex toys automatic recovery of energy +1 automatic recovery of HP +1"
+性具　精力自動回復+1　体力自動回復+1","A dildo that looks like a succubus' tail
+Sex toy  Auto recover energy and health +1"
 "<mat1:A4*1>
 <mat2:I82*3>
 <mat3:I101*2>
@@ -643,32 +645,32 @@ Sex toys automatic recovery of energy +1 automatic recovery of HP +1"
 <matG:500>"
 "なえぽよ","Naepoyo"
 "持っているだけでやる気が失せる棒状の何か
-性具　TP増加-100%","Something like a stick that makes you feel unmotivated just by holding it
-Sex toys TP increase-100%"
-"クトゥルーの触手","Cthulhu tentacles"
+性具　TP増加-100%","Some sort of pole that saps your motivation when you hold it
+Sex toy  TP increase -100%"
+"クトゥルーの触手","Cthulhu's Tentacles"
 "うねうねと蠢く神話生物の触手
-性具　拘束付与　TP増加-100%","Tentacles of mythical creatures that swell and wriggle
-Sex toy restraint grant TP increase-100%"
-"ニャルラハンド","Nyalra hand"
+性具　拘束付与　TP増加-100%","Writhing, wriggling tentacles of a legendary creature
+Sex toy  Inflicts Bind  TP increase -100%"
+"ニャルラハンド","Nyarlathotep's Hand"
 "這い寄る混沌
-性具　拘束付与　TP増加-100%","Crawling chaos
-Sex toy restraint grant TP increase-100%"
-"うなぎ","eel"
+性具　拘束付与　TP増加-100%","The Crawling Chaos
+Sex toy  Inflicts Bind  TP increase -100%"
+"うなぎ","Eel"
 "かば焼きにするととても美味しい
 性具　拘束付与　スタン付与","Very delicious when made into kabayaki
-Sex toy restraint grant stun grant"
+Sex toy   Inflicts Bind, Stun"
 "レッドスネーク","Red Snake"
 "笛を吹いて操る蛇
-性具　拘束付与　スタン付与","A snake that blows a whistle and manipulates it
-Sex toy restraint grant stun grant"
+性具　拘束付与　スタン付与","A snake that dances when you play the flute
+Sex toy  Inflicts Bind  Inflicts Stun"
 "わんこ","Puppy"
 "バターが大好き
-性具　怯み付与　TP増加-100%","I love butter
-Sex toy frightening TP increase-100%"
-"わからせ棒","Understand stick"
+性具　怯み付与　TP増加-100%","Loves to lick butter
+Sex toy  Inflicts Flinch  TP increase -100%"
+"わからせ棒","Obedience Stick"
 "装備すると無様腰振りワンちゃんになる
-性具　生意気特効　ロリ特効(嘘)","When equipped, it becomes a dog swinging hips
-Sex toys cheeky special effect Lori special effect (lie)"
+性具　生意気特効　ロリ特効(嘘)","Opponent becomes an obedient dog when equipped
+Sex toy  Effective against brats and lolis (Lie)"
 "<mat1:I202*1>
 <matG:10>","<mat1:I202*1>
 <matG:10>"
@@ -682,88 +684,88 @@ Sex toy recovery effect + 20%"
 Sex toys automatic recovery +1 recovery effect + 50%"
 "～ゴム～","~ Rubber ~"
 "デバッグ用ゴム（軽量化）","Debugging rubber (lightening)"
-"極薄ゴム","Ultra-thin rubber"
+"極薄ゴム","Ultra-thin Condom"
 "0.01mのコンドーム
 ゴム　","0.01m condom
-Rubber"
+Condom"
 "ゴム","Condom"
 "0.05mの隔たり
-ゴム","0.05m gap
-Rubber"
-"厚いゴム","Thick rubber"
+ゴム","0.05m thick condom
+Condom"
+"厚いゴム","Thick Condom"
 "0.1mのコンドーム
 ゴム","0.1m condom
-Rubber"
-"分厚いゴム","Thick rubber"
+Condom"
+"分厚いゴム","Ultra Thick Condom"
 "0.2mのコンドーム
 ゴム","0.2m condom
-Rubber"
-"指サック","Finger cot"
+Condom"
+"指サック","Finger Cot"
 "本来は指にはめてあかぎれ等を防ぐもの
-ゴム","Originally, it is put on your finger to prevent rhagades, etc.
-Rubber"
-"鉄のゴム","Iron rubber"
+ゴム","Originally put on fingers to prevent chapped skin
+Condom"
+"鉄のゴム","Iron Condom"
 "鉄でできたゴム（？）
-ゴム","Rubber made of iron (?)
-Rubber"
+ゴム","Condom made of iron (?)
+Condom"
 "<mat1:I76*1>
 <matG:100>","<mat1:I76*1>
 <matG:100>"
-"金のゴム","Gold rubber"
+"金のゴム","Gold Condom"
 "金メッキされた悪趣味なゴム
-ゴム","Gold-plated bad taste rubber
-Rubber"
+ゴム","Tacky, gold plated condom
+Condom"
 "<mat1:I77*1>
 <matG:100>","<mat1:I77*1>
 <matG:100>"
-"早漏用ゴム","Rubber for premature ejaculation"
+"早漏用ゴム","Condom for Premature Ejaculation"
 "プライドが傷付かないように配慮されたゴム
-ゴム","Rubber designed to prevent the pride from being scratched
-Rubber"
-"遅漏用ゴム","Rubber for delayed ejaculation"
+ゴム","Condom designed to prevent one's pride from being scratched
+Condom"
+"遅漏用ゴム","Condom for Delayed Ejaculation"
 "遅すぎるのも問題がある
-ゴム　体力消費-10%","It's also a problem to be too late
-Rubber HP consumption -10%"
-"無色透明な膜","Colorless and transparent film"
+ゴム　体力消費-10%","It's not good to last too long either
+Condom  HP consumption -10%"
+"無色透明な膜","Colorless and Transparent Film"
 "IQが高いと見えるらしい
-ゴム","It seems that IQ is high
-Rubber"
-"親指サック","Thumb sack"
+ゴム","Makes your IQ seem higher
+Condom"
+"親指サック","Thumb Sack"
 "ちょっと余裕のある指サック
 ゴム","Finger cot with a little extra space
-Rubber"
-"リラックスゴム","Relax rubber"
+Condom"
+"リラックスゴム","Relax Condom"
 "身体の疲れやコリがほぐれていく薬用ゴム
-ゴム　体力自動回復+2","Medicinal rubber that relieves tiredness and stiffness
-Rubber automatic recovery of HP +2"
-"アロマゴム","Aroma rubber"
+ゴム　体力自動回復+2","Medicinal Condom that relieves tiredness and stiffness
+Condom  Auto HP recovery +2"
+"アロマゴム","Aroma Condom"
 "いい匂いで心も身体もリフレッシュするゴム
-ゴム　精力自動回復+2　体力自動回復+2","Rubber that refreshes the mind and body with a nice scent
-Rubber automatic recovery +2 HP automatic recovery +2"
-"マグネティックゴム","Magnetic rubber"
+ゴム　精力自動回復+2　体力自動回復+2","Condom that refreshes the mind and body with a nice scent
+Condom automatic recovery +2 HP automatic recovery +2"
+"マグネティックゴム","Magnetic Condom"
 "血流が良くなるらしいゴム
-ゴム　精力自動回復+2　体力自動回復+2","Rubber that seems to improve blood flow
-Rubber automatic recovery +2 HP automatic recovery +2"
-"ヘルスケアゴム","Healthcare rubber"
+ゴム　精力自動回復+2　体力自動回復+2","Condom that seems to improve blood flow
+Condom automatic recovery +2 HP automatic recovery +2"
+"ヘルスケアゴム","Healthcare Condom"
 "身体にいい毎日の健康を保ってくれるゴム
-ゴム　体力自動回復+4","Rubber that is good for your body and keeps you healthy every day
-Rubber automatic recovery of HP +4"
-"再生のゴム","Recycled rubber"
+ゴム　体力自動回復+4","Condom that is good for your body and keeps you healthy every day
+Condom automatic recovery of HP +4"
+"再生のゴム","Recycled Condom"
 "リサイクル素材で作ったゴム
-ゴム　精力自動回復+4","Rubber made from recycled materials
-Rubber automatic recovery +4"
-"リジェネゴム","Regen rubber"
+ゴム　精力自動回復+4","Condom made from recycled materials
+Condom  Auto energy recovery +4"
+"リジェネゴム","Regen Condom"
 "継続回復魔法がかけられたゴム
-ゴム　精力自動回復+4","Rubber with continuous recovery magic
-Rubber automatic recovery +4"
-"薬剤師のゴム","Pharmacist rubber"
+ゴム　精力自動回復+4","Condom with continuous recovery magic
+Condom  Auto energy recovery +4"
+"薬剤師のゴム","Pharmacist Condom"
 "少し薬っぽい匂いのするゴム
-ゴム　アイテム回復効果+20","Rubber that smells a little like medicine
-Rubber Item recovery effect +20"
-"錬金術師のゴム","Alchemist's rubber"
+ゴム　アイテム回復効果+20","Condom that smells a little like medicine
+Condom  Item recovery effect +20"
+"錬金術師のゴム","Alchemist's Condom"
 "賢者の石を作ろうとしたらうっかりできたゴム
-ゴム　アイテム回復効果+50","Rubber that was inadvertently made when trying to make a philosopher's stone
-Rubber Item recovery effect +50"
+ゴム　アイテム回復効果+50","Condom made while trying to create a philosopher's stone
+Condom  Item recovery effect +50"
 "<mat1:I81*1>
 <mat2:I82*1>
 <mat3:I78*1>
@@ -775,10 +777,10 @@ Rubber Item recovery effect +50"
 <mat4:I79*1>
 <mat5:I80*1>
 <matG:500>"
-"エコロジーゴム","Ecology rubber"
+"エコロジーゴム","Eco Condom"
 "自然にやさしい省エネゴム
-ゴム　消費体力-20%　草風耐性","Nature-friendly energy-saving rubber
-Rubber consumption -20% grass wind resistance"
+ゴム　消費体力-20%　草風耐性","Eco-friendly energy saving condom
+Condom  HP cost -20%  Plant/Wind resistance"
 "<mat1:I80*1>
 <mat2:I74*1>
 <mat3:I71*1>
@@ -790,18 +792,18 @@ Rubber consumption -20% grass wind resistance"
 <mat4:I72*1>
 <mat5:I73*1>
 <matG:500>"
-"ストロベリーゴム","Strawberry rubber"
+"ストロベリーゴム","Strawberry Condom"
 "いちご味のゴム
-ゴム　消費体力-20%　フェラ耐性-50%","Strawberry-flavored rubber
-Rubber consumption -20% Blow resistance -50%"
-"ブルーベリーゴム","Blueberry rubber"
+ゴム　消費体力-20%　フェラ耐性-50%","Strawberry-flavored condom
+Condom  HP cost -20%  Blowjob resistance -50%"
+"ブルーベリーゴム","Blueberry Condom"
 "ブルーベリー味のゴム
-ゴム　消費体力-20%　フェラ耐性-100%","Blueberry flavored rubber
-Rubber consumption -20% Blow resistance-100%"
-"デリシャスゴム","Delicious rubber"
+ゴム　消費体力-20%　フェラ耐性-100%","Blueberry flavored Condom
+Condom  HP cost -20%  Blowjob resistance-100%"
+"デリシャスゴム","Delicious Condom"
 "ナニごと食べる人が続出する危険なゴム
-ゴム　フェラ耐性-500%","Dangerous rubber that people who eat with Nani appear one after another
-Rubber blow resistance-500%"
+ゴム　フェラ耐性-500%","Dangerous condom everyone wants a taste of
+Condom  Blowjob resistance -500%"
 "<mat1:A121*1>
 <mat2:A122*1>
 <mat3:A139*1>
@@ -811,115 +813,115 @@ Rubber blow resistance-500%"
 <mat3:A139*1>
 <mat4:A140*1>
 <matG:500>"
-"テーピング","taping"
+"テーピング","Tape"
 "テープでぐるぐる巻きにする
-ゴム　消費体力-20%　脱力無効","Wrap it around with tape
-Rubber consumption -20% weakness invalid"
+ゴム　消費体力-20%　脱力無効","Wrap yourself up with tape
+Condom  HP cost -20%  Null Weakness"
 "マジックカーテン","Magic curtain"
 "ゴムの代わりに魔力を薄く纏わりつかせる
-ゴム　消費体力-20%","Instead of rubber, you can use magical power thinly.
-Rubber consumption -20%"
-"フレアオーラ","Flare aura"
+ゴム　消費体力-20%","Wrap it up with a thin layer of magic instead of a condom
+Condom  HP cost -20%"
+"フレアオーラ","Flare Aura"
 "付けているだけで身体が熱くなるゴム
-ゴム　TP増加+20　魅了無効","Rubber that makes your body hot just by putting it on
-Rubber TP increase +20 Fascination invalid"
+ゴム　TP増加+20　魅了無効","Condom that makes your body hot as soon as you wear it
+Condom  TP increase +20  Null Charm"
 "<mat1:I78*1>
 <matG:500>","<mat1:I78*1>
 <matG:500>"
-"アイスオーラ","Ice aura"
+"アイスオーラ","Ice Aura"
 "付けているだけで末端冷え性になるゴム
-ゴム　回復効果+20　興奮無効","Rubber that makes the end cold just by attaching it
-Rubber recovery effect +20 Excitement invalid"
+ゴム　回復効果+20　興奮無効","Condom that makes your tip chilly as soon as you wear it
+Condom  Recovery effect +20  Null Arousal"
 "<mat1:I79*1>
 <matG:500>","<mat1:I79*1>
 <matG:500>"
-"エレキオーラ","Electric aura"
+"エレキオーラ","Electric Aura"
 "付けているだけで痺れるゴム
-ゴム　クリティカル+2　怯み無効","Rubber that gets numb just by putting it on
-Rubber critical +2 frightening invalid"
+ゴム　クリティカル+2　怯み無効","Condom that makes you feel numb as soon as you wear it
+Condom  Crit +2  Null Flinch"
 "<mat1:I107*1>
 <matG:500>","<mat1:I107*1>
 <matG:500>"
 "コテカ","Koteka"
 "アソコにはめる何かケースのようなもの
-ゴム　クリティカル+5　怯み無効","Something like a case that fits in a dick
-Rubber critical +5 frightening invalid"
-"イボイボゴム","Ivoibo rubber"
+ゴム　クリティカル+5　怯み無効","A sort of sheath that fits around your penis
+Condom  Critical +5  Null Flinch"
+"イボイボゴム","Bumpy Condom"
 "イボイボの付いたゴム
-ゴム　本番耐性+20","Rubber with bumps
-Rubber production resistance +20"
-"トゲトゲゴム","Thorny rubber"
+ゴム　本番耐性+20","Condom covered with bumps
+Condom  Penetration resistance +20"
+"トゲトゲゴム","Thorny Condom"
 "トゲトゲの付いたゴム
-ゴム　本番耐性+20","Rubber with thorns
-Rubber production resistance +20"
-"トレーニングゴム","Training rubber"
+ゴム　本番耐性+20","Condom covered with thorns
+Condom  Penetration resistance +20"
+"トレーニングゴム","Training Condom"
 "訓練を積むためのゴム
-ゴム　経験値+20%","Rubber for training
-Rubber experience value + 20%"
-"グラビティゴム","Gravity rubber"
+ゴム　経験値+20%","Condom for training
+Condom  Experience +20%"
+"グラビティゴム","Gravity Condom"
 "付けると重力で下に引っ張られるゴム
-ゴム　経験値+20%","Rubber that is pulled down by gravity when attached
-Rubber experience value + 20%"
+ゴム　経験値+20%","Condom that is pulled down by gravity when attached
+Condom experience value + 20%"
 "秘忍具","Secret Ninja"
 "シノビが使っていたと古事記にも記されている
 ゴム　怯み無効","It is also written in the Kojiki that Shinobi used it.
-Rubber frightening invalid"
-"フラッシュゴム","Flash rubber"
+Condom frightening invalid"
+"フラッシュゴム","Flash Condom"
 "明るく光る素材でできたゴム
-ゴム　怯み無効　暗闇無効","Rubber made of brightly shining material
-Rubber frightening invalid Darkness invalid"
-"デコレーションゴム","Decoration rubber"
+ゴム　怯み無効　暗闇無効","Condom made of brightly shining material
+Condom frightening invalid Darkness invalid"
+"デコレーションゴム","Decoration Condom"
 "ラメとかでデコってあるゴム
-ゴム　怯み無効　暗闇無効　魅了無効","Rubber that is decorated with glitter
-Rubber is invalid, darkness is invalid, fascination is invalid"
-"ソードオフゴム","Sawed-off rubber"
+ゴム　怯み無効　暗闇無効　魅了無効","Condom that is decorated with glitter
+Condom is invalid, darkness is invalid, fascination is invalid"
+"ソードオフゴム","Sawed-Off Condom"
 "亀頭しか隠れないゴム
-ゴム　敏感無効","Rubber that hides only the glans
-Rubber sensitive invalid"
-"ゼブラゴム","Zebra rubber"
+ゴム　敏感無効","Condom that conceals everything but the top
+Condom  Null Sensitive"
+"ゼブラゴム","Zebra Condom"
 "しましま模様のゴム
-ゴム　脱力無効","Striped rubber
-Rubber weakness invalid"
+ゴム　脱力無効","Striped Condom
+Condom  Null Weakness"
 "メレンゲ","Meringue"
 "泡立てたメレンゲをそっと塗ってみる
-ゴム　催淫毒無効","Gently apply the whisked meringue
-Rubber aphrodisiac poison invalid"
+ゴム　催淫毒無効","Gently coat yourself in whipped meringue
+Condom  Null Aphrodisiac "
 "はちみつ","Honey"
 "とろっと甘いはちみつをそっと塗ってみる
-ゴム　催淫毒無効　フェラ耐性-50%","Gently apply sweet honey
-Rubber aphrodisiac poison invalid Blow resistance -50%"
+ゴム　催淫毒無効　フェラ耐性-50%","Gently coat yourself in thick, sweet honey
+Condom  Null Aphrodisiac  Blowjob resistance -50%"
 "わさび","Wasabi"
 "辛いわさびをこっそり塗ってみる
-ゴム　催淫毒無効　フェラ耐性+20%","Try to apply spicy wasabi secretly
-Rubber aphrodisiac poison invalid Blow resistance + 20%"
-"穴あきゴム","Perforated rubber"
+ゴム　催淫毒無効　フェラ耐性+20%","Sneakily coat yourself in spicy wasabi
+Condom  Null Aphrodisiac  Blowjob resistance +20%"
+"穴あきゴム","Perforated Condom"
 "先端に穴が開いたとても危険なゴム
-ゴム","Very dangerous rubber with a hole in the tip
-Rubber"
-"スパイラルゴム","Spiral rubber"
+ゴム","Very dangerous condom with a hole in the tip
+Condom"
+"スパイラルゴム","Spiral Condom"
 "捻じれていて付ける時大変
-ゴム　拘束無効","It's hard to put on because it's twisted
-Rubber restraint invalid"
-"ローションゴム","Lotion rubber"
+ゴム　拘束無効","Hard to put on because of all the twists
+Condom  Null Restrain"
+"ローションゴム","Lotion Condom"
 "ぬるぬるしていてつるつる滑るゴム
-ゴム　拘束無効","Slimy and slippery rubber
-Rubber restraint invalid"
-"ゴムゴムのゴム","Rubber rubber rubber"
+ゴム　拘束無効","Slimy and slippery Condom
+Condom  Null Restrain"
+"ゴムゴムのゴム","Condom Condom Condom"
 "ゴム人間になるゴム
-ゴム　拘束無効　水耐性-100%","Rubber to become a human rubber
-Rubber restraint invalid water resistance-100%"
-"フェロモンゴム","Pheromone rubber"
+ゴム　拘束無効　水耐性-100%","Become a human Condom
+Condom  Null Restrain  Water resistance -100%"
+"フェロモンゴム","Pheromone Condom"
 "サキュバスの愛液が塗ってあるゴム
-ゴム　興奮無効　誘惑耐性-100%","Rubber coated with succubus love juice
-Rubber excitement invalid Temptation resistance-100%"
+ゴム　興奮無効　誘惑耐性-100%","Condom coated with succubus love juice
+Condom  Null Arousal  Temptation resistance -100%"
 "シールド","Shield"
 "防御魔法がかけられたゴム
-ゴム　怯み無効　暗闇無効　魅了無効","Rubber with defensive magic
-Rubber is invalid, darkness is invalid, fascination is invalid"
+ゴム　怯み無効　暗闇無効　魅了無効","Condom enchanted with defense magic
+Condom  Null Flinch/Blind/Charm"
 "ガーディアン","Guardian"
 "守護精霊の加護があるゴム
-ゴム　興奮無効　暗闇無効　魅了無効","Rubber with the protection of the guardian spirit
-Rubber excitement invalid, darkness invalid, fascination invalid"
+ゴム　興奮無効　暗闇無効　魅了無効","Condom protected by a guardian spirit
+Condom  Null Arousal/Blind/Charm"
 "<mat1:A147*1>
 <mat2:I76*3>
 <mat3:I77*1>
@@ -929,18 +931,18 @@ Rubber excitement invalid, darkness invalid, fascination invalid"
 <mat3:I77*1>
 <mat4:I81*1>
 <matG:500>"
-"抗菌ゴム","Antibacterial rubber"
+"抗菌ゴム","Antibacterial Condom"
 "滅菌消毒するクリーンなゴム
-ゴム　催淫毒無効　暗闇無効","Clean rubber to sterilize
-Rubber aphrodisiac poison invalid darkness invalid"
-"ポイズンゴム","Poison rubber"
+ゴム　催淫毒無効　暗闇無効","Clean, sterilized condom
+Condom  Null Aphrodisiac/Blind"
+"ポイズンゴム","Poison Condom"
 "毒を仕込んであるゴム
-ゴム　催淫毒無効　催淫毒付与","Rubber charged with poison
-Rubber aphrodisiac poison invalidity aphrodisiac poisoning"
-"デッドリーポイズンゴム","Deadly poison rubber"
+ゴム　催淫毒無効　催淫毒付与","Condom coated with poison
+Condom  Null Aphrodisiac  Inflict Aphrodisiac"
+"デッドリーポイズンゴム","Deadly Poison Condom"
 "ヤバイ毒を仕込んでいるゴム　自分もヤバイ
-ゴム　精力自動回復-1　催淫毒付与","Rubber that is charged with dangerous poison I am also dangerous
-Rubber automatic recovery-1 aphrodisiac poisoning"
+ゴム　精力自動回復-1　催淫毒付与","Comdom coated with deadly poison  Double edged blade
+Condom  Auto energy recovery -1  Inflict Aphrodisiac"
 "<mat1:A150*1>
 <mat2:I82*1>
 <mat3:I105*1>
@@ -950,30 +952,30 @@ Rubber automatic recovery-1 aphrodisiac poisoning"
 <mat3:I105*1>
 <mat4:I794*1>
 <matG:500>"
-"手編みのゴム","Hand-knitted rubber"
+"手編みのゴム","Hand-knitted Condom"
 "母さんが夜なべをしてコンドーム編んでくれた
-ゴム　敏感無効　暗闇無効　魅了無効","My mother did a night pan and knitted a condom
-Rubber sensitive invalid, darkness invalid, fascination invalid"
-"サイバーゴム","Cyber ​​rubber"
+ゴム　敏感無効　暗闇無効　魅了無効","Mother stayed up all night kniting this condom
+Condom  Null Sensitive/Blind/Charm"
+"サイバーゴム","Cyber ​​Condom"
 "サイバーワイフ社が作ったハイテクノロジーゴム
-ゴム　敏感無効　暗闇無効　魅了無効　脱力無効","High technology rubber made by Cyber ​​Wife
-Rubber Sensitive Invalid Darkness Invalid Fascination Invalid Weakness Invalid"
-"パイズリ用ゴム","Rubber for fucking"
+ゴム　敏感無効　暗闇無効　魅了無効　脱力無効","High tech condom made by Cyberw​ife
+Condom  Null Sensitive/Blind/Charm/Weakness"
+"パイズリ用ゴム","Paizuri Condom"
 "パイズリの気持ちよさを上げるゴム
-ゴム　パイズリ耐性-500%","Rubber that raises the comfort of fucking
-Rubber fucking resistance-500%"
-"奇遇なゴム","Strange rubber"
+ゴム　パイズリ耐性-500%","Condom that increases pleasure from paizuri
+Condom  Paizuri resistance -500%"
+"奇遇なゴム","Strange Condom"
 "イチモツが二本に増えてしまうゴム
-ゴム　攻撃回数+1　スキル使用不可","Rubber that increases the number of ichimotsu to two
-Rubber attack count +1 skill cannot be used"
-"イーヂス","Aegis"
+ゴム　攻撃回数+1　スキル使用不可","Condom that gives you a second penis
+Condom  Number of attacks +1  Cannot use skills"
+"イーヂス","Aejizz"
 "伝説のゴムのパチモノ
-ゴム　魅了無効　拘束無効","Legendary rubber crackle
-Rubber fascination invalid, restraint invalid"
+ゴム　魅了無効　拘束無効","A forgery of a legendary condom
+Condom  Null Charm/Restrain"
 "イージス","Aegis"
 "伝説のゴム
-ゴム　状態異常無効","Legendary rubber
-Rubber state abnormality invalid"
+ゴム　状態異常無効","Legendary Condom
+Condom  Null Abnormal Status"
 "<mat1:A156*1>
 <mat2:I76*5>
 <mat3:I77*3>
@@ -984,40 +986,40 @@ Rubber state abnormality invalid"
 <mat3:I77*3>
 <mat4:I81*2>
 <mat5:I73*5>"
-"リリスのゴム","Lilith rubber"
+"リリスのゴム","Lilith Condom"
 "リリスの魔力が込められたゴム
-ゴム　TP増加+30%　パイズリ耐性-100%","Rubber with the magical power of Lilith
-Rubber TP increase + 30% Titty fuck resistance-100%"
-"クールゴム","Cool rubber"
+ゴム　TP増加+30%　パイズリ耐性-100%","Condom with the magical power of Lilith
+Condom  TP increase +30%  Paizuri resistance -100%"
+"クールゴム","Cool Condom"
 "メンソールが塗ってあるひんやりゴム
-ゴム　興奮無効　怯み無効","Cool rubber with menthol
-Rubber excitement invalid, fear invalid"
-"スーパークールゴム","Super cool rubber"
+ゴム　興奮無効　怯み無効","Cooling condom coated in menthol
+Condom  Null Arousal/Flinch"
+"スーパークールゴム","Super Cool Condom"
 "冷気魔法がかけられたゴム
-ゴム　興奮無効　怯み無効","Rubber with cold magic
-Rubber excitement invalid, fear invalid"
+ゴム　興奮無効　怯み無効","Condom enchanted with ice magic
+Condom  Null Arousal/Flinch"
 "<mat1:A159*1>
 <mat2:I79*1>
 <matG:500>","<mat1:A159*1>
 <mat2:I79*1>
 <matG:500>"
-"凍結ゴム","Frozen rubber"
+"凍結ゴム","Frozen Condom"
 "液体窒素で瞬間冷凍したゴム
-ゴム　興奮無効　怯み無効　魅了無効","Rubber instantly frozen in liquid nitrogen
-Rubber excitement invalid, fear invalid, fascination invalid"
+ゴム　興奮無効　怯み無効　魅了無効","Condom flash-frozen in liquid nitrogen
+Condom  Null Arousal/Flinch/Charm"
 "<mat1:A160*1>
 <mat2:I79*2>
 <matG:500>","<mat1:A160*1>
 <mat2:I79*2>
 <matG:500>"
-"紙製のゴム","Paper rubber"
+"紙製のゴム","Paper Condom"
 "ほぼトイレットペーパーの芯
-ゴム　怯み無効　尻コキ耐性+20%","Almost the core of toilet paper
-Rubber stagnation invalid butt job resistance + 20%"
+ゴム　怯み無効　尻コキ耐性+20%","Basically just a toilet paper roll
+Condom  Null Flinch  Assjob resistance +20%"
 "シールスキン","Seal skin"
 "アザラシの皮で出来たコンドーム
 ゴム","Condom made of seal skin
-Rubber"
+Condom"
 "またたびゴム","Again rubber"
 "猫の大好きなまたたびをまぶしてみた
 ゴム","I tried to sprinkle the cat's favorite Actinidia polygama
@@ -1030,57 +1032,57 @@ Rubber"
 "ハリガネがぐるぐる巻いてあるゴム
 ゴム　興奮無効",
 "～指輪～","~ Ring ~"
-"約束の指輪","Promised ring"
+"約束の指輪","Promise Ring"
 "永遠を誓った指輪
-指輪　弾+1　ワイドショット","Ring that swore eternity
-Ring bullet +1 wide shot"
+指輪　弾+1　ワイドショット","Ring that signifies an eternal promise
+Ring  Shots +1  Wide shot"
 "<shotWay:1>
 <shotSpace:0.7>","<shotWay:1>
 <shotSpace:0.7>"
-"鉄の指輪","Iron ring"
+"鉄の指輪","Iron Ring"
 "鉄でできたシンプルな指輪
 指輪","A simple ring made of iron
-ring"
-"金の指輪","Gold ring"
+Ring"
+"金の指輪","Gold Ring"
 "金で出来た高級な指輪
-指輪","Luxury ring made of gold
-ring"
+指輪","An expensive ring made of gold
+Ring"
 "<mat1:I77*1>
 <matG:500>","<mat1:I77*1>
 <matG:500>"
-"戦いの指輪","Ring of battle"
+"戦いの指輪","Battle Ring"
 "パンクなデザインの指輪
-指輪","Ring with punk design
-ring"
-"チェリーリング","Cherry ring"
+指輪","A ring with a punk design
+Ring"
+"チェリーリング","Cherry Ring"
 "さくらんぼがデザインされた可愛い指輪
 指輪　弾+1","A cute ring with a cherry design
-Ring bullet +1"
+Ring  Shots +1"
 "<shotWay:1>
 ","<shotWay:1>"
-"ダイヤの指輪","Diamond ring"
+"ダイヤの指輪","Diamond Ring"
 "小粒のダイヤがあしらってある指輪
-指輪　魅了無効","Ring with small diamonds
-Ring fascination invalid"
+指輪　魅了無効","A ring studded with diamonds
+Ring  Null Charm"
 "<mat1:I81*1>
 <matG:1000>","<mat1:I81*1>
 <matG:1000>"
-"リリスのピンキーリング","Lilith's pinky ring"
+"リリスのピンキーリング","Lilith's Pinky Ring"
 "リリスの呪いが込められた小指用の指輪
-指輪　パイズリ耐性-500%","A ring for the little finger with the curse of Lilith
-Ring Titty Fuck Resistance-500%"
-"おもちゃの指輪","Toy ring"
+指輪　パイズリ耐性-500%","A pinky ring cursed by Lilith
+Ring  Paizuri resistance -500%"
+"おもちゃの指輪","Toy Ring"
 "プラスチックでできた安っぽい指輪
-指輪　魅了無効　興奮無効","Cheesy ring made of plastic
-Ring, fascination invalid, excitement invalid"
-"ミモザリング","Mimosa ring"
+指輪　魅了無効　興奮無効","Cheap ring made of plastic
+Ring  Null Charm/Arousal"
+"ミモザリング","Mimosa Ring"
 "アカシアの花の装飾がされた優雅な指輪
 指輪　魅了無効　興奮無効　催淫毒無効","Elegant ring decorated with acacia flowers
-Ring, fascination invalid, excitement invalid, aphrodisiac poison invalid"
-"フェアリーリング","Fairy ring"
+Ring  Null Charm/Arousal/Aphrodisiac"
+"フェアリーリング","Fairy Ring"
 "妖精の腕輪　人間にとっては指輪
-指輪　魅了無効　催淫毒無効　体力消費-20%","Fairy bracelet, a ring for humans
-Ring fascination invalid, aphrodisiac poison invalid, HP consumption -20%"
+指輪　魅了無効　催淫毒無効　体力消費-20%","A bracelet for a fairy, but a ring for a human
+Ring  Null Charm/Aphrodisiac  HP cost -20%"
 "<mat1:I78*1>
 <mat2:I79*1>
 <mat3:I80*1>
@@ -1088,396 +1090,396 @@ Ring fascination invalid, aphrodisiac poison invalid, HP consumption -20%"
 <mat2:I79*1>
 <mat3:I80*1>
 <matG:500>"
-"インスマスリング","Innsmouth ring"
+"インスマスリング","Innsmouth Ring"
 "磯の香がする指輪
-指輪　催淫毒無効　経験値+5%","Ring with the scent of rocky shore
-Ring aphrodisiac poison invalid experience value + 5%"
+指輪　催淫毒無効　経験値+5%","Ring that smells of the seashore
+Ring  Null Aphrodisiac  Experience +5%"
 "<mat1:I79*1>
 <mat2:I103*1>
 <matG:100>","<mat1:I79*1>
 <mat2:I103*1>
 <matG:100>"
-"ヒートリング","Heat ring"
+"ヒートリング","Heat Ring"
 "情熱を表現した指輪
-指輪　脱力無効　TP増加+30%","A ring that expresses passion
-Ring weakness invalid TP increase + 30%"
+指輪　脱力無効　TP増加+30%","A ring that represents passion
+Ring  Null Weakness  TP increase +30%"
 "<mat1:I78*1>
 <matG:300>","<mat1:I78*1>
 <matG:300>"
-"スノーリング","Snow ring"
+"スノーリング","Snow Ring"
 "冷静を表現した指輪
-指輪　興奮無効　体力自動回復+3","A ring that expresses calmness
-Ring Excitement disabled Automatic recovery of HP +3"
+指輪　興奮無効　体力自動回復+3","A ring that represents calmness
+Ring  Null Arousal  Auto recover HP +3"
 "<mat1:I79*1>
 <matG:300>","<mat1:I79*1>
 <matG:300>"
-"スパークリング","Sparkling"
+"スパークリング","Sparkle Ring"
 "閃きを表現した指輪
-指輪　怯み無効　クリティカル+3","A ring that expresses an inspiration
-Ring frightened invalid critical +3"
+指輪　怯み無効　クリティカル+3","A ring that represents insight
+Ring  Null Flinch  Critical +3"
 "<mat1:I107*1>
 <matG:300>","<mat1:I107*1>
 <matG:300>"
-"フェザーリング","Feather ring"
+"フェザーリング","Feather Ring"
 "自由を表現した指輪
-指輪　拘束無効　精力自動回復+3","Ring expressing freedom
-Ring restraint invalid, automatic energy recovery +3"
+指輪　拘束無効　精力自動回復+3","A ring that represents freedom
+Ring  Null Restrain  Energy auto recovery +3"
 "<mat1:I80*1>
 <matG:300>","<mat1:I80*1>
 <matG:300>"
-"回復の指輪","Ring of recovery"
+"回復の指輪","Recovery Ring"
 "回復魔法がかけられた指輪
-指輪　催淫毒無効　精力自動回復+2","Ring with recovery magic
-Ring: Aphrodisiac poison invalid, automatic energy recovery +2"
-"メディカルリング","Medical ring"
+指輪　催淫毒無効　精力自動回復+2","Ring imbued with recovery magic
+Ring  Null Aphrodisiac  Energy auto recovery +2"
+"メディカルリング","Medical Ring"
 "薬の効果を高める指輪
 指輪　催淫毒無効　アイテム回復効果+50%","Ring that enhances the effect of medicine
-Ring aphrodisiac poison invalid Item recovery effect + 50%"
-"力の指輪","Rings of power"
+Ring  Null Aphrodisiac  Item recovery effect + 50%"
+"力の指輪","Power Ring"
 "力が湧いてくる指輪
-指輪　脱力無効　拘束無効　体力自動回復+1","A ring that gives you strength
-Ring, weakness invalid, restraint invalid, HP automatic recovery +1"
-"涙の指輪","Ring of tears"
+指輪　脱力無効　拘束無効　体力自動回復+1","A ring surging with power
+Ring  Null Weakness/Restrain  HP auto recovery +1"
+"涙の指輪","Ring of Tears"
 "錆びてしまっている
-指輪　魅了無効　興奮無効　アイテム回復効果+20%","It's rusted
-Ring, fascination disabled, excitement disabled, Item recovery effect + 20%"
-"呪いの指輪","Cursed ring"
+指輪　魅了無効　興奮無効　アイテム回復効果+20%","A rusted ring
+Ring  Null Charm/Arousal  Item recovery effect +20%"
+"呪いの指輪","Cursed Ring"
 "ドクロ模様のあからさまに呪われてそうな指輪
-指輪　敏感無効　精力減少-2","A ring that seems to be cursed overtly with a skull pattern
-Ring Sensitive invalidity Decrease in energy-2"
-"エナジーリング","Energy ring"
+指輪　敏感無効　精力減少-2","A skull adorned ring that appears to be cursed
+Ring  Null Sensitive  Energy reduction -2"
+"エナジーリング","Energy Ring"
 "必要以上に力が入る魔法の指輪
 指輪　脱力無効　消費体力+50%","A magic ring that gives you more power than you need
-Ring: Weakness invalid, consumption + 50%"
-"ブラックキャット","Black cat"
+Ring  Null Weakness  HP cost +50%"
+"ブラックキャット","Black Cat Ring"
 "黒猫屋の特製リング　お得意様限定
-指輪　行動追加5%　最大精力+200　最大体力+20","Black cat shop special ring limited to customers
-Ring action additional 5% maximum energy +200 maximum HP +20"
-"成金の指輪","Riche ring"
+指輪　行動追加5%　最大精力+200　最大体力+20","An inscription reads 'Made by Ako'
+Ring  Double item drop rate  Additional action chance 5%"
+"成金の指輪","Riche Ring"
 "趣味の悪い指輪
-指輪　獲得金額2倍","Bad taste ring
-Double the amount of money earned for the ring"
-"エンジェルリング","Angel ring"
+指輪　獲得金額2倍","A truly tasteless ring
+Ring  Double gold acquired"
+"エンジェルリング","Angel Ring"
 "髪の毛がつやつやになる指輪
 指輪　回復効果+20%　敏感無効　暗闇無効","A ring that makes your hair shiny
-Ring recovery effect + 20% Sensitive invalid Darkness invalid"
-"デビルリング","Devil ring"
+Ring  Recovery effects +20%  Null Sensitive/Blind"
+"デビルリング","Devil Ring"
 "黒い魔力が渦巻く指輪
-指輪　回復効果-20%　敏感無効　興奮無効","A ring swirling with black magical power
-Ring recovery effect -20% Sensitive invalid Excitement invalid"
+指輪　回復効果-20%　敏感無効　興奮無効","A ring surging with dark magic
+Ring  Recovery effects -20%  Null Sensitive/Arousal"
 "ポンデリング","Pon de Ring"
 "甘い匂いのする指輪
-指輪　アイテム回復効果+50%　精力自動回復+2","Ring with a sweet smell
-Ring Item recovery effect + 50% Automatic energy recovery +2"
-"チャネリング","Channeling"
+指輪　アイテム回復効果+50%　精力自動回復+2","A sweet smelling ring
+Ring  Item recovery effect +50%  Auto energy recovery +2"
+"チャネリング","Channel Ring"
 "宇宙の電波を受信する指輪
 指輪　アイテム回復効果+50%　経験値+20%","Ring that receives radio waves in space
-Ring Item recovery effect + 50% Experience value + 20%"
-"メリケンサック","Brass knuckles"
+Ring  Item recovery effect +50%  Experience +20%"
+"メリケンサック","Brass Knuckles"
 "殴るための連結指輪
-指輪","Connecting ring for hitting
-ring"
-"マジカーレリング","Magic car reeling"
+指輪","Conjoined rings meant for hitting
+Ring"
+"マジカーレリング","Magikal Ring"
 "高名な魔術師の魔力が込められた指輪
-指輪　体力自動回復+5","A ring with the magical power of a famous magician
-Ring: Automatic recovery of HP +5"
+指輪　体力自動回復+5","A ring imbued with magic by a famous magician
+Ring  HP auto recovery +5"
 "<mat1:I793*1>
 <matG:5000>","<mat1:I793*1>
 <matG:5000>"
-"ヒッグスリング","Higgs sling"
+"ヒッグスリング","Higgs Ring"
 "ヒッグス粒子で作られた指輪
-指輪　命中率+15%","Ring made of Higgs boson
-Ring hit rate + 15%"
-"旅人の指輪","Traveler's ring"
+指輪　命中率+15%","Ring made of Higgs boson particles
+Ring  Hit rate +15%"
+"旅人の指輪","Traveler's Ring"
 "無事に帰ってくるよう祈りが込められた指輪
-指輪　TP持ち越し","A ring with prayers to return safely
-Ring TP carry over"
-"ルビーの指輪","Ruby no yubiwa"
+指輪　TP持ち越し","A ring filled with prayers for a safe return
+Ring  Retain TP"
+"ルビーの指輪","Ruby Ring"
 "キレイな赤い宝石があしらってある指輪
-指輪　TP持ち越し","Ring with beautiful red jewels
-Ring TP carry over"
-"アクアマリンの指輪","Aquamarine ring"
+指輪　TP持ち越し","Ring adorned with a beautiful red jewel
+Ring  Retain TP"
+"アクアマリンの指輪","Aquamarine Ring"
 "キレイな青い宝石があしらってある指輪
-指輪　興奮無効　怯み無効　催淫毒無効","Ring with beautiful blue jewels
-Ring Excitement invalid Frightening invalid Aphrodisiac poison invalid"
-"エメラルドの指輪","Emerald ring"
+指輪　興奮無効　怯み無効　催淫毒無効","Ring adorned with a beautiful blue jewel
+Ring  Null Arousal/Flinch/Aphrodisiac"
+"エメラルドの指輪","Emerald Ring"
 "キレイな緑の宝石があしらってある指輪
-指輪　魅了無効　拘束無効　暗闇無効","Ring with beautiful green jewels
-Ring, fascination invalid, restraint invalid, darkness invalid"
+指輪　魅了無効　拘束無効　暗闇無効","Ring adorned with a beautiful green jewel
+Ring  Null Charm/Restrain/Blind"
 "<mat1:I80*1>
 <matG:500>","<mat1:I80*1>
 <matG:500>"
-"時の指輪","Ring of time"
+"時の指輪","Time Ring"
 "時を操る魔力が込められた指輪
-指輪　行動追加20%","A ring with magical power to manipulate time
-Ring action additional 20%"
+指輪　行動追加20%","A ring with the power to manipulate time
+Ring  Additional action chance 20%"
 "メビウスの指輪","Mobius Ring"
 "無限に続く表と裏
-指輪　行動追加40%","Infinite front and back
-Ring action additional 40%"
+指輪　行動追加40%","Infinitely continues front to back
+Ring  Additional action chance 40%"
 "<mat1:A235*1>
 <mat2:I790*5>
 <matG:500>","<mat1:A235*1>
 <mat2:I790*5>
 <matG:500>"
-"バーサークリング","Berserk ring"
+"バーサークリング","Berserk Ring"
 "身体が勝手に動いてしまう呪いの指輪
-指輪　自動行動","A cursed ring that causes the body to move freely
-Ring automatic action"
-"封印の指輪","Sealed ring"
+指輪　自動行動","A cursed ring that makes your body move on its own
+Ring  Automatic action"
+"封印の指輪","Sealed Ring"
 "強力な悪魔を封印した呪いの指輪
-指輪　スキル封印　行動追加30%","A ring of curses that sealed a powerful demon
-Ring skill seal 30% additional action"
-"ドーナツの穴","Donut hole"
+指輪　スキル封印　行動追加30%","A cursed ring that sealed a powerful demon
+Ring  Skill seal  Additional action chance 30%"
+"ドーナツの穴","Donut Hole"
 "多くの哲学者を悩ませたものの結論
-指輪　アイテム回復効果+50%　精力自動回復+3","The conclusion of what has plagued many philosophers
-Ring Item recovery effect + 50% Automatic energy recovery +3"
+指輪　アイテム回復効果+50%　精力自動回復+3","The answer to a question that has plagued many a philosopher
+Ring  Item recovery +50%  Auto energy recovery +3"
 "<mat1:A226*1>
 <matG:3000>","<mat1:A226*1>
 <matG:3000>"
-"透視の指輪","Clairvoyant ring"
+"透視の指輪","Clairvoyant Ring"
 "目を瞑っても前が見えるようになる指輪
-指輪　暗闇無効　アイテム入手率2倍","A ring that allows you to see the front even if you close your eyes
-Ring invalid darkness Item acquisition rate doubled"
+指輪　暗闇無効　アイテム入手率2倍","A ring that allows you to see even if your eyes are shut
+Ring  Null Blind  Double item drop rate"
 "六魂石の指輪","Six Soul Stone Ring"
 "六人分の命が凝縮された赤黒い石の指輪
 指輪　興奮/魅了/発情無効　深呼吸封印","A red-black stone ring with condensed lives for six people
-Ring excitement / fascination / estrus invalid deep breath seal"
-"黒猫の指輪","Black cat ring"
+Ring  Null Arousal/Charm/Estrus  Seals Deep Breathing"
+"黒猫の指輪","Black Cat's Ring"
 "メイドインアーコと書いてある
-指輪　アイテムドロップ率2倍　行動追加5%","It says Made in Arco
+指輪　アイテムドロップ率2倍　行動追加5%","It says 'Made by Ako'
 Ring Item drop rate doubled, action added 5%"
 "～装飾品～","～ Accessory ～"
-"剣士のお守り","Amulet of the swordfighter"
+"剣士のお守り","Swordfighter's Amulet"
 "戦いの無事を祈る思いが込められたお守り
-装飾品　防御効果+20%　剣装備可","Amulet with the thought of praying for the safety of the battle
-Accessory defense effect + 20% sword equipment possible"
-"膝当て","Knee pad"
+装飾品　防御効果+20%　剣装備可","Amulet full of prayers for safety during battle
+Accessory  Defense +20%  Can equip swords"
+"膝当て","Knee Pad"
 "急所を守る冒険者の必需品
-装飾品　防御効果+20%","Adventurer's essentials to protect the key points
-Accessory defense effect + 20%"
-"錬金術師の腕輪","Alchemist's bracelet"
+装飾品　防御効果+20%","An essential item to protect an adventurer's vital points
+Accessory  Defense +20%"
+"錬金術師の腕輪","Alchemist's Bracelet"
 "薬の効果を高める腕輪
 装飾品　アイテム回復効果+20%　薬装備可","A bracelet that enhances the effect of medicines
-Accessory Item recovery effect + 20% medicine equipment possible"
-"白兎の懐中時計","White rabbit pocket watch"
+Accessory  Item recovery effect +20% Can equip medicine"
+"白兎の懐中時計","White Rabbit's Pocket Watch"
 "秒針が不規則に動く不思議な懐中時計
-装飾品　行動追加20%","A mysterious pocket watch with an irregular movement of the second hand
-Accessory action addition 20%"
-"トルテの腕時計","Torte watch"
+装飾品　行動追加20%","A pocket watch whose second hand moves irregularly
+Accessory  Additional action chance 20%"
+"トルテの腕時計","Torte's Watch"
 "魔力切れで動いたり動かなかったりする時計
-装飾品　興奮無効　行動追加10%","A clock that moves or does not move due to lack of magical power
-Accessory Excitement disabled 10% additional behavior"
-"クロノスの時計","Cronus watch"
+装飾品　興奮無効　行動追加10%","A watch that does or doesn't move based on its user's magic
+Accessory  Null Arousal  Additional action chance 10%"
+"クロノスの時計","Chronos Watch"
 "時を司る神の時計
-装飾品　行動追加40%","God's clock that governs time
-Accessory action addition 40%"
+装飾品　行動追加40%","Godly watch that governs time
+Accessory  Additional action chance 40%"
 "<mat1:A304*1>
 <mat2:A305*1>
 <matG:10>","<mat1:A304*1>
 <mat2:A305*1>
 <matG:10>"
-"薬剤師の鞄","Pharmacist's bag"
+"薬剤師の鞄","Pharmacist's Bag"
 "様々な薬が入った鞄
-装飾品　アイテム回復効果+50%　薬装備可","Bags containing various medicines
-Accessory Item recovery effect + 50% medicine equipment possible"
+装飾品　アイテム回復効果+50%　薬装備可","Bag containing various medicine
+Accessory  Item recovery +50%  Can equip medicine"
 "血圧計","Sphygmomanometer"
 "血圧を測定する腕輪
 装飾品　興奮無効　怯み無効","A bracelet that measures blood pressure
-Accessory Excitement invalidity Frightening invalidity"
-"磁気ネックレス","Magnetic necklace"
+Accessory  Null Arousal/Flinch"
+"磁気ネックレス","Magnetic Necklace"
 "磁力で血流をよくする健康器具
-装飾品　興奮無効　怯み無効","Health equipment that improves blood flow with magnetic force
-Accessory Excitement invalidity Frightening invalidity"
-"カームブレスレット","Calm bracelet"
+装飾品　興奮無効　怯み無効","Improves blood flow using magnetic energy
+Accessory  Null Arousal/Flinch"
+"カームブレスレット","Calm Bracelet"
 "冷静さを保てるようになる腕輪
-装飾品　興奮無効　怯み無効","A bracelet that helps you stay calm
-Accessory Excitement invalidity Frightening invalidity"
-"チャームリスト","Charm list"
+装飾品　興奮無効　怯み無効","A bracelet that helps you keep your cool
+Accessory  Null Arousal/Flinch"
+"チャームリスト","Charm Bracelet"
 "可愛らしい腕輪
-装飾品　魅了無効　敏感無効","Pretty bracelet
-Accessory fascination invalid, sensitive invalid"
-"ハートのチョーカー","Heart choker"
+装飾品　魅了無効　敏感無効","A cute little bracelet
+Accessory  Null Charm/Sensitive"
+"ハートのチョーカー","Heart Choker"
 "ハート模様のキュートなチョーカー
 装飾品　魅了無効　敏感無効","A cute choker with a heart pattern
-Accessory fascination invalid, sensitive invalid"
-"インプのピアス","Imp piercing"
+Accessory  Null Charm/Sensitive"
+"インプのピアス","Imp Earrings"
 "人を魅了する魔力の込められたピアス
-装飾品　魅了無効　敏感無効","Earrings with magical power that fascinates people
-Accessory fascination invalid, sensitive invalid"
-"縄抜けの腕輪","A bracelet without a rope"
+装飾品　魅了無効　敏感無効","Earrings with magical power to charm people
+Accessory  Null Charm/Sensitive"
+"縄抜けの腕輪","Escape Rope Bracelet"
 "縄抜けの小道具が仕込まれた腕輪
-装飾品　拘束無効　脱力無効","A bracelet with rope pulling props
-Accessory restraint invalid, weakness invalid"
-"スリップリスト","Slip list"
+装飾品　拘束無効　脱力無効","Bracelet made of ropes you can use for escaping
+Accessory  Null Restrain/Weakness"
+"スリップリスト","Slip Bangle"
 "掴もうとしてもするりと滑る腕輪
-装飾品　拘束無効　脱力無効","A bracelet that slips easily even if you try to grab it
-Accessory restraint invalid, weakness invalid"
-"バブルリスト","Bubble list"
+装飾品　拘束無効　脱力無効","A smooth bracelet that's too slippery to grab onto
+Accessory  Null Restrain/Weakness"
+"バブルリスト","Bubble Bangle"
 "石鹸の匂いがする泡の腕輪
-装飾品　拘束無効　脱力無効","Foam bracelet that smells of soap
-Accessory restraint invalid, weakness invalid"
+装飾品　拘束無効　脱力無効","A bracelet made of bubbles that smells like soap
+Accessory  Null Restrain/Weakness"
 "アンチトキシン","Antitoxin"
 "毒を防ぐネックレス
-装飾品　催淫毒無効","Necklace to prevent poison
-Accessory aphrodisiac poison invalid"
-"星のチョーカー","Star choker"
+装飾品　催淫毒無効","Necklace that prevents poison
+Accessory  Null Aphrodisiac"
+"星のチョーカー","Star Choker"
 "星型のキュートなチョーカー
 装飾品　怯み無効　興奮無効　行動追加2%","Cute star-shaped choker
-Accessory invalidation of fear, invalidation of excitement, additional behavior 2%"
-"ダイヤのチョーカー","Diamond choker"
+Accessory  Null Flinch/Arousal  Extra action chance 2%"
+"ダイヤのチョーカー","Diamond Choker"
 "ダイヤ型のキュートなチョーカー
 装飾品　敏感無効　催淫毒無効　行動追加2%","A cute diamond-shaped choker
-Accessory Sensitive invalidity Aphrodisiac poison invalidity Additional behavior 2%"
-"クローバーのチョーカー","Clover choker"
+Accessory Null Sensitive/Aphrodisiac Extra action chance 2%"
+"クローバーのチョーカー","Clover Choker"
 "クローバーのキュートなチョーカー
-装飾品　拘束無効　行動追加4%","Clover's cute choker
-Accessory restraint invalid action additional 4%"
-"スペードのチョーカー","Spade choker"
+装飾品　拘束無効　行動追加4%","A cute clover-shaped choker
+Accessory  Null Restrain  Extra action chance 4%"
+"スペードのチョーカー","Spade Choker"
 "スペード型のキュートなチョーカー
-装飾品　怯み付与","A cute spade choker
-Accessory frightening"
-"精奴隷の首輪","Slavery collar"
+装飾品　怯み付与","A cute spade-shaped choker
+Accessory  Null Flinch"
+"精奴隷の首輪","Semen Slave Collar"
 "精奴隷に着ける屈辱の首輪
-装飾品","Humiliation collar worn by a sexual slave
+装飾品","Humiliating collar worn by semen slaves
 Accessory"
-"識別番号","Identification number"
+"識別番号","Identification Tag"
 "ミルクタンク牧場の識別用の耳に着ける札
-装飾品　手コキ耐性-500%　精力+1000","A tag that can be worn on the ear to identify the milk tank ranch
-Accessory Handjob resistance-500% energy +1000"
+装飾品　手コキ耐性-500%　精力+1000","Ear tag used to identify milking cattle
+Accessory  Handjob resistance -500% "
 "ミサンガ","Misanga"
 "切れた時に願いが叶うらしい
-装飾品　魅了無効","It seems that your wish will come true when it runs out
-Accessory fascination invalid"
-"エリヤのミサンガ","Elijah's Misanga"
+装飾品　魅了無効","Supposedly your wish comes true if it falls off
+Accessory  Null Charm"
+"エリヤのミサンガ","Ellia's Misanga"
 "しめ縄のようなミサンガ　切れる気配がない
-装飾品　防御効果+100%","Misanga like Shimenawa There is no sign of cutting
-Accessory defense effect + 100%"
-"セイレーンピアス","Siren earrings"
+装飾品　防御効果+100%","A bangle made of magic talismans that will likely not break
+Accessory  Defense +100%"
+"セイレーンピアス","Siren Earrings"
 "自分の歌で自分が魅了されないようにする耳栓
-装飾品　魅了無効　防御効果+50%","Earplugs that keep you from being fascinated by your songs
-Accessory fascination invalid defense effect + 50%"
-"アクアネックレス","Aqua necklace"
+装飾品　魅了無効　防御効果+50%","Earplugs that prevent you from hearing mesmerizing songs
+Accessory  Null Charm  Defense +50%"
+"アクアネックレス","Aqua Necklace"
 "魔力で水がネックレス状に連結している
-装飾品　敏感無効　拘束無効","Water is connected like a necklace by magical power
-Accessory Sensitive invalid Restraint invalid"
-"スピードリング","Speed ​​ring"
+装飾品　敏感無効　拘束無効","Necklace made of magically bound water
+Accessory  Null Sensitive/Restrain"
+"スピードリング","Speed ​​Ring"
 "敏捷性がぐーんと上がる腕輪
-装飾品　拘束無効","A bracelet that raises AGI
-Accessory restraint invalid"
-"シルフスカーフ","Sylph scarf"
+装飾品　拘束無効","A bracelet that raises agility
+Accessory  Null Restrain"
+"シルフスカーフ","Sylph Scarf"
 "風の精霊が首に巻いているスカーフ
-装飾品　拘束無効","A scarf with a wind spirit wrapped around his neck
-Accessory restraint invalid"
+装飾品　拘束無効","Wind spirit that wraps around your neck like a scarf
+Accessory  Null Restrain"
 "<mat1:I80*3>
 <matG:500>","<mat1:I80*3>
 <matG:500>"
-"ウンディーネスカーフ","Undine scarf"
+"ウンディーネスカーフ","Undine Scarf"
 "水の精霊が首に巻いているスカーフ
-装飾品　敏感無効　催淫毒無効","A scarf with a water spirit wrapped around its neck
-Accessory Sensitive invalid Aphrodisiac poison invalid"
+装飾品　敏感無効　催淫毒無効","Water spirit that wraps around your neck like a scarf
+Accessory  Null Sensitive/Aphrodisiac"
 "<mat1:I79*3>
 <matG:500>","<mat1:I79*3>
 <matG:500>"
-"イフリートスカーフ","Ifrit scarf"
+"イフリートスカーフ","Ifrit Scarf"
 "炎の精霊が首に巻いているスカーフ
-装飾品　脱力無効　低速無効　暗闇無効","A scarf with a flame spirit wrapped around his neck
-Accessory weakness invalid, low speed invalid, darkness invalid"
+装飾品　脱力無効　低速無効　暗闇無効","Fire spirit that wraps around your neck like a scarf
+Accessory  Null Weakness/Slow/Blind"
 "<mat1:I78*3>
 <matG:500>","<mat1:I78*3>
 <matG:500>"
-"ノームスカーフ","Gnome scarf"
+"ノームスカーフ","Gnome Scarf"
 "大地の精霊が首に巻いているスカーフ
-装飾品　拘束無効　怯み無効　防御効果+50%","A scarf with the spirit of the earth wrapped around his neck
-Accessory restraint invalid, fear invalid, defense effect + 50%"
+装飾品　拘束無効　怯み無効　防御効果+50%","Earth spirit that wraps around your neck like a scarf
+Accessory  Null Restrain/Flinch  Defense +50%"
 "<mat1:I81*3>
 <matG:500>","<mat1:I81*3>
 <matG:500>"
-"特攻隊の腕章","Armband of the kamikaze corps"
+"特攻隊の腕章","Kamikaze Armband"
 "攻撃あるのみ！引くことは許されぬ
-装飾品　防御効果-100%　精力減少1","There is only an attack! Not allowed to pull
-Accessory defense effect-100% energy reduction 1"
-"婚約指輪","Engagement ring"
+装飾品　防御効果-100%　精力減少1","There is only an attack! Not allowed to pull out!
+Accessory  Defense -100%  Energy reduction 1"
+"婚約指輪","Engagement Ring"
 "誰かが愛を誓った指輪　無くすな
-装飾品　精力自動回復+1　魅了無効","Don't lose the ring that someone swore to love
-Accessory automatic recovery of energy +1 fascination invalid"
-"そよ風のピアス","Breeze earrings"
+装飾品　精力自動回復+1　魅了無効","A ring used to pledge your love to someone
+Accessory  Energy auto recover +1  Null Charm"
+"そよ風のピアス","Breeze Earrings"
 "風が吹くと緑に淡く光るネックレス
-装飾品　低速無効　拘束無効","A necklace that glows green when the wind blows
-Accessory slow invalid, restraint invalid"
-"三日月のイヤリング","Crescent earrings"
+装飾品　低速無効　拘束無効","Earrings that glow green whenever the wind blows
+Accessory  Null Slow/Restrain"
+"三日月のイヤリング","Crescent Moon Earrings"
 "三日月の夜に光るイヤリング
 装飾品　体力自動回復+1","Earrings that shine on the night of the crescent moon
-Accessory Automatic recovery of HP +1"
-"半月のイヤリング","Half moon earrings"
+Accessory  Auto HP recovery +1"
+"半月のイヤリング","Half Moon Earrings"
 "半月の夜に光るイヤリング
-装飾品　体力自動回復+2","Earrings that shine on a half-moon night
-Accessory Automatic recovery of HP +2"
+装飾品　体力自動回復+2","Earrings that shine on the night of the half-moon
+Accessory  Auto HP recovery +2"
 "<mat1:A336*1>
 <mat2:I72*3>
 <matG:500>","<mat1:A336*1>
 <mat2:I72*3>
 <matG:500>"
-"満月のイヤリング","Full moon earrings"
+"満月のイヤリング","Full Moon Earrings"
 "満月の夜に光るイヤリング
-装飾品　体力自動回復+3","Earrings that shine on a full moon night
-Accessory Automatic recovery of HP +3"
+装飾品　体力自動回復+3","Earrings that shine on the night of the full moon
+Accessory  Auto HP recovery +3"
 "<mat1:A337*2>
 <matG:500>","<mat1:A337*2>
 <matG:500>"
-"ハッピーイヤリング","Happy earrings"
+"ハッピーイヤリング","Happy Earrings"
 "付けると運が良くなるらしい
-装飾品　クリティカル率+3","It seems that you will be lucky if you attach it
-Accessory critical rate +3"
+装飾品　クリティカル率+3","Makes you feel luckier while wearing it
+Accessory  Crit +3"
 "<mat1:I74*3>
 <matG:500>","<mat1:I74*3>
 <matG:500>"
-"フォーチュンリスト","Fortune list"
+"フォーチュンリスト","Fortune Wristband"
 "装備者に幸運が約束された腕輪
-装飾品　クリティカル率+5","A bracelet that promises good luck to the wearer
-Accessory critical rate +5"
+装飾品　クリティカル率+5","A bracelet that promises good luck to its wearer
+Accessory  Crit +5"
 "<mat1:A339*3>
 <mat2:I74*3>
 <matG:2000>","<mat1:A339*3>
 <mat2:I74*3>
 <matG:2000>"
-"ステディリスト","Steady list"
+"ステディリスト","Steady Wristband"
 "着実に平凡な人生を送るための腕輪
-装飾品　命中率+100　クリティカル率-100","A bracelet for a steady and mediocre life
-Accessory hit rate +100, critical rate-100"
-"連撃の腕輪","A bracelet of continuous attacks"
+装飾品　命中率+100　クリティカル率-100","A bracelet that helps you live a steady, ordinary life
+Accessory  Hit rate +100  Crit rate -100"
+"連撃の腕輪","Combo Bracelet"
 "手が一度の動作で二回動くようになる
-装飾品　命中率-40%　攻撃回数+1","The hand will rotate twice with one movement
-Accessory Hit rate -40% Attack count +1"
-"ムササビの腕輪","Flying squirrel bracelet"
+装飾品　命中率-40%　攻撃回数+1","Makes your hands move twice in one swift motion
+Accessory  Hit rate -40%  Attack count +1"
+"ムササビの腕輪","Flying Squirrel Bracelet"
 "手が一度の動作で三回動くようになる
-装飾品　命中率-70%　攻撃回数+2","The hand will rotate three times with one movement
-Accessory Hit rate -70% Attack count +2"
+装飾品　命中率-70%　攻撃回数+2","Makes your hands move thrice in one swift motion
+Accessory  Hit rate -70%  Attack count +2"
 "<mat1:A342*1>
 <mat2:I102*2>
 <matG:500>","<mat1:A342*1>
 <mat2:I102*2>
 <matG:500>"
-"フォルトゥーナピアス","Fortuna earrings"
+"フォルトゥーナピアス","Fortuna Earrings"
 "幸運の女神のピアス
-装飾品　クリティカル率+10","Goddess of luck earrings
-Accessory critical rate +10"
-"ソウルバースト","Soul burst"
+装飾品　クリティカル率+10","Earrings representing the goddess of luck
+Accessory  Crit +10"
+"ソウルバースト","Soul Burst"
 "魂を削って力をもたらす呪いの腕輪
-装飾品　毎ターン精力減少1","A cursed bracelet that sharpens the soul and brings power
-Accessory Decrease in energy every turn 1"
-"カースドチョーカー","Cursed choker"
+装飾品　毎ターン精力減少1","A cursed bracelet that erodes the soul and grants power
+Accessory  Lose 1 energy each turn"
+"カースドチョーカー","Cursed Choker"
 "闇の魔力で呪われたチョーカー
-装飾品　毎ターン精力減少2","Choker cursed by the magic of darkness
-Accessory Decrease in energy every turn 2"
-"ドクロのネックレス","Skull necklace"
+装飾品　毎ターン精力減少2","Choker cursed by the dark magic
+Accessory  Lose 2 energy each turn"
+"ドクロのネックレス","Skull Necklace"
 "パンクな気分になるぜ
-装飾品　興奮耐性-1000%　TP増加+10%","I feel punk
-Accessory Excitement resistance-1000% TP increase + 10%"
-"フラワーブレスレット","Flower bracelet"
+装飾品　興奮耐性-1000%　TP増加+10%","Makes you feel punk
+Accessory  Arousal resistance -1000%  TP increase +10%"
+"フラワーブレスレット","Flower Bracelet"
 "花で作られた腕飾り
-装飾品　興奮無効　催淫毒無効　アイテム回復効果+30％","Arm ornament made of flowers
-Accessory Excitement invalid Aphrodisiac poison invalid Item recovery effect + 30%"
+装飾品　興奮無効　催淫毒無効　アイテム回復効果+30％","A bracelet made of flowers
+Accessory Null Arousal/Aphrodisiac  Item recovery +30%"
 "<mat1:I71*2>
 <mat2:I72*2>
 <mat3:I72*2>
@@ -1491,33 +1493,33 @@ Accessory Excitement invalid Aphrodisiac poison invalid Item recovery effect + 3
 "木の枝とかに不意に引っかけて死ぬ
 装飾品　","Suddenly caught on a tree branch and died
 Accessory"
-"オークの首飾り","Oak necklace"
+"オークの首飾り","Orc Necklace"
 "オークが食べた人間の指の骨で作られた首飾り
-装飾品　毎ターン精力減少3","Necklace made of human finger bones eaten by oak
-Accessory Decrease in energy every turn 3"
-"シルバーチェーン","Silver chain"
+装飾品　毎ターン精力減少3","Necklace made of the finger bones of humans eaten by orcs
+Accessory  Lose 3 energy each turn"
+"シルバーチェーン","Silver Chain"
 "ロックな気分になるぜ
-装飾品　魅了耐性-1000%　TP増加+30%","I feel like rock
-Accessory Fascination resistance-1000% TP increase + 30%"
-"ネビュラチェーン","Nebula chain"
+装飾品　魅了耐性-1000%　TP増加+30%","Makes you feel like a rock star
+Accessory Charm resistance -1000%  TP increase +30%"
+"ネビュラチェーン","Nebula Chain"
 "アンドロメダを縛り付けていた鎖
 装飾品　拘束付与　TP増加-20%","The chain that bound Andromeda
-Accessory restraint grant TP increase -20%"
-"手錠","handcuffs"
+Accessory  Inflict Restrain  TP increase -20%"
+"手錠","Handcuffs"
 "悪い事した人が手に付けられる輪っか
-装飾品　拘束付与　拘束耐性-1000%","A ring that people who have done bad things can get
-Accessory restraint grant restraint resistance-1000%"
+装飾品　拘束付与　拘束耐性-1000%","A type of bracelet placed onto people who do bad things
+Accessory  Inflict Restrain   Restrain resistance -1000%"
 "<mat1:I76*1>
 <matG:500>","<mat1:I76*1>
 <matG:500>"
 "こしふるうでわ","Koshifuru dewa"
 "ラララ すばやさ あがって うれしいな
 装飾品　膣属性付与","Lalala is quick and she's happy
-Accessory vaginal attribute addition"
+Accessory  Pussy attribute"
 "ザ・バングル","The Bangle"
 "悔しい気持ちが湧いてくる腕輪
-装飾品　脱力無効　低速無効","A bracelet that makes you feel regretful
-Accessory weakness invalid low speed invalid"
+装飾品　脱力無効　低速無効","A bracelet that fills you with regret
+Accessory  Null Weakness/Slow"
 "<mat1:I794*1>
 <mat2:I795*1>
 <mat3:I791*1>
@@ -1525,62 +1527,62 @@ Accessory weakness invalid low speed invalid"
 <mat2:I795*1>
 <mat3:I791*1>
 <matG:1>"
-"プラチナバングル","Platinum bangle"
+"プラチナバングル","Platinum Bangle"
 "白金製の腕輪
 装飾品　低速無効","Platinum bracelet
-Accessory slow disabled"
-"時の学帽","Student cap of time"
+Accessory  Null Slow"
+"時の学帽","Student's Hat of Time"
 "時を止められるようになる学生帽子
-装飾品　行動追加20%　オラオラ","Student hat that will allow you to stop time
-Accessory Action addition 20% Oraora"
-"黒猫の帽子","Black cat hat"
+装飾品　行動追加20%　オラオラ","Student's hat that will allow you to stop time
+Accessory  Additional action chance 20%  Oraora"
+"黒猫の帽子","Black Cat's Hat"
 "メイドインアーコと書いてある
-装飾品　獲得金額2倍　行動追加5%","It says Made in Arco
-Accessory doubles the amount of money earned, additional action 5%"
-"シルクハット","silk hat"
+装飾品　獲得金額2倍　行動追加5%","It reads, 'Made by Ako'
+Accessory  Double gold earned  Additional action chance 5%"
+"シルクハット","Silk Hat"
 "白黒チェック模様のシルクハット
 装飾品　精力自動回復+1　オーバードライブ","Black and white checkered top hat
-Accessory automatic recovery of energy +1 overdrive"
-"バンダナ","bandana"
+Accessory Energy auto recover +1  Overdrive"
+"バンダナ","Bandana"
 "殺人以外は大体やった犯罪者のバンダナ
-装飾品　興奮耐性-100%　オーバードライブ","Bandana, a criminal who did most of the work except murder
-Accessory Excitement resistance-100% overdrive"
-"懐中時計","Pocket watch"
+装飾品　興奮耐性-100%　オーバードライブ","Bandana worn by a criminal who did everything except murder
+Accessory  Arousal resistance -100%  Overdrive"
+"懐中時計","Pocket Watch"
 "貸すと二度と帰って来ない気がする時計
-装飾品　怯み無効　オーバードライブ","A watch that makes me feel like I'll never come back if I lend it
-Accessory frightened invalid overdrive"
-"蝶のブローチ","Butterfly brooch"
+装飾品　怯み無効　オーバードライブ","If you lend me this watch, I feel you may never come back
+Accessory  Null Flich  Overdrive"
+"蝶のブローチ","Butterfly Brooch"
 "可憐さと強さを兼ね備えたデザインのブローチ
 装飾品　怯み無効　暗闇無効　オラオラ","A brooch with a design that combines cuteness and strength
-Accessory, frightening invalid, darkness invalid, oraora"
-"クラスタの靴下","Cluster socks"
+Accessory  Null Flinch/Blind  Oraora"
+"クラスタの靴下","Cluster's Stockings"
 "見ていると変な気持ちになる白い靴下
-装飾品　足コキ耐性-50%","White socks that make you feel weird when you look at them
-Accessory Footjob resistance-50%"
-"セイレンの耳栓","Seiren earplugs"
+装飾品　足コキ耐性-50%","White socks that make you feel funny when you look at them
+Accessory  Footjob resistance -50%"
+"セイレンの耳栓","Siren Earplugs"
 "自分の歌でうっとりしないようにする耳栓
-装飾品　魅了無効 怯み無効 暗闇耐性-50%","Earplugs that keep you from being fascinated by your songs
-Accessory Fascination invalid Fear invalid Dark resistance -50%"
-"シィナのパンツ","Shina's pants"
+装飾品　魅了無効 怯み無効 暗闇耐性-50%","Earplugs that keep you from being charmed by a song
+Accessory  Null Charm/Flinch  Blind resistance -50%"
+"シィナのパンツ","Shina's Panties"
 "嗅ぐとIQが下がる
-装飾品　キス/誘惑耐性-50%","IQ goes down when you sniff
-Accessory Kiss / Temptation Resistance-50%"
-"リリバンド","Lilli band"
+装飾品　キス/誘惑耐性-50%","Your IQ goes down as you sniff
+Accessory  Kiss/Temptation resistance -50%"
+"リリバンド","Lilith's Headband"
 "ゴスロリ系のヘアバンド
 装飾品　行動追加+100％","Gothic Lolita hair band
-Accessory action addition + 100%"
-"親父のゴーグル","Father's goggles"
+Accessory  Additional action chance +100%"
+"親父のゴーグル","Father's Goggles"
 "本当の価値を見定めるためのゴーグル
-装飾品　魅了無効　決意","Goggles to determine the true value
-Accessory fascination invalid determination"
-"後悔のブローチ","Regret brooch"
+装飾品　魅了無効　決意","Goggles used to determine something's true worth
+Accessory  Null Charm  Determination"
+"後悔のブローチ","Regret Brooch"
 "どうしても捨てられなかったもの
-装飾品　魅了無効　決意","Things that couldn't be thrown away
-Accessory fascination invalid determination"
-"ハピハピスカーフ","Hapi Hapi scarf"
+装飾品　魅了無効　決意","Some things just can't be thrown away
+Accessory  Null Charm  Determination"
+"ハピハピスカーフ","Happy Happy Scarf"
 "ハッピーハーピーの略らしい
-装飾品　行動追加10% クリティカル+5 興奮/拘束無効","Abbreviation for Happy Harpy
-Accessory Action added 10% Critical +5 Excitement / Restraint invalid"
+装飾品　行動追加10% クリティカル+5 興奮/拘束無効","Might actually be called the Harpy Harpy Scarf
+Accessory  Extra action +10%  Crit +5  Null Arousal/Restrain"
 "紙袋","paper bag"
 "頭にかぶって顔を隠す
 装飾品　刺激的絶命剣","Put it on your head to hide your face
@@ -1609,140 +1611,141 @@ Accessory Ryukiho"
 "大事な妹の髪飾り
 装飾品　キス/誘惑耐性+50%","Important sister's hair ornament
 Accessory Kiss / Temptation resistance + 50%"
-"湧き上がる力",
+"湧き上がる力","Rising Strength"
 "秘められた力を解放するが1か月は重い筋肉痛になる
-その他",
-"イージーアズパイ","Easy as pie"
+その他","Unleashes your hidden strength, but you'll be sore for a month.
+Other"
+"イージーアズパイ","Easy As Pie"
 "装備中は魔物からの被ダメージが0になる
-その他　取得経験値3倍","While equipped, the damage taken from monsters becomes 0
-Others: Triple the acquired experience value"
-"ピースオブケーク","Piece of cake"
+その他　取得経験値3倍","Take no damage from monsters while equipped
+Other  Triples experience gained"
+"ピースオブケーク","Piece Of Cake"
 "魔物戦用救済装備
-その他　戦闘力3倍　取得経験値1.5倍","Relief equipment for demon warfare
-Others: 3 times the fighting power, 1.5 times the acquired experience value"
+その他　戦闘力3倍　取得経験値1.5倍","Provides relief from battling monsters
+Other  3x Combat Power  1.5x Experience gained"
 "～その他～","~ Other ~"
-"万華鏡","kaleidoscope"
+"万華鏡","Kaleidoscope"
 "覗き込む星空
-その他　弾+3　ワイドショット7","Starry sky looking into
-Other bullets +3 wide shot 7"
+その他　弾+3　ワイドショット7","Peer into a starry sky
+Other  Shots +3  Wide shot 7"
 "<shotWay:3>
 <shotSpace:0.7>","<shotWay:3>
 <shotSpace:0.7>"
-"広角レンズ","Wide-angle lens"
+"広角レンズ","Wide-Angle Lens"
 "世界が広がって見える
-その他　ワイドショット4","The world looks wide
-Other wide shot 4"
+その他　ワイドショット4","Look at the world more broadly
+Other  Wide shot 4"
 "<shotSpace:0.4>","<shotSpace:0.4>"
-"矯正ベルト","Orthodontic belt"
+"矯正ベルト","Orthotic Belt"
 "動きにくくなるがフォームが良くなる
-その他　隙+20","Hard to move but better foam
-Other gap +20"
+その他　隙+20","Hard to move in, but improves your posture
+Other  Delay +20"
 "<shotInterval:20>","<shotInterval:20>"
-"スピードアップ","speed up"
+"スピードアップ","Speed Up"
 "武器に塗ると速度が上がる魔法の軟膏
 その他　弾速+1","A magical ointment that speeds up when applied to weapons
-Other bullet speed +1"
+Other  Bullet speed +1"
 "<shotSpeed:0.1>","<shotSpeed:0.1>"
-"照準スコープ","Aiming scope"
+"照準スコープ","Super Scope"
 "しっかりと狙いを定められるスコープ
-その他　命中+5","Scope that can be aimed firmly
-Other hits +5"
-"大胸筋強制サポーター","Pectoralis major compulsory supporter"
+その他　命中+5","Scope that enhances your aim
+Other  Hit rate +5"
+"大胸筋強制サポーター","Pectoralis Major Super Supporter"
 "ブラのようでブラじゃないやつ
-その他　隙+30　持続+10","A guy who looks like a bra but not a bra
-Other gap +30 duration +10"
+その他　隙+30　持続+10","It's like a bra, but it's definitely not a bra
+Other  Delay +30  Duration +10"
 "<shotInterval:30>
 <shotCount:10>","<shotInterval:30>
 <shotCount:10>"
 "マクスエア","Max Air"
 "一時期やたら流行したブランドシューズ
-その他　持続+20","Brand shoes that were popular for a while
-Others sustain +20"
+その他　持続+20","A brand of shoes that were popular for a while
+Other  Sustain +20"
 "<shotCount:20>","<shotCount:20>"
-"パワードスーツ","Powered suit"
+"パワードスーツ","Power Suit"
 "筋肉の代わりをしてくれる補助機械
 その他","Auxiliary machine that replaces muscles
-others"
-"名人のお守り","Amulet of a master"
+Others"
+"名人のお守り","Amulet of the Master"
 "スイカを指で連打して割る神様の加護
-その他　隙-20%","God's blessing to break a watermelon by hitting it with your finger
-Other gap -20%"
+その他　隙-20%","A god's blessing to break a watermelon with one finger
+Other  Delay -20%"
 "<shotIntervalRate:0.8>","<shotIntervalRate:0.8>"
-"デグチホソナール","Deguchi Hosonal"
+"デグチホソナール","Narrow Scope"
 "弾が散らばりにくくなる
-その他　ナローショット5","It becomes difficult for bullets to be scattered
-Other narrow shot 5"
+その他　ナローショット5","Makes it harder for bullets to scatter
+Other  Narrow shot 5"
 "<shotSpace:-0.5>","<shotSpace:-0.5>"
-"あたりくじ","Winning lottery"
+"あたりくじ","Lucky Number"
 "おまけにもう一発
-その他　弾+1","In addition, another shot
-Other bullets +1"
+その他　弾+1","One more as a bonus
+Other  Shots +1"
 "<shotWay:1>
 <shotSpace:0.1>","<shotWay:1>
 <shotSpace:0.1>"
-"ベアストラップ","Bare strap"
+"ベアストラップ","Bear Strap"
 "血に濡れたクマの可愛いストラップ
-その他　弾速-2","Cute strap of a bear wet with blood
-Other bullet speed-2"
+その他　弾速-2","A cute, blood-soaked, bear-patterned strap
+Other  Bullet speed -2"
 "<shotSpeed:-0.2>","<shotSpeed:-0.2>"
-"カワバタグラス","Kawabata glass"
+"カワバタグラス","Kawabata Glasses"
 "こめかみに挟むメガネ
-その他　ナローショット1","Glasses sandwiched between temples
-Other narrow shot 1"
+その他　ナローショット1","Glasses held between the temples
+Other  Narrow shot 1"
 "<shotSpace:-0.1>","<shotSpace:-0.1>"
-"精密バレル","Precision barrel"
+"精密バレル","Precision Barrel"
 "弾が散らばりにくくなるバレル
-その他　ナローショット3","Barrel that makes it difficult for bullets to be scattered
-Other narrow shot 3"
+その他　ナローショット3","Barrel that makes it difficult for bullets to scattered
+Other  Narrow shot 3"
 "<shotSpace:-0.3>","<shotSpace:-0.3>"
-"アルカリ乾電池","Alkaline batteries"
+"アルカリ乾電池","Alkaline Batteries"
 "長持ちする電池
-その他　持続+60","Long-lasting battery
-Others sustain +60"
+その他　持続+60","Long-lasting batteries
+Others  Sustain +60"
 "<shotCount:60>","<shotCount:60>"
-"島の残骸","Island wreckage"
+"島の残骸","Island Wreckage"
 "丸ごと飲み込まれた誰かの夢の残骸
 その他　弾速-4　持続+15","The wreckage of someone's dream that was swallowed entirely
-Other bullet speed -4 duration +15"
+Other  Shot speed -4  Sustain +15"
 "<shotSpeed:-0.4>
 <shotCount:15>","<shotSpeed:-0.4>
 <shotCount:15>"
-"シープのもこもこ","Sheep fluffy"
+"シープのもこもこ","Sheep Fluff"
 "甘い匂いのするネックウォーマー
-その他　弾速-3　持続+60","Neck warmer with a sweet smell
-Other bullet speed -3 duration +60"
+その他　弾速-3　持続+60","A sweet smelling neck warmer
+Other  Shot speed -3  Sustain +60"
 "<shotSpeed:-0.3>
 <shotCount:60>","<shotSpeed:-0.3>
 <shotCount:60>"
-"ニャントムベル","Nyantombel"
+"ニャントムベル","Phanto-meow Bell"
 "悪夢から解放された猫の鈴
-その他　弾+2　ワイドショット3　命中率-3%","Cat bell freed from nightmares
-Other bullets +2 Wide shot 3 Hit rate -3%"
+その他　弾+2　ワイドショット3　命中率-3%","A cat's bell recovered from a nightmare
+Other  Shots +2  Wide shot 3  Hit rate -3%"
 "<shotWay:2>
 <shotSpace:0.3>","<shotWay:2>
 <shotSpace:0.3>"
-"戦闘指南書","Battle Guidance Book"
+"戦闘指南書","Combat Manual"
 "魔物の退治方法が数十通り書いてある書物
-その他　持続+10　隙-10%　弾速+1","A book that describes dozens of ways to get rid of monsters
-Others Sustain +10 Gap -10% Bullet speed +1"
+その他　持続+10　隙-10%　弾速+1","Book containing dozens of tips on defeating monsters
+Other  Sustain +10  Delay -10%  Shot speed +1"
 "<shotCount:10>
 <shotIntervalRate:0.9>
 <shotSpeed:0.1>","<shotCount:10>
 <shotIntervalRate:0.9>
 <shotSpeed:0.1>"
-"しあわせなたまご","Happy egg"
+"しあわせなたまご","Happy Egg"
 "持っていると経験値が増えたりする幸運のたまご
-その他　隙+25%　経験値+25% アイテム入手率2倍","Lucky eggs that increase experience points if you have them
-Others: Opportunity + 25% Experience value + 25% Item acquisition rate doubled"
+その他　隙+25%　経験値+25% アイテム入手率2倍","Lucky egg that increase experience points when held
+Others  Delay +25% Experience +25%  Double item drop rate"
 "<shotIntervalRate:1.25>
 ","<shotIntervalRate:1.25>"
 "アクセラレーター ","Accelerator "
 "処理速度を加速させる機械の部品
 その他　隙-40%","Machine parts that accelerate processing speed
-Other gap-40%"
+Other Delay -40%"
 "<shotIntervalRate:0.6>
 ","<shotIntervalRate:0.6>"
-"レギオン球","Legion ball"
+"レギオン球","Legion Ball"
 "多くの魂を凝縮して球状にしたもの
 その他　弾+4　弾速-2　持続-20","Condensed many souls into a spherical shape
 Other bullets +4 bullet speed-2 duration -20"
@@ -1816,25 +1819,25 @@ Other bullets +1 narrow shot 7 combat power 1.2 times"
 "<shotWay:1>
 <shotSpace:-0.7>","<shotWay:1>
 <shotSpace:-0.7>"
-"カスタムパーツA","Custom part A"
+"カスタムパーツA","Custom Part A"
 "ハンドガンを強化するパーツ
-その他　弾+2","Parts that strengthen the hand gun
-Other bullets +2"
+その他　弾+2","Parts to enhance the Handgun
+Other  Shots +2"
 "<shotWay:2>
 ","<shotWay:2>"
-"カスタムパーツB","Custom part B"
+"カスタムパーツB","Custom Part B"
 "ハンドガンを強化するパーツ
-その他　弾+10　持続-35　ワイドショット3","Parts that strengthen the hand gun
-Other bullets +10 Sustain-35 Wide shot 3"
+その他　弾+10　持続-35　ワイドショット3","Parts to enhance the Handgun
+Other  Shots +10  Sustain -35  Wide shot 3"
 "<shotWay:10>
 <shotSpace:0.3>
 <shotCount:-35>","<shotWay:10>
 <shotSpace:0.3>
 <shotCount:-35>"
-"カスタムパーツC","Custom part C"
+"カスタムパーツC","Custom Part C"
 "ハンドガンを強化するパーツ
-その他　隙-20　持続-25","Parts that strengthen the hand gun
-Other gap-20 lasting -25"
+その他　隙-20　持続-25","Parts to enhance the Handgun
+Other  Delay -20  Sustain -25"
 "<shotInterval:-20>
 <shotCount:-25>","<shotInterval:-20>
 <shotCount:-25>"
@@ -1875,10 +1878,11 @@ Other bullets +5 gap-20 duration -35 wide shot 1"
 "●
 その他　戦闘力1.7倍","●
 Others: 1.7 times the fighting power"
-"メイドの土産",
+"メイドの土産","Maid's Souvenir"
 "ティッキが研究所から横領した加速装置
-その他　隙-40%",
+その他　隙-40%","An accelerator that Tikki swiped from the lab.
+Other  Delay -40%"
 "プラスショット","Plus shot"
 "ショットの弾がひとつ増える
 その他　弾+1","One more shot bullet
-Other bullets +1"
+Other  Shots +1"
