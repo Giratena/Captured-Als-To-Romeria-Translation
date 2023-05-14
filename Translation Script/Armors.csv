@@ -409,7 +409,7 @@ Sex toys HP consumption -10%"
 "マンイーター","Man-eater"
 "人間の魂を食って作動するバイブ
 性具　人属性特効","A vibe that works by eating the human soul
-Sex toys human attribute special effects"
+Sex toy human attribute special effects"
 "<mat1:A5*1>
 <mat2:I100*3>
 <matG:500>","<mat1:A5*1>
@@ -880,15 +880,15 @@ Rubber sensitive invalid"
 "しましま模様のゴム
 ゴム　脱力無効","Striped rubber
 Rubber weakness invalid"
-"メレンゲ","meringue"
+"メレンゲ","Meringue"
 "泡立てたメレンゲをそっと塗ってみる
 ゴム　催淫毒無効","Gently apply the whisked meringue
 Rubber aphrodisiac poison invalid"
-"はちみつ","honey"
+"はちみつ","Honey"
 "とろっと甘いはちみつをそっと塗ってみる
 ゴム　催淫毒無効　フェラ耐性-50%","Gently apply sweet honey
 Rubber aphrodisiac poison invalid Blow resistance -50%"
-"わさび","wasabi"
+"わさび","Wasabi"
 "辛いわさびをこっそり塗ってみる
 ゴム　催淫毒無効　フェラ耐性+20%","Try to apply spicy wasabi secretly
 Rubber aphrodisiac poison invalid Blow resistance + 20%"
@@ -912,7 +912,7 @@ Rubber restraint invalid water resistance-100%"
 "サキュバスの愛液が塗ってあるゴム
 ゴム　興奮無効　誘惑耐性-100%","Rubber coated with succubus love juice
 Rubber excitement invalid Temptation resistance-100%"
-"シールド","shield"
+"シールド","Shield"
 "防御魔法がかけられたゴム
 ゴム　怯み無効　暗闇無効　魅了無効","Rubber with defensive magic
 Rubber is invalid, darkness is invalid, fascination is invalid"
@@ -1026,9 +1026,9 @@ Rubber"
 <mat2:I113*1>
 ","<mat1:A101*1>
 <mat2:I113*1>"
-"ハリガネゴム",""
+"ハリガネゴム",
 "ハリガネがぐるぐる巻いてあるゴム
-ゴム　興奮無効",""
+ゴム　興奮無効",
 "～指輪～","~ Ring ~"
 "約束の指輪","Promised ring"
 "永遠を誓った指輪
@@ -1609,9 +1609,9 @@ Accessory Ryukiho"
 "大事な妹の髪飾り
 装飾品　キス/誘惑耐性+50%","Important sister's hair ornament
 Accessory Kiss / Temptation resistance + 50%"
-"湧き上がる力",""
+"湧き上がる力",
 "秘められた力を解放するが1か月は重い筋肉痛になる
-その他",""
+その他",
 "イージーアズパイ","Easy as pie"
 "装備中は魔物からの被ダメージが0になる
 その他　取得経験値3倍","While equipped, the damage taken from monsters becomes 0
@@ -1787,7 +1787,7 @@ Other bullet speed-1 gap-60%"
 <shotIntervalRate:0.40>"
 "マジックコート","Magic coat"
 "武器に破壊魔法をエンチャントする塗り薬
-その他","An ointment that enchantes destructive magic on weapons
+その他","An ointment that grants destructive magic on weapons
 others"
 "マッドハット","Mad hat"
 "狂った帽子屋が作った至って普通な帽子
@@ -1875,9 +1875,9 @@ Other bullets +5 gap-20 duration -35 wide shot 1"
 "●
 その他　戦闘力1.7倍","●
 Others: 1.7 times the fighting power"
-"メイドの土産",""
+"メイドの土産",
 "ティッキが研究所から横領した加速装置
-その他　隙-40%",""
+その他　隙-40%",
 "プラスショット","Plus shot"
 "ショットの弾がひとつ増える
 その他　弾+1","One more shot bullet

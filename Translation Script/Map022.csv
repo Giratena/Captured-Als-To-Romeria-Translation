@@ -16,32 +16,32 @@ What is this bulge in your at your crotch may be♥"
 ヘンタイ。あはははは！","\n<\n[3]>Ahha♥
 You don't even have the will to fight from the start, didn't you?
 Pervert。Ahahahaha!"
-"ボス攻撃",""
-"<enemy:132>",""
+"ボス攻撃",
+"<enemy:132>",
 "まわし蹴り斬撃","Roundhouse Kick"
-"nwayAim 3 0.4 0 0.15 60 3 21 785",""
-"nwayAim 7 0.3 0 0.15 60 3 21 785",""
+"nwayAim 3 0.4 0 0.15 60 3 21 785",
+"nwayAim 7 0.3 0 0.15 60 3 21 785",
 "パンチ","Punch"
-"nwayAim 1 1 0 0.15 40 3 42 786",""
-"nwayAim 1 1 0.2 0.15 40 3 42 786",""
-"nwayAim 1 1 -0.2 0.15 40 3 42 786",""
-"nwayAim 1 1 0 0.1 60 3 42 786",""
-"nwayAim 3 0.4 0 0.15 40 3 21 785",""
-"nwayAim 5 0.3 0 0.15 40 3 21 785",""
+"nwayAim 1 1 0 0.15 40 3 42 786",
+"nwayAim 1 1 0.2 0.15 40 3 42 786",
+"nwayAim 1 1 -0.2 0.15 40 3 42 786",
+"nwayAim 1 1 0 0.1 60 3 42 786",
+"nwayAim 3 0.4 0 0.15 40 3 21 785",
+"nwayAim 5 0.3 0 0.15 40 3 21 785",
 "誘惑","Seduce"
-"nwayAim 3 0.4 0 0.04 200 3 41 781",""
-"nwayAim 4 0.2 0 0.03 300 3 41 781",""
-"nwayAim 1 0.4 0 0.02 400 4 33 781",""
+"nwayAim 3 0.4 0 0.04 200 3 41 781",
+"nwayAim 4 0.2 0 0.03 300 3 41 781",
+"nwayAim 1 0.4 0 0.02 400 4 33 781",
 "攻撃パターン","Attack pattern"
 "自動イベント","Automatic Event"
 "戦闘開始！","Battle commence!"
 "セーブ","Save"
-"解説を見る","Show intructions"
+"解説を見る","Show instructions"
 "攻略のヒント","Hint about attacking"
 "アクションRPGボス戦です。
 敵の攻撃を避けながらAキーで攻撃してください。
 Dキーを押している間は向きを固定して移動できます。","This is an Action RPG Boss fight。
-While dodging enemy's attack, press A key to attack back。
+While dodging the enemy's attack, press A key to attack back。
 Holding the D key will lock your attack direction."
 "敵の攻撃で精力、体力のどちらかが0になると敗北です。
 誘惑攻撃の場合はタイミングバーが表示されます。","You will lose when either your health or stamina reaches 0.
@@ -59,18 +59,18 @@ If there is room, try to time to stop at the red area."
 "・敵の攻撃パターンを覚える
 敵の攻撃にはパターンがあります。
 まずは避けることに集中して覚えましょう。","・Memorize enemy attack pattern
-Enemy's attack has a patter。
+The enemy's attack has a pattern。
 Try to dodge and concentrate to remember the pattern."
 "・Dキーの向き固定を活用する
 向きを固定することで攻撃と回避がしやすくなります。
-下がりながら攻撃をすると戦いやすくなります。","・Using D key to fixate direction of aim
+下がりながら攻撃をすると戦いやすくなります。","・Using D key to fixate direction of your aim
 By locking your aiming direction, you can easily attack and evade.
 While moving downward, you can easily attack."
 "・回復アイテム、スキルを利用する
 回復アイテム、スキル（深呼吸など）に使用制限はありません。
 回復してゴリ押しすることも可能です。","・Using skills and recovery items.
-There is no limit to the amount of uses of recovery items and skills (anything except Deep Breath)
-It is also possible recover and move on"
+There is no limit to the number of uses of recovery items and skills (anything except Deep Breath)
+It is also possible to recover and move on"
 "・アクションイージーを利用する
 オプションからアクションイージーをONにすることで
 難易度が大幅に下がります。デメリットはありません。","・Using 'Easy Action'
@@ -87,7 +87,7 @@ Because you can't evade while closing in, try to keep a good distance from her."
 "・パンチ
 射程の短い自機狙いのパンチです。
 少し動くだけで避けられます。","・Punch
-Punches aimed at you has a short range of attack.
+Punches aimed at you have a short range of attack.
 You can dodge by moving a just little."
 "・まわし蹴り
 回転した後7方向に斬撃を飛ばしてきます。隙間を抜けてください。
@@ -110,7 +110,7 @@ Try to secure a good distance to retreat."
 重たいリロード音の後に7発の弾を撃ってきます。
 距離を開け隙間を抜けましょう。","・Shotgun
 After the sound of the heavy reload, 
-the shotgun can shoot for 7 times.
+the shotgun can shoot 7 times.
 Try to keep a good distance from the attack."
 "・マシンガン
 連続したリロード音の後に自機狙いの連射をしてきます。
@@ -128,25 +128,25 @@ Try to dodge by moving towards the center."
 While twirling, Exlixir will be spread around and will take effect if hit.
 If already hit, the player will be consumed and finished off by the seducing attack."
 "薬が邪魔になった場合はわざと踏むことで全て消すことが出来ます。
-ベルーチェを先に倒すと攻撃の頻度が上がります。","If the exlixir becomes a hindrance, 
+ベルーチェを先に倒すと攻撃の頻度が上がります。","If the elixir becomes a hindrance, 
 you can intentionally step on it to make it all go away
 If Velvet is defeated first, your rate of attack will increase."
 "ユイネ","Yuine"
 "ボス攻撃予備","Boss spare attack"
-"nwayAim 3 0.4 0 0.15 100 3 16 784",""
-"nwayAim 6 0.3 0 0.25 100 3 16 784",""
-"nwayAim 3 0.4 0 0.15 100 3 21 785",""
-"nwayAim 7 0.3 0 0.15 100 3 21 785",""
-"nwayAim 2 0.4 0 0.15 100 3 16 784",""
-"nwayAim 6 0.4 0 0.25 100 3 16 784",""
-"nwayAim 1 1 0 0 500 3 36 783",""
-"nwayAim 1 1 0 0 1000 3 36 783",""
-"ERS_テンプレートランダム生成 57 1 0 3 0 0",""
-"イベントNo 通行可1　画面1内2外　重なり1P2イベ3両方",""
-"ボス攻撃ぱんち",""
-"nwayAim 1 0.4 0 0.1 100 3 21 785",""
-"nwayAim 5 0.4 0 0.1 60 3 21 785",""
-"nwayAim 1 0 0.1 0.15 300 4 38 789",""
+"nwayAim 3 0.4 0 0.15 100 3 16 784",
+"nwayAim 6 0.3 0 0.25 100 3 16 784",
+"nwayAim 3 0.4 0 0.15 100 3 21 785",
+"nwayAim 7 0.3 0 0.15 100 3 21 785",
+"nwayAim 2 0.4 0 0.15 100 3 16 784",
+"nwayAim 6 0.4 0 0.25 100 3 16 784",
+"nwayAim 1 1 0 0 500 3 36 783",
+"nwayAim 1 1 0 0 1000 3 36 783",
+"ERS_テンプレートランダム生成 57 1 0 3 0 0",
+"イベントNo 通行可1　画面1内2外　重なり1P2イベ3両方",
+"ボス攻撃ぱんち",
+"nwayAim 1 0.4 0 0.1 100 3 21 785",
+"nwayAim 5 0.4 0 0.1 60 3 21 785",
+"nwayAim 1 0 0.1 0.15 300 4 38 789",
 "チョコレ","Chocolat"
 "ボス攻撃2",
 "ショットガン","Shotgun"

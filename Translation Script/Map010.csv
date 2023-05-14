@@ -2,15 +2,15 @@
 "没イベント没イベント没イベント没イベント没イベント没イベント
 没イベント没イベント没イベント没イベント没イベント没イベント
 没イベント没イベント没イベント没イベント没イベント没イベント
-没イベント没イベント没イベント没イベント没イベント没イベント",""
+没イベント没イベント没イベント没イベント没イベント没イベント",
 "\n<ライム>あうぅー・・・
 ここはどこ？","\n<Lime>Owwwww-...
 Where am I?"
 "\n<シィナ>出せ！ぶっころすぞ！","\n<Shina>Let me out! I'm gonna kill someone!"
 "\n<アルス>何なんだ一体・・・","\n<Alsto>What the hell..."
 "\n<ロメリア>なんなの一体・・・","\n<Meria>What in the world..."
-"MP_SET_MOVIE e26_Ta",""
-"MP_SET_LOOP 20 on",""
+"MP_SET_MOVIE e26_Ta",
+"MP_SET_LOOP 20 on",
 "\n<ベルーチェ>手荒な真似をしてごめんなさい。
 わたくしはベルーチェと申します。
 当館のメイド長をしております。以後お見知りおきを。","\n<Velvet>I apologize for your rough handling.
@@ -52,7 +52,7 @@ You're scaring me!"
 あっちへ行け！","\n<Velvet>Who are you!
 Get away!"
 "\n<ベルーチェ>チョコレ！おいでなさい。","\n<Velvet>Chocolat! Come in here."
-"MP_SET_MOVIE チョコレ立ち絵アニメ",""
+"MP_SET_MOVIE チョコレ立ち絵アニメ",
 "\n<チョコレ>天才美少女科学者のDr.チョコレれす。
 よろしくれす。","\n<Chocolat>I'm Dr. Chocolat, the beautiful genius scientist.
 Nice to meet you."
@@ -83,7 +83,7 @@ to have discovered this mansion's secret."
 "\n<ロメリア>屋敷の秘密？","\n<Meria>The mansion's secret?"
 "\n<チョコレ>ここは魔物を研究するための施設。
 表の屋敷は、それを隠すためのカモフラージュだということ。","\n<Chocolat>This is an institute for researching monsters.
-The mansion on the surface is merely a front to camoflauge it."
+The mansion on the surface is merely a front to camouflage it."
 "\n<チョコレ>よって、このまま帰すわけにはいかなくなったのれす。
 つまり、あなた達は\n[1]とリリーをおびき寄せる為の人質。
 というワケれすね。","\n<Chocolat>Therefore, I couldn't allow you to return home.
@@ -435,7 +435,7 @@ blow up the lab! It was true!"
 すっかり忘れてました！","\n<Chocolat>Oh no!
 I completely forget about her!"
 "\n<アーコ>こんな機械で色々出来るのか。
-ふーん・・・凄いなぁ。","\n<Ako>What can this machine do.
+ふーん・・・凄いなぁ。","\n<Ako>What can this machine do?
 Hmmm... Amazing."
 "\n<ベルーチェ>そ、それを返しなさい・・・！","\n<Velvet>Y-You give that back...!"
 "\n<ベルーチェ>あなたは確か、アーコちゃんね！
@@ -580,15 +580,15 @@ Get out of here!!
 I've got you, Lime!!"
 "ライム","Lime"
 "シィナ1","Shina1"
-"ロメリア/アルス",""
-"てかせ",""
-"ベルーチェ",""
-"誰か",""
-"チョコレ",""
-"主人公",""
+"ロメリア/アルス",
+"てかせ",
+"ベルーチェ",
+"誰か",
+"チョコレ",
+"主人公",
 "リリー","Lily"
-"檻",""
-"スイッチ",""
-"りもこん",""
+"檻",
+"スイッチ",
+"りもこん",
 "アーコ","Ako"
-"お金",""
+"お金",
