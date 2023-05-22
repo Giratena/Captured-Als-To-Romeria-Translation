@@ -1008,7 +1008,7 @@ var $plugins =
       "buyWindowHeight": "0",
       "materialMax": "5",
       "fontRate": "0.80",
-      "greedCommand": "合成",
+      "greedCommand": "Synthesis",
       "needText": "",
       "showSellCommand": "false",
       "showMaterialWindow": "true",
