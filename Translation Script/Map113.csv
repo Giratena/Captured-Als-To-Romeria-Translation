@@ -35,7 +35,7 @@ Maybe I should take one with me.)"
 "\n<\n[1]>（槍か・・・
 扱えないことはないけど、室内ではあまり役に立たないかも。
 一応持っていこう。）","\n<\n[1]>(A spear...
-I can use them, but its use is limited indoors.
+I can use them, but their use is limited indoors.
 I'll take one just in case.)"
 "先っぽが折れてしまった・・・","The tip broke off..."
 "\n<\n[1]>（もう槍はいいや。）","\n<\n[1]>(So much for that.)"
@@ -121,7 +121,7 @@ HP: Required to use skills. Will recover a little each turn.
 TP: Required to use some skills. Increases each turn."
 "愛撫：体力を使わない攻撃
 スキル：胸、尻、アソコなどを狙うことで弱点を突ける","Caress: Attack without spending HP
-Skills: Target enemy weakpoints by attacking breasts, butt, pussy, etc."
+Skills: Target enemy weak points by attacking breasts, butt, pussy, etc."
 "スリップダメージによって
 コマンド入力待機中も徐々に精力が減っていきます。
 なるべく早く行動を決めましょう。","Due to slip damage, your energy will slowly decrease
@@ -135,7 +135,7 @@ If you press CTRL, you will receive damage more quickly."
 "敏感：受けるダメージが増加
 脱力：与えるダメージが減少
 暗闇：命中率が半減 消費体力が1.5倍","Sensitive: Damage received is increased
-Weakness: Damage dealth is reduced
+Weakness: Damage dealt is reduced
 Darkness: Accuracy is halved. Skills cost 1.5x HP"
 "興奮：防御不可
 発情：スリップダメージ2倍

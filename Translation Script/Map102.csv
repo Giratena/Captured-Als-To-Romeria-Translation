@@ -48,7 +48,7 @@ This could be our big break!"
 Could escaping really be that easy?
 This could be a trap. Be careful, \n[1]."
 "\n<アルス>まさか俺の妹がゴリラだったなんてな。
-すまん、この鉄格子も頼む。","\n<Alsto>I had no idea my littler sister was a gorilla!
+すまん、この鉄格子も頼む。","\n<Alsto>I had no idea my little sister was a gorilla!
 I hope you don't mind if I trouble you to do this cell too."
 "\n<アルス>どうやら俺の鉄格子はお前のところより固いようだな。
 サビていたのか・・・？","\n<Alsto>Ah, it seems like the bars of my cell are a bit
@@ -201,7 +201,7 @@ Big brother! Thank you!"
 サンタがロープ持ってきてくれたよ！
 逃げよう！","\n<Ako>\n[1]...!
 Santa brought a rope!
-Lets get outta here!"
+Let's get outta here!"
 "\n<アルス>あと少しなんだな？
 分かった。信じて待つ。
 お前は強い女だな。兄として鼻が高いぜ。","\n<Alsto>Just a little further now right?
@@ -211,7 +211,7 @@ You're a grown lady now. I'm proud to be your brother."
 分かった。
 待ってる。あにき。大好きだよ。","\n<Meria>So you're going to fight huh?
 Got it. I'll be waiting for you.
-I love you big brother!"
+I love you, big brother!"
 "EV004","EV004"
 "鉄格子は硬く閉ざされている・・・","The iron bars have been securely fastened..."
 "EV005","EV005"
@@ -403,17 +403,17 @@ How dare they do such a thing to my sister..."
 "\n<アルス>そうか・・・
 まぁ、よくあることだ。
 お前もサキュバスハンターなら気にするな。","\n<Alsto>I see...
-Well, it happens. But as long as you're a still a succubus hunter,
+Well, it happens. But as long as you're still a succubus hunter,
 you've got nothing to fear."
 "\n<アルス>淫魔の仲間にされるよりはマシだろ。
 ちんちんの一本で済んだと思えば安いもんさ。
 良かったな。","\n<Alsto>It's better than being converted to their side I'd say.
 Having something like a dick is nothing.
 I'm glad you're okay."
-"\n<\n[1]>ばかあにき。","That doesn't help me big brother..."
+"\n<\n[1]>ばかあにき。","That doesn't help me, big brother..."
 "\n<アルス>俺も今のところ平気だ。
 丈夫に産んでくれたおかんに感謝しなきゃな。","\n<Alsto>I'm fine so far as well.
-Mother did good job raising such a strong child."
+Mother did a good job raising such a strong child."
 "\n<アルス>しかしお前を助けに来たつもりが
 俺まで捕まってしまうとは・・・
 ミイラ取りがミイラとはまさにこのことだぜ。","\n<Alsto>I had come to save you but ended up
@@ -448,7 +448,7 @@ I won't be swayed..."
 屈辱だ・・・","Being forced to wear this prison uniform...
 How humiliating..."
 "※イベント中の立ち絵アニメの表示を設定します。
-（オプションでいつでも変更可能です）","※Here, you can set if main character is seen during events.
+（オプションでいつでも変更可能です）","※Here, you can set if the main character is seen during events.
 (You may also change this in the options menu at any time.)"
 "立ち絵アニメをON","Display the main character"
 "立ち絵アニメをOFF","Do not display the main character"
@@ -480,7 +480,7 @@ I'm afraid she's already far away from here now.
 (It seems she was able to hide safely...)"
 "\n<ロメリア>知らなーい。
 私寝てたから。
-ひょっとして逃げられたのー？","\n<Meria>No clue what so ever.
+ひょっとして逃げられたのー？","\n<Meria>No clue whatsoever.
 I was lying down over here.
 Did he escape or something-?"
 "\n<ロメリア>いいなー。
