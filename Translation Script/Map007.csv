@@ -36,9 +36,9 @@ have no other choice. \n[1], I'll lend you a hand."
 She goes last in a turn."
 "また、探索中にオークなどの攻撃によって\n[1]が倒れると
 蘇生に魔力を使い、リリーのレベルが下がってしまいます。
-レベルが下がると使用する補助魔法が少なくなります。","Also, if \n[1] is defeated by orcs, Lily will use her power to revive them
-at the cost of one level of hers. The lower her level, the less 
-support magic she can use."
+レベルが下がると使用する補助魔法が少なくなります。","Also, if \n[1] is defeated by orcs, Lily will use her power to
+revive them at the cost of one level of hers. The lower her
+level, the less support magic she can use."
 "\n<リリー>4つも必要なの・・・
 急がないといけないのに！","\n<Lily>We need 4 keys...
 We really need to hurry!"
@@ -72,7 +72,8 @@ Sniffle..."
 "先に進むためには・・・","How to move forward..."
 "答えを見る","See answer"
 "やめておく","Maybe not."
-"4つの部屋の仕掛けを解き、4体の淫魔を倒して鍵を集めましょう。","In each of the 4 rooms, solve the puzzle, defeat the succubus, \nand collect the key."
+"4つの部屋の仕掛けを解き、4体の淫魔を倒して鍵を集めましょう。","In each of the 4 rooms, solve the puzzle, defeat the succubus, 
+and collect the key."
 "EV009",
 "EV010",
 "EV011",
@@ -240,7 +241,7 @@ I'll leave in a little while..."
 いや、あの、それと・・・
 私物が・・・少々・・・///","\n<Maid>It's all stuff from the research center...
 Er, no, I suppose...
-There's some stuff from my... personal collection...///"
+There's some stuff from my... personal collection..."
 "\n<メイド>んひぃぃぃ！！！
 助けてぇぇぇぇ！！","\n<Maid>YEEEEEK!!!
 Help meeeeee!!"

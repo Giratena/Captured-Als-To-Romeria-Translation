@@ -1,5 +1,5 @@
 "扉","Door"
-" <enemy:99><cw:1.5><ch:1.5>",""
+" <enemy:99><cw:1.5><ch:1.5>",
 "機械仕掛けの扉だ。
 例によって電気を流せば開くかもしれない。","A mechanical door.
 Will it open if you turn on the power...?"
@@ -8,7 +8,7 @@ Will it open if you turn on the power...?"
 6誘惑　7食べ物
 特殊206（個別攻撃種類）
 1リンゴ　2皿　3卵",
-"報告書",Report
+"報告書","Report"
 "リリー達の行動は定期的に監視すること。
 特に変わった行動があればDr.チョコレに報告。","Monitor Lily's behavior routinely.
 Report any unusual behavior to Dr. Chocolat."
@@ -32,26 +32,26 @@ pick up a replacement from Elec Tower."
 "EV004","EV004"
 "・PM2:00　リリー、小説を読みながらニヤつく
 ・PM2:30　ライム、身体に付着したゴミを取り除く作業
-・PM3:00　シィナ、鼻くそをリリーの服に付ける","・2:00PM - Lily read a novel with a smirk
-・2:30PM - Lime struggles to remove trash attached to her body
-・3:00PM - Shina flicks a booger onto Lily's clothing"
+・PM3:00　シィナ、鼻くそをリリーの服に付ける","2:00PM - Lily read a novel with a smirk
+2:30PM - Lime struggles to remove trash attached to her body
+3:00PM - Shina flicks a booger onto Lily's clothing"
 "・PM4:00　リリー、自室にてじたばたする
 ・PM5:00　ライム、食事の下ごしらえを始める
-・PM6:00　シィナ、鼻くそをリリーの服に付ける","・4:00PM - Lily makes a fuss in her room.
-・5:00PM - Lime begins preparing for dinner
-・6:00PM - Shina flicks a booger onto Lily's clothing"
+・PM6:00　シィナ、鼻くそをリリーの服に付ける","4:00PM - Lily makes a fuss in her room.
+5:00PM - Lime begins preparing for dinner
+6:00PM - Shina flicks a booger onto Lily's clothing"
 "\n<リリー>鼻くそ付け過ぎだろ！","\n<Lily>What's with all the boogers!?"
 "EV005","EV005"
 "・AM7:00　ライム、精奴隷に朝食を持っていく
 ・AM8:30　リリー、メイド服を着て鏡を見ている
-・AM9:00　シィナ、爆睡中","・7:00AM - Lime brings breakfast to the semen slaves
-・8:30AM - Lily looks at her reflection while wearing a maid dress
-・9:00AM - Shina is sound asleep"
+・AM9:00　シィナ、爆睡中","7:00AM - Lime brings breakfast to the semen slaves
+8:30AM - Lily looks at her reflection while wearing a maid dress
+9:00AM - Shina is sound asleep"
 "・AM10:00　リリー、ライムと談笑中（内容不明）
 ・AM11:00　ライム、浴場の清掃
-・AM12:00　シィナ、起床","・10:00AM - Lily chats with Lime (Subject unknown)
-・11:00AM - Lime cleans the bathroom
-・12:00PM - Shina wakes up"
+・AM12:00　シィナ、起床","10:00AM - Lily chats with Lime (Subject unknown)
+11:00AM - Lime cleans the bathroom
+12:00PM - Shina wakes up"
 "\n<リリー>私達の生活が盗み見られてたなんて・・・","\n<Lily>They were spying on every moment of our lives..."
 "酷いね","How awful"
 "屋敷を奪ったのはリリー","It was Lily who took away the mansion"
@@ -72,7 +72,8 @@ Along with whoever wrote them."
 "チャーム（魅了魔法）について。
 チャームは簡潔に言うと
 対象を魅了し言いなりにする魔法である。","About charms (Charm magic)
-Simply put, charm magic entices the subject to do the caster's bidding."
+Simply put, charm magic entices the subject
+to do the caster's bidding."
 "目を見つめる、言葉を囁く等の行為を介して行われる為、
 目を瞑る、耳を塞ぐ事で回避できる場合もある。
 相手の魔力を上回る強い精神力で抗うことも可能。","Charms are applied by gazes, or whispered words. As such, they
@@ -95,7 +96,7 @@ How dare they deceive me.
 "EV009","EV009"
 "EV010","EV010"
 "機械製の箱のようなものに屋敷の部屋が映し出されている・・・","One of the mansion's rooms is displayed in a strange, mechanical box..."
-"EV011",""
-"EV012",""
-"EV013",""
+"EV011",
+"EV012",
+"EV013",
 "触るな！と書かれている。","Do not touch!' is written here."

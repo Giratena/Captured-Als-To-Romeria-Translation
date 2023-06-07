@@ -1099,34 +1099,42 @@ Slashing attribute ATK dependent weakness"
 誘惑属性　技巧依存　脱力付与","Lower magic that robs enemies of energy
 Temptation attribute, skill-dependent, weakness grant"
 "快楽と引き換えに強制的に経験値を搾り取る
-",
+","Forcefully wring out experence points in exchange for pleasure."
 "相手を魅了して言いなりにする魔法
-既に掛かっている場合は上書き出来ない",
-"サキュバサイズ",
+既に掛かっている場合は上書き出来ない","Magic that charms an opponent into doing your bidding.
+This effect cannot be refreshed if they are already under."
+"サキュバサイズ","Succubification"
 "対象を淫魔に変える魔法
-もう二度と使うつもりはない",
-"アトラクト",
+もう二度と使うつもりはない","Magic that turns the subject into a succubus.
+There are no plans to use this again."
+"アトラクト","Attract"
 "対象の持つ魅力を一時的に増幅させる
-攻撃力UP",
-"ストンスキン",
+攻撃力UP","Temporarily amplifies the target's charm.
+Attack power UP"
+"ストンスキン","Strong Skin"
 "肌を鈍感にする　使い過ぎると肌荒れする
-防御力UP　※必要Lv3",
-"デフトハンズ",
+防御力UP　※必要Lv3","Makes skin insensitive. Excessive use will cause skin irritation.
+Defense UP *Required Lv3"
+"デフトハンズ","Deft Hands"
 "感覚を鋭くして手先を器用にする
-技巧UP",
-"デノイズ",
+技巧UP","Sharpens the senses and improves manual dexterity.
+Skill and Technique Power UP"
+"デノイズ","De-Noise"
 "無駄な音を消して集中力を高める
-精神力UP  ※必要Lv5",
-"カームダウン",
+精神力UP  ※必要Lv5","Eliminates unnecessary sound and improves concentration
+Increases mental power *Requires Lv5"
+"カームダウン","Calm Down"
 "対象を落ち着かせる魔法　育児中に大活躍する
-精力回復 ※必要Lv7",
-"ブラッドボイル",
+精力回復 ※必要Lv7","Magic to calm the subject. Greatly useful during childcare.
+Restores vitality *Requires Lv7"
+"ブラッドボイル","Blood Boil"
 "血が湧きたつほど感情を昂らせる
-TP増加  ※必要Lv9",
-"ラバーズギフト",
+TP増加  ※必要Lv9","Increase blood flow, rousing all kinds of emotions.
+Increased TP *Required Lv9"
+"ラバーズギフト","Lover's Gifts"
 "恋する乙女は無敵らしい
-",
-"イク前HP減少用","For HP reduction before Iku"
+","There's nothing more unstoppable than a girl in love!"
+"イク前HP減少用","For HP reduction before cumming"
 "特に何もない","Nothing Special"
 "～～味方の攻撃～～","～～味方の攻撃～～"
 "胸責め Lv1","Breast Teasing Lv1"
