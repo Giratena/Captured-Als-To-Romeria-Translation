@@ -1,7 +1,6 @@
 # Captured-Als-To-Romeria-Translation
 https://www.dlsite.com/maniax/work/=/product_id/RJ365442.html 
 This is possibly an ongoing translation of the DLsite work "Captured Als-to-Romeria"!
-Most things shoudl be translated, and is currently being proofread.
 If you find something that isn't translated yet please let me know on the [translation discord](https://discord.gg/QJppHcu)!
 
 **NOTE: This patch does not cause the Fire or Hookshot glitch, so be careful when altering it.**
