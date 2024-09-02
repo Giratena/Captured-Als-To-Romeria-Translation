@@ -8,8 +8,8 @@ If you find something that isn't translated yet please let me know on the [trans
 << How patch your game with the translation files >>
 -------------------------------------------
 Simply download the latest public release from the right hand side of this page.
-1. Use EnigmaVBUnpacker.exe to unpatch your game
-2. Place the contents of the data and js folders in [your unpacked game folder]>www 
+1. Use EnigmaVBUnpacker.exe to unpack your game
+2. Place the contents of the data and js folders in [your unpacked game folder]>www
 or, open the translator++ file (patreon only) and use that if you know what you're doing
 
 The most up to date release can be found on my patreon!
